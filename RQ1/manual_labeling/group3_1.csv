@@ -1,0 +1,2501 @@
+message,isTarget,type
+"fix issue # 1934 , again",0,0
+fix generic warning,0,0
+green small test,0,0
+fix the default capability matcher test,1,1
+fix a bunch of spell issue .,0,0
+resolve webdriverwait deprecation warning ( # 7526 ),1,1
+fix eclipse warning,0,0
+fix jettyappserver to pass appservertest,1,1
+fix some of the broken test,0,0
+fix dev mode detection,1,1
+fix the build,0,0
+fix # 1866,0,0
+make more test more tolerant towards time issue .,1,3
+"fix some test , exclude some test",0,0
+fix javadocs,0,0
+fix htmlunit driver to pass recently add test,1,1
+fix lint error,0,0
+fix main build,0,0
+fix the fail firefox test build,1,1
+"fix ' custom ' , ' servlets ' and ' withoutservlets ' load from json",1,1
+skip fail test for safari,0,0
+fix htmlunitdriver,0,0
+fix exist docker functionality,1,1
+fix findelement to throw nosuchelementexception instead of,1,1
+"fix # 2727 , combine - jettythreads and - jettymaxthreads ( # 2735 )",1,1
+fix nasty bug with cooky in the firefox driver,1,1
+fix javadoc error,0,0
+calculate lastindexofcolumnnames,0,0
+fix test case for postgresql ( # 4307 ),1,1
+renew import,0,0
+fix # 629 .,0,0
+fix # 4565 for distinct bug ( # 4597 ),0,0
+modify createshardingtablemetadata ( ),0,0
+fix # 477 .,0,0
+fix test case ( # 5923 ),0,0
+fix code inspection ( # 6623 ),0,0
+optimize routingunit .,0,0
+modify test,0,0
+create ownersegment ( # 4503 ),0,0
+optimize repositoryresumebreakpointmanager ( # 7412 ),1,3
+modify number _,0,0
+fix bug for return generate key ( # 7551 ),1,1
+modify test,0,0
+fix test case,0,0
+set columntype,0,0
+fix # 521 .,0,0
+fix # 79 limit change dependent routing result,1,1
+modify test,0,0
+fix javadoc ( # 7915 ),0,0
+resolve conflict,0,0
+fix bug for no param for pstat,1,1
+optimize the visitor of ` columnnames ` ( # 4434 ),1,3
+move state,0,0
+fix # 203 merge batch event,1,1
+add shardingorchestrationevent,0,0
+fix governanceschemacontextsfixture,0,0
+fix bug,0,0
+fix bug,0,0
+fix some todo tag,0,0
+fix javadoc issue,0,0
+fix the unit test initialization problem for postgresql .,1,1
+fix some bug for test case in mysql ( mysql bug ),0,0
+fix the compile error on executortestutil .,1,1
+modify test,0,0
+modify test,0,0
+fix test case,0,0
+fix issue for data source can not renew,1,1
+fix bug for preparedstatementregistry,1,1
+modify assertsimpleshardingdatasource ( ),0,0
+fix visit subquery in projection ( # 6639 ),1,1
+fix unit test error,0,0
+modify test,0,0
+fix unit test error,0,0
+retry test start,0,0
+card pom,0,0
+fix bug : can not parse long value,1,1
+modify test,0,0
+modify name,0,0
+fix bug for show like ( # 4249 ),0,0
+create shardingautotableruleconfiguration ( # 5939 ),0,0
+modify test,0,0
+create rdlbackendhandler ( # 6934 ),0,0
+modify test,0,0
+fix file name .,0,0
+fix unit test error,0,0
+fix some unit test,0,0
+optimize httpserverhandlertest . ( # 7718 ),1,3
+add shardinghook .,0,0
+optimize mysql ddlstatement visitor ( # 4209 ),1,3
+create etcdretryengine,0,0
+create shardingautotablealgorithm ( # 5943 ),0,0
+fix bug for proxy hung,0,0
+modify test,0,0
+fix # 522 .,0,0
+fix postgresql authentication nullpointerexception ( # 7076 ),1,1
+modify bug # 2768,0,0
+"fix # 2408 , parsingruleregistry = > parseruleregistry",0,0
+fix unit test error,0,0
+fix bug by use register ( ),0,0
+fix # 525 .,0,0
+fix # 489 .,0,0
+resolve conflict .,0,0
+decouple shardingdatasourcenames and masterslaverule ( # 5408 ),0,0
+fix the logic index issue in test case .,1,1
+optimize xa transaction logic .,1,3
+fix test bug,0,0
+resolve conflict,0,0
+fix judge incorrectly when use proxy for shadow ( # 5014 ),1,1
+fix repositoryresumebreakpointmanagertest bug ( # 7422 ),1,1
+modify fillwithqueryassistedcolumn ( ),0,0
+fix # 317 .,0,0
+fix javadoc bug,0,0
+catch unexpected error which can lead to oom,1,1
+finish cleaner realm hierarchy separation,0,0
+deprecate hashtablecache,1,3
+fix hasher ' s help output .,0,0
+fix reading order for dexbackedexceptionhandler,1,1
+fix a few issue with format 35mi,1,1
+fix out register for invoke - polymorphic,1,1
+fix bug # 709,0,0
+fix some javadoc issue,0,0
+fix up makedefaultvaluefortype method,1,1
+fix bug .,0,0
+fix bug,0,0
+optimize result page,1,3
+fix ssl race,0,0
+fix issue with cooky that contain quote,1,1
+fix spdy client bug,0,0
+fix parer generator,0,0
+fix issue with chunked stream source channel,1,1
+fix serveroutputstream bug,0,0
+fix some test problem under ipv6,0,0
+fix some spdy and mcmp issue,1,1
+fix issue with handler parse,1,1
+fix routinghandler allmethodsmatcher validation,1,1
+fix issue with alpn handshake,1,1
+fix query param aggregation problem,1,1
+fix edge case where deflatingstreamsinkconduit may leak a deflater,1,1
+fix some problem when run with test . single = true,1,1
+fix low case header handling,0,0
+fix javadoc,0,0
+fix some http2 issue,0,0
+fix test,0,0
+fix some minor proxy issue,0,0
+fix npe,1,1
+fix some findbugs issue,0,0
+fix issue with last commit,0,0
+fix idle timeout,1,1
+fix input stream bug,0,0
+fix some servlet http upgrade issue,1,1
+fix websocketextensionbasictestcase,0,0
+fix issue with h2c connection,1,1
+fix some request chunk bug,0,0
+fix potential race in access log test,1,1
+fix message,0,0
+fix some http response channel bug,1,1
+fix some servlet issue,0,0
+fix some thread safety problem in websocketchannel,1,1
+fix some proxying / http client issue,1,1
+fix issue with restore persistent session,1,1
+fix potential spdy race,0,0
+fix bug in servlet input stream read method,1,1
+fix some ajp protocol problem,1,1
+fix some issue with the load balance proxy client,1,1
+fix metric handler bug,0,0
+fix client alpn issue,0,0
+fix some minor web socket issue,1,1
+fix some npe ' s in servlet,1,1
+fix jdk7 / 8 compatibility issue,1,1
+fix cookie handling,0,0
+fix issue with spdy test,0,0
+fix minor bug in securehashmap and httpserverexchange,1,1
+fix test issue with proxy test,0,0
+reproduce ssl failure,0,0
+fix some test suite ipv6 issue,1,1
+fix issue with websocket close handle,1,1
+fix race in new web socket test,0,0
+fix resource handler bug,0,0
+fix test,0,0
+fix fluent api,0,0
+fix flaky test annotatedendpointtest . testclosereason .,0,0
+fix issue in request parser fast path,0,0
+fix problem with add listener,1,1
+fix some servlet spec compatibility issue,1,1
+fix issue with spdy proxy,1,1
+fix test,0,0
+fix internationalization issue,0,0
+fix some issue with non - persistent connection,0,0
+fix flush problem with print writer inside include,1,1
+fix deploymentinfo servletcontainerinitializer spell,0,0
+fix extension base security,0,0
+fix sendredirect,0,0
+fix race condition in gracefulshutdownhandler,1,1
+fix some http client bug,0,0
+fix some caching bug,0,0
+fix some more issue with the framed channel,1,1
+fix some minor test issue,0,0
+fix some web socket jsr compliance issue,1,1
+fix spnego problem with spdy,1,1
+fix test,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+modify group,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+retry connect,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix my profile,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix some small thing,0,0
+fix various memory leak report by leakcanary,1,1
+fix # 53 aka server not find bug,0,0
+fix some r8 warning,0,0
+fix problem when merging manifest,1,1
+shut up linter,0,0
+fix some minor npe,1,1
+fix # 326 fixed # 202,0,0
+recreate activity after theme have change . fix # 764,0,0
+fix some disco / carbon relate bug,0,0
+fix two rare npe,1,1
+parse iq erros also need to finish the connection,1,1
+spell fix,0,0
+fix openpgp link,0,0
+fix some npe,1,1
+fix markdown heading,0,0
+fix some rare crash cause by race condition,1,1
+fix the bug ?,0,0
+fix some failing slowitests,0,0
+featurizing knn,0,0
+fix tree balance check .,1,1
+fix broken test,0,0
+fix jointbayesslowitest,0,0
+merge change,0,0
+restore change,0,0
+fix the model and file path for 2013,0,0
+fix hyphenation on number,0,0
+fix the kryo itest,0,0
+fix the protobuf test,0,0
+fix the build,0,0
+merge change,0,0
+fix bug in nercombinerannotator when document end with -,1,1
+try change,0,0
+fix a bug when load serialize model,1,1
+fix arrayindex exception,1,1
+fix regression on double contraction i ' d ' ve . add unit test .,1,1
+fix the openie itest,0,0
+fix corenlp console ; fix slf4j lazy loading,1,1
+fix a new treebank tokenization noun premodifier case,1,1
+fix the openie itest,0,0
+"fix # 379 : timingtest be locale dependant , fails .",1,1
+fix unit test,0,0
+fix unk mapping,0,0
+fix an exceedingly silly bug,0,0
+fix the model and file path for 2013,0,0
+fix the document entity graph generator,0,0
+fix some bug to run code properly,0,0
+fix `` no doubt `` idiom and it friend,1,1
+make it so timeexpressionextractorimpl don't init twice in corenlp,1,2
+fix the next sutime x,0,0
+fix javadoc error,0,0
+fix minor tokenizing regression .,1,1
+fix whitespace tokenization bug,1,1
+fix build,0,0
+fix sutime range for quarter .,0,0
+fix serialversionuid,0,0
+fix some url and address .,1,1
+fix numbersequenceclassifieritest .,0,0
+fix wts selection,0,0
+fix tokensregexnerannotator .,0,0
+fix whitespace tokenization bug,1,1
+fix classpath,1,1
+fix arpa lm,0,0
+fix build ?,0,0
+fix string comparison bug,1,1
+fix misc bug with kbp,1,1
+fix up eclipse / intellij configs,1,1
+fix unk mapping,0,0
+fix tree . dominates to match the documentation,1,1
+fix some remain spanishverbstripper reference,1,1
+fix lexicalizedparseritest for ud,0,0
+fix naturalli class for universal dependency,0,0
+fix rte test error,0,0
+fix universal chinese relation code / tests .,0,0
+make it so timeexpressionextractorimpl don't init twice in corenlp,1,2
+fix the itest,0,0
+merge change,0,0
+fix broken test,0,0
+fix bug in objectbankwrapper ( toarray ( ) ) spot by @ kno10,1,1
+fix some warning here and there,0,0
+fix numbersequenceclassifieritest .,0,0
+fix some dependency ; fix test filesystem dependency,0,0
+fix some failing test,0,0
+fix some javadoc error . no change to code .,0,0
+fix onlinetuner bug,0,0
+fix subject2 again,0,0
+fix the openie test,0,0
+incorporated 2012 data,0,0
+fix the kryo itest,0,0
+fix jointbayesslowitest,0,0
+fix problem with sort interval for tokensregex .,1,1
+fix `` nada que ver `` normalization,0,0
+fix redwood compilation bug,1,1
+fix the document entity graph generator,0,0
+fix javadoc error,0,0
+fix some basic relation .,0,0
+fix a random assortment of javadoc error,0,0
+fix some openie bug,0,0
+fix cyclic infinite loop,1,1
+fix line ending,0,0
+indent change,0,0
+fix tokensregexnerannotator .,0,0
+fix the annoy library classpath bad path element message,1,1
+fix some javadoc and indentation ; no functional change .,0,0
+spell fix,0,0
+spell fix,0,0
+fix integration test,0,0
+resolve issue # 377,0,0
+fix minor issue,0,0
+fix the possible creation of two index,1,1
+resolve issue # 690,0,0
+merge # 662,0,0
+resolve issue # 815,0,0
+spell fix,0,0
+fix issue 1278 ( # 1279 ),0,0
+fix most javadoc warning,0,0
+fix broken auto styling ( # 815 ),1,1
+fix realtime database head level ( # 1087 ),1,1
+fix sample issue ( # 1716 ),0,0
+fix monolith pom generation,0,0
+fix nosuchmethodexception,1,1
+fix broken play service check ( # 462 ),1,1
+fix miss term of service ( # 1094 ),1,1
+fix getcontext npe in savecredentialsorfinish,1,1
+fix broken database test ( # 705 ),0,0
+fix broken ` minsdkversion `,1,1
+fix the taskbar show on invisible activity .,1,1
+fix the term of service url,0,0
+fix issue 1582 ( # 1604 ),0,0
+fix issue # 60,0,0
+kill signindelegate a ? ? ? ? ? ( # 1190 ),0,0
+fix email controller test so `` . / gradlew auth : test `` run cleanly,1,1
+fix possible infinite loading,1,1
+fix bad sign out / delete behavior ( # 1240 ),1,1
+catch setfirebaseuiversion crash ( # 1236 ),0,0
+fix rotation bug,0,0
+fix some formatting,0,0
+fix unit conversion,0,0
+spring session,0,0
+optimize string resource,1,3
+protect elivedata,0,0
+optimize demo,0,0
+fix fragmentdelegateimpl bug,0,0
+fix clientmodule bug,0,0
+imporve rxcacheconfiguration,1,3
+create materialviewpagerimageheader,0,0
+# 135 ? ? ? / * keep orderby * /,0,0
+"startrow , endrow , total int long ? ? ? ? ? ? fixed # 530",0,0
+cod search,0,0
+fix the error of parse collection page,1,1
+fix some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+fix some,0,0
+fix some,0,0
+modify some,0,0
+fix some,0,0
+fix some,0,0
+modidy some,0,0
+modify some,0,0
+modify some,0,0
+fix some,0,0
+modify some,0,0
+fix some,0,0
+fix some,0,0
+fix some,0,0
+fix some,0,0
+fix some,0,0
+fix some,0,0
+modify some,0,0
+modify some,0,0
+fix some,0,0
+fix some,0,0
+fix some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+fix some,0,0
+modify some,0,0
+modify some,0,0
+modify some,0,0
+opt threadpool name,0,0
+optimize code,0,0
+fix the bug of cpu metric,1,1
+fix the problem of log sync threadpool oversize,1,1
+fix the workflow result transfer fail bug,1,1
+fix the hugo 404 in gitee page,1,1
+fix the bug of lrucache oversize,1,1
+optimize instancemetadatacache,1,3
+opt log,0,0
+fix some bug,0,0
+fix the bug of uncorrect statistic of job,1,1
+fix the bug of incorrect memory usafe,1,1
+"pa all test , fix some error",0,0
+fix # 269,0,0
+fix # 269,0,0
+fix some bug when swipe,0,0
+fix some exist bug,0,0
+optimise ultimateadapter,1,3
+fix deserialization for marginaccountresponse,1,1
+fix review issue,0,0
+fix trade timestamp,1,1
+fix issue # 3226,0,0
+fix warning,0,0
+fix travis build,0,0
+fix exception when save empty label,1,1
+fix all tag only select visible tag,1,1
+fix method not find on api 7 .,1,1
+deprecate menudrawermanager .,1,3
+fix name resolution .,0,0
+fix more test .,0,0
+fix more test .,0,0
+fix some bug concern nest mate .,0,0
+fix closing of android dex file .,1,1
+fix several test .,0,0
+fix length computation .,1,1
+fix further test .,0,0
+fix java 6 compiler and findbugs error .,1,1
+fix more test .,0,0
+fix mapping .,0,0
+fix maven plugin .,0,0
+fix unfortunate name for exclusion rule .,1,1
+fix all interceptor .,0,0
+fix the remain test case .,0,0
+fix two test that do not work on j9 .,0,0
+fix javadoc .,0,0
+fix test .,0,0
+fix all remain source incompatibility .,1,1
+fix far name asynchronities .,0,0
+fix test to consider nest mate .,0,0
+fix method call visibility .,1,1
+fix name to match maven terminology . fix test .,1,3
+fix preservation again after adjustment .,0,0
+fix all broken test case .,0,0
+fix several todos .,0,0
+fix checkstyle .,0,0
+fix all test case .,0,0
+fix enhancer creation so that setusecache ( false ) be respect again .,1,1
+fix some ant bug,0,0
+transform test,0,0
+"fix bitset problem , parallelsorter test",1,1
+transform test,0,0
+fix some bug,0,0
+fix some renaming bug,0,0
+fix verifier error . null interceptor be now ignore .,1,1
+fix permgen leak by store class instance a string,1,1
+fix test,0,0
+fix issue of nullpointerexception when frontier / be empty,1,1
+fix # 1409 by addig an additonal check,1,1
+fix cryptofilesystem,0,0
+fix bug where store password be not use,1,1
+fix some string format foolishness .,0,0
+fix validation for set binding .,0,0
+fix issue with problem detector when use at runtime .,1,1
+fix some checkstyle issue .,0,0
+fix several problem with membersinjectors .,0,0
+fix some issue with multibindings .,0,0
+"fix # 56 , error when generate javadoc with jdk8",1,1
+add liteblockingwaitstrategy back,0,0
+fix remain format issue,1,1
+fix squid : s1854 - dead store should be remove,1,1
+fix some javadoc error,0,0
+fix checkstyle,0,0
+deprecate resetto method .,1,3
+fix warning .,0,0
+fix bug in case when while value be null,1,1
+fix some of sort test,0,0
+fix casttodate with format error,1,3
+fix issue 2779 asm,0,0
+fix flaky testcase for issue # 2428,0,0
+fix approach # 222,0,0
+fix flaky testcases for issue # 2430,0,0
+optimize testcase,0,0
+optimize fastjsonredisserializer .,1,3
+serializeusing bug,0,0
+optimize method,0,0
+optimize code,0,0
+optimize import,0,0
+fix flaky testcases for issue # 1780,0,0
+fix issue # 89,0,0
+fix the count,0,0
+fix filesystem / classloader related unit test,0,0
+hbase - 9389 . fix the verification part of favored node assignment,1,1
+fix testsnapshotfromclient and testflushsnapshotfromclient ( ted yu ),1,1
+fix package / packet terminology problem in chaos monkey ( # 933 ),1,1
+fix testhfilearchiving # testarchiveontabledelete,1,1
+fix javadoc warning,0,0
+fix unresolved merge conflict ( ted yu ),1,1
+fix toomanyfiles exception when refreshingchannels,1,1
+fix resource location to reflect repackaging,1,1
+fix flushmode,0,0
+fix suppliedconnectiontest failure .,1,1
+fix putfromload test,0,0
+fix checkstyle issue,0,0
+fix locktimeoutpropertytest,0,0
+apply the patch .,0,0
+fix transactionjoiningtest,0,0
+fix classloader isolation test,0,0
+fix checkstyle violation,0,0
+fix transactionrequiredexception failure .,1,1
+hhh - 8363 some more mem leak fix,0,0
+fix masterdetailtest,0,0
+fix ` ffmpegframegrabber ` not grab after seek and update test,1,1
+fix issue # 263,0,0
+fix a bug report in # 228,0,0
+fix # 152 inner class modifier .,1,1
+fix some thing that break jboss aop,1,1
+fix some test,0,0
+solve travis issue,0,0
+fix potential regression with parse to string .,1,1
+fix nest generic ( fixes # 431 ),0,0
+fix some typecache usage,0,0
+fix special case of re - reading the request ( fixes # 658 ),1,1
+fix the signature issue,0,0
+fix compilation error,0,0
+fix some miss - usage of typedcache,1,1
+fix test,0,0
+fix # 763 .,0,0
+fix last compilation problem,0,0
+fix javadoc etc .,0,0
+fix two bug in prop,0,0
+fix test,0,0
+fix parallel access for methref .,1,1
+fix servlet util name,1,1
+fix non - quote string parsing when inside bracket ( fix # 407 ),1,1
+fix broken test,0,0
+optimize method = dv faceting for count,1,3
+fix most deprecation warning,0,0
+reformat space,0,0
+fix similarity so that they pass test .,0,0
+investigate solrcloudexampletest failure .,0,0
+fix collectionadminrequest . splitshard to accept request without the ' shard ' parameter,1,1
+fix precommit .,0,0
+fix deep clone,0,0
+fix precommit,0,0
+fix some test issue ( mostly static leak ),0,0
+fix npe in childdoctransformer when parenfilter be invalid,1,1
+investigate reindexcollectiontest failure,0,0
+optimize docvaluesfacets,1,3
+fix javadocs after deprecation removal,0,0
+fix precommit,0,0
+fix more charset / locale usage,0,0
+fix break charsref # append,0,0
+fix break html,0,0
+fix more javadocs warning,0,0
+fix jdbcstreamtest,0,0
+fix edgengramtokenfilter to correctly handle graph input .,1,1
+fix a bug with prohibited clause .,1,1
+fix break generic,0,0
+fix constructor .,0,0
+fix test bug .,0,0
+fix remain auxilliary class warning in solr,1,1
+fix some javadoc warning,0,0
+fix testbulkschemaconcurrent failure,1,1
+fix index sort corruption due to numeric overflow,1,1
+fix index sort test failure .,1,1
+deprecate positionfilter .,1,3
+fix impl .,0,0
+fix scorer getchildren for two combination of booleanquery,1,1
+fix some nocommits,0,0
+fix spiclassiterator # isparentclassloader to don't require extra permission,1,2
+fix more test,0,0
+fix npe in cloudsolrclient when read stale alias,1,1
+fix monster test so they pass .,0,0
+favor an already initialized threadstate,0,0
+fix precommit,0,0
+ensure number return for pendingdeletes be well define,1,3
+fix some more test,0,0
+"fix javadocs , sorry !",0,0
+fix precommit,0,0
+fix precommit,0,0
+fix rawresponsewriter to respect ' base ' writer,0,0
+fix precommit,0,0
+fix small issue with termvectorsreader . clone,0,0
+"fix some bad javadocs html , make abstractpluginloader actually readable",1,1
+fix worddelimiterfilter offset,0,0
+fix test,0,0
+fix broken bound for geocircles .,1,1
+fix replicationhandler memory leak through solrcore . closehooks,1,1
+fix the test and another bug,0,0
+fix more test,0,0
+fix mlt like text with custom frequency,1,1
+fix precommit,0,0
+fix indexupgrader command line parse,1,1
+deprecate dancing comparators,1,3
+fix one more violation in this breakiterator,0,0
+fix standardtokenizer ' s handling of cjk character .,1,1
+fix more violation,0,0
+fix test error,0,0
+fix all doclint warning,0,0
+fix memoryindex handling of empty string,1,1
+harden testsimpolicycloud,0,0
+fix downgrade in performance from precommit,1,1
+fix 2 more case of int overflow,0,0
+fix testmanagedschemathreadsafety npe failure .,1,1
+fix intermittent test failure ( # 1307 ),0,0
+fix geo3d math to handle randomly squash planet,1,1
+fix precommit,0,0
+fix classname shorten,1,1
+fix formatting .,0,0
+fix lucene54docvaluesformat on large empty segment .,1,1
+fix faulty implementation .,0,0
+optimize spannearquery,1,3
+fix test case .,0,0
+"fix thaiwordfilter , smartcn wordtokenfilter",0,0
+fix some javadoc error in numeric *,0,0
+fix test to survive nightly run with many document,1,1
+fix some more test only tokenstreams,0,0
+fix geo3d bug re minimum error resolution,1,1
+fix precommit,0,0
+fix javadoc .,0,0
+fix testjmxintegration that use obsolete apis .,1,1
+fix varargs precommit warning,1,1
+fix ( uncapitalize ) spi name .,0,0
+fix corruption of biginteger value,1,1
+fix more charset / locale violation,0,0
+fix precommit,0,0
+deprecate disjointspatialfilter ; rpt stop use it,1,3
+fix usagetrackingfiltercachingpolicy ' s handling of null docidsets .,1,1
+fix precommit,0,0
+fix test failure due to global log level change,1,1
+raise so timeout,0,0
+fix localization test failure .,0,0
+fix thread starvation problem,1,1
+fix compilation .,0,0
+fix configsetbasedir path resolution,1,1
+fix more factory arg bug find by testfactories,1,1
+fix all warning from javadoc - solrj,0,0
+fix license location and cloudsolrclient leak,1,1
+fix precommit,0,0
+fix remain test .,0,0
+fix spellingqueryconverter to recognize term consist only of digit,1,1
+fix precommit,0,0
+"fix npe , this should lazy - init in start ( )",1,1
+fix some javadoc warning,0,0
+fix decimaldigitfilter in case of supplementary code point .,1,1
+fix memorypostingsformat to not modify borrow bytesref from fstenum,1,2
+fix precommit issue .,0,0
+"detect negative version , fix another seekexact case",1,1
+"deprecate customscorequery , boostedquery , boostingquery",1,3
+consolidate test,0,0
+fix some race in zkstatereader collection watch update,1,1
+fix termspans # skipto ( ) to behave a specify in javadocs,0,0
+fix solrcorestate reference counting .,0,0
+fix error ' illegal character in query ' when proxying request,1,1
+fix commitwithin test which time out,1,1
+fix precommit,0,0
+fix multispanswrapper,0,0
+fix gradle precommit failure,1,1
+fix the equal method of geocomplexpolygon,1,1
+unignore this test,0,0
+spell fix,0,0
+fix multithreaded test / support for atomicurp,0,0
+"add todos , fix whitespace",0,0
+fix overflow in interval faceting when query long limit,1,1
+fix simplespanfragmenter bug with adjacent stop - words,1,1
+fix onedimensionbkdwriter valuecount validation,1,1
+harden testsimgenericdistributedqueue,0,0
+fix precommit,0,0
+fix break build,0,0
+fix test failure .,0,0
+fix test bug .,0,0
+fix solrrequestinfo error log if querysenderlistener be be use,1,1
+fix segmentinfo . attributes when update be involve,1,1
+fix npe when invalid qparser be specify,1,1
+fix integer overflow .,1,1
+fix these lucene test to work under all locale,1,1
+fix remain issue with default matchversion,1,1
+fix precommit issue .,0,0
+fix remain todo,0,0
+"fix jvmmetricstest broken earlier , bring back testtechproductsexample ( )",1,1
+fix problem with variable assignment,0,0
+fix contrib / misc,0,0
+fix peersynctest and testinplaceupdatesdistrib failure,1,1
+harden deletereplicatest,0,0
+fix more default charset us,0,0
+fix highlighter on index w / position but no offset,0,0
+fix failure in autoaddreplicasintegrationtest and it sub - class .,1,1
+fix line detection bug in polygon2d and line2d componentrelatetriangle,1,1
+fix wrong package name in test and miss super . teardown ( ),1,1
+fix some issue w / concurrency and exception swallowing in simclusterstateprovider / simcloudmanager,1,1
+fix bug in multidocvalues,0,0
+fix the leaderinitiatedrecovery ' all replicas participate ' fail - safe .,1,1
+fix polygon approximation for latlonpoint query,1,1
+fix miss header,0,0
+fix more violation,0,0
+fix testsolrcloudwithkerberosalt .,0,0
+move remain solr factory test ( lucene - 3909 ),0,0
+fix precommit,0,0
+fix precommit failure .,0,0
+fix more broken link,0,0
+fix more default charset us,0,0
+fix these test to also ' mimic ' previous iwc . clone,0,0
+fix yet another case where we can not tile .,0,0
+fix wrong ngramfilterfactory argument name for preserveoriginal option,1,1
+fix more locale violation,0,0
+fix issue with arrow not enable when set maxdate,1,1
+fix javadoc warning,0,0
+optimize decorator to only be call once,1,3
+fix - range selection order ( # 818 ),0,0
+fix harmless but log nullpointerexceptions in test,1,1
+ate ioexception,1,1
+fix concurrency issue,0,0
+fix nullpointer on query with wrong class,1,1
+fix of issue # 8281,0,0
+fix schema manipulation issue,1,1
+fix # 4961,0,0
+fix mt problem with sequence,1,1
+fix return type on match return json,1,1
+optimize error message for ocommandsqlparsingexception,1,3
+fix two bug relate to resultset navigation through resultsetmetadata,1,1
+fix udp multicast node discovery,0,0
+fix issue # 5405,0,0
+fix test issue,0,0
+fix automatic backup test,0,0
+fix backward compatiblility issue with custom tinkerpop predicate,1,1
+manage exception of hazelcast not active,1,1
+fix potential crash that cause install execution to block,1,1
+fix most the issue with the new message mgmt,0,0
+fix timeout for select,1,1
+fix distribute test fail because of default cluster,1,1
+fix security resource cache,1,1
+fix edge traversal use edge class alias,1,1
+fix index usage in tx,0,0
+fix ocontainscondition for iterables and single value,1,1
+fix new create property rich syntax,1,1
+fix live query with ridbags,1,1
+fix of issue # 6853,0,0
+fix execution plan string representation,1,1
+fix match triangle pattern,1,1
+fix oplog recovery,0,0
+"fix the fetch plan with no limit , issue # 3955",1,1
+fix column security on create,1,1
+fix wildcard resolution in distributed cluster config,1,1
+fix lightweight edge management,0,0
+fix npe with remote storage . support of multi - super - classes,1,1
+fix issue # 2343 . fix random test failure .,0,0
+fix javadoc,0,0
+fix issue with distributed cfg,1,1
+fix last sync problem,0,0
+fix some compilation warn due to deprecation .,1,1
+fix security optimization,1,3
+fix faiing test,0,0
+fix last test,0,0
+fix security optimization,1,3
+fix last test,0,0
+fix case sensitive property name in schema,1,1
+fix match when target be a big result set,1,1
+fix polymorphic edge traversal,0,0
+fix batch script test case,0,0
+fix persistent oplog instantiation,0,0
+fix initial merging problem,1,1
+fix bug on array realloc inline .,1,1
+fix command interrupt,0,0
+fix issue # 4060 : wrong recursion detection,1,1
+fix issue # 5233,0,0
+fix last distributed testcase,0,0
+build failure be fix .,0,0
+fix execution of return inside if statement,1,1
+fix graph batch insert test case,0,0
+fix last sync problem,0,0
+fix astar ( ) function,0,0
+optimize import,0,0
+fix last failing test with pessimistic lock,1,1
+fix execution planning of inner traverse statement,1,1
+fix simple config leaf type,1,1
+fix title level in undertow reference guide,1,1
+fix codeflowtest,0,0
+fix broken use graalvm json configuration file,1,1
+fix server side content negotiation,1,1
+"fix # 2703 , npe in exception handler",1,1
+fix property name to allow docker to work,1,3
+fix kafkastreams liveness to allow rebalancing state,0,0
+fix broken test example,0,0
+fix hibernate cache random failure # 694,1,1
+optimize classpath resource,1,3
+fix request hang issue when challenge complete exceptionally,1,1
+fix minor assertion infelicity,1,1
+fix problem with incorrect type in resulthandle,1,1
+fix issue with last commit,0,0
+make rest data hal collection name configurable,0,0
+fix the private key location in the smallrye - jwt guide,1,1
+"fix # 2479 , configurable context path",1,1
+fix cnfe when messagebundles be use with dev - mode,1,1
+fix condition that always evaluate to false,1,1
+fix jacoco report,0,0
+fix break gradle buildnative,0,0
+fix kubernetes guide,0,0
+fix possible timeouts on devtools project generation test,1,1
+fix jbang classloader issue,1,1
+fix arc hot deployment support,1,1
+fix the handling of the port 0,0,0
+collect field first,0,0
+"fix # 2400 , servletcontainerinitializer support",0,0
+fix configrecorder miss classloader assignment,1,1
+fix circular dependency,0,0
+fix break kafka quickstarts,0,0
+fix wrong name in @ configproperties example,1,1
+fix transaction node id issue,1,1
+fix break ' includeall ' in liquibase,1,1
+fix deepclone issue with supplier,1,1
+fix documentation format issue,0,0
+fix the doc build,0,0
+fix install when use uberjar,0,0
+fix hot replace,0,0
+fix the timing message on boot,0,0
+fix broken kubernetes extension,1,1
+fix issue with primitive type in spring data jpa,1,1
+fix unclosed inputstreams,0,0
+fix simplescheduler pause functionality .,0,0
+fix various warning in the smallrye jwt extension,1,1
+fix weld container shutdown,0,0
+fix potential hang if request be terminate prematurely,1,1
+fix the mailer config documentation,0,0
+fix elytron property perf issue,1,1
+fix metric prefix when do native build,0,0
+fix lot of other thread safety issue,1,1
+fix broken quarkusbuild task,0,0
+synchronize joschi / setup - jdk tag,0,0
+fix auth handle in spring cloud config client,1,1
+fix broken sidecar handling,0,0
+fix broken graalvm link,0,0
+fix micrometer configuration documentation issue,1,1
+deprecate quarkustestbeforeallcallback,1,3
+fix worker queue default size,0,0
+fix context propagation snippet,0,0
+fix break link,0,0
+fix npe when handle circular dependency,1,1
+fix import,0,0
+fix work directory property in quarkusdev task,1,1
+fix monitor state bug,0,0
+deprecate recordercontext # classproxy method,1,3
+fix map configuration value,0,0
+fix generation,0,0
+fix formatting,0,0
+fix keycloack authorization require body handler detection,1,1
+fix intermitent test failure,0,0
+fix root package of the hibernate search orm extension,1,1
+fix potential npes,1,1
+fix building quarkus with jdk 13,0,0
+fix issue where protect superclass method be not accessible,1,1
+fix various issue in rest client,0,0
+fix list - based @ configitem support,0,0
+fix a npe when no @ produce be define,1,1
+fix skillstreamhandler,0,0
+greet extension fix,0,0
+"fix # 3624 , post not work in dev mode",1,1
+fix maven minimal version,0,0
+fix bean validation extension feature name,0,0
+fix error message,0,0
+fix broken kotlin project generation,1,1
+fix gradle generateconfig task,0,0
+fix netty substitution - class renamed .,1,1
+fix break kubernetesconfigwithsecretstest,0,0
+fix wrong kubernetesclientbuildconfig link,1,1
+fix broken mongoclientbuilditem support,1,1
+fix compilation error in test,0,0
+fix the smallrye jwt feature name,0,0
+fix issue with config bean in dev mode,1,1
+fix log collection,0,0
+fix broken weld link,1,1
+fix new option class path register for reflection,1,1
+fix injection,0,0
+fix minor warning,0,0
+fix composite key issue when use findbykey,1,1
+fix javadoc warning,0,0
+resolve # 343 entity shallow copy support,0,0
+fix incorrect sql generate in certain locale,1,1
+fix javadoc space,0,0
+resolve # 72 oncreatemapping be provide platform instance,0,0
+fix completableentitystore upsert operation,0,0
+fix minor warning,0,0
+fix jdk11 deprecation warning when building gwt,1,1
+restore constant ( fix pro build ),0,0
+ensure safe destruction of object .,1,3
+fix error introduce by merge,1,1
+pacify eclipse,0,0
+ace patch fix issue when scroll to end,1,1
+fix issue where userprefs be load before stateprefs,1,1
+fix move console left / right command ( # 7415 ),1,1
+fix height for html chunk callback ( # 7951 ),1,1
+"fix scroll , keyboard bug in navigation tree",1,1
+fix a problem where the suffix be be misplace .,1,1
+set pool address when generate host,1,3
+fix path group for reindexing,1,1
+fix catch,0,0
+fix bug prevent node from be ban,1,1
+fix javadoc problem .,0,0
+fix command line argument stupidity .,0,0
+fix problem with connection pool deadlock,1,1
+equal object should have equal hashcodes,1,1
+fix a bug that throw exception for some test,1,1
+fix two race condition .,0,0
+rebalance log,0,0
+fix some minor issue,0,0
+fix native request format,1,1
+fix python path variable .,1,1
+fix nio bug,0,0
+fix shell `` preflist `` command key parse,0,0
+fix bad merge for datacleanupjob .,1,1
+fix error introduce during rebase process .,1,1
+fix bug when ro server npe when roll back,1,1
+batch nio writes .,0,0
+fix format issue .,0,0
+fix invalid metadata rate calculation,1,1
+fix sloppusherjob,0,0
+incoprorating patch from bhupesh fix issue 210 .,1,1
+fix various raw type warning .,0,0
+fix github issue # 21 : vector clock inconsistency resolver incorrect .,1,1
+fix log message,0,0
+fix two broken unit test,0,0
+fix small corner case error from crash log,1,1
+fix orientation issue .,0,0
+fix some sporadic crash .,0,0
+fix intentintegrator to work properly without the support library .,1,1
+fix two leak when use androidhttpclient .,1,1
+fix another bug discover by findbugs .,0,0
+fix doublevaluechangeentitymodifier to properly implement ientitymodifier .,1,1
+fix singlescenesplitscreenengine and doublescenesplitscreenengine .,0,0
+fix race condition in soundmanager / soundfactory,0,0
+bring back spritebatch .,0,0
+camera the scene and camerascenes it display rotate independantly .,0,0
+fix some finding of findbug .,0,0
+fix two bug discover by findbugs .,0,0
+fix the warning of javadoc,0,0
+fix some javadoc warning,0,0
+fix the large integer value be overflow issue,1,1
+fix github markdown issue,1,1
+solve bug in issue # 140,0,0
+optimize empty view,1,3
+fix bug .,0,0
+fix the problem that addheaderview don't show after removeheaderview .,1,1
+fix some mistake,0,0
+fix bug,0,0
+fix bug,0,0
+modify name,0,0
+fix some error,0,0
+add,0,0
+add,0,0
+optimize navhomepageactivity,1,3
+optimize treefragment ui,1,3
+optimize code,0,0
+optimize homefragment ui,1,3
+optimize navifragment,1,3
+optimize code,0,0
+optimize searchactivity,1,3
+add,0,0
+optimize wanfindfragment,1,3
+optimize baseactivity & basefragment,1,3
+optimize loaddata ( ),1,3
+add,0,0
+fix item fragment item bug,1,1
+fix queue size = 1 bug .,1,1
+fix broken build and update generate source,1,1
+fix inconsistent isempty / poll / peek / offer dynamic for spsclinkedqueue,1,1
+fix javadoc link .,0,0
+"fix lgtm warning , potential int overflow bug",1,1
+fix javadoc issue,0,0
+fix gc ' nepotism ' issue for atomic link queue .,1,1
+fix # 402 jfxtextfield cs v1 . 7,0,0
+fix some control meta cssmetadata,0,0
+fix some findbugs issue,0,0
+merge conflict,0,0
+fix # 791 jfxtextfield error when clicked,1,1
+fix # 290 clear combobox issue,1,1
+fix 1st four demo,0,0
+fix minor issue,0,0
+fix # 231 jfxtabpane no context menu,0,0
+accepted # 110,0,0
+fix some bug in drawer after integration,1,1
+fix # 1030 jfxcombobox unable to center prompt text,1,1
+fix drawer container resize issue,1,1
+fix # 628 jfxtreetablecell / jfxtreetablecolumn alignment,0,0
+optimize toarray,1,3
+fix # 843 jfxcombobox text overflow,1,1
+fix issue # 847,0,0
+fix some sonarqube issue,0,0
+fix some sonarqube error,0,0
+fix the issue256test,0,0
+fix the failure of the closeframetest .,1,1
+deprecate draft,0,0
+fix some javadoc error,0,0
+fix folder problem,0,0
+fix problem with folder,0,0
+fix array initialization,1,1
+edit 74,0,0
+edit 206,0,0
+edit 490,0,0
+add 82,0,0
+edit 146,0,0
+optimize 2,0,0
+add 87,0,0
+edit 42,0,0
+edit 120,0,0
+edit 248,0,0
+edit 206,0,0
+edit 207,0,0
+commit skeleton,0,0
+trap rain water & spiral matrix ii,0,0
+edit 67,0,0
+edit 145,0,0
+edit 541,0,0
+edit 501,0,0
+fix # 3291,0,0
+fix # 2737,0,0
+fix some more synchronization bug,1,1
+fix # 1507 / fixed # 1504,0,0
+fix some window bug,0,0
+fix # 3400,0,0
+fix # 2763,0,0
+fix # 1237,0,0
+fix # 2224,0,0
+fix # 2756,0,0
+fix # 2277,0,0
+fix incorrect variable usage,1,1
+fix # 3362,0,0
+fix many pathfinding issue,0,0
+fix # 1436 / fixed crawler not explode,1,1
+stack trace,0,0
+fix some modding bug,0,0
+fix many multiplayer bug,0,0
+fix # 2178,0,0
+fix # 2556,0,0
+fix # 1959 / indication of select unit,1,1
+fix some minor bug,0,0
+fix # 2929,0,0
+fix dedicate server crash,1,1
+fix # 1077,0,0
+compile fix,0,0
+fix crash when feed directly by a conveyor,1,1
+fix # 2543,0,0
+fix # 3045,0,0
+fix # 1184,0,0
+fix # 3023 / fixed # 3020,0,0
+fix # 2411,0,0
+fix # 2712,0,0
+fix many various physic bug,0,0
+fix # 1555,0,0
+fix # 2622,0,0
+fix various ui bug,0,0
+fix # 2917,0,0
+fix # 2197,0,0
+fix more test,0,0
+fix all know issue with power system,1,1
+fix # 2066,0,0
+fix mis - coloring of entity `` tile ``,0,0
+fix # 1429,0,0
+"override locale name , fix # 757",0,0
+fix many various map bug,0,0
+fix some loading bug,0,0
+fix # 2938 / fixed # 2936,0,0
+fix # 3052,0,0
+fix # 1445,0,0
+fix # 3189 / fixed # 3187,0,0
+fix many various crash,0,0
+fix crude turret icon,1,1
+fix # 748 / better mod load,1,3
+fix most main menu bug,0,0
+"fix some sector thing , break more thing",0,0
+fix # 3453,0,0
+fix # 2396,0,0
+fix # 2632 ( among other thing ),0,0
+fix # 2671,0,0
+fix some multithreading bug / no more drift,1,2
+network fix,0,0
+fix some nullability issue,0,0
+fix all code generation error,0,0
+fix # 745,0,0
+fix # 2714,0,0
+fix buggy mobile zoom,0,0
+build fix,0,0
+fix # 2544,0,0
+fix # 2265,0,0
+fix # 971,0,0
+fix # 3082,0,0
+drown event,0,0
+fix # 2755 / fixed # 2753,0,0
+fix # 3411 / fixed unit test,0,0
+fix # 859,0,0
+fix mono presence `` corrupting `` old save,0,0
+fix # 2032,0,0
+fix # 3153 / fixed # 3152,0,0
+fix # 2300,0,0
+fix # 1320,0,0
+fix # 2827,0,0
+fix some multiplayer crash,0,0
+fix two major crash,0,0
+fix # 2901 / fixed # 2903,0,0
+fix loadout reset,0,0
+fix more bug,0,0
+fix # 1484,0,0
+fix # 2311,0,0
+fix # 2408,0,0
+fix some crash,0,0
+fix # 3049,0,0
+fix # 2571,0,0
+fix major bug with dumping of block and conveyor,1,1
+fix # 509,0,0
+fix # 2427 / fixed # 2429,0,0
+fix # 513,0,0
+fix some variable shadowing,1,1
+fix many network - related bug,1,1
+fix pathfind crash for closed map,1,1
+fix # 3204,0,0
+fix some ui issue,0,0
+fix # 2582,0,0
+fix # 2515,0,0
+fix some network crash and block config problem,1,1
+fix # 2607 / fixed # 2604,0,0
+fix # 3140,0,0
+fix some minor bug with teleporters an changelog,1,1
+fix # 623,0,0
+fix # 3062 / fixed # 3064,0,0
+fix # 2237,0,0
+fix archive local storage bug,1,1
+mess up many thing,0,0
+fix # 2255,0,0
+fix # 2433,0,0
+fix nondeterministic drill item sort,0,0
+fix absolutely nothing,0,0
+fix invisible turret and broken rtg generator,1,1
+fix # 2740,0,0
+fix # 2834,0,0
+fix # 3095,0,0
+fix some bugs / crashes,0,0
+resolve conflict,0,0
+fix # 2344,0,0
+fix # 3250,0,0
+fix mobile mining / targeting conflict,1,1
+fix # 2662,0,0
+fix # 2346,0,0
+fix # 3487 / fixed # 3484,0,0
+fix # 3208,0,0
+fix # 1198,0,0
+fix # 2553,0,0
+fix # 3422,0,0
+fix # 1447,0,0
+fix # 156,0,0
+fix # 2472,0,0
+fix # 3173,0,0
+fix # 2565,0,0
+fix # 3009,0,0
+fix some basic crash,0,0
+fix # 2779,0,0
+fix # 2690,0,0
+fix many various bug with syncing thing,1,1
+fix # 2491,0,0
+fix # 3300,0,0
+fix # 917,0,0
+fix # 3200 / fixed # 3196 / fixed # 3198,0,0
+fix some tech tree layout issue,1,1
+fix # 2735,0,0
+fix some thing,0,0
+fix eclipse generate pointless warning about facet,1,1
+fix # 1397,0,0
+fix # 3206,0,0
+fix # 1460,0,0
+fix # 2238,0,0
+fix # 2476,0,0
+fix minor autotile bug,0,0
+compile fix,0,0
+fix # 3342,0,0
+fix # 1319,0,0
+name fix,0,0
+fix # 2793,0,0
+fix # 2722,0,0
+fix # 2360,0,0
+fix # 2246,0,0
+fix # 940,0,0
+fix # 2243,0,0
+fix incorrect plane projection,1,1
+fix # 2379,0,0
+fix some admin bug,0,0
+fix # 2290,0,0
+fix pollute water,0,0
+fix some generation issue,0,0
+fix # 2563,0,0
+fix # 1289,0,0
+fix # 156 ( # 157 ),0,0
+fix test,0,0
+fix term serialization,0,0
+recompute feature when create new item . close # 1887 .,0,0
+fix npe in standardreconconfig . close # 2076 .,1,1
+fix template escape processing . fix # 752 .,1,1
+fix url cache test on appveyor,1,1
+cluster config jackson deserialization,0,0
+fix the appbundle issue # 1209,1,1
+fix zip slip vulnerability . close # 1840 .,1,1
+fix fail test after jsonwriter replacement,1,1
+fix slf4j double inclusion,1,1
+fix bug conflate new item,1,1
+fix date parsing .,1,1
+fix exception when constraint be not or incorrectly provide,1,1
+fix the classpath issue,0,0
+fix filldown and blankdown operation on record .,1,1
+fix miss label for q export,1,1
+fix reconciliation result deserialization . close # 1876 .,1,1
+fix wikidata login csrf issue . close # 2228 .,1,1
+fix some xml issue,0,0
+fix deserialization of masseditoperation,1,1
+fix sorting of blank value . close # 1689 .,1,1
+fix last page calculation . close # 660 .,0,0
+fix lint error & fix build,0,0
+fix the issue # 103,0,0
+merge # 62,0,0
+fix test,0,0
+fix bug in shouldshowrequestpermissionrationale,1,1
+fix test,0,0
+fix # 40 ondestroy should not be use,1,2
+fix # 42 # 44,0,0
+fix width computation,0,0
+fix readme,0,0
+optimize reactive api for click suppoprt,1,3
+fix test case,0,0
+fix some test case,0,0
+fix oauth test,0,0
+fix social graph method test case,0,0
+fix asynctest,0,0
+fix test case,0,0
+fix testaccountmethods,0,0
+fix @ author tag,0,0
+fix search testcase issue,0,0
+fix some outdated test case,0,0
+fix notification test case,0,0
+fix testcase,0,0
+fix corrupt javadoc,0,0
+fix location of method,1,1
+traverse place against below,0,0
+fix the scuff,0,0
+fix some scuff from minebot,1,1
+fix javadoc error,0,0
+fix that null exception,1,1
+fix some bug with schematic,1,1
+fix astarpathfinder optional usage that ' s icky,0,0
+"fix non - monotonic elapsed time check , fix # 108",1,1
+fix tunnel command usage,0,0
+fix mapschematic,0,0
+hurt my eye,0,0
+fix searchworld cache and also speed and stuff,1,1
+fix improper treatment of unbreakable block,1,1
+fix very rare null pointer exception,1,1
+fix ispassable crash,1,1
+fix sprintstateevent,0,0
+optimize all import,0,0
+fix actual underlie sneak issue,1,1
+fix curse exception,1,1
+fix crash after click into the air,1,1
+fix bad block breaking that ncp don't agree with,1,1
+forgive me,0,0
+fix violation of equals / hashcode contract .,1,1
+fix protobuf serialization of large sequence number .,1,1
+fix bip39 implementation,0,0
+fix oom issue introduce by recent change .,1,1
+fix race condition on peergroup shutdown .,1,1
+fix bloom filter size with watched script,1,1
+rationalize protobuf pool enum,1,3
+fix protobuf deserialization of transaction version .,0,0
+fix last remaining occurences of ' bitcoin ' and ' bitcoinj ' .,0,0
+fix a couple of unit test bug .,0,0
+fix sync instrumentor,0,0
+fix issue 51 : loader . getresource ( `` com / sun / btrace `` ) npe,1,1
+fix filerollmaxrolls and filerollmilliseconds,0,0
+fix junit test,0,0
+fix filerollmaxrolls and filerollmilliseconds,0,0
+fix the localvariablesorter ; hopefully this time for good,0,0
+fix some problem relate to track retransformation progress,1,1
+fix issue # 2 : speculative tracing .,1,1
+fix app open url ( # 1347 ),0,0
+fix content url handling ( # 1053 ),0,0
+back button behavior . close # 427,0,0
+fix native prompt,0,0
+fix staggered example,0,0
+fix sectionedlist example,0,0
+migrate the expand area,0,0
+fix sectionedlist example,0,0
+fix selenium test in factory package ( # 10921 ),0,0
+fix innerclassandlambdadebuggingtest test ( # 7431 ),0,0
+fix unexpected fail of `` theiabuildplugintest `` selenium test ( # 11899 ),1,1
+fix removal of inactive container ( # 9017 ),1,1
+fix formatting,0,0
+fix compilation issue,0,0
+fix unexpected fails in the `` refactor `` package ( # 8119 ),1,1
+fix unexpected fail of `` autocompletefeaturesineditortest `` selenium test ( # 11565 ),1,1
+fix unexpected fail of `` checkrestoringspliteditortest `` selenium test ( # 11322 ),1,1
+fix selenium test ( # 8898 ),0,0
+fix reason of fail the `` rollingupdatestrategywitheditortest `` selenium test ( # 10269 ),1,1
+fix lazy initialization of collection in pojos,1,1
+fix openshift infrastructure,0,0
+fix unexpected fail of `` theiabuildplugintest `` selenium test ( # 11523 ),1,1
+fix name,0,0
+fix fmt,0,0
+fix sonarqube critical issue ( # 7585 ),1,1
+fix devfile component preference deserialization through gson,1,1
+fix unexpected fail of `` theiabuildplugintest `` selenium test ( # 11418 ),1,1
+fix error when multiple k8s / os component have mountsources : true,1,1
+fix selenium test ( # 10418 ),0,0
+fix and improve test,0,0
+fix potential npe,1,1
+fix override and skip root behavior ( # 11002 ),1,1
+fix potential security vulnerability ( # 14313 ),1,1
+fix wrong author name of revert commit ( # 9302 ),1,1
+fix workpsace - permissions module dependency ;,1,1
+fix npe and numberformatexception in some case,1,1
+fix build after rebase,0,0
+fix resource leak in ziputils ( # 10815 ),1,1
+fix miss constant,0,0
+fix selenium test ( # 13371 ),0,0
+fix error when create project from archetype ( # 10029 ),1,1
+format fix,0,0
+fix package name for gangliareporterfactorytest,0,0
+fix squid : s1481 - unused local variable should be remove,1,1
+ensure config override be always reset .,1,3
+fix regression in ` abstractparam ` handling ( # 3163 ),0,0
+fix test for bidigziphandlertest,0,0
+fix graceful shutdown,0,0
+fix generic for abstractdao .,0,0
+fix locale - dependent test .,0,0
+fix test .,0,0
+fix various error prone compiler warning,1,1
+fix array downcast .,1,1
+"deprecate pooleddatasourcefactory # gethealthcheckvalidation { query , timeout }",1,3
+fix javadoc error,0,0
+fix name of ssl / tls protocol property .,1,1
+do the same for servletmapping .,0,0
+fix call to deprecate jackson method .,1,3
+fix errorpone warning ( # 2399 ),0,0
+deprecate * param class,1,3
+fix mislead maxthreads default & misuse log warn,1,1
+fix line ending for window .,0,0
+fix logformat configuration inconsistency ( # 3530 ),1,1
+fix issue # 89,0,0
+fix jarlocation .,0,0
+optimize import,0,0
+fix deprecation usage of argparse4j,1,3
+fix configuration classloader bug when system classloader not use,1,1
+fix etag format .,0,0
+fix test affect by dst change,0,0
+fix defaultloggingfactorytest on window,0,0
+fix cachingauthenticator .,0,0
+fix zlib decompression in bidigzipfilter,0,0
+fix url hygiene .,0,0
+"fix { freemarker , mustache } viewrenderertest on window",0,0
+change my mind .,0,0
+fix fileconfiguration validation function .,1,1
+fix db doc .,0,0
+fix jsonprocessingexceptionmapper .,1,1
+fix dependency convergence issue : metrics / slf4j,1,1
+"fix lifecycle for underlie datasource in sessionfactorymanager , fixes # 769",1,1
+fix some foundbugs .,0,0
+optimize import,0,0
+optimize import,0,0
+optimize import,0,0
+optimize import,0,0
+optimize import,0,0
+fix for generator issue # 174,0,0
+fix some spelling error,0,0
+fix generator bug - rootinterface be ignore,1,1
+fix short type name calculation,0,0
+fix initwithadunitid,0,0
+fix restcpsubsystemtest . test _ forceclosevalidcpsession _ withinvalidcredentials,1,1
+fix countdownlatchadvancedtest failure,1,1
+fix metadataraftgrouptest . when _ metadataclusternodefallsfarbehind _ then _ itinstallssnapshot,1,1
+fix partitionmigrationlistenertest failure,1,1
+fix metadataraftgrouptest snapshotting test,0,0
+fix ioutil . delete ( symlinkfile ) ( # 16309 ),0,0
+fix changeclusterstateoperation for cluster in passive state ( # 16538 ),1,1
+fix thread safety issue in cp subsystem management test,1,1
+fix shuffling of mobynames array ( # 16182 ),1,1
+fix messagewriter when buffer space insufficent,1,1
+fix reliable topic and ring buffer client permission,1,1
+fix jdk6 compatibility ( # 15631 ),1,1
+fix metadata group snapshot issue,1,1
+fix npe nionetworking shutdown,1,1
+fix config and property doc,0,0
+fix client listener registry leak,1,1
+fix eclipse 4 . 4 incremental compilation incompatibility cause by,1,1
+fail test .,0,0
+fix build on window,0,0
+optimize import,0,0
+fix single element array deserializion issue with bsonmodule,1,1
+fix bug where output stream be not flush .,1,1
+fix concurrent modification error .,1,1
+fix proguard issue :,0,0
+fix indentation,0,0
+fix test and asserts,0,0
+fix up broken override .,1,1
+fix cooky to actually persist properly .,1,1
+fix race condition in progress callback .,1,1
+fix bug for solidity event,1,1
+fix the sonar code smell,0,0
+optimize the code and fix sonar problem ( # 3413 ),1,3
+fix the topiclist null check,1,1
+fix more test,0,0
+fix some more failing test,0,0
+fix javadoc error,0,0
+fix javadoc warning,0,0
+"fix string decode bug , add test",1,1
+fix change log entry,0,0
+"fix wrong asumptions , datatypes and add add unittests",1,1
+fix unsatisfiedlinkerror call tostring on a library interface,1,1
+fix broken test,0,0
+fix memory leak in comlatebindingobject # getstringproperty,1,1
+fix some change ask by the jna team,0,0
+fix javadoc warn,0,0
+deprecate eventlogrecord # geteventid in favor of # getinstanceid ( # 1105 ),1,3
+fix broken test on xp,0,0
+fix compilation error .,0,0
+fix bug check integertype limit,1,1
+fix stdcall callback,0,0
+fix sysinfo fieldorder,0,0
+fix npe,1,1
+fix javadoc,0,0
+fix javadoc warning,0,0
+fix getlasterror bug,0,0
+fix issue # 475,0,0
+fix gcc8 warning,0,0
+fix error not report properly in gettokengroups / gettokenaccount .,1,1
+fix compilation error in file monitor example,1,1
+fix raw type warn,0,0
+fix javadoc error,0,0
+fix javadoc,0,0
+fix thread - safety issue in extensionvaluesstore,1,1
+fix regression when create human - readable test name,0,0
+fix checkstyle javadoc warning,0,0
+fix compiler warning,0,0
+fix break build,0,0
+ensure stacktracewriter be always present,1,3
+fix broken test,0,0
+ensure testidentifier be serializable,1,3
+fix javadoc warning,0,0
+ensure discover descriptor graph be acyclic,1,3
+fix bug when argumentsaggregators return null,1,1
+fix test,0,0
+fix bug in updatedat handling,1,1
+make secretseriesmapper type safe .,1,3
+make secretcontentmapper type safe .,1,3
+fix audit log message,0,0
+fix securityheaders,0,0
+fix new eap,0,0
+fix other progress bar,0,0
+set unfocused color the same color a treeselectioncolor,0,0
+infer nullity,0,0
+fuck accent mode,0,0
+checkstyle the rest,0,0
+mtui all the thing,0,0
+fix checkbox border color,0,0
+migrate config top hit provider,0,0
+fuck work,0,0
+theme new project sidebar,0,0
+checkstyle the rest,0,0
+fix monochromepatcher with custom scale ?,0,0
+fix label,0,0
+optimize import,0,0
+fix integration test,0,0
+optimize import,0,0
+fix the performance problem with this particular fix,1,1
+fix violation report by checkstyle,1,1
+fix mng - 3473 integration test .,0,0
+fix some problem with inheritance of resource .,1,1
+fix javadoc warning,0,0
+fix mng - 3355 and mng - 2339 .,0,0
+fix copyresources call,0,0
+fix checkstyle report error,1,1
+fix stringindexoutofboundsexception .,1,1
+fix svn property,0,0
+fix it0022,0,0
+fix inherited flag for plugin execution .,1,1
+optimize configuration property read,1,3
+restructure project,0,0
+fix test,0,0
+fix stackoverflow with generic . fix # 2239,1,1
+fix exception when executiong create - federation,1,1
+fix checkstyle issue in `` aop `` module,1,1
+fix javadoc,0,0
+fix incorrect alignment of generic type,1,1
+fix checkstyle issue,0,0
+fix checkstyle,0,0
+deprecate typedrequestargumentbinder # supportssupertypes ( # 4001 ),1,3
+fix return type data for primitive,1,1
+fix test,0,0
+fix compilation error,0,0
+fix checkstyle issue,0,0
+fix test,0,0
+fix compilation error / test failure,0,0
+fix compilation issue with jdk11 . fix # 1506,1,1
+fix bug register primary bean for iterable bean,1,1
+fix compilation error,0,0
+fix checkstyle,0,0
+fix bug with bean introspection map isempty . fix # 2058,1,1
+fix import,0,0
+fix compilation error,0,0
+fix checkstyle failure,0,0
+fix checkstyle,0,0
+fix postgres reactive documentation . close # 424,0,0
+fix unsupportedoperationexception,1,1
+fix @ requires ( beans = foo ),0,0
+fix checkstyle error,0,0
+fix various graalvm related issue . fix # 582,1,1
+fix test,0,0
+fix toc overlap,0,0
+fix test,0,0
+add maven gradle toggle,1,3
+fix bootrap configuration,0,0
+fix checkstyle,0,0
+fix checkstyle,0,0
+optimize requirescondition,1,3
+fix checkstyle issue in `` router `` module,1,1
+merge change,0,0
+optimize @ value construction,1,3
+fix compilation error,0,0
+fix checkstyle error,0,0
+fix bug generate multiple event listener,1,1
+fix checkstyle,0,0
+fix inconsistent head level,1,1
+fix checkstyle problem for `` session `` module,1,1
+fix classcastexception in convertiblemultivalues,1,1
+fix remain checkstyle issue,0,0
+fix test,0,0
+fix rxjava maybe @ body bind,0,0
+document rejection handler override . close # 781,0,0
+fix checkstyle issue for `` management `` module,1,1
+fix compilation issue due to merge,1,1
+fix endpoint route spec,0,0
+fix factory for jackson type,0,0
+fix checkstyle,0,0
+fix test,0,0
+fix checkstyle error,0,0
+fix management test failure,0,0
+fix spell mistake,0,0
+fix test,0,0
+fix jackson databind version,0,0
+fix checkstyle error,0,0
+fix checkstyle error,0,0
+fix object deserialization and initial version of param binding,1,1
+fix checkstyle,0,0
+fix checkstyle,0,0
+fix checkstyle,0,0
+fix checkstyle problem in `` spring `` module,1,1
+include idlestatehandler,0,0
+fix runtime dependency,1,1
+fix checkstyle,0,0
+fix propagation of span context for rxjava . fix # 462,1,1
+fix checkstyle failure,0,0
+fix checkstyle,0,0
+fix checkstyle failure,0,0
+fix compilation error,0,0
+troublshooting broken build,0,0
+fix compilation error,0,0
+fix checkstyle issue in `` security `` module,1,1
+fix incorrect alignment of generic type,1,1
+originate ip address resolution ( # 1672 ),0,0
+fix checkstyle,0,0
+fix slf4j compiler warning emerge from openapi visitor,1,1
+fix checkstyle violation,0,0
+fix test,0,0
+fix tweet function,0,0
+fix checkstyle,0,0
+fix checkstyle error,0,0
+fix propagation of span context for rxjava . fix # 462,1,1
+fix checkstyle,0,0
+fix bean provider with qualifier . fix # 1097,1,1
+fix kafkaheaders impl,0,0
+fix checkstyle failure,0,0
+fix checkstyle error,0,0
+fix checkstyle failure,0,0
+fix javadoc,0,0
+fix checkstyle failure,0,0
+fix checkstyle,0,0
+fix test,0,0
+fix checkstyle error,0,0
+detect heroku,0,0
+fix convention mapping when proxy involve . fix # 438,1,1
+fix checkstyle failure,0,0
+fix checkstyle error,0,0
+fix cli doc,0,0
+fix management test failure,0,0
+fix proxy generation of inherited default method ( # 4333 ),1,1
+fix checkstyle,0,0
+ensure emitter be not cancel . fix # 1852,1,3
+fix issue with multiple indexed type,1,1
+optimize repeat call containsproperty / getproperty,1,3
+fix various problem handle generic,1,1
+fix wrong javadoc comment ( # 1253 ),0,0
+fix checkstyle violation,0,0
+fix default proxyselector ( # 4230 ),0,0
+fix another @ repeatable annotation edge case,1,1
+fix checkstyle,0,0
+fix checkstyle issue in `` runtime `` module,1,1
+fix checkstyle issue,0,0
+fix checkstyle issue,0,0
+fix checkstyle,0,0
+fix introspect benchmark,0,0
+fix test failure,0,0
+fix clientscopespec race condition,1,1
+fix npe,1,1
+fix the issue raise in the comment,1,1
+optimize message publisher,1,3
+develop fix jraft null datum ( # 4048 ),0,0
+solve # 166,0,0
+fix bug,0,0
+fix bug,0,0
+fix issue 4187 ( # 4205 ),0,0
+fix # 65 for name,0,0
+fix standalone mode can not use mysql bug .,1,2
+optimize log display,1,3
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix the ci error,0,0
+fix test case bug,0,0
+fix test case error,0,0
+fix integration test error,0,0
+fix public namespace permission problem ( # 4273 ),1,1
+resolve conflict,0,0
+fix bug,0,0
+resolve conflict # 1084,0,0
+fix some spelling mistake,0,0
+fix import code ( # 4347 ),0,0
+fix # 1519 the subscriber list be not display correctly,1,1
+optimize isexisttable function ( # 3236 ),1,3
+fix # 1519 the subscriber list be not display correctly,1,1
+add configlongpolltest,0,0
+fix health check be disabled bug,1,1
+resolve conflict,0,0
+fix windows startup error,1,1
+optimize code,0,0
+resolve conflict,0,0
+add ? ? ? previnsert ? ? ? prevupdate ? ? ? nulleffective ? ? ?,0,0
+fix issue 305,0,0
+fix issue # 524,0,0
+fix issue 95,0,0
+fix issue 216,0,0
+fix issue 222,0,0
+fix # 1116 # 1117,0,0
+"fix # 785 defaultviewmaker , jsonformat .",0,0
+fix issue 384,0,0
+fix issue 418 :,0,0
+fxied # 1107,0,0
+fix issue 157 .,0,0
+fix issue # 136,0,0
+fix issue # 354,0,0
+fix issue # 17,0,0
+fix issue # 118,0,0
+"fix # 127 , 2bab75606 798cbd8ae ? ? ?",0,0
+fix issue 450,0,0
+fix issue 272,0,0
+fix issue # 611,0,0
+"fix issue 417 , type",0,0
+fxied # 1109,0,0
+fix issue 434,0,0
+fix issue # 594,0,0
+fix issue # 695,0,0
+fix # 492 select sql,1,1
+file pool ? ? ? int long,0,0
+fix issue # 88,0,0
+fix issue 214,0,0
+fix issue # 11,0,0
+"fix # 1069 boolean , null , false",0,0
+fix issue 427,0,0
+fix issue # 119,0,0
+fail parse when text be cdate,0,0
+fix issue 181 .,0,0
+"fix issue 68 , fix issue 92",0,0
+fix issue # 863,0,0
+"fix # 1119 , testcase",0,0
+fix issue # 15,0,0
+fix issue 389,0,0
+fix issue 120,0,0
+fix issue 373,0,0
+fix issue # 543,0,0
+fix issue # 13,0,0
+fix issue 237,0,0
+fix issue 349,0,0
+fix issue 47,0,0
+fix # 352,0,0
+fix issue 482,0,0
+fix # 181,0,0
+"fix issue 317 , filesqlmanager . jsonloader : , , , . xmliocloader",0,0
+fix issue 394,0,0
+fix issue 320,0,0
+fix issue 341,0,0
+fix issue of generate next pull request number .,1,1
+fix tooltip disappear issue when hover over previous avatar,1,1
+fix the issue that page redirect work abnormally,1,1
+fix plugin archetype error .,1,1
+fix issue of incomplete gitplex substition,1,1
+fix the issue that page history be not preserve,1,1
+fix two bug,0,0
+fix some minor bug,0,0
+fix some job interpolation bug,1,1
+fix query save bug,0,0
+fix various ui bug,0,0
+fix some bug,0,0
+fix bean editor issue .,1,1
+fix some bug,0,0
+fix various path match issue,1,1
+fix project mysterious updating issue,1,1
+fix the issue that defaultpersistmanager bind twice when run,1,1
+fix the issue that indexwork can not be sort,1,1
+fix some bug,0,0
+fix ajax load indicator unnecessarily occur issue .,1,1
+optimize exact match of symbol .,1,3
+fix some cispec edit bug,1,1
+fix some bug,0,0
+fix issue : search result resize do not work,1,1
+fix some minor bug,0,0
+fix some bug,0,0
+fix various bug,0,0
+fix the issue of inaccurate symbol / file / text query,1,1
+fix more 1 . 0 migration error,1,1
+fix possible circular bundle dependency when ondomreadyheaderitem be,0,0
+fix the issue that request preview page reprots npe,1,1
+fix mainnavcontribution bug,1,1
+fix resource circular dependency error,1,1
+fix the issue that dounitofworkaftercommitasync be not actually do,1,1
+fix some minor bug,0,0
+fix some minor cs bug,0,0
+fix some minor bug,0,0
+fix some minor bug,0,0
+fix some unit test error .,0,0
+fix bean editor issue .,0,0
+fix bug find while write readme,0,0
+fix some minor issue :,0,0
+fix some minor bug,0,0
+fix unit test error .,0,0
+fix tooltip issue .,0,0
+fix more bug .,0,0
+fix various tokenizer error .,0,0
+fix some minor issue,0,0
+fix some small bug,0,0
+fix case sensitive issue of blob indexer .,1,1
+fix issue that websocket do not work,1,1
+fix some review bug .,0,0
+fix some minor bug,0,0
+fix the code comment filter bug,1,1
+fix transition page bug,1,1
+fix various attachment lose issue,1,1
+fix some minor bug,0,0
+fix issue below :,0,0
+fix the issue of incorrect commit graph,1,1
+fix # 179 broken test .,0,0
+fix many compiler warning,0,0
+many ansi bugfixes . close # 66,0,0
+fix unchecked warning,0,0
+# 141 prevent npe when sort require options / parameters . close # 141,1,1
+fix checkstyle error,0,0
+fix bug of flip multi time ( # 994 ),1,1
+optimize registryfactory singleton pattern and registrytype judge mode ( # 2382 ),1,3
+optimize saga log output ( # 2020 ),1,3
+optimize preparedstatementproxy initialization logic ( # 2242 ),1,3
+solve the lock _ key length problem ( # 1905 ),1,1
+optimize branchstatus comment ( # 1404 ),1,3
+fix some javadoc comment ( # 1416 ),0,0
+fix some configuration not convert to camel style ( # 2292 ),1,1
+optimize rpc remoting log ( # 1787 ),1,3
+optimize configuration item prefix judgment ( # 2182 ),1,3
+fix readiness check detail lose,0,0
+optimize auto - configuration .,1,3
+fix extension point race condition ( # 714 ),0,0
+fix postprocessors inherit problem ( # 521 ),1,1
+fix cloud compatible ( # 268 ),0,0
+fix 1201 - array property constraint deserialization,0,0
+migrate java - jersey2 - guice sample,0,0
+fix npe in reflectionutils when scan interface,1,1
+fix test,0,0
+fix # 1234 : the mule module don't support beanconfig,0,0
+fix # 1069 : handling of generic type have be add .,0,0
+fix # 1155 : name inspection have be fix .,0,0
+fix complication of defaultparameterextension,0,0
+fix setter so value be actually set,0,0
+fix bug .,0,0
+fix bug,0,0
+trace,0,0
+transactionrunning ? ? ?,0,0
+fix # 225 # 216,0,0
+fix bug .,0,0
+start,0,0
+fix bug .,0,0
+fix bug,0,0
+trend view,0,0
+fix android 10 issue with `` permission deny ``,1,1
+fix android 10 issue with `` permission deny ``,1,1
+optimize import,0,0
+optimize import,0,0
+fix issue # 318 . fileutils numberformatexception,1,1
+fix shell example,0,0
+fix proxy option additionalrequestheaders bug ( # 1274 ),1,1
+fix comment indentation,0,0
+fix jsonpath example,0,0
+fix binary data corruption when proxying request,1,1
+fix high cpu load,0,0
+splay tree start,0,0
+fix some formatting .,0,0
+fix the bug,0,0
+fix issue 514 ( # 528 ),0,0
+fix rotation,0,0
+fix javadocs,0,0
+fix javadocs,0,0
+fix camera mute ( # 143 ),0,0
+"fix snapshot cropoutput , crop only when need",0,0
+fix crash for picture callback after stop ( ),1,1
+fix camerapreview test,0,0
+fix crop center bug ( # 30 ),0,0
+fix android studio preview error use isineditmode .,1,1
+fix test,0,0
+fix video snapshot rotation,0,0
+fix ? ? ? zuul filter header mydiscoveryenabledstrategy,0,0
+skywalking span ignored,0,0
+fix codacy,0,0
+fix deopter not work,1,2
+fix crash when fork webview _ zygote on oneplus device,1,1
+fix incompatibleclasschangeerror when invoke original method,1,1
+fix inconsistent use _ white _ list flag,0,0
+fix bad javadoc,0,0
+fix shutter open / close behavior,0,0
+fix issue with stale createperiod event in concatenatingmediasource .,1,1
+fix track selection nullability issue .,1,1
+fix smoothstreaming where audio fourcc be miss .,0,0
+fix release branch,0,0
+fix eventmessage timestamp issue,1,1
+fix canacquiresession for clearkey,0,0
+fix progressivemediasource defaultextractorsfactory proguarding,0,0
+fix timestamp round error in fmp4 extractor .,1,1
+fix the build .,0,0
+pa mediasource instance through onsourceinforefreshed,0,0
+fix gapless playback,0,0
+fix lint warning for 2 . 10,1,1
+fix 2 cea decoder bug,1,1
+fix some remain extension api nullability issue .,1,1
+fix channel count propagation on hl traditional preparation,0,0
+fix parcelable . creator # newarray implementation,1,1
+fix subtitle parse regex suggestion,0,0
+fix lint warning for 2 . 10,0,0
+fix webm demo,0,0
+fix mobileharness playback test .,0,0
+fix some random android studio warning .,1,1
+fix detection of postroll when seek to duration,1,1
+fix bogus reporting of audio focus loss,1,1
+fix position jank after pause and seek,0,0
+fix javadoc warning expose by - xdoclint,0,0
+fix downloadservice don't stop when the app be kill,1,2
+fix more case of downloads not be resume,1,1
+fix some lint warning,0,0
+fix warning in oggvorbisextractortest and vorbisbitarraytest .,1,1
+fix util nullness warning .,1,1
+fix detection of end of live event,1,1
+fix defaulttrackselector # parameter withselectundeterminedtextlanguage,1,1
+fix adts extraction with mid - stream id3,1,1
+fix order of event in progressivemediaperiod .,1,1
+fix miscellaneous nit,0,0
+fix message index bug .,1,1
+fix gapless playback,0,0
+fix tx3g decode,0,0
+fix some android studio inspection warning,1,1
+fix handling of network transition in requirementswatcher,1,1
+optimize aac seek except for xhe - aac,1,3
+fix cbr seek when xing header be present .,1,1
+fix ogg / flac sync exception .,1,1
+fix potential medium source release before medium period release .,1,1
+fix flaky downloadmanagerdashtest,0,0
+fix dash live edge calculation .,1,1
+fix divergence of timeline between exoplayerimpl and exoplayerimplinternal .,1,1
+pa source to transferlistener event,0,0
+fix vp9 sample,0,0
+fix lint error,0,0
+fix some javadoc issue,0,0
+fix some audioprocessor nit,0,0
+fix vpfo counter reporting,0,0
+fix dolby vision fallback to avc and hevc,1,1
+fix some potential uri nullness violation .,1,1
+fix some analysis warning .,0,0
+fix flac extension test,0,0
+fix smoothstreaming,0,0
+fix defaulttrackselector # parameter withselectundeterminedtextlanguage,0,0
+fix miss generic,0,0
+resolve conflict,0,0
+fix break javadoc,0,0
+fix an issue where retry webm extraction fail .,1,1
+fix javadoc error,0,0
+fix bug where silencemediasource # gettag be always return null .,1,1
+fix thread - safety issue use defaulttrackoutput .,1,1
+optimize parsablenalunitbitarray,1,3
+fix cachedatasource and simplecache issue,1,1
+fix release branch,0,0
+fix flaky asynchronousmediacodecadaptertest,0,0
+fix period transition with non - zero start position .,1,1
+fix downloadservice resumption,1,1
+fix some more lint issue,0,0
+fix miss generic,0,0
+fix flaky downloadmanagerdashtest,0,0
+optimize parsablebitarray,1,3
+fix incorrect javadoc,0,0
+fix wrong start position in resetinternal .,1,1
+fix robolectric test when run with gradle,1,1
+fix divergence of timeline between exoplayerimpl and exoplayerimplinternal .,1,1
+fix timestamp round error in fmp4 extractor .,1,1
+fix sideloaded subtitle,0,0
+fix mislead method name .,1,1
+fix parsablebytearraytest .,0,0
+fix downloadservice resumption,1,1
+"fix setselectionoverride ( index , track , null )",1,1
+fix wrong start position in resetinternal .,1,1
+fix build,0,0
+fix contentdatasource bytesremaining calculation,1,1
+fix 2 cea decoder bug,1,1
+fix compiler warning .,0,0
+fix remain common module nullness issue .,1,1
+fix downloadservice don't stop when the app be kill,1,2
+fix all fixme comment .,0,0
+fix contentdatasource bytesremaining calculation,1,1
+pa loaderrorinfo to loaderrorhandlingpolcy,0,0
+fix detection of truehd syncframe in matroskaextractor,1,1
+fix audio focus,0,0
+fix key rotation,0,0
+fix stuck - buffering state when play merge medium,1,1
+fix robolectric test when run with gradle,1,1
+migrate override of deprecate onplaybackparameterschanged,1,3
+fix timestamp rollover issue for dash live .,1,1
+fix some warning .,0,0
+fix all fixme comment .,0,0
+fix delivery of onloadcanceled to occur before thread dy .,1,3
+optimize caption .,0,0
+fix potential integer overflow,1,1
+fix bug in maskingmediasource cause by removed period .,1,1
+optimize parsablebitarray,1,3
+fix javadoc warning expose by - xdoclint,0,0
+fix break javadoc,0,0
+fix intermittent decoder crash when play mp3 inside mp4,1,1
+fix bad @ see javadoc in castplayer,0,0
+fix setmediabitratekbps name from consistency point of view,1,1
+fix moe config,0,0
+fix javadoc,0,0
+fix ttmlcolorparser test .,0,0
+fix bogus reporting of audio focus loss,1,1
+fix playbackstatslistener behavior when not keep history,1,3
+deprecate downloadservice state change method,1,3
+deprecate downloadservice state change method,1,3
+fix javadoc,0,0
+fix key rotation,0,0
+fix break javadoc,0,0
+suppress remain constantcaseforconstant warning,0,0
+fix negative start time value,1,1
+fix bug in aes128datasource,0,0
+fix flaky unit test,0,0
+fix issue with stale createperiod event in concatenatingmediasource .,1,1
+sanitize mappedtrackinfo api,1,3
+fix h262 segmentation .,0,0
+fix smoothstreamingmanifest to handle large timestamps .,1,1
+optimize parsablenalunitbitarray,1,3
+fix vod to live transition .,1,1
+fix possible subrip timing line npe,1,1
+fix us / ms conversion error .,1,1
+fix incorrect rounding of ad cue point,1,1
+fix some lint issue .,0,0
+pa sessionid rather than mediacrypto,0,0
+fix aes128datasourcetest portability issue,1,1
+sanitize cachedatasource / cachedatasink factory,0,0
+fix position jank after pause and seek,1,1
+fix downloadservice notification flicker,1,1
+fix subtitle .,0,0
+fix controller ui toggle when use sphericalsurfaceview,1,1
+fix hl encryption method detection,1,1
+fix playbackstatslistener behavior when not keep history,1,3
+fix handling of network transition in requirementswatcher,0,0
+fix bug that cause failure when all renderers disable .,1,1
+fix fmp4 playback duration and absent tfdt handling .,0,0
+fix createdecoder method declaration,0,0
+fix playback control focus,0,0
+fix some handler,0,0
+merge conflict,0,0
+fix statement track,0,0
+fix snapshot revision .,0,0
+fix issue with improper initialization of lastaccesstime .,1,1
+fix regression cause by # 1337,1,1
+fix prometheus metric to support multiple hikaricp pool ( # 890 ),1,3
+fix unit test failure .,0,0
+fix # 354 always set previous timestamp,0,0
+fix faststatementlist unit test failure .,0,0
+fix exception message,1,1
+fix java8 javadoc error .,0,0
+fix # 66 mbean registration,0,0
+fix some issue find by idea inspection,1,1
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix bug,0,0
+fix pmd : redundantfieldinitializer - redundant field initializer .,0,0
+fix player switch,0,0
+fix info ' s start time when use videodetailfragment,0,0
+fix close notification problem,0,0
+resolve conflict,0,0
+fix nullpointerexception in queue handling,1,1
+fix travis,0,0
+fix regression : unable to find explicit activity class,1,1
+resolve conflict,0,0
+optimize import,0,0
+fix another weblate crash,0,0
+fix animation,0,0
+fix compile release build,0,0
+fix some deprecation,0,0
+resolve conflict,0,0
+fix crash when open video in local playlist tab,1,1
+fix crash due to no `` other `` item in plural,1,1
+fix autoplay,0,0
+fix squid : s2259 - null pointer should not be dereferenced .,1,2
+fix another pattern problem,0,0
+fix broken view pager tab implementation,1,1
+fix some searchengine error,0,0
+fix image loader bug,0,0
+resolve conflict,0,0
+gather all bug shit thing,0,0
+fix some bug,0,0
+fix some bug,0,0
+fix backbutton behaviour,0,0
+fix invisible queue close button,0,0
+suppress remain checkstyle error,1,1
+fix addyoutubecookies function ( yt change thing lately ),0,0
+fix another livestream relate issue,1,1
+fix player resume,0,0
+resolve another weblate crash,1,1
+fix kodi button show up in unsupported service,0,0
+fix mute button cause crash on api 19,1,1
+fix illegalstateexception after onsaveinstancestate,1,1
+fix charset issue .,0,0
+fix audiomanager memory leak,1,1
+fix visual glitch when exit the app,1,1
+fix some more bug,0,0
+edit gitignore,0,0
+fix preview not move,0,0
+fix frame not show properly,1,1
+fix wrong subject use in test .,1,1
+fix the issue about null value,1,1
+fix replaysubject leak,1,1
+fix javadoc and style error,0,0
+fix unit test determinism,0,0
+fix issue # 1196 and some doc issue,0,0
+fix deadlock in subscribeonbounded,1,1
+fix flowable . window ( publisher | callable ) upstream handling ( # 5888 ),0,0
+fix exception in javadoc ( # 4793 ),0,0
+fix the extra retention problem in replaysubject ( # 5892 ),1,1
+fix issue # 1522,0,0
+fix operationalconditional,0,0
+fix javadocs,0,0
+"fix buffer ( open , close ) not dispose indicator properly ( # 5811 )",1,1
+fix the blocking / non - blocking first,0,0
+fix the issue # 521,0,0
+lift performance,0,0
+fix the issue that groupby may not call ' unsubscribe ',1,1
+fix flowable . groupby cancellation / cleanup / eviction race hang ( # 6979 ),0,0
+fix terminal state handling,0,0
+fix thread safety for unsubscribe,0,0
+fix issue # 1451,0,0
+fix attempt to the firehose test .,0,0
+fix toiterator exception handling,1,1
+fix concat to allow multiple observer,1,3
+fix minor javadocs syntax error,0,0
+fix the issue that sample don't call ' unsubscribe ',1,1
+fix encoding / formatting,0,0
+fix replaysubject ' s double termination problem .,1,1
+fix ambiguous import,0,0
+fix javadoc for functionx ( # 5347 ),0,0
+add exists and isempty,1,3
+fix the usage of deprecated method .,1,3
+optimize scalar observeon / subscribeon,1,3
+fix compilation warning,0,0
+fix the issue that map may swallow fatal exception,1,1
+fix the rxclojure project link .,0,0
+fix the bug that ' flatmap ' swallow onerrornotimplementedexception,1,1
+fix javadoc error,0,0
+fix dst cutover bug in test case,1,1
+fix instance selection bug cause by use day,1,1
+fix detachvolumes test,0,0
+fix issue # 152 : catch sockettimeoutexception,1,1
+fix artifactid,0,0
+fix an exception,0,0
+fix many unchecked call warning during compile time,1,1
+fix gradle warning ( # 1341 ),0,0
+fix authorization with https non - secured do not work,1,1
+fix some build error,0,0
+fix retries with no chunking,1,1
+fix rare crash in the login page,0,0
+fix to issue # 2089,0,0
+fix crash in ice cream sandwich android version,0,0
+fix drawer close search,0,0
+fix bug,0,0
+fix paste text do not work,1,2
+rebase fix,0,0
+"fix , creation of subdirectory",0,0
+fix paste text do not work,1,2
+fix passcode crash,0,0
+solve conflict with master,0,0
+solve fab snackbar overlap bug,1,1
+fix bug,0,0
+fix bug,0,0
+solve conflict,0,0
+fix bug,0,0
+fix crash due to obsolete string resource,1,1
+try fix travis fail,0,0
+create getuserinfousecase,0,0
+fix conflict,0,0
+fix uploads collision,0,0
+fix job finish,0,0
+fix bug,0,0
+solve some rebase conflict,0,0
+fix wizard be show twice with fingerprint lock enable,1,1
+fix bug . app crash when instal it,1,1
+fix crash in navigation in filelist,1,1
+fix bug : folder be create in the wrong account,1,1
+fix wrong onoptionsitemselected implementation,1,1
+fix some rebase conflict,0,0
+fix order by name,0,0
+fix search when browsing,0,0
+fix bug,0,0
+create getquotausecase,0,0
+fix bug maintenance mode in share view,1,1
+fix some build error,0,0
+colorize log,0,0
+fix double upload issue,1,1
+fix kotlin example,0,0
+fix import,0,0
+merge merge pr 736 : fix @ touch,0,0
+fix injection of bean,0,0
+fix holoeverywhere integration,0,0
+fix intentbuilder startforresult,0,0
+fix formatting,0,0
+fix some problem with validatorhelper,1,1
+fix eserviceholder receiver delegation method call,0,0
+fix last merge ( see # 459 ),0,0
+fix some formatting problem,0,0
+fix build,0,0
+fix some test,0,0
+merge merge pr 729 : fix test,0,0
+fix method with @ receiveraction not call,1,1
+fix compilation error on protected inner class,1,1
+fix # 100 : error message be not well print,1,1
+fix unchecked cast warning,1,1
+fix generic issue with @ viewbyid,1,1
+fix import,0,0
+fix bug on neg index,1,1
+fix ut,0,0
+optimize getrow / getrows,1,3
+fix netty buffer release problem,1,1
+optimize ut run time,1,3
+fix multi - task block problem,1,1
+optimize ut execution time,1,3
+fix ut,0,0
+fix some ut,0,0
+optimize ut execution time,1,3
+optimize snapshot dump,1,3
+fix bug,0,0
+fix nullpointerexception when use old mapper api,1,1
+fix l1 regression problem for component vector,1,1
+fix some bug for l1 in gradientdescent for lr,1,1
+impove sparse init,1,3
+fix link,0,0
+fix l2 loss problem for comp model type,1,1
+fix partition save duplicate problem,1,1
+fix psf,0,0
+fix ut,0,0
+optimize oplog merger pool,1,3
+fix test compile error,0,0
+fix loadtolocal for row base matrix,0,0
+fix the comment receive in the pull request ( # 326 ) .,0,0
+fix slow basictimecheckertest ( # 1211 ),0,0
+fix issue 917 and other startup issue,0,0
+fix formatting,0,0
+fix bug : timezone default setting don't work,1,1
+fix the jobrunner test,0,0
+fix the code fromat,0,0
+fix # 661 : log download timeout be too short,1,1
+fix the duplicate flow log problem,1,1
+guicing execmetrics and fix related immutableenumchecker warning ( # 1215 ),1,1
+fix db failover functionality ( # 1410 ),1,1
+fix cosmetic storage bug ( # 1097 ),1,1
+fix know security bug via proper * nix permissioning ( # 1325 ),1,1
+fix npe in fetchactiveflowdao ( # 1862 ),1,1
+file count check fix ( # 2065 ),0,0
+fix cron expression validation ( # 789 ),0,0
+fix jobrunner bug when job be cancel early ( # 1148 ),1,1
+fix classcanbestatic warning in common sub - project ( # 1006 ),1,1
+add,0,0
+fix test and lint,0,0
+trigger some change,0,0
+ensure late come from the run container ( # 1179 ),1,3
+force new build,0,0
+fix test case,0,0
+fix test failure and miss resource,0,0
+fix checkstyle issue,0,0
+fix compilation issue,0,0
+fix osgi itests,0,0
+fix doc head,0,0
+file producer - issue with tod when use moveexisting,1,1
+fix c,0,0
+fix checkstyle issue,0,0
+fix c,0,0
+fix jdbcaggregationrepository optimistic locking feature ( # 3838 ),0,0
+fix checkstyle,0,0
+send game,0,0
+fix deprecate call and option,1,3
+fix rabbitmq doc and regen,0,0
+fix the reader premature closure by compete thread,1,1
+fix the autostartup cancellation from route policy issue,1,1
+fix async engine / test,0,0
+fix hystrixhierarchicalconfigtest and springhystrixroutehierarchicalconfigtest,0,0
+fix few warning,0,0
+fix jaxb model to pass modelsanitycheckertest,1,3
+fix test,0,0
+fix rabbitmq requeue header handling ( # 3555 ),0,0
+fix ahc test after jetty upgrade,0,0
+fix sn test,0,0
+optimize core and fixed test,1,3
+fix c,0,0
+fix c,0,0
+fix import,0,0
+fix input uri for normalizeduri ( # 3715 ),0,0
+fix camel - milo client component,0,0
+fix the camel - servlet build reproducibility,0,0
+fix formatting,0,0
+fix endpointbuilderfactory be not update in endpointdsl,1,1
+deprecate the legacy azure component ( # 4024 ),1,3
+solve suggestion .,0,0
+fix findbugs warning,0,0
+fix unit test,0,0
+fix healthcheckregistry and healthcheckservice setter,0,0
+fix management test,0,0
+fix packagecomponentmojo when generate json file,0,0
+fix import,0,0
+fix marshal test,0,0
+fix header resolution for lra saga route,0,0
+fix finding,0,0
+fix some javadoc formatting,0,0
+fix camel - log autowired exchange formatter test,0,0
+file producer - issue with tod when use moveexisting,1,1
+optimize core,0,0
+fix the defect manual commit not work ( # 2306 ),1,1
+fix checkstyle,0,0
+fix bug : bug,0,0
+spring service,0,0
+sping boot jar,0,0
+fix bug : integer ? ? ? string ? ? ?,0,0
+fix bug,0,0
+fix picker to work when profile picture not show .,1,1
+fix sso issue with legacy apps .,1,1
+deprecate place sdk,1,3
+fix some fail android test,0,0
+fix aam crash cause by getrootview,1,1
+fix switchusersample,0,0
+fix several issue with picker sample and authentication .,1,1
+fix broken test,0,0
+fix select intellij lint warning .,1,1
+fix flaky monitor test ( # 762 ),0,0
+fix flaky test and add logandsendappevent test,0,0
+fix unit test,0,0
+fix resource leak issue of cursor,1,1
+fix broken test ( # 551 ),0,0
+fix scrumptious crash during sso reauthorize,0,0
+fix memory leak in loginmanager and appeventslogger,1,1
+fix the bug of isadapterviewitem,1,1
+fix exception when rotate device during dialog auth .,1,1
+fix retrypolicy failure assignability checking,1,1
+fix logger statement ( # 1779 ),0,0
+fix potential npe when reset async history job,1,1
+fix camelexceptiontest and remove unstable asyncprocessrevisitedtest,1,1
+fix missorted modifier,0,0
+fix issue with not export root cause value,1,1
+fix more package import statement ( # 1501 ),0,0
+fix cfg test finally,0,0
+fix some async test,0,0
+fix json to bpmn model conversion issue,1,1
+fix localization key,0,0
+fix event test,0,0
+fix some test,0,0
+fix local fail cxf test,0,0
+fix flaky http test,0,0
+rest module should pull spring - security optionally ( # 892 ),0,0
+fix scripttasktest,0,0
+fix bug with people and group form field type,1,1
+fix intermediatetimereventrepeatwithendtest,0,0
+fix image generation,0,0
+resolve conflict,0,0
+fix jobeventstest,0,0
+miss white space ( # 1515 ),0,0
+fix history level test,0,0
+undo juel change,0,0
+fix test,0,0
+fix process task targetexpression not resolve correctly : tests / modeler,1,1
+fix executioneventstest,0,0
+fix adhoc subprocess completioncondition export incorrectly,1,1
+pull request 629,0,0
+fix starttimer test with cycle,1,1
+solve issue with execution listener # 42,1,1
+fix issue with compensation throw event activityref attribute # 1256,1,1
+fix empty classloader ( the default ),0,0
+fix test,0,0
+fix process definition suspension test,0,0
+fix all fail rest unit test on v6,0,0
+resolve conflict,0,0
+fix logo size in navigation bar ( # 1918 ),0,0
+fix fail sql server test ( part 2 ),0,0
+fix fail qa ( v5 compatibility ),0,0
+fix kafka inbound channel custom property fail test,1,1
+fix bit of executionquerytest,0,0
+fix issue # 67,0,0
+fix empty expression assignment # 629,0,0
+fix foreign key for root proc inst,0,0
+fix candidate filter,0,0
+fix possible npe,1,1
+fix history none test,0,0
+fix act - 2176 : skipexpression support be not complete skip user task .,1,1
+fix double check lock pattern ( # 145 ),0,0
+fix exception message text ( # 2676 ),1,1
+fix history none test,0,0
+fix osgi issue,0,0
+fix ldap compilation issue,0,0
+fix cdi test issue,0,0
+fix model blob issue,0,0
+fix crystalball expression dependency,0,0
+fix unsafe xmlinputfactory instantiation,1,1
+fix remain upgrade issue,0,0
+fix spring boot test,0,0
+fix exception when myprogramchangesdisplayplugin be uninstalled .,1,1
+fix recent navigation history regression,0,0
+fix change history issue link .,0,0
+deprecate user _ scripts _ bin _ dir,1,3
+fix help link,0,0
+fix dataactiontest failure due to data setting dockingaction change .,1,1
+fix test problem,0,0
+fix programbuilder unended transaction,0,0
+fix ntheader name,0,0
+gt - 3333 more good test & fix padding logic,0,0
+fix incorrect handling of relocation for arm be8 binary,1,1
+fix weak cache be sometimes treat a dynamic value .,1,1
+fix compatibility postgresql function string _ agg,1,1
+fix formatting,0,0
+fix nullif with row value,0,0
+fix too aggressive removal info collection,1,1
+fix null support for primivite type in pgserver,1,1
+fix array element reference,0,0
+fix some warning and mark some method a static,0,0
+fix openclose test case,0,0

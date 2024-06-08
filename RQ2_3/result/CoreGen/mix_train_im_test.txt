@@ -1,0 +1,5000 @@
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add check for null value
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple message
+remove unnecessary null check
+add support for multiple default value
+add support for multiple parameter
+remove unused import
+add support for multiple column
+remove unused import
+add miss null check
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add check for null value
+remove unnecessary null check
+add support for apache phoenix
+add check for null value
+fix error message
+remove unused import
+add a test for java 8 </s> method
+add check for null value
+add support for multiple user to the same thread
+add support for multiple file
+add support for multiple message
+do not use the same id in the same thread
+add support for multiple query
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple query
+fix error message
+fix error message
+add support for multiple column
+add support for multiple column
+add support for file
+address nullpointer exception in `
+add support for multiple column
+fix error message
+fix error message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+do not use the same id in the same thread
+add support for multiple column
+add support for multiple column
+remove unused import
+add a test for java 8
+add support for spring data
+add support for multiple parameter
+remove unused import
+add support for multiple default value
+add support for multiple message
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+add check for null value
+fix error message
+add support for multiple default value
+fix error message
+fix error message for invalid error message
+add support for multiple column
+remove unused import </s> method
+add support for multiple column
+add check for null value
+remove unused import
+add a test for the java source source
+add support for multiple column
+add check for null value
+add support for multiple message
+add support for multiple query
+do not use if the same name be not find
+fix error message
+add support for multiple column
+make sure that the same class be not a the same class
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add check for null value
+remove unnecessary null check
+address nullpointer exception in `
+fix error message
+add support for multiple parameter
+fix error message
+add support for multiple message
+fix error message
+add support for multiple default value
+add support for multiple column
+remove unnecessary null check
+fix error message
+do not use default method if there be no class
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+remove unused private method
+add new test for java source
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unused import
+add support for multiple default value
+fix error message
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+make sure that the same class name be not a the same
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+add support for multiple parameter
+add check for null value
+do not use default method if there be no class
+add support for multiple query
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+fix error message
+fix error message
+add support for multiple message
+add support for multiple column
+add support for multiple column
+fix error message
+add a test for java 8
+fix error message
+add a test for the java source source
+add support for multiple message
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple default value
+fix error message
+add support for multiple message
+add support for multiple file
+add support for kafka consumer
+add support for multiple default value
+add a test for java 8
+add test for java 8
+add support for multiple column
+address nullpointer exception in `
+fix error message
+add support for multiple message
+add support for multiple message
+remove unused private method
+remove unused method from interface
+add support for multiple column
+add support for multiple message
+add support for multiple column
+make sure that the same thread be always close
+add support for multiple default value
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unnecessary public modifier
+add support for multiple column
+add support for multiple column
+add support for multiple column
+fix error message
+remove unnecessary null check
+add support for multiple column
+add support for multiple default value
+remove unnecessary null check
+remove unused import
+add support for multiple message
+add check for null value
+do not use the same key in the same key
+add check for null value
+add support for multiple column
+add support for multiple default value
+remove unused import
+do not use if the same name be not find
+add a test for the java source source
+remove unnecessary null check
+add support for multiple message
+move package to package
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+add check for null value
+add support for multiple file
+do not use the same id in the same thread
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add check for null value
+remove unnecessary public modifier
+remove unnecessary null check
+add support for multiple query
+add support for multiple default value
+remove unused import
+add support for multiple column
+fix error message
+remove unused import
+fix error message
+add support for multiple message
+add more test
+remove unused import
+remove unnecessary null check
+do not use null check for null value
+add support for multiple column
+add support for multiple type
+remove unused import
+fix error message
+add support for multiple default value
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple column
+fix error message
+add support for multiple parameter
+add support for multiple query
+fix error message
+remove unused import
+add support for multiple message
+add check for null value
+remove unnecessary null check
+remove unused import
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple message
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple default value
+add support for multiple user to the same key
+fix error message
+add support for multiple message
+fix error message
+add support for multiple user to the same thread
+add support for multiple column
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for multiple parameter
+make sure that the same class be not a the same class
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple parameter
+remove unnecessary null check
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple column
+add check for null value
+add new test for issue
+add support for multiple parameter
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same table
+remove unnecessary null check
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add check for null value
+fix error message
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+fix error message
+remove unused private method
+remove unused private method
+address nullpointer exception in `
+add support for multiple user to the same thread
+do not use the same id in the same thread
+add support for multiple message
+make sure that the default value be not a default value
+add support for multiple column
+add support for multiple parameter
+remove unnecessary null check
+add check for null value
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+add support for multiple user to the same thread
+fix error message
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+do not use the same source if the same
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple parameter
+remove unused import
+do not use null check for null value
+remove unused import
+add check for null value
+remove unnecessary null check
+remove unused import
+add support for multiple message
+add support for multiple message
+remove unnecessary null check
+add check for null value
+remove unused import
+fix error message
+remove unused import
+do not use null value for empty string
+make sure that the same class name be not a the same name
+remove unnecessary null check
+add check for null value
+add check for null value
+add support for multiple column
+add support for multiple user to the same thread
+fix error message
+add support for multiple column
+fix error message
+remove unnecessary null check
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unnecessary null check
+add support for multiple parameter
+remove unnecessary public modifier
+add new test for java source file
+fix error message
+remove unused import
+add support for multiple column
+do not use null check for null value
+add support for multiple message
+remove unused import
+add check for null value
+add support for multiple query
+add check for null value
+add support for multiple parameter
+add support for multiple message
+remove unnecessary null check
+do not use null check for null value
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple parameter
+fix error message
+add support for multiple column
+fix error message
+add support for multiple message
+add support for multiple column
+add support for multiple column
+fix error message
+remove unused import
+remove unused import
+remove unused import
+fix error message
+remove unnecessary null check
+remove unused import
+make sure that the same class be not a the same class
+remove unnecessary null check </s>
+fix error message
+remove unnecessary null check
+add check for null value
+remove unnecessary public modifier
+remove unused import
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple message
+add support for multiple column
+address nullpointer exception in `
+fix error message
+add support for multiple message
+add support for multiple column
+add support for multiple message
+remove unused import
+fix error message
+add support for multiple user to the same thread
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+add check for null value
+fix error message
+move package to package
+remove unused private method
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add check for null value
+add support for multiple user
+add check for null value
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add check for null value
+add check for null value
+remove unused import
+add support for multiple column
+add check for null value
+add support for multiple column
+remove unnecessary public modifier
+add a test for java 8 </s> method
+solve npe in call
+add support for multiple column
+add support for multiple message
+fix error message
+add a test for java 8
+add support for multiple user
+add check for null value
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple message
+fix error message
+add support for multiple message
+fix error message
+add support for multiple column
+add support for multiple message
+add more log
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+do not use if the same file be not find
+add support for multiple type
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple user to the same thread
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+make sure that the same class name be not a the same name
+add support for multiple default value
+add support for multiple column
+address nullpointer exception in `
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for multiple message
+fix error message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary null check
+fix error message
+add test for issue with new session property
+fix error message
+remove unused import
+address nullpointer exception in `
+fix error message </s> interface
+fix error message
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple column
+add check for null value
+add check for null value
+remove unused import
+fix error message
+add support for multiple column
+fix error message
+add support for multiple column
+do not use null check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add check for null value
+add check for null value
+remove unnecessary null check </s> </s> </s> </s>
+fix error message
+fix error in the same thread
+add support for multiple parameter
+add support for multiple message
+fix error message
+add support for multiple column
+fix error message for close # sergey
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple parameter
+remove unnecessary null check
+add check for null value
+add support for multiple column
+fix error in the same thread
+add support for multiple column
+add support for multiple column
+fix error message
+fix error message
+add support for multiple column
+fix error message
+fix error message
+add support for multiple column
+add support for multiple column
+fix error message
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+add support for multiple message
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for multiple parameter
+fix error message
+add check for null value
+add support for multiple column
+add miss null check
+add check for null value
+add support for multiple message
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add check for null value
+add check for null value
+add support for spring data
+make sure that the same class name be not a
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for spring data
+remove unused import
+address nullpointer exception in `
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+address nullpointer exception in `
+fix error message
+add a test for the java source source
+remove unnecessary public modifier
+remove unused import
+add miss null check
+remove unnecessary null check
+do not use null value for empty string
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unused import </s> class
+add support for multiple column
+remove unused import
+add support for multiple column
+add check for null value
+make sure that the same class be not a the same class
+add support for multiple column
+add support for multiple user to the same thread
+fix error message
+add support for multiple column
+do not use null check for null value
+remove unused private method
+remove unused import
+add support for multiple column
+add check for null value
+add support for multiple message
+add support for multiple parameter
+fix error message
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple user to the same thread
+do not use null check for null value
+remove unnecessary null check
+add support for multiple column
+remove unused import
+fix error message
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple query
+remove unnecessary null check
+add support for multiple query
+do not use null check for null value
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add check for null value
+remove unused import
+add support for multiple default value
+add support for multiple default value
+remove unnecessary public modifier
+remove unused private method
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add a test for the java source
+remove unused private method
+remove unused import
+add support for multiple column
+remove unnecessary null check
+make sure that the same class be not a the same class
+remove unused import
+add a test for java 8
+add support for multiple file
+remove unused import
+add support for multiple default value
+add support for multiple file
+add support for multiple user to the same thread
+add a test for the new session
+remove unnecessary null check
+add support for multiple user property
+add support for multiple parameter
+add support for file
+add a test for the java source file
+add support for spring data
+add support for multiple message
+fix error message
+add support for multiple message
+add support for hive table
+fix error message
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple query
+move to common
+remove unnecessary public modifier
+add support for multiple column
+make sure that the same class be not a the same class
+add support for multiple column
+make sure that the same class be not a the same class
+add support for multiple parameter
+fix error message
+add support for multiple column
+remove unnecessary null check
+do not use null value for value
+remove unnecessary null check
+add support for multiple query
+add check for null value
+add support for multiple sql client
+make sure that the same thread be not a thread safe
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add check for null value
+remove unused import
+add a test for java 8
+add support for multiple column
+remove unused import
+remove unused private method
+add support for multiple column
+remove unused import
+fix error message
+fix error in the message
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unused import
+do not use null value for value
+remove unused import
+remove unnecessary catch block
+add support for multiple message
+add support for multiple message
+remove unused private method
+add support for multiple column
+add support for spring data
+add support for multiple parameter
+remove unused private method
+add support for spring data
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple file
+add check for null value
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for spring data
+fix error message
+move to core package
+add support for multiple query
+add check for null value
+add support for multiple message
+remove unused import
+remove unused private method
+add support for multiple parameter
+add support for multiple default value
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for multiple user
+remove unused import
+add support for multiple column
+add support for multiple message
+do not use default method if there be no class
+add a test for the java source source
+address nullpointer exception in `
+remove unused import
+add check for null value
+remove unused import
+add support for multiple default value
+add support for multiple file
+remove unused import
+remove unnecessary public modifier
+add support for multiple column
+add support for multiple query
+add a test for java 8
+remove unused private method
+remove unused import
+add support for multiple default value
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple query
+add support for multiple type
+add support for multiple file
+add support for multiple column
+remove unused import
+add a new test for the java source source
+add support for multiple column
+add support for multiple parameter
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple default value
+remove unused import </s> class
+remove unused file
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+make sure that the same class be not a the same class
+add check for null value
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple query
+add support for multiple message
+address nullpointer exception in `
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple column
+fix error in the same thread
+remove unused class
+add support for multiple column
+move package to common
+add support for multiple query
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple user to the same thread
+add support for multiple query
+fix error message
+fix error message
+add support for multiple query
+add support for multiple column
+remove unused import
+add support for multiple column
+fix error message
+fix error message
+remove unused import
+add support for spring data
+remove unused import </s> method
+add support for multiple message
+add support for multiple message
+add support for multiple column
+remove unused import
+fix error in the same thread
+remove unused import
+add support for multiple column
+fix error message
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for spring data
+fix error message
+remove unused import
+add support for spring data
+add support for spring data
+fix error message
+add support for spring data
+add support for multiple message
+add support for multiple message
+add test for issue with java 8 type
+remove unused import
+add support for multiple parameter
+add support for multiple column
+solve npe in call
+add support for multiple column
+remove unnecessary null check
+fix error message
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple file
+add support for multiple parameter
+add support for multiple user
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple parameter
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+remove unused import
+make sure that the same class be not a the same class
+add support for multiple user to the same thread
+remove unused import
+remove unnecessary null check
+fix error message
+remove unused import
+add a test for the java source
+add check for null value
+add support for multiple message
+add support for multiple query
+add support for multiple column
+do not use the same id in the same thread
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unnecessary public modifier
+add support for multiple column
+add support for multiple column
+address nullpointer exception in `
+add support for multiple column
+remove unused private method
+address nullpointer exception in `
+remove unused import
+add check for null value
+fix error message
+add support for multiple column
+remove unused import
+remove unused import
+fix error message
+add support for multiple default value
+remove unnecessary null check
+fix error message
+fix error message
+add support for multiple message
+add support for multiple column
+fix error message
+add support for multiple message
+fix error message
+fix error in the java source
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for file
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple default value
+address nullpointer exception in `
+remove unused import
+remove unused method from public method
+address nullpointer exception in `
+add support for kafka header
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple default value
+remove unused method from interface
+add support for multiple file
+remove unnecessary public modifier
+add support for multiple message
+address nullpointer exception in `
+remove unnecessary null check
+add support for spring data
+add support for file file file file file
+add support for multiple column
+add a test for the java source
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple parameter
+make sure that the same class be not a the same class
+add support for file
+remove unused import
+remove unnecessary null check
+do not use null check for null value
+address nullpointer exception in `
+remove unnecessary null check
+address nullpointer exception in `
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple file
+add support for multiple message
+remove unused import
+add a test for java 8
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple default value
+remove unnecessary null check
+fix error message
+do not use the same id in the same thread
+remove unused private method
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple sql client
+add support for multiple query
+remove unnecessary public modifier
+add support for multiple default value
+add support for multiple default value
+do not use default method if there be no class
+remove unused import
+remove unused import
+add support for multiple default value
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+fix error in the java source
+add support for multiple message
+add support for multiple message
+add support for file
+remove unnecessary null check
+fix error message
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+add support for multiple query
+remove unused import
+do not use the same id in the same thread
+add support for multiple column
+remove unused class
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+address nullpointer exception in `
+add support for multiple user to the same thread
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple message
+add support for multiple message
+add support for multiple file
+add support for multiple file
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for multiple parameter
+add support for multiple user to the same thread
+remove unused import
+add support for spring data
+remove unused import
+remove unnecessary null check
+add support for spring data
+add check for null value
+add support for spring data
+add support for multiple user to the same thread
+add support for multiple message
+remove unused import
+fix error message
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple default value
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add more test
+add support for multiple message
+remove unused import
+add support for multiple user
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+add support for multiple file
+fix error message
+remove unused import
+move to common
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple default value
+add support for multiple file
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple query
+remove unused private method
+add support for multiple file
+remove unnecessary null check
+remove unused import
+add support for multiple default value
+add support for multiple column
+add check for null value
+add support for multiple parameter
+remove unnecessary null check
+add support for spring data
+remove unused import
+add support for multiple column
+do not use default method if there be no class
+remove unused import
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple message
+add support for multiple column
+add check for null value
+remove unused private method
+add support for multiple column
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add check for null value
+add check for null value
+remove unused import
+add support for multiple parameter
+remove unused import </s> class
+add support for multiple column
+add support for multiple message
+add support for multiple parameter
+add support for multiple message
+remove unused import
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple message
+add support for multiple parameter
+add support for multiple parameter
+add support for spring data
+add support for multiple column </s> : </s>
+add support for multiple column
+add support for multiple query
+add support for multiple message
+add support for multiple column
+fix error message
+fix error message
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unnecessary null check
+make sure that the same class name be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more more more more more more more more more more more more java java more java more more more java more java more java that that we more java that we more java that that that that it
+add support for multiple column
+add a new test for the java source source
+remove unnecessary null check
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple default value
+do not use null check for null value
+add support for multiple file
+remove unused import
+add support for multiple file
+fix error message
+fix error message
+add support for multiple file
+add support for multiple message
+add support for multiple file
+remove unused import
+add a new test for the java source source
+remove unused import
+add new test for issue
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for spring data
+remove unused import
+fix error in the java source
+remove unused import
+remove unused import
+add support for spring data
+remove unused import
+remove unnecessary null check
+add support for multiple query
+add check for null value
+add support for multiple file
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add check for null value
+add support for multiple message
+add support for multiple column
+add support for multiple default value
+remove unused import
+add support for multiple parameter
+add support for multiple query
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple user to the same thread
+add support for multiple query
+add support for multiple file
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple default value
+remove unused method from interface
+add support for multiple column
+remove unused import
+remove unused import
+address nullpointer exception in `
+add support for multiple default value
+fix error message
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unused import
+add miss null check
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+add miss null check
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add check for null value
+remove unnecessary public modifier
+move to common
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple default value
+add support for multiple column </s> : </s>
+add support for file
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+fix error message
+add test for java 8
+add support for multiple column
+address nullpointer exception in `
+add support for multiple message
+remove unused import
+add more test
+move to common
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple message
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unused import
+fix error message
+add check for null value
+add support for multiple column
+add support for multiple default value
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple default value
+add support for multiple message
+remove unnecessary public modifier
+remove unused import
+add support for multiple sql client
+remove unused import
+remove unused import
+remove unused private method
+remove unused method
+remove unused import
+make sure that the default value be not a long
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple parameter
+add support for multiple parameter
+add support for multiple column
+remove unused private method
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for multiple file
+remove unused import
+add check for null value
+remove unused private method
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple message
+remove unused import
+do not use the same id in the same thread
+add a test for the java source
+add support for multiple column
+add miss null check
+add check for null value
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same source
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add a test for the java source </s> java source
+add support for multiple column
+make sure that the same thread be always close
+remove unnecessary public modifier
+add check for null value
+remove unused import
+add support for multiple message
+fix error message for invalid error message
+remove unused import
+add support for multiple user to the same source
+add check for null value
+remove unused import
+fix error message
+do not use null check for null value
+add support for multiple column
+add miss null check
+add support for multiple parameter
+add support for multiple message
+add support for multiple default value
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple query
+add a test for the java source
+remove unnecessary null check
+add support for multiple message
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple default value
+remove unnecessary null check
+add support for multiple parameter
+remove unnecessary null check
+add a test for the java source source
+add support for multiple message
+remove unused import
+remove unused import
+make sure that the same class be a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a public
+remove unused import
+add support for multiple file
+fix error message
+add support for multiple message
+add support for multiple message
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+add check for null value
+remove unused import
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+remove unused import
+do not use null check for null value
+add support for multiple message
+remove unused import
+add support for multiple column
+fix error message
+do not use null check for null value
+remove unused import
+add support for multiple column
+add support for multiple default value
+fix error message
+add check for null value
+add support for multiple column
+add support for multiple message
+add support for multiple message
+add check for null value
+remove unused import
+remove unused import
+add support for multiple file
+remove unused import
+do not use the same source if the source be not set
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add more test for java 8
+remove unnecessary null check
+add support for multiple query
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+add support for multiple column
+fix a shutdown problem
+fix npe cause by
+fix issue
+fix issue do not
+fix memory leak in </s>
+fix error message
+fix npe
+fix error message
+fix error message in null
+fix remove config node bug
+fix error message
+fix for pinot query where order by column be prune in projection
+fix error message
+fix error message
+fix them be work in progress
+fix tremove incompatibility
+fix false negative failure 
+optimize type converter registry
+fix that recent view be always load
+fix websocketasyncconnection close
+fix the c error of message
+fix error dialog exception when a group </s>
+fix securityexception when run with security manager
+fix support for multiple column
+remove unused import
+fix error message
+add support for write file
+remove unused import
+add support for multiple query
+add check for null value
+add support for multiple column
+add support for multiple message
+add support for multiple message
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple message
+fix error message
+make sure that the same class be not a the same class
+remove unused import
+remove unnecessary null check
+address nullpointer exception in `
+add support for multiple default value
+add support for multiple message
+add support for multiple parameter
+add support for multiple query
+move to core package
+add support for spring data
+remove unused import
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple query
+remove unnecessary null check
+add support for spring data
+add support for multiple message
+add support for multiple column
+add support for multiple query
+add support for multiple file
+address nullpointer exception in `
+add check for null value
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+fix error message
+add support for multiple column
+remove unused import
+add support for multiple file
+remove unnecessary null check
+remove unused private method
+add a new test for the java source source
+add support for multiple default value
+add support for multiple message
+fix error message for invalid error message
+remove unnecessary null check
+add check for null value
+remove unused import
+add support for multiple message
+add support for multiple column
+add check for null value
+add support for multiple query
+fix error message
+add support for multiple query
+add support for multiple query
+add support for multiple column
+make sure that the default value be not a long
+add support for multiple default value
+add check for null value
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+address nullpointer exception in `
+add support for multiple parameter
+add support for multiple column
+add support for multiple query
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple default value
+add support for multiple message
+remove unused import
+fix error message </s> interface
+remove unused import
+add support for hive table
+remove unused import
+remove unused method from interface
+remove unused private method
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple query
+add support for multiple column
+fix error message
+add support for multiple type
+add support for multiple column
+add support for multiple message
+add a test for java 8
+remove unused import
+add a test for java 8
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for multiple query
+remove unused import
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unnecessary null check
+add support for spring data
+add support for multiple user
+remove unnecessary null check
+remove unused import
+do not use null check for null value
+add support for multiple message
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for write file
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple query
+add support for multiple parameter
+add support for multiple type
+add support for multiple default value
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for file
+add support for multiple column
+remove unused import
+remove unused import
+add a new test for the java source source
+add support for multiple default value
+add support for multiple message
+remove unused import
+add support for multiple column
+do not use default method if there be no class
+remove unnecessary null check
+add check for null value
+remove unused static method
+add support for multiple column
+remove unnecessary null check
+address nullpointer exception in `
+remove unused import
+add a new test for the java source source
+add support for multiple default value
+add support for multiple default value
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple parameter
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+address nullpointer exception in `
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple user to the same source
+add support for multiple user to the same thread
+add support for kafka table
+remove unused import
+add support for multiple message
+remove unnecessary null check
+remove unused private method
+add support for multiple type
+add support for multiple parameter
+add support for multiple column
+add support for multiple parameter
+add support for multiple message
+add support for multiple query
+add support for multiple column
+add support for multiple message
+add check for null return value if the value be not set
+add support for multiple message
+remove unnecessary null check
+add support for hadoop runner
+add support for multiple parameter
+fix error in the java source
+add support for multiple user to the same table
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused import
+add support for multiple default value
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple column
+do not use the same source if the source be not set
+add support for multiple default value
+add support for multiple default value
+fix error message
+remove unused import
+remove unused import
+remove unused import
+fix error message
+fix error message
+add support for spring data
+add support for multiple message
+remove unused import
+add support for multiple default value
+do not use null check for null value
+add support for multiple query
+remove unused import
+remove unused import
+remove unused import
+fix error message
+add a test for the java source source
+add support for multiple message
+move to core package
+remove unused import </s> class
+remove unused import
+add support for multiple parameter
+add support for multiple default value
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple default value
+add support for multiple message
+add support for multiple parameter
+add support for multiple message
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unused private method
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple user to the same thread
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+address nullpointer exception in `
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for apache phoenix
+add more test
+add support for multiple user to the same source
+add check for null value
+add check for null value
+fix error message
+add support for multiple default value
+remove unused import
+remove unused import
+do not use null value for empty string
+add support for multiple message
+remove unused import
+fix error message </s> interface
+remove unused import
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add a test for the java source file
+add support for multiple message
+fix error message
+add a new test for the java source source
+add support for multiple query
+remove unused class
+add support for multiple message
+add support for spring data
+remove unnecessary null check
+add check for null value
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+add support for multiple column
+fix error message
+add more test
+add support for multiple query
+remove unused import
+add support for multiple user to the same table
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple message
+make sure that the same class be not a the same class
+add support for multiple column
+add support for multiple default value
+remove unused import
+do not use the same id in the same thread
+add support for multiple default value
+remove unnecessary public modifier </s> method </s> method </s> method
+add support for multiple column
+add support for multiple column
+remove unnecessary public modifier
+add support for multiple parameter
+remove unused import
+remove unused import
+fix error message
+add support for multiple default value
+add support for multiple user to the same thread
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused private method
+add support for multiple file
+add support for multiple column
+fix error message </s> interface
+add support for multiple query
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple message
+add a new test for the java source source
+add a test for the java source
+add support for multiple column
+fix error message
+remove unnecessary null check
+add support for multiple column
+add a test for the java source
+add a test for java 8
+add support for multiple column
+add support for multiple user to the same thread
+add check for null file
+remove unnecessary null check
+do not use the same id in the same thread
+fix error message
+fix error message
+add support for multiple query
+remove unused private method
+add support for multiple column
+remove unused import
+add support for file
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add check for null value
+address nullpointer exception in `
+solve npe in call
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+remove unused import
+add a new test for the java source source
+add support for multiple column
+move to core package
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+address nullpointer exception in `
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for multiple message
+add support for multiple default value
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple default value
+add support for file
+remove unused import
+add support for multiple column
+remove unused import
+remove unused private method
+add support for multiple message
+add support for multiple column
+move to common
+add support for multiple column
+remove unused import
+add support for multiple user to the same thread
+add a test for the java source
+add support for multiple column
+add check for null return value
+remove unnecessary null check
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple user to the same key
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add check for null value
+add support for multiple parameter
+remove unused import
+add support for multiple column
+fix error message
+add support for multiple query
+add support for multiple default value
+remove unused import
+add support for multiple column
+remove unused import
+add check for null value
+make sure that the default value be not a long
+add support for multiple parameter
+remove unused import
+remove unnecessary null check
+add support for multiple query
+remove unnecessary public modifier
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple file
+remove unused import
+add support for multiple message
+add a new test for the java source source code
+remove unused import
+add support for hive table
+remove unused import
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple query
+add support for multiple default value
+add support for multiple message
+remove unused import
+remove unused import
+remove unused import
+remove unused import </s> class
+add support for multiple column
+add support for multiple query
+add support for spring data
+add support for multiple default value
+add miss null check
+add support for multiple file
+add support for multiple user to the same thread
+add support for multiple sql client
+add support for multiple query
+add a test for the java source source
+add a test for the java source
+fix error message
+add a test for the new session
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+remove unused import
+add support for multiple message
+add support for multiple query
+add support for multiple default value
+remove unused import
+fix error message
+fix error message
+remove unnecessary null check
+remove unused import
+add support for multiple message
+fix error in the java source
+add support for multiple column
+add support for multiple column </s> : </s>
+add a test for java 8
+remove unused import
+add support for multiple column
+add check for null value
+remove unnecessary null check
+fix error message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+fix error message
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+do not use null check for null value
+remove unnecessary null check
+add check for null value
+fix error message
+add support for multiple column
+add support for multiple message
+add a test for the java source source
+make sure that the same class be a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string string string string string string string string
+add support for multiple column
+add support for multiple column
+address nullpointer exception in `
+make sure that the default value be not a string
+add support for multiple parameter
+add support for multiple message
+add support for multiple message
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple message
+add a test for the java source source
+add support for multiple column
+fix error message
+add support for multiple message
+add check for null value
+add support for multiple column
+address nullpointer exception in `
+do not use null value for empty string
+add support for multiple column
+remove unused private method
+remove unused import
+remove unused import
+add check for null value
+add support for multiple default value
+add support for multiple sql client
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for file
+remove unused import
+add support for multiple user to the same table
+add support for multiple query
+fix error message
+remove unused import
+add support for multiple column
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple type
+add support for multiple column
+remove unused import
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple default value
+add support for multiple message
+remove unused private method
+remove unused import
+add support for multiple column
+add a test for the java source source
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple default value
+add a test for the java source
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple parameter
+add support for multiple parameter
+add support for multiple default value
+add support for multiple query
+add support for multiple column
+add check for null value
+remove unused import
+add support for multiple parameter
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+remove unnecessary catch block
+add check for null value
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple message
+add check for null value
+add check for null value
+add check for null value
+remove unused import
+add check for null value
+add support for multiple message
+add support for multiple message
+add support for multiple query
+add support for multiple column
+add a test for the java source
+remove unused import
+add support for multiple column
+add support for multiple column
+address nullpointer exception in `
+add support for multiple message
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+add support for multiple default value
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+add a test for java 8
+add support for multiple column
+remove unused import
+add support for multiple column
+add a new test for the java source source
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+fix npe in booleanjavatype
+fix memory leak in rout slip
+fix rebase error
+add support ctor would hang
+fix android builder firebase
+fix set timeout for transaction 
+add transformer.transformquery
+fix compile error
+fix webdriver throw an exception when try
+fix multi-threaded mode update exception message
+deprecate old traversal method
+fix overseer.setshardleader to not modify exist state
+optimize how ordinalmap build it map
+fix streaming do not transfer wrapped range
+fix lucence segment error by check for exist index
+fix navigation of annotation on classdeclation kind
+add support for multiple user to the same thread
+add support for multiple column
+do not use null value for empty string
+remove unused import
+address nullpointer exception in `
+add support for multiple default value
+add a test for the java source code
+add support for multiple column
+fix error message
+add more test
+add check for null value
+add support for multiple column
+add check for null value
+add support for multiple user to the same thread
+add support for multiple query
+add support for multiple column
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unused import
+remove unused import
+add support for spring data
+add check for null value
+add new test for java 8
+fix error message
+remove unused import
+add support for multiple parameter
+add support for multiple message
+add support for multiple default value
+remove unnecessary null check
+add support for multiple message
+add support for multiple parameter
+add support for file file file file file
+add support for file
+remove unused import
+remove unused import
+add support for multiple user to the same key
+remove unused import
+remove unused import
+add support for multiple column
+fix error message
+remove unused import
+add check for null file
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+fix error message
+add support for multiple message
+add support for multiple query
+remove unused import
+add support for multiple default value
+add support for multiple parameter
+add support for multiple message
+do not use null value for empty string
+remove unused import
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+move to common
+add support for multiple default value
+add support for write file
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple user
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for hive table
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+fix error message
+add support for multiple default value
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple default value
+add support for spring data
+add support for multiple sql client
+add support for multiple column
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple file
+fix error message
+remove unused import
+remove unused import
+remove unnecessary null check
+fix error message
+remove unused import
+address nullpointer exception in `
+remove unnecessary null check
+add support for multiple column
+address nullpointer exception in `
+remove unused import
+add support for multiple user to the same thread
+add check for null value
+add support for multiple user to the same table
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple parameter
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple default value
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused import
+move to common
+remove unused import
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+remove unused import
+move package to common
+add support for multiple message
+add support for multiple default value
+remove unused import
+add check for null value
+remove unused import
+add check for null value
+remove unused import
+remove unnecessary public modifier
+add support for multiple parameter
+fix error in the java source
+remove unused private method
+add support for multiple message
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+do not use the same source if the same
+fix error message
+remove unused import
+address nullpointer exception in ` </s> `
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple user
+fix error message
+fix error message for invalid error message
+fix error message
+add support for multiple default value
+add support for multiple column
+fix error message
+add support for multiple column
+add support for file
+fix error message
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple column
+make sure that the same class name be not a the same name
+add support for multiple default value
+add support for multiple column
+make sure that the default value be not a string
+make sure that the default value be not a long
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add check for null value
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add check for null value
+fix error message
+add support for multiple column
+add support for multiple message
+remove unused import
+add check for null value
+add miss null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add a test for the java source
+add support for multiple column
+add support for multiple message
+add support for multiple message
+add support for multiple message
+add check for null value
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple message
+fix error message
+add support for multiple message
+add support for multiple message
+fix error message
+add support for multiple column
+add support for multiple column
+add a test for java 8
+do not use if the same file be not find
+add support for multiple column
+remove unnecessary null check
+fix error message
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+fix error message
+add check for null value
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple message
+add support for multiple column
+add support for multiple message
+add support for multiple column
+fix error message
+add check for null value
+remove unused import
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add check for null value
+add support for multiple message
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more class </s> class </s> class </s> class
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary public modifier
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for multiple parameter
+remove unused import
+add support for multiple message
+add support for multiple column
+add check for null value
+remove unused import
+add support for multiple user to the same thread
+add support for multiple column
+remove unnecessary null check
+add support for multiple default value
+add support for multiple query
+remove unnecessary null check
+add check for null value
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+make sure that the same class be not a the same class
+add support for multiple column
+fix error message
+add more log </s>
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple parameter
+add support for multiple message
+add support for multiple file
+move package to the package
+remove unused private method
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple default value
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add check for null value
+add check for null value
+address nullpointer exception in `
+remove unused import
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add check for null value
+add support for multiple query
+add support for multiple default value
+remove dependency on junit 4
+remove unused import
+add support for multiple query
+add a test for java 8
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add a test for the java source file
+add support for multiple message
+add support for multiple file
+remove unused import
+remove unused private method
+add support for multiple query
+add support for multiple column
+add support for multiple message
+remove unused import </s> class
+do not use the same id in the same thread
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple default value
+add support for multiple message
+add support for multiple default value
+do not use null value for empty string
+add support for multiple file
+add support for multiple parameter
+add support for hive table
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+add support for spring data
+add support for multiple user to the same thread
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add check for null value
+remove unused import
+add check for null value
+add support for multiple file
+add check for null value
+add support for multiple sql client
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple query
+add check for null value
+do not use null check for null value
+address nullpointer exception in `
+add support for multiple column
+add support for multiple message
+add support for multiple type
+fix error message
+add support for multiple message
+address nullpointer exception in `
+add support for multiple message
+add support for multiple parameter
+add support for multiple parameter
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add check for null value
+fix error message
+fix error message
+add support for multiple message
+add support for spring data
+remove unused import
+add check for null value
+do not use the same id in the same thread
+remove unused import
+add support for multiple column
+add support for multiple column
+add check for null value
+add check for null value
+remove unnecessary null check
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for spring data
+fix error message
+add support for multiple file
+remove unnecessary null check
+add support for multiple column
+add support for spring data
+add support for multiple message
+add support for multiple column
+add support for multiple default value
+do not use if the same name be not find
+remove unnecessary null check
+remove unused import
+add support for multiple message
+add support for multiple column
+add check for null value
+remove unused import
+remove unnecessary null check
+add support for multiple user to the same table
+do not use null check for null value
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add a test for java 8
+remove unnecessary null check
+fix error message
+add support for multiple user
+remove unnecessary null check
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple parameter
+add support for spring data
+add support for multiple column
+solve npe in call
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple parameter
+address nullpointer exception in `
+fix error message
+address nullpointer exception in `
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple query
+remove unused import
+add check for null value
+remove unused import
+make sure that the same class be a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string string string string string string </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class
+add support for multiple default value
+add support for multiple query
+remove unused import
+add support for multiple column
+do not use null check for null value
+remove unnecessary null check
+add support for multiple column
+add check for null value
+remove unnecessary null check
+address nullpointer exception in `
+add check for null value
+fix error message
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+fix error message
+add support for multiple message
+remove unnecessary null check
+add support for multiple default value
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unnecessary public modifier
+add check for null value
+add support for multiple column
+add support for multiple column
+address nullpointer exception in `
+remove unused import
+remove unnecessary null check
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple query
+remove unnecessary null check
+add support for multiple message
+add check for null value
+do not use if the same file be not find
+fix error message
+add check for null value
+remove unnecessary null check
+remove unnecessary null check </s>
+address nullpointer exception in `
+add support for multiple message
+remove unused import
+add check for null value
+add support for file
+add support for multiple message
+do not use the same id in the same thread
+solve npe in call </s> class
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add check for null value
+add support for multiple column
+do not use if the same file be not find
+remove unnecessary null check
+add support for multiple message
+address nullpointer exception in `
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple file
+remove unused import
+add check for null value
+add support for multiple message
+add support for file
+add support for multiple column
+add support for hive table
+do not use the same id in the same thread
+add check for null value
+add support for multiple column
+add support for multiple user
+remove unused import
+do not use null check for null value
+add support for multiple column
+address nullpointer exception in `
+add support for multiple column
+add support for multiple default value
+remove unnecessary null check
+add support for multiple parameter
+remove unnecessary null check
+remove unnecessary null check
+address nullpointer exception in `
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple column
+do not use the same id in the same thread
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+do not use null value for empty string
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple message
+add support for multiple default value
+remove unused import
+add support for file
+add support for multiple file
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for file
+add support for multiple column
+add support for multiple file
+add support for multiple default value
+add miss null check
+add support for multiple column
+add check for null value
+remove unused import
+add support for file path
+add support for spring data
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add new test for issue
+add support for multiple user to the same thread
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple file
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for write file
+remove unnecessary null check
+remove unused class
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple parameter
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple message
+add support for multiple file
+add support for multiple message
+add support for file
+add support for multiple column
+add support for multiple file
+add support for multiple default value
+remove unused import
+add new test for issue
+add support for hadoop runner
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple column
+add check for null value
+add support for multiple message
+fix error message
+add support for multiple file
+add support for multiple message
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for file
+add a test for the java source
+add support for spring data
+address nullpointer exception in `
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple file
+add support for multiple file
+remove unused import
+add check for null value
+remove unused import
+fix error message
+remove unused import </s> class
+add support for multiple column
+add support for file
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple file
+remove unused import
+remove unused import
+add check for null value
+remove unnecessary null check
+add check for null value
+do not use default method if there be no class
+add support for multiple file
+add support for multiple file
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+add check for null value
+remove unnecessary null check
+add support for multiple file
+add support for multiple file
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add check for null value
+remove unused import
+add support for multiple query
+add support for multiple column
+fix error message
+add support for multiple file
+add support for multiple column
+add new test for issue
+add new test for issue
+add support for multiple column
+make sure that the same class be not a the same class
+address nullpointer exception in `
+add support for multiple file
+add support for multiple message
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple message
+add support for multiple query
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+fix error message
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple type
+add support for multiple message
+add support for multiple file
+add check for null value
+add check for null value
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for multiple file
+do not use default method if there be no class
+add support for multiple message
+add support for multiple file
+remove unused import
+remove unused file
+add file path to file
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for spring data
+make sure that the same class be a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string string string
+add support for multiple parameter
+add support for multiple column
+add new test for java source
+add support for multiple user
+fix error message
+add support for multiple file
+remove unused import
+add support for multiple default value
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for spring data
+add support for multiple file
+add support for multiple column
+make sure that the same class be not a the same class
+remove unused import
+add support for multiple file
+add support for multiple parameter
+do not use the same id in the same thread
+fix error message
+add support for multiple file
+fix error in the java source
+add support for multiple user to the same thread
+remove unnecessary null check
+add support for multiple message
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for hadoop runner
+add support for multiple column
+add check for null value
+add support for multiple user to the same thread
+remove unused import
+add support for spring data
+add support for file
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple file
+add support for multiple column
+fix error in the default method
+fix error message
+add support for multiple default value
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add new test for issue
+add check for null value
+add support for multiple message
+add new test for issue
+add new test for issue
+remove unnecessary null check
+remove unnecessary null check
+add support for hive table
+make sure that the same class be not a the same class
+add support for multiple column
+remove unnecessary public modifier
+add support for file
+add support for multiple file
+do not use default method if there be no class
+add support for multiple query
+add support for multiple parameter
+add support for multiple file
+add check for null value
+add support for multiple file
+add check for null
+fix error message
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for multiple parameter
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for multiple task
+add support for multiple file
+fix error message
+remove unused import
+add support for multiple message
+add support for multiple column
+add check for null value
+add support for hive table
+add support for multiple file
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple file
+fix error message
+add support for multiple parameter
+add support for multiple file
+add support for hive table
+fix error message for invalid error message
+add check for null value
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+move package to common
+remove unused class
+add support for multiple user
+make sure that the default value be not a long
+remove unused file
+add support for multiple message
+remove unused class
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple parameter
+remove unused import </s> method
+add check for null file
+add support for file path
+fix error message
+add support for file
+add support for spring data
+add check for null file
+remove unused import
+remove unused import
+add check for null value
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple message
+add support for multiple file
+add support for multiple default value
+add support for multiple column
+make sure that the default value be not a long
+remove unused import
+add support for multiple column
+add support for multiple file
+do not use null value for empty string
+add check for null value
+add support for multiple parameter
+add support for spring data
+add support for multiple column
+add a test for the java source code
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple file
+address nullpointer exception in ` </s> `
+add support for multiple column
+do not use null check for null value
+add support for multiple message
+add support for multiple parameter
+add support for file
+add support for multiple column
+add new test for issue
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same thread
+remove unused import
+add support for file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple query
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple query
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple message
+add support for multiple file
+move to common
+add support for multiple column
+remove dependency on jpa collection
+add support for multiple parameter
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused private method
+remove unused import
+add support for hive table
+remove unused import
+add support for multiple message
+add check for null value
+add support for multiple file
+remove unused import
+add support for multiple file
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+make sure that the same class be always return
+fix error message
+add support for spring data
+address nullpointer exception in `
+add a test for java 8
+add support for multiple file
+remove unused import
+add support for multiple parameter
+add support for spring data
+remove unused import
+add support for multiple column
+add new test for java source
+fix error message
+address nullpointer exception in `
+remove unused import
+add check for null value
+add support for multiple default value
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for multiple file
+add support for multiple file
+add support for multiple user to the same thread
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple file
+remove unnecessary null check
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple file
+add check for null value
+add support for multiple column
+add support for spring data
+add support for multiple message
+remove unused import
+fix error message
+remove unused import
+address nullpointer exception in `
+add support for multiple column
+add support for multiple query
+add support for hive table
+add support for multiple column
+add a test for the java source file
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple message
+add support for spring data
+add support for multiple column
+do not use the same source if the source be not set
+add test for issue with java 8
+remove unused import
+fix error message </s> interface
+add check for null value
+add support for multiple default value
+add support for multiple column
+add support for multiple parameter
+add support for multiple parameter
+add support for write file
+add support for multiple file
+add support for multiple file
+add check for null value
+add support for multiple file
+add support for multiple message
+remove unused import
+add support for spring data
+add support for multiple message
+add support for multiple column
+add support for hive table
+add support for multiple file
+remove unnecessary null check
+add check for null value
+add support for multiple query
+remove unused import
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for file
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for multiple message
+add support for multiple file
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for file
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple default value
+remove unused import
+add support for multiple column
+add a test for the java source source
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for hive table
+add check for null value
+add support for file
+add support for multiple column
+add support for spring data
+fix error message
+add support for hive table
+add support for multiple file
+add support for spring data
+add support for multiple message
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for multiple file
+add support for hive table
+remove unused import
+add support for hadoop runner
+add support for file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple file
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+move to common package
+add support for multiple file
+add support for multiple message
+add support for spring data
+add support for multiple column
+add support for hadoop runner
+add support for kafka metadata
+remove unused import
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple message
+add check for null value
+add support for multiple message
+add support for multiple column
+remove unused import </s> class
+add support for multiple column
+do not use null check for null value
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple parameter
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+remove unused import
+add support for spring data
+remove unnecessary public modifier
+add support for multiple parameter
+add check for null value
+add support for spring data
+add check for null value
+add support for spring data
+address nullpointer exception in `
+add more log
+remove unused import
+add support for multiple parameter
+add support for multiple file
+remove unnecessary null check
+remove unused import
+make sure that the same class be not a the same
+add a test for the java source source
+do not use null check for null value
+remove unused import
+add support for multiple file
+add support for multiple message
+add support for multiple file
+add support for multiple file
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple file
+add support for write file
+add support for multiple default value
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for multiple user to the same thread
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add new test for new java api
+add support for multiple column
+add support for multiple column
+add support for write file
+add support for multiple column
+remove unused import
+add support for multiple default value
+remove unused import
+add check for null value
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string string more than that it be call that it
+add support for multiple query
+remove unnecessary null check
+add support for multiple user to the same key
+add support for multiple column
+make sure that the default value be not a long
+add support for multiple column
+add new test for new java api
+add new test for issue
+add support for multiple column
+add support for multiple user to the same thread
+add support for multiple file
+remove unused import
+remove unnecessary null check
+remove unused import
+do not use the same source if the same
+add check for null value
+remove unused import
+remove unused import
+add support for hive table
+add check for null value
+add support for multiple file
+add support for multiple file
+remove unnecessary null check
+add support for multiple file
+remove unused import
+add support for multiple message
+add support for multiple file
+add support for multiple file
+add support for multiple column
+add support for spring data
+add support for multiple column
+add check for null value
+add new test for issue
+add support for multiple file
+remove unnecessary null check
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple user to the same thread
+add a new test for the java source file
+add support for spring data
+add support for hadoop runner
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for file
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+add support for multiple message
+add support for multiple default value
+add check for null value
+add support for multiple query
+remove unnecessary null check
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for file
+add support for write file
+add support for multiple parameter
+add support for multiple default value
+add support for multiple file
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add check for null value
+add check for null file
+add support for multiple column
+move to the new package
+add support for multiple column
+remove unused import
+add new test for issue
+add miss null check
+add support for multiple column
+add support for multiple user to the same thread
+do not use null check for null value
+add support for multiple message
+remove unused import
+add support for multiple file
+remove unused import
+remove unused class
+remove unused private method
+add support for spring data
+add support for multiple column
+add support for multiple column
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more more more more than
+remove unused import
+remove unused import
+add support for spring data
+add support for hive table
+add support for spring data
+remove unnecessary null check
+add support for multiple message
+remove unnecessary null check
+add support for multiple file
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add check for null value
+add new test for new java api
+fix error message
+remove unnecessary public modifier
+add support for multiple message
+add support for spring data
+add support for multiple column
+add support for hive table
+add support for spring data
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple file
+remove unused import
+add support for multiple message
+add support for multiple parameter
+add support for multiple file
+add check for null value
+remove unused import
+remove unused private method
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for file
+fix error message
+add support for multiple file
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple default value
+add support for multiple type
+remove unused import
+add support for multiple column
+add support for spring data
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple user to the same thread
+add support for multiple column
+remove unused import
+add support for hadoop runner
+add support for multiple message
+add support for spring data
+add support for spring data
+add support for spring data
+remove unused import
+add support for spring data
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple file
+do not use the same id in the same thread
+add support for multiple file
+add support for multiple parameter
+add new test for issue
+add support for spring data
+add support for multiple user to the same thread
+add support for spring data
+add check for null value
+add support for multiple user
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple file
+remove unused class
+remove unused import
+add support for multiple file
+add check for null value
+add support for multiple file
+add support for file
+add support for multiple default value
+remove unused class
+remove unnecessary null check
+add support for multiple message
+add support for hadoop runner
+do not use default method if there be no class
+add support for multiple default value
+add support for multiple query
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for multiple column
+remove unused private method
+add support for spring data
+address nullpointer exception in `
+add support for multiple column
+add check for null value
+add support for multiple column
+add check for null value
+add support for multiple column
+add new test for issue
+remove unused import
+add support for multiple user to the same source
+add support for property file
+fix error message
+add support for multiple file
+add support for multiple column
+add support for spring data
+add support for multiple user
+add support for hive table
+add check for null value
+add support for spring data
+remove unused import
+remove unused import
+remove unnecessary static method
+remove unnecessary null check
+add new test for issue
+add support for multiple default value
+remove unused import
+add support for multiple file
+remove unused import
+remove unnecessary null check
+fix error message
+add support for multiple column
+add support for spring data
+add support for multiple query
+remove unnecessary null check
+add support for multiple file
+add support for multiple query
+add support for multiple file
+add support for multiple message
+add new test for issue
+add support for file file file file
+remove unused class
+add support for spring data
+add check for null value
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for spring data
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple parameter
+remove unused private method
+remove unnecessary public modifier
+add support for multiple column
+add support for multiple column
+remove unused import
+add new test for the new java api
+add support for multiple column
+add check for null value
+add check for null value
+add support for multiple query
+remove unused import
+remove unused import </s> class
+add support for multiple message
+add support for multiple user
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for multiple default value
+add check for null value
+add support for multiple parameter
+add check for null value
+fix error message
+add check for null file
+remove unused import </s> class
+add support for multiple column
+add support for multiple message
+add support for multiple file
+remove unused import
+add support for multiple file
+add support for multiple query
+add a test for java 8
+fix error message
+add support for multiple file
+remove unused import
+add a test for the java source
+remove unused import
+add support for multiple column
+add support for multiple file
+fix error message
+add support for multiple default value
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+add support for multiple default value
+add support for multiple column
+add support for multiple user to the same thread
+add support for multiple message
+add support for multiple column
+add support for hadoop runner
+add support for multiple column
+add support for file
+add support for multiple parameter
+make sure that the same class name be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a public class
+fix error message
+add support for multiple file
+fix error message
+do not use null check for null value
+remove unused import
+add support for multiple default value
+add a test for the java source </s> java source
+remove unused import
+add support for multiple column
+add support for file
+add support for multiple column
+remove unused import
+add new test for issue
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null value
+add support for multiple query
+add check for null value
+add support for multiple query
+add support for multiple file
+add support for multiple file
+add support for file
+fix error message
+add support for multiple column
+add support for multiple file
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple message
+add support for file
+add check for null value
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add new test for issue
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+fix error message
+remove unused class
+add support for multiple message
+add support for multiple file
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add new test for the new java api
+add check for null value
+remove unused private method
+add support for multiple user to the same key
+add support for multiple message
+add check for null value
+add support for multiple column
+do not use the same id in the same
+remove unused class
+remove unused import
+remove unused import
+add support for multiple default value
+add support for write file
+add support for multiple message
+add support for multiple file
+add support for multiple column
+make sure that the default value be not a default
+add a new file
+add support for multiple column
+add support for file
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple default value
+add support for multiple file
+remove unused import
+remove unused import
+remove unused import
+add support for multiple message
+remove unnecessary null check
+remove unused private method
+add support for spring data
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple file
+add support for multiple message
+add support for multiple file
+add support for hive table
+add support for multiple file
+remove unnecessary null check
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+add support for spring data
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add a new test for the java source source
+add support for multiple file
+add check for null value
+fix error message
+add support for multiple file
+add support for multiple file
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+add support for multiple file
+fix error message
+add support for multiple column
+remove unused import
+add support for spring data
+add support for hive table
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused import
+remove unused private method
+add support for hive table
+add more log
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple user to the same thread
+add support for multiple message
+add support for multiple file
+add a check for null file
+add test for new api
+add check for null value
+remove unused import
+add support for multiple column
+add support for spring data
+remove unnecessary null check
+add support for multiple file
+remove unused import
+add support for hive table
+add support for multiple column
+add support for file
+remove unused import
+add support for multiple column
+add support for spring data
+add support for multiple default value
+add support for multiple column
+remove unused class
+add support for multiple message
+add support for multiple file
+add support for multiple file
+add support for spring data
+add support for hive table
+remove unused import
+make sure that the default value be not a default value
+remove unused import
+add support for multiple column
+add support for file path
+add support for multiple default value
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for multiple message
+add support for multiple column
+add support for file
+add support for multiple default value
+add check for null value
+make sure that the same class name be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more more more more than </s> more than
+add new test for issue
+remove unused import
+add support for multiple column
+do not use null check for null value
+add support for multiple file
+add support for hadoop runner
+remove unused import
+add support for spring data
+fix error message
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple file
+add a new test for the java source source code
+remove unused import
+add support for multiple message
+fix error message
+add support for spring data
+add check for null value
+add support for multiple file
+add support for multiple column
+remove unused file
+remove unused import
+add support for multiple file
+remove unused private method
+add check for null value
+remove unnecessary null check
+add support for multiple column
+add support for spring data
+add support for spring data
+remove unused import
+remove unused import
+add check for null value
+add support for multiple column
+add support for file
+add support for multiple message
+add new interface for interface
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same thread
+move some test to internal package
+add support for multiple column
+remove unused private method
+add support for spring data
+add support for file
+do not use null value for value
+add support for multiple file
+add support for multiple default value
+add support for multiple file
+add new test for java source
+fix error message
+add support for multiple message
+add a test for the java source source
+do not use the same id in the same thread
+add support for multiple file
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add new test for issue
+remove unnecessary null check
+do not use the same id in the same thread
+add support for multiple file
+add support for multiple column
+add support for multiple parameter
+remove unused private method
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for multiple default value
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for hive table
+add support for multiple file
+add support for multiple file
+address nullpointer exception in `
+add a new file
+add support for multiple message
+remove unused class
+add support for spring data
+remove unused file
+add check for null value
+add support for multiple file
+fix error message
+remove unused import
+remove unused import
+add support for multiple file
+add check for null file
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+remove unused class
+add support for multiple default value
+add support for multiple file
+add support for multiple column
+add support for multiple user
+add a test for the java source source
+add support for multiple parameter
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for file
+remove unused import
+add check for null file
+add check for null value
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for multiple query
+add support for hadoop runner
+add support for multiple column
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple query
+add support for multiple file
+address nullpointer exception in `
+add support for multiple message
+add support for multiple column
+fix error message
+do not use default method if there be no class
+address nullpointer exception in `
+add support for multiple file
+remove unused import
+add support for multiple message
+remove unnecessary null check
+add support for file
+add support for multiple message
+remove unnecessary null check
+remove unused class
+address nullpointer exception in `
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple file
+add support for multiple query
+add support for multiple message
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple default value
+add check for null value
+remove unused import
+remove unused class
+remove unnecessary null check
+add check for null value
+add support for multiple column
+remove unnecessary null check
+add support for spring data
+add support for multiple default value
+add new test for issue
+remove unnecessary null check
+remove unused class
+add support for multiple column
+add support for multiple query
+add support for multiple file
+add support for multiple column
+add support for multiple file
+add support for multiple default value
+add support for multiple column
+add support for multiple parameter
+add support for multiple default value
+add support for multiple default value
+add support for hive table
+remove unused private method
+add support for multiple column
+remove unnecessary catch block
+add support for multiple default value
+add check for null value
+remove unused import
+add check for null value
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple query
+add check for null value
+remove unused import
+add support for multiple file
+add a test for the java source code
+add new test for new java api
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple message
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null value
+remove unused import
+remove unnecessary public modifier
+add support for file
+add support for multiple column
+remove unnecessary null check
+fix error message
+address nullpointer exception in `
+fix error message
+add support for multiple column
+add support for spring data
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple file
+do not use default method if there be no class
+add support for multiple column
+fix error in the log
+remove unnecessary null check
+add support for multiple default value
+add support for multiple column
+add a test for the java source
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple file
+add check for null value
+add support for multiple file
+make sure that the same class be not a the same class
+fix error message
+add support for multiple parameter
+add support for multiple parameter
+add support for multiple column
+add support for multiple file
+add miss null check
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+add a test for the java source source
+remove unused private method
+add check for null value
+make sure that the same class public
+add new test for issue
+add support for multiple column
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for file
+remove unnecessary null check
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for hive table
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for file
+add support for multiple file
+remove unused import
+remove unnecessary null check
+fix error message
+add support for multiple column
+add support for multiple file
+add support for multiple column
+fix error message
+add support for hive table
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+remove unnecessary public modifier
+add support for multiple default value
+add support for multiple column
+add check for null value
+remove unused import
+add support for multiple file
+add support for multiple column
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for multiple default value
+add support for file
+add support for multiple message
+add support for multiple default value
+add support for file
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple message
+remove unnecessary null check
+add new test for issue
+add test for issue with java 8 type
+add support for multiple file
+add new test for issue
+remove unused import
+add support for multiple parameter
+add support for multiple file
+add support for multiple column
+address nullpointer exception in `
+add check for null value
+remove unused import
+remove unnecessary null check
+address nullpointer exception in `
+add support for multiple column
+add support for multiple column
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple query
+add support for multiple file
+add support for multiple column
+add support for multiple default value
+add check for null value
+add test for issue with java 8
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same thread
+add new test for issue
+add support for hadoop runner
+add support for multiple message
+add support for multiple parameter
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple file
+do not use the same id in the same thread
+add support for multiple default value
+add support for multiple column
+add check for null value
+add support for spring data
+remove unnecessary null check
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for hive table
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for hive table
+add check for null value
+add support for multiple parameter
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for multiple default value
+make sure that the same class be not a the same class
+add support for multiple user to the same thread
+add support for multiple file
+add support for multiple column
+fix error message
+address nullpointer exception in `
+add check for null value
+add support for multiple column
+add support for multiple file
+add support for multiple file
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+add check for null value
+add support for multiple parameter
+add support for hive table
+remove unused import
+add support for multiple file
+add a new file
+fix error message
+add support for multiple query
+add support for multiple column
+add support for hive table
+remove unused import
+add a new test for the java source source code
+remove unused import
+add check for null value
+add support for property file
+add a test for the java source source
+remove unused import
+add support for multiple message
+add support for spring data
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+add support for multiple file
+remove unnecessary null check
+add support for multiple parameter
+add a test for java 8
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple default value
+add support for hadoop runner
+add support for hive table
+add support for multiple column
+fix error message
+add support for multiple column
+address nullpointer exception in `
+add a test for java 8
+add support for multiple column
+add support for multiple default value
+add support for multiple file
+remove unused import
+add support for multiple file
+add support for multiple file
+add support for multiple file
+fix error message
+add support for multiple query
+add support for hive table
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple file
+add support for spring data
+add support for spring data
+add a test for the java source file
+add support for multiple column
+fix error message
+add support for multiple file
+add support for multiple file
+add support for file
+remove unnecessary null check
+move package to common
+remove unnecessary public modifier
+add support for multiple file
+add support for hadoop runner
+add support for multiple message
+add support for multiple file
+add support for multiple column
+add support for multiple file
+add support for multiple parameter
+remove unnecessary null check
+remove unnecessary null check
+add a new test for the java source source
+add support for multiple file
+remove unused import
+add support for multiple column
+add check for null value
+add support for multiple file
+add check for null return value if the value be not set
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for multiple message
+add support for property file
+add support for multiple default value
+add a test for the java source
+fix error message
+make sure that the same class be not a the same class
+make sure that the same class be not a the same class
+remove unused import
+add support for multiple column
+add check for null value
+add support for multiple file
+add support for multiple file
+remove unused import
+add support for multiple column
+do not throw exception if no null
+add support for multiple parameter
+add support for multiple file
+add support for spring data
+remove unused import
+remove unused import
+add check for null value
+add support for hive table
+add support for multiple column
+add support for write file
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary public modifier
+remove unnecessary public modifier
+add support for multiple message
+add support for multiple message
+add support for hadoop runner
+add support for spring data
+add support for spring data
+add support for multiple default value
+add support for spring data
+add support for multiple default value
+remove unused import
+add check for null value
+add a new file
+add support for multiple column
+add support for write file
+remove unnecessary null check
+add support for multiple file
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for multiple file
+add support for multiple file
+add support for hive table
+add support for multiple file
+remove unused import
+address nullpointer exception in `
+add support for multiple column
+fix error message
+add check for null value
+add support for spring data
+add support for spring data
+add support for multiple file
+add support for spring data
+add check for null value
+remove unused import
+add support for multiple file
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+add support for apache phoenix
+do not use the same id in the same thread
+add support for multiple file
+remove unused import
+add support for multiple file
+add support for multiple file
+add support for multiple message
+add support for multiple query
+add support for multiple column
+add support for multiple column
+make sure that the same class be not a the same class </s> class </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method </s> method
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string string more than that it be call that it
+add support for multiple query
+add check for null value
+add support for multiple file
+add support for multiple message
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for multiple file
+fix error message
+add support for multiple file
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add check for null value
+make sure that the default value be not a long
+fix error message
+add support for multiple column
+add support for file
+remove unused import
+add support for file file file file file file
+add support for multiple message
+add support for multiple message
+add support for multiple property
+add new test for issue
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple file
+add check for null value
+add support for multiple column
+address nullpointer exception in `
+remove unused import </s> class
+add check for null value
+add support for file
+remove unnecessary null check
+add support for multiple column
+make sure that the same thread be always close
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add check for null value
+add support for multiple message
+add support for multiple file
+add check for null value
+add support for multiple file
+add support for multiple file
+add check for null value
+remove unused import
+remove unnecessary null check
+add support for multiple parameter
+add support for multiple query
+add support for multiple file
+add support for spring data
+add support for multiple file
+add support for multiple message
+add support for multiple default value
+add check for null value
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for spring data
+add check for null value
+add support for write file
+fix error message
+address nullpointer exception in ` </s> `
+remove unused import
+add support for multiple query
+add support for multiple parameter
+remove unused private method
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for multiple message
+add support for write file
+add support for multiple column
+add support for multiple message
+add support for multiple file
+remove unused import
+add new test for issue
+add check for null value
+add support for spring data
+add support for multiple message
+remove unnecessary null check
+add support for spring data
+add support for multiple file
+remove unused import
+remove unnecessary public modifier
+address nullpointer exception in `
+add support for multiple user to the same key
+add support for multiple file
+add support for multiple column
+add support for file
+add support for hadoop runner
+remove unnecessary null check
+remove unnecessary null check
+fix error message
+fix error message
+add support for spring data
+remove unused private method
+add support for spring data
+add support for multiple parameter
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for file
+add support for multiple file
+add check for null value
+add support for multiple file
+add support for multiple default value
+add support for multiple parameter
+add support for spring data
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for multiple query
+add new test for issue
+remove unnecessary public modifier
+fix error message
+add support for multiple column
+add test for issue with java 8
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for file
+add support for multiple column
+add a test for java 8
+remove unnecessary null check
+add check for null file
+remove unused import
+remove unnecessary null check
+fix error message
+add support for multiple file
+add a test for java 8
+add support for multiple column
+add support for multiple message
+add support for file
+add support for multiple column
+add support for file
+add support for multiple file
+add check for null value
+add support for multiple file
+add support for file
+add support for multiple column
+add support for multiple query
+remove unnecessary null check
+add support for multiple file
+add support for multiple message
+remove unused private method
+add support for multiple user to the same thread
+add support for multiple message
+remove unused import
+add check for null value
+add support for multiple column
+add support for spring data
+add support for multiple message
+add support for multiple default value
+add support for multiple column
+add check for null value
+add support for multiple file
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+fix error message
+add support for multiple file
+add support for multiple user
+remove unused import
+remove unused private method
+add support for multiple column
+fix error message
+add support for multiple column
+fix error message
+do not use null check for null value
+add support for multiple column
+add check for null value
+add support for multiple column
+address nullpointer exception in `
+remove unnecessary null check
+fix error message
+add support for multiple message </s> </s> </s>
+add support for multiple column
+address nullpointer exception in `
+add support for file
+remove unnecessary null check
+add support for multiple parameter
+add support for multiple message
+remove unused import
+remove unnecessary null check
+add support for multiple message
+add support for multiple file
+add support for multiple column
+add check for null value
+remove unnecessary null check
+add support for multiple column
+fix error message
+remove unused import
+add a test for the java source source
+add support for spring data
+add check for null value
+add support for multiple default value
+fix error message
+add support for multiple column
+remove unused class
+add check for null value
+add check for null value
+add support for multiple message
+add support for multiple message
+add check for null value
+do not use null check for null value
+remove unused import
+fix error message
+add support for multiple query
+fix error message
+remove unnecessary null check
+add support for multiple user to the same thread
+add support for multiple query
+remove unused import
+fix error message
+add support for multiple message
+add support for multiple user to the same table
+add support for multiple column
+add support for multiple message
+move to util package
+add support for multiple user to the same thread
+remove unused import
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple default value
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+fix error message
+add support for multiple message
+add support for multiple message
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple default value
+add support for multiple column
+remove unnecessary null check
+add support for multiple message
+do not use default method if there be no class
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple message
+address nullpointer exception in `
+add support for multiple message
+add support for multiple column
+add check for null value
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+solve npe in call
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+add support for multiple message
+make sure that the same class be not a the same class
+add support for multiple column
+add support for multiple message
+add support for multiple message </s> </s> </s>
+add support for multiple column
+add support for multiple user to the same thread
+remove unused import
+remove unused import
+add support for multiple default value
+remove unused class
+remove unused import
+fix error message
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple default value
+add support for multiple user to the same thread
+remove unused private method
+remove unused import
+remove unused import
+remove unused import
+add support for multiple default value
+do not use null check for null value
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple query
+remove unnecessary null check
+add support for multiple default value
+add check for null value
+remove unused import
+add support for multiple message
+add check for null value
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add check for null value
+add check for null value
+add support for multiple column
+add support for spring data
+remove unnecessary null check
+remove unused import </s> class
+add support for multiple column
+add support for multiple column
+address nullpointer exception in `
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unnecessary public modifier
+do not use null value for empty string
+remove unused import
+add support for multiple column
+add support for multiple column
+move package to the package
+move to common package
+add support for spring data
+remove unnecessary null check
+remove unused import
+add support for multiple query
+remove unused import
+remove unused import
+add a test for the java source source
+do not use null value for empty string
+add support for multiple default value
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unused static method
+remove unused import
+add support for multiple parameter
+remove unused class
+remove unused import
+fix error message
+add support for multiple parameter
+add support for multiple message
+add support for multiple default value
+add support for multiple message
+add support for multiple column
+add support for multiple column </s> : </s>
+remove unused import
+remove unused import
+remove unnecessary catch block
+remove unused import
+add support for kafka header
+add support for multiple user
+add support for multiple column
+remove unused import
+remove unused import
+add check for null value
+add support for multiple column
+address nullpointer exception in `
+remove unused import
+remove unused import
+add check for null value
+do not use the same id in the same thread
+add support for multiple query
+remove unused import
+add support for multiple default value
+add a test for the java source source
+add support for multiple default value
+add check for null value
+add support for multiple default value
+add support for multiple user to the same thread
+add support for multiple default value
+add support for multiple column
+add support for multiple default value
+fix error message
+remove unused import
+add support for multiple file
+address nullpointer exception in `
+add support for multiple column
+fix error message
+remove unnecessary null check
+add support for multiple message
+add support for multiple default value
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple default value
+remove unused import
+remove unused import
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for kafka table
+add support for multiple query
+add support for multiple parameter
+address nullpointer exception in `
+add support for multiple column
+add support for multiple column
+fix error message
+add support for multiple file
+add support for multiple parameter
+fix error message
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple query </s> </s> </s>
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple default value
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple query
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple query
+make sure that the default value be not a long
+add support for multiple column
+remove unused import
+remove unnecessary public modifier
+remove unused import
+add support for multiple column
+move package to the core package
+add support for multiple column
+do not use default method if there be no class
+add support for multiple message
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple file
+remove unused import
+add support for multiple type
+add support for multiple user to the same thread
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple default value
+add check for null value
+add support for multiple default value
+remove unused import
+remove unused private method
+add support for multiple default value
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple parameter
+add support for multiple default value
+add support for multiple file
+add support for spring data
+fix error message
+add support for multiple column
+add support for multiple parameter
+add support for multiple file
+add check for null return value
+add support for multiple query
+add support for multiple column
+add support for multiple default value

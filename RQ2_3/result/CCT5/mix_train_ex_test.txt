@@ -1,0 +1,5000 @@
+use fakehelper for test application
+add decimal point on numeric keypad
+add requestconfig to wrapclient
+add earthdebugger constructor
+add codefirst sample
+add flying ai
+add test for sheetsetorder
+add support for jul log4j
+move retrofit2 to converter package
+change count from int to long
+do not cache empty session
+address the c error of camel-ws
+add option to disable torrent support for bitcoin network
+remove unused class
+add new line entity controller
+add mapconstructor support for boolean type
+fix indexoutofboundsexception when calculate bit length
+do not try to get the plugin name if it do not exist
+fix varhandle nullpointer exception
+add test for localkeyset
+solve npe in coyoteadapter
+add metric for procedure
+add getlastmodified method to jarconnection
+work around an issue with the LLVM backend with which the return value be access incorrectly
+move over and selection to node
+remove mute state
+disable test reliably on ppc64le
+fix concurrentmodificationexception in settingengine
+add jaspic subJECT support
+enum generator component
+canonicalize lambda body
+remove geogebra dependency
+add getsetint and getsetlong to field
+add flutter pop frame action
+add support for driver provider
+fix concurrentmodificationexception when convert decimal to biginteger
+add init file option to sql client
+add an option to set the automatic watermark interval
+upgrade to jooby 4.0.0
+support huabao extension
+log exception in waitForhelper
+remove desktop controller
+add computed flag to nodeandpath
+add drop down empty item option
+bump default kb to 400
+upgrade netty to 2.0.0
+remove unused import
+add thread name to async implementation
+add nonce factory to anxexchange
+add support for reference processor
+add test for future
+add export process group command
+add support for time_stats protocol
+testindexwriter fail to list index file
+add custom curve for secp128r1 and secp160r2
+move queryparser module to flexible package
+disable besu command with poa and qbft
+do not set the container twice
+rename facet package to taxonomy
+add utf8 support to websocket
+add hotseat plugin
+use espresso frame
+add schema object params
+change list to collection
+move debug class to io package
+add new class chunkindex
+add dto class
+add check for current acl on the zookeeper root node
+improve logging when context be not find
+add edge rpc
+simplify nqueens search
+add file noop test
+add heartbeat event
+add plugin validation manager
+new similarity implementation
+add test for add widget on the workspace
+add hash field to downloader
+solve potential deadlock in selectormanager
+remove unused import
+catch bindexception in serverconnector
+add end-time style to playback control
+return null if schema not find
+add null check for kubernetes config
+add coffeescript mode
+sort page list in mvmap
+add spring boot test for reactive stream
+improve ibft protocol schedule
+add vectorizedMismatchop for aarch64
+add pojavlaunch support
+add encoding to decompiled file
+improve support of multiple gc
+throw an exception when a key operation require a composite type
+add notifyDataSetchanged to trashbinlistadapter
+update to omr 1.0.0
+focus in web if it be visible
+add ignore demo
+hbase master metric source
+return null from filesyncadapter.parseresponse
+add aot reader hint
+add ofmeet bandwidth setting
+optimize mixed distinct and distinct aggregation
+add storage directory for altcoin account
+address the c error of camel-cx-rs
+improve handling of invoke special method
+line number map support
+add -delay option to disable libgraal interface
+disable opengts upload
+refactor thread group
+add histogram class
+use hotspot object constant scope
+add test for ics keep/keepcapitalization
+do not skip java core class
+simplify adaptive palette
+address nullpointer exception in eureka ribbon client
+implement flink executable function
+fix memory leak in FilePathmem
+add fakedrawable class
+add test for unknownpacket
+move rule class to separate package
+add print option to pdfdebugger
+remove support for file location in profile activation
+add support for reference field trait
+generate 2020-01-20 for cloudauth-device
+add menu action router
+add batch metric sample
+improve error message when a torrent can not connect to a tracker
+add pact record contract
+move dependencyconnection to dependencyconnections
+add artalley ripper
+copy data to clipboard
+remove solr servlet
+add miss file
+ignore connection termination exception
+jar file with multiple manifest.mf
+log 4xx client error
+remove unneeded static inner class
+remove cast node
+ignore nonnull type qualifier
+guard be not consider a wildcard pattern
+make setspecialkind public
+rename package org.tf - > ai.djl
+add prf implementation for hkdfprfkeymanager
+add support for remove interceptor
+improve error message for nearcache test
+add memo to sendcoinshieldtest
+solve compile error
+add support for mojoexpression
+add extension option to commoncrawldoader
+use bootruntask instead of javaexec
+use closer for buildprehook
+remove unused timer
+remove refresh_token for offline client
+add @ managedattribute annotation
+add limit to salesforce endpoint
+use xmpp stringutils
+add cassandra connector
+remove huge resource test
+normalize path in file system
+add sql visitor
+add table name to template expansion
+add basic authentication for jaspic subject
+add support for extend type
+do not drop view lock if it do not exist
+make canonicalizerphase.customcanonicalizer static
+solve focus problem in toggle button
+remove old diags option
+solve compile error
+throw illegalargumentexception if point can not be parse
+remove server option from tikacli
+remove unused class
+reset etag to force capability refresh
+add support for variable annotation
+use safe side for sleep
+add custom-authorization to jettywebsocketclient
+improve load module error message
+do not set zoom when scrolling be disabled
+add @ test annotation
+add miss javacc file
+skip preparedstatementstest on 22.5
+add buildtoolfailure marker
+entity migration service
+remove lambda logger
+support regex in korjar message
+remove unused jsonprocessingreport class
+add onenterpresslistener for mathquill input
+refactor aws retry policy
+rename contrib package to runtime
+add miss patch for block.destroy
+rename package b to selenium
+improve diff for simtimesources
+address nullpointer exception in monitor creation log
+use var instead of map.entry
+add quickstep app widget support
+add test for mapbox style
+add option to skip repackaging
+customize cassandra cluster
+add expiration grace interval to failure detector
+improve error message when a job be already run
+support saml idp metadata
+add aDFGVx cipher
+add data class
+throw an exception if the topic can not be find
+do not use @ rule in expect
+add shapeless crafting recipe
+commentdefaultaccessmodifier do not work with @ beforetest annotation
+add eventhandling for amqp
+remove unnecessary catch block
+change layout name
+improve logging for slf4j
+refactor cogroup example
+remove beanintrospectionobjectmapper class
+add base class for field predicate
+make jdbcconnection.getconnectionurl protected
+add test for espresso matcher
+add mana hUD
+add abstract class file writer
+add support for hibernate lock mode
+abort saml response when idp initiated login be disabled
+improve error message when a property can not be set
+remove sid null check
+add miss annotation to partitiongroupmetadatatest
+rename stream to eval
+remove thrift dependency from ratefraginsstatetracker
+move flow metadata import utils to administrative package
+add safeparcel support for gms
+remove unused interface
+use enum instead of class
+add package test
+add support for parquet pushdown filter
+add cxf 3 client interceptor
+use bouncycastle provider
+reuse last block if possible
+improve exptolin implementation
+add test for boolean value
+remove dependency on kuberneteshelper
+add support for java 1.17.12
+simplify screen reader
+client near cache support
+rename var.istempconst - > const
+use current frame in valiststorage
+simplify additive operator
+remove support for jmx metric
+support calcite type
+remove static method from llvmoption
+move sharedlibraryloader to utils package
+use json provider in clienttypesignatureparameter
+add java 21 preview tree dump test
+add miss annotation
+disable layout json filter if permission have some access
+use for loop
+refactor likejettyxml to use jetty server
+remove unused class
+address the c error of camel-core
+rename scopes - > scope
+do not use jakarta.servlet.filter in test
+add test for involvement
+spatial support for postgresql
+use constant for element name
+refactor 3d coords
+remove unused class
+throw an error if a group by expression be not comparable
+remove unused class
+address the c error of camel-core
+remove unused class
+remove unnecessary if statement
+fix nullpointer exception when usehaodb = false
+refactoring model loader
+use constant for query chunk size
+add rusyn language pack
+refactoring of initial procedures
+move thrift to remoteexecution package
+try to open a web page
+improve error message when query token for series with no result
+rename supportedcommand - > string
+use logger instead of file
+remove addwebdriverextensionIfNeeded from firefoxprofile
+generate 2019-01-01 for hbase
+address the c error of camel-core
+remove unused import
+add support for composite activity
+use utf-8 for byte array
+do not prepare catalogmojo for root directory
+add recent file to classpyapp
+add w3ctrace context propagation
+add bufferallocator enum
+solve error in block capsule
+update grid color
+fix gacha notification not be send to all player
+remove unused toolbarpanel
+add proxy support to ftp endpoint
+improve validation test
+make sure eventbus tracingtestbase span be complete
+add bitbinarycommands interface
+add confirmation link
+add performance rule for node in loop
+search for all router in the db
+resolve lock file name
+add qr rank test
+upgrade to vmware 2.0.0
+refactor transaction error reporting
+make guestinterrupter an interface
+update valve to 2.1
+add predicate to Completableonerror
+correct path forprovenance event
+improve i18n folder detection
+remove unused class
+add eventlistener for servicediscovery event
+add taildir support
+parallel query launch in hive driver
+add entity hanging mixin
+add miss annotation
+improve error message on pmd exception
+add kubectl example
+add executable reference filter
+do not throw nosuchmethoderror if method be not find
+autoformat java file in test/com/facebook/buck/buck
+add support for rule method in class hierarchy
+simulateclassinitializergraphdecoder do not handle null value
+add forge hook
+remove swagger bootstrap
+address nullpointer exception in saml2serviceprovidermetadataresolver
+change cpu.load.average to system.load.average.1m
+update local folder on refresh
+add boolean state aggregation
+add memory limit validation for planner
+url.tourl do not need to be lower case
+remove unused import
+remove apereo dependency from mfa
+hikaripool should not close idle connection on pool shutdown
+replace mockito with bddmockito
+remove unused loginticketidgenerator class
+add papx node
+move twitter example to examples package
+refactor resource pool
+new hbase model
+improve error message for invalid cipher suite
+change towernodedistance to distance
+address the c error of camel-core
+add sql client test
+do not reject observation mark request when observation be noop
+auto-configure same-site cookie
+add webshop example
+handle indexoutofboundsexception for unit
+add path and route id to gateway exchange
+add door close event
+remove matte code
+support order by in function
+use securitywebapplicationcontextutils for web context support
+make scrollpane.touchup return false
+log seek position from byte range
+add eagerly throw support to refactoring
+log help icon event
+add compilation id to compilationwatchdog
+interference with tvars & array
+remove unused import
+add fetch_size and show_fetch_size constant
+improve error message when elevation data be not available
+add pet annotation
+verify that parameter be optional on primitive method
+simplify sleuth instrumentation
+make sure selective record reader output position be monotonically read
+set default value for ssl_fallback_scsv
+proguard support for android build
+add time to status effect
+add pushdown flag to drilllimitrelbase
+ensure indexinput be close in mockindexinputwrapper
+update marker label list for bookmark location
+move history to history package
+check if resource path match in requirescondition
+test for extendedenhancementnonstandardaccess
+remove easymock from conditionalsteptest
+use buck daemon instance
+improve metadata service name mapping logging
+rename spring.resources.cache to spring.web.resources
+rename column - > expression
+validate reference in diagram interchange definition
+custom jpa filter support
+instructorfeedbackeditsaveaction should not return a redirectresult if there be an error
+add test for time window
+upgrade to hc 5.0.0
+remove scala utils class
+solve spell error in exception message
+add second-level cache region factory
+use common utils class
+make method static
+remove unused class
+remove unused import
+avoid catch securityexception in filesystemfontprovider
+save game to zip
+do not set the user-agent to the root path if the user fail to authenticate
+add session property for enable partial aggregation
+remove unnecessary null check
+skip hbase tear down test for hadoop 3
+add thrift rule key hasher
+add boundary timer example
+add kotlin backend
+add delimited tuple stream
+make sure the whole of the interval be invert
+remove unused class
+replace mockitoutil with assertj
+remove unused public constructor
+add support for jaotc binary
+add check for tab already exist
+address nullpointer exception in jackson converter
+add @ mongodbdbavailable annotation
+use jgroups instead of multiplexing for jbc2
+add aarch64 support to hotspot
+detect macosprecatalina on window
+add hystrix dashboard endpoint
+move zipsplitter to dalvik package
+disallow partial window
+add test for pmd binary distribution
+add support for job execution listener
+add charting highlight support
+use slf4j logger
+auto-configure freemarker configuration
+randomize delay in retrydriver
+replace blocktype with lambda
+add batchfinegrainedrecoveryitcase for recovery
+add support for mode menu
+remove unused class
+add wal module
+catch noclassdeffounderror when construct
+filechannel.truncate ( size ) throw illegalargumentexception
+add share file via link
+improve error message for invalid login hint
+remove unused import
+alignedimeseriessessionexample use template
+improve domain service management
+add redis server support
+remove static modifier from statemaster
+remove unused constructor
+address the c error of camel-core
+remove balanced tree generator
+rename selectchannelconnector - > socketconnector
+make bucketproducer thread safe
+add timeout check to subprocesslogger
+refactor eventservice segment implementation
+do not call thumbnail click listener when slide be finish
+make abstractclient public
+add page size for related edge
+add delete dataset handler
+add file holder for spiller
+rename package-info.java to modulepath
+add expressionadapter to setheaderusingslexpressions
+remove jersey property
+add check for invalid question number
+ignore hawtio-system blueprint
+add createoffer command
+add listlabelkey to listuibean
+add support for xwpf dt table
+gwt cancel event timer improvement
+add ext-validation-address-verification interceptor
+resolve npe in resolverintegrationtest
+make Allocspy public
+remove unused abstract class
+refactor attribute resolution
+add upgrade for 4.6.0
+enable partitionstatisticbasedoptimization for hive
+remove deprecate entity
+improve redis health indicator
+add copysign benchmark
+add more detail to problem loading help page
+refactoring nui test
+remove @ tutorial annotation
+encode text symbolizer priority
+do not show probability in plot panel
+use plugin name instead of class name in error message
+rename base package to share
+replace toast with log_oc
+simplifybooleanexpressions rule test
+use unbadged drawable for shortcut icon
+add reactive error handler
+address nullpointer exception in statesplitproxynode
+refactoring liststoragepools to new api
+improve error message for invalid css style
+update jsrmi to 0.5.0-rc1
+use hive session property for respect table format
+add additional test
+fetch subreddits name for anonymous subreddits
+refactor memberinfo to use new buildinfoprovider
+add decor stair and stair full
+address the c error of camel-netty
+add security sample
+add title to rule selection dialog
+add create method to bucketclient
+rename abstract class
+add rocksdb metric
+add progress ticket to desktopimportcontrollerui
+improve exception handle in defaultftpssessionfactory
+remove unused file
+use jar in configurationsourcetest
+add benchmark for wasm benchmark
+add spring cloud client
+polish acl lookup
+improve flink distribution message
+nullpointer exception in kiecontainerimpl.getrule ( loadorder
+do not prehash default value
+use opentelemetry instead of noop
+add json module for geo module
+deprecate output.removefield ( materializedfield
+add id to message and presence packet
+md4 for mschapv1/2
+add jmx to joinfilterfunctioncompiler
+add support for @ action annotation
+add support for apple binary
+remove unused import
+rename errorreportingmodal - > coursejoinconfirmationpage
+remove unused import
+remove system.out from uritest
+rename registration - > messageconsumer
+bean validation group default implementation
+add updatedatadatanodeconfiguration to consensus request
+add decorator to property editor
+incompatmask do not report source line
+add support for java 17
+move test to new package
+remove system out from testmvccmultithreaded2
+add operator to ast
+make schematic block level constant constant
+throw an exception when try to connect to a non-jedis connection
+add apiauthorizationfilter interface
+use appendcolumn for unique column
+remove the next client if it be not active
+add group material name
+add car policy
+add ssl support for anonymous credential
+update maven wrapper to 3.1.0
+use slf4j logger
+divide by b to get c
+improve flutter console filtering
+add lms module-info
+improve error message when partitioner do not match system partitioner
+avoid npe when algebra view be not visible
+add description to host
+add freemarker project
+change battery level from float to int
+add migration rule
+optimize average and count aggregation
+change persistent notification color
+improve authentication handler
+add bind method to actuator session factory
+add test for create with protection
+make default thread count public
+inlininglog.getbytecodeposition do not respect id
+throw hive_unsupported_format instead of runtimeexception
+add miss file
+remove unused import
+improve memory pool monitor description
+add simple xml converter
+remove unused class
+add new currency pair
+use javafx 's font
+add expression interface
+add validation for config description
+add support for writecurrentvmthreadnode in llvm
+change frozen balance test to long
+cache service id
+rename mysqldialect - > mysqllegacydialect
+repair nullpointer exception in csrfpreventionfilter
+do not show error message when invalid credential be present
+handle null byte in type1 font
+remove unused class
+use coder instead of utf16
+make sure :blargh be sort
+skip broken block at end of the db file
+solve nullpointer exception when set external name
+remove unnecessary if statement
+edge rpc refactor
+remove client cache proxy
+static import isdistributedindexjoinenabled
+add handlerposter class
+do not show command string for external viewer
+add cxfendpoint.getserviceclass to cxfconsumer
+add miss file
+add bibtex entry type
+rename eden to edenfs
+do not run flutter mode in debug mode
+extract incremental update for the pdfparser
+add optimizer to jetplan
+remove unused static method
+add support for window ansi font
+format java source code
+add grpc config override
+add support for gradle plugin
+remove dependency on lwjgl
+add greek keyboard factory
+optimize parameter validation in restcodec
+auto-configure web server
+add support forderived world
+avoid accidental use of is below
+remove unused import
+add test for mime type
+add oil burn support
+fix off-by-one error in scimuserendpoint
+ignore localclusterelasticsourcestest for coverage
+simplify simpletextparser class
+add session property to allow remote function
+replace mockito usage with hamcrest
+add duration and audio metadata
+add filter to resultgenerator
+add support for reliable topic
+switch to hazelcast logging
+add motd message
+remove unused import
+check bootstrap method type for dynamic constant
+upgrade to java 11
+new class Certdata
+implement pst protocol
+sort hash store index
+use pdfparser instead of textmining
+test connection recovery with disabled topology recovery
+parse host attribute from parser
+jdbcmetadatabasedmodelelementfinder do not work with multiple data model
+add node status to heartbeat
+use mapindexservice instead of mapindexes
+add null check to lockoptions
+add support for quote schema and catalog table
+add karaf test
+address nullpointer exception in annotationendpointdiscoverer
+add modelx ripper
+do not copy the output to the outputproject when we be not in production mode
+add module location to scan log
+do not crash chunk source if the period be too small
+replace mockito with hamcrest
+add preshutdown hook for proxy startup
+add apple graphql support
+coinmate order flag
+add boolean distinctstate to aggregation
+return an error if a vm can not be find
+add graphql parser option
+tableoutputformat fail if table do not exist
+add test for embed lazy fetch
+do not show up arrow in autocompletion history
+handle null node id
+do not scroll up the work tab when the app be use a a tab
+increase maxentriestosortinmemory to 10_000_000
+add delete trigger test
+remove unused class
+remove unused tmp file
+add permission for group
+add shuffle support to taskexecutestreampartitiontracker
+use model source location
+remove unused import
+convert test to jackson
+add test for issue 3023_ME
+no need for headless test
+upgrade to elasticsearch 3.0.0
+add subject to changepassword
+initial implementation of bytebufferfactory
+wrap java interop exception
+add optimization utility class
+use kern for freetype
+make method static
+add harness id environment variable
+add spill support for hashagg
+remove redundant cast to uri
+add test for executeforscalar
+use user home for m2 repository
+use java 5 type
+add test for fragment scenario
+add loop duration for animation frame interval
+improve error message for introduction to the build lifecycle
+remove unused import
+use stream in testinvoker
+upgrade to smack 2.0.0
+remove unused class
+remove unused test
+improve error message
+fix nullpointer exception in cassandraAuthorizer.authenticate ( username , user_permission )
+add password option to console
+remove unnecessary for loop
+move TreeNode.java to the correct package
+add print api log aspect
+remove crm lead selection view
+remove unused class
+copy instance in testgeninlinevalue
+add jar deploy plugin
+add new javax.swing.relationpanew class
+remove unused import
+rename hppc package
+add support for oracle database
+add support for fragment jaxb data format
+remove mask from editsession
+rename cobri - > colibri
+do not set the capsule_cap_in_class_path attribute when the app cache be null
+replace guava with stream
+add queue delete test
+allow null location in node
+catalog serialization test with fst
+add copy attribute to loopdefinition
+improve error message for miss build metadata
+refactored args to use args.getvalidcontractprotothreadnum
+do not use jmx in jmspollenrichtest
+format java code in marytts-core
+add not operator
+add outbound target for service2
+add module input stream
+convert to jpamodelgen
+add support for suspend/resume transaction
+alarm update page
+use schema from input segment
+add quartz endpoint auto-configuration
+store the bundle content during native image generation in fallback mode
+add confirm flag to multicastmain
+new fetcher for nutch
+test for close scope 0
+add enum optimization
+add support for conscrypt
+use bsi get0 in pathrenderer
+add hasRouted method to packetrouter
+add test for auto-reconnect
+refactoring of servicediscoverybuilder
+add url_key and note key to bundle
+remove check for already persist commit
+add validation error message
+allow username in argument entity
+fix nullpointer exception in dbproperties.load (
+add test for transient exchange
+improve error handling in commanddecoder
+add string for share group indicator
+remove first location update logic
+use string constant
+add max age property to lists3
+optimize eventnode.replacechildren ( ) method
+add lookup to runclassthread
+add simple test for beanio dataformat
+add lwjgl interface
+use micrometer meter registry
+add druid metadata util
+add and filter
+add buckprojectgenerationfinishedconsumer and buckprojectgenerationprogressconsumer
+move regexvalidator to core
+crossref author metadata processor
+rename mux - > ac3remux
+add writejdbp connector
+add support for mapwriter and mapwriter
+new class makesound
+add virtual frame access flag
+remove aima learning learners
+remove unused import
+remove getresponsedataasba public method
+solve npe in browsercontentpane when there be only one table
+add local filename generator expression support
+add new wordnet module
+log timeline start time
+skip space when parse object
+add modularity statistic api
+add support for muc service
+add backfill job for old pinot segment
+refactor score visitor
+make method static
+refactor element attribute processor result
+maintenance ticket page
+add support for native executables
+enable progress bar by default
+improve context exception message
+remove touchdelegate from shadowview
+test for sealed class
+add new cluster ttl provider
+refactoring cpd tool
+add support for kafka producer listener
+add quadconsumer interface
+refactor @ input to @ nested
+add x509contentverifierproviderbuilder interface
+do not show menu item for encrypted folder
+remove unused private field
+add timeout for llap zk session
+throw illegalargumentexception for invalid parameter type
+fix aeronstat to not print duplicate key
+use volatile state in socketchannelimpl
+move libgraal to manage package
+add new file accordion
+remove unused class
+use predicate for option
+improve error message in jsonpathassertion
+add test for lexicalpreservation
+remove mysql socket
+support for array option
+decimalformatters do not work when use decimal format
+add pointonsurface test
+add voice import vocalizations
+add infomessagelistenerrpcgateway interface
+add reactive support for redis
+address nullpointer exception when use hardcoded ip rule
+make name.asstring public
+use awaitility in test
+add support for protobuf
+do not set parent node if the node be not know
+change the default behavior of sqlchangelog to split
+cache file length in virtualfilesystem
+add simple feature collection
+rename q - > p
+add default implementation of graphbuildercontext.addwithinputs
+remove unused class
+add feature to skip hash generation for join with table scan
+move schematic command to clipboard package
+remove unused import
+remove unused import
+rename kraken to krakenownTrade
+remove unused lrucache class
+change random to random.nextlong
+improve exception handling in tbmathnode
+use variable sort for sort ast
+use pool for collided
+add support for google cloud source
+rename jumprequest - > jumping
+make mkdir return absolute capability
+add canprovidesharingnativelinktarget interface
+make namespace field public
+address nullpointer exception in jms producer
+add edit course field
+log time in millisecond
+improve error message on device error
+add pooled byte array serializer
+remove svg support
+add file via upload
+add test on english conll dev
+make nonce volatile
+add new programmanager interface
+add asm helper
+add connection identifier to connection record
+add @ graphql annotation
+add file move strategy to file endpoint
+add weaviate vector store support
+throw illegalargumentexception when can not get stack offset
+add json file item writer functional test
+remove branding plugin
+feel feel function
+add group match menu
+add test for state
+refactoring layout factory
+do not request download when error happen
+add option to enable gc
+handle hdu message in p25p1callsequenceRecorder
+address the c error of valuelob
+add thread demo
+handle null subscription in roster packet
+relationship metadata import
+use constant for client conf
+add support for native linker option
+clientmapproxy throw exception
+add r5 support to hapi
+crac and criu support be disable by default
+remove local node from standalone
+remove bpmn package
+remove unused import
+add skylark extension function
+rename referencefieldreferent - > referentfield
+initial implementation of selection
+rename witnesspathsearcher to edgebasedwitnesspathsearcher
+improve full test
+add tenant cache key
+add support for multiple parameter
+use file for classpath validation
+use hssf constant for error message
+move ibft statemachine class to common
+add support for alter table
+extract extension from certificate
+add null check
+remove unused static method
+improve oidc discovery error message
+use unique index for hive partition key
+make sure cfgfile be a file
+add callback to component switch
+add telegram edit message caption
+sort unexpected object in difftochangelog
+catch outofmemoryexception in loader
+add support for parabola and line mirror
+allow empty default value in htmlextractor
+add interpreter rest api
+avoid npe when maxpathlength be null
+support cassandra password authentication
+remove async data node client pool
+support annotation and object type
+move maven package
+reorganize security package
+improve error message for illegal status transition
+move repeat test to common
+add name to sinkbuilder
+improve lock acquiring error message
+repair for problem with multi selection
+add field number to lucene41simpledocvaluesconsumer
+add support for sasl
+remove unused file
+make params interface
+update maven wrapper to 0.4.2
+handle null data in websocketframe.getdata
+solve concurrentmodificationexception in threadedafusticscorer
+remove unused import
+avoid npe when max_cache_files and max_cached_file_size be set
+onclasscondition should use outcomesresolver instead of getoutcomesthread
+arrayutil.copy ( oldelements , newelements , index ) do not work
+improve error message in annotationmetaentity
+add password parser test
+improve aip disseminator help
+add logging for checkpoint creation
+remove unused import
+throw smackparsingexception instead of ioexception
+do not set storagepath on save file
+make jwttokenvalidator public
+support implicit cast for logical type
+remove public modifier from idfragment
+remove unused import
+remove wizard interface
+make patternutil private
+add arrayfill benchmark
+add kudu lookup service
+resend on fail message
+address compilation error in programmableinvoker
+add support for alltypemembers
+replace @ configurationproperties bean class with @Validated
+use coercer instead of easymock
+remove unused import
+add support for lazy topic connection
+throw exception when plugin jar can not be load
+add static method to stream available locale
+do not reset compilation task when cancel the future
+remove starter dependency
+do not create facet processor for empty domain
+do not use custom representation for void type
+subtilehopperhock range = 10
+refactoring test for concurrent update
+add interruptthread method to task
+hive dynamic partition pruning optimization do not support bloom filter
+throw runtimeexception instead of emptyvisitor
+add error message if a world name already exist
+add ime test
+add entity type to eventbus
+add hazelcast mod function
+fix nullpointer exception in segmentloader
+improve error message for bigquery load job
+add tick monitor for ram usage
+do not try to drop column that be not part of an index
+delete layer group from facade
+add support for maven add repository
+rename ibft package to common
+move builder to builder package
+refactoring entry editor
+add test for immutableldapobjectdefinitions
+include object in error message
+return default port from host header
+remove unused queue memory benchmark
+do not increment error count on error
+add miss file
+new voice import
+add miss file
+add datadog registry
+replace iterator with for loop
+add item decoration for foldersyncactivity
+add new example
+add data traversal handler
+rename ext package to in
+add unmute chat action
+remove unused import
+throw illegalargumentexception when word length exceed max term length
+notification service rename to notificationmanager
+add thread pool name to logger
+add csrf support to server
+repair compile error
+remove unused class
+log max timeout at debug
+improve error message for invalid language
+add markdown viewer element
+tidy up ; add transient logger
+improve direct buffer allocation error message
+improve error message when header path be consistent
+dlna resume time adjustment
+add clear method to dualinputcontract
+use lookup for property contributor
+test/javax/security/jar/nonjarinclasspath/nonjarinclasspath.java fails
+make getinstrumentation private
+remove opengl shaders
+do not create persistent presence group if it do not exist
+setcomment should not set empty comment
+rename leafmnode - > measurementmnode
+add hive test
+use enum for bootstrap state
+add the ability to toggle the connector status
+add warn if history cache be disabled
+add opid to assert message
+add null check for region
+check table existence before start export job
+make sure the file be copy when rename a zip file
+custom wagon manager for ant artifact
+improve error message for unsupported yaml type
+add support for ldap authority
+add attach method for new node
+add localstack test
+add public method to filerenameaction
+use uncaughtexception in interopmessagerootnode
+add cursor to comment search
+improve handling of wildcard type
+use for loop
+remove unused field comment
+update Lifxlighthandler to support refresh type
+remove sample tomcat jsp
+handle invalid content type while add new schema
+add fst data source
+generate request history for provenance and source
+add support for clickhouse ipv6
+add title and description to landingpagedocument
+remove unused variable in jettyembedder
+move rowgrouplayout.java to orc package
+add mana burst support
+improve module generation
+add sampler support
+remove mockito from taskexecutortest
+catch accesscontrolexception in stderrlog
+improve detection of gui icon
+use value for color expression
+rename crawldb to crawldb
+organize import in cluster package
+remove unused static field fptable64
+add rsassapssparameters class
+add local quota command
+add request strategy implementation
+add freemarker support
+add fst stats service
+improve privacy plugin error message
+move session to spi
+add test for backed syntax check
+use a single thread executor in buckeventbus
+add jdbc paging functional test
+do not fold constant field
+add output-format option to scdot command
+make inbounddbprocessor public
+add openshift oapi property
+return false if user js file can not be read
+remove unused class
+add new file anchorfields
+support alarm in tk103 sentence
+remove kafka table sink test
+add spray plugin
+remove instance protection by default
+set timeout timer to true by default
+bitmap.isdestroy should return true if the bitmap be destroy
+refactor feign auto-configuration
+add embedded jetty integration test
+do not split empty statement
+add support for export dynatrace metric
+move symmetric provider to server
+fetcher queue depth multiplier
+do not throw invalidciphertextexception
+add c3p0 application
+make localtracer.timestamp thread-safe
+remove rxjava3 from sandbox
+support annotation underlining
+add refreshtime method to nodeimpl
+remove buildtargetpatternparser from abstractcommand
+add binding for guntamatic
+add putmapiterable default implementation
+use java_nio_file_path array
+fs.newfs ( key , classloader ) should not throw npe
+adapt test to new type solver
+move saveorderconfig to logic package
+add debug parameter
+rename sample.secure.oauth2.resource to sample.secure.oauth2.actuator
+use utf-8 for message body
+add support for credhub
+do not use high sensitivity for watch service
+build authorization url when construct login uri
+optimize graphplanalgorithm.getliterallevel (
+add tcp relay test
+sort metric by name
+add pexpire method to client
+remove distbuild chrome trace
+add /cs command
+support integer in identity column
+remove unused file
+add new example03_patientresourceprovider
+add jai support to logging
+neffective change - format only
+use local memory for pageprocessormemorycontext
+do not throw ioexception when continueonerror be true
+add option to create a new transpiler
+fix error code when can not cancel a vertex
+add apicall client async benchmark
+add cassandra session provider support
+allow unsafe stream capability to enforce
+procedurestoretracker do not work with multiple node
+subscriptionactivatingsubscriber throw resourcegoneexception
+add flag to enable heap dump
+hbase be have a problem with hadoop jar
+add rowset reader implementation
+remove public modifier from servicecrudtest
+update imageutils to use contentresolver
+upgrade to couchbase 2.0.0
+remove unused import in commongrams
+improve logging of send time
+remove size field from disable algorithm constraint
+add support for subtitle output parameter
+add support for entry
+move androidx test to androidx
+upgrade to mockserver 2.0.0
+fix nullpointer exception in filesystemtilecache
+reset the failed state when the request to fail the job
+add recent view
+add support for jms message converter
+make androidkeymapping constructor private
+add console threshold filter
+add public_net_time to dynamicpropertiesstore
+intersectlineconic ( ) do not work in a single thread
+add getwatchedaddresses method to wallet
+add configuration metadata support
+upgrade to selenium 3.0.0
+add missions to sector
+add select class node
+add option to choose the unit throw analysis
+use width for x/y step
+add -pluginlist option to printbugreporter
+fix c error in test
+remove unused private field
+add levenshtein distance function
+add error message when fail to write metadata
+make antlr package public
+move message to bisq package
+remove proxy-authorization from authenticatorutils
+add support for auto-incrementing column
+remove unused private field
+add telemetry v2
+do not try to get array type from resultset
+add hll_merger to facetfieldprocessor
+add support for alias call priority
+set search author visible
+improve transfer trc10 security
+add storageexceptionmanager for eth sync
+add opacity argument to watermarker
+add hellopower example
+upgrade to common lang3
+add ldap server test
+fix c error in test
+remove dependency on executionenvironment from graph
+add check if iso be available in the vm
+add support for double column
+rename serviceregister - > transactionregister
+add delete method to contribution activity
+add name to lootpool
+use cassandra ttl for hint ttl
+rename record - > level
+use count instead of currentgroup count
+add test for sourcetype
+aqua border should not wrap insets
+remove unused static initializer
+add support for mesos entrypoint
+move llvmbitcodeparserresult into parser base package
+correct property name
+add support for lightProbe
+generate 2019-06-12 for mse
+fix spell error in variable name
+move hints to util package
+make methodannotation name consistent
+remove unused import
+remove hive connector
+remove unused class
+add unsafe mode property
+add query execution resource
+support nested table group join
+make buffersegment class static
+use switch instead of if
+add support for multipart request
+add point field to join query
+add test for r2dbc schema
+add firmware info to firmware service
+use lmscore instead of score
+add collision shape for bullet
+refactoring sparkinterpreter
+add udf field
+disable process unavailable test
+add test for decommision node
+make gettrunktexture abstract
+fix c error in test
+add maven build action
+extract jimage from jdk.tools.jimage
+kafka streaming error handle
+add new_in_memory_order_by operator
+add stream support to h2
+support saml post-simplesign sso endpoint
+add flush consensus handler
+use format string
+add eth get transaction receipt equal test
+address nullpointer exception in csrfpreventionfilter
+master should not cache cluster id
+use switch instead of if
+add target position to suggestion method
+add work item to log
+add postprocessor and preprocessor interface
+solve npe in previewpanel
+remove unused file
+support jaas for pre-defined login
+add support for foreign key
+rename config - > state
+do not put to a table if the threshold be negative
+log meta open and close
+rename operation to operationtype
+add spel support
+add android color resource
+remove static register in flinkinterpreter
+use toolchain in groovylibrarydescription
+add description for listvirtualmachine
+implement st210 protocol
+rename accepter - > acceptor
+add redundancy test
+add offset support to jetqueryproducer
+address concurrentmodificationexception in mapjobregistry
+add activiti graphql auto-configuration
+remove jersey client
+drop table in testrandomcompare
+add default cost for frange query
+move jar dialog to jar package
+remove static field in hz.client
+rename sslstoreprovider - > storeprovider
+fix c error in test
+tooltip for table header
+add reset method to mocksolrstatisticscore
+update putsql to support java 8
+move local to classfile package
+remove unused import
+change enum to class
+jfr 's jfr 's jfr 's last_known_heap_usage event
+remove msn implementation
+remove unused static method
+add firstname mode to entryeditorprefstab
+remove unused class
+add integration test for chat manager
+the j9vm internals thread group be now the system threadgroup
+optimize avro source
+improve error message for analyze query use imap access plan
+suppress sysout check for test2bterms
+add generate sitemap annotation
+add manastar state event
+make inner class static
+rename column to wrap with
+add nfi keyinfo interop test
+add type hint to search.find
+add endpoint to s3 pinotfs
+remove unused file
+add numericwithbooleancomparator to comparison
+remove unused listener method
+rename test name shenyu
+improve serialization of jackson property
+improve class name
+enable app action by default
+address the c error of camel-jmx
+add check for wrong low and high cardinality key
+add hystrix contract utils
+windows aarch64
+add fulldepth exchange example
+use contentstreambase instead of var
+remove unused file
+add comparison test for countall
+support console v1alpha1
+make main class optional
+add check for non-negative value
+add tunneldetachlistener and tunnelattachlistener interface
+add package-info.java file
+use stream for color
+update session response rate for deleted student
+use static import
+do not use the local server a a a remote bridge
+rename test class
+refactoring task service
+remove unused import
+add template for local storage
+add new class actionnames
+log context path when start jetty
+add support for transactionlistenerproviders
+move progresslistener to cli package
+add stdin adapter
+add miss stream support for decimal selective
+hive table output format improvement
+add scope to oidc property
+add script encoding provider
+add awaitility to test
+validate the vlan of a network
+format java code in marytts-core
+move sortedhashmap to collection package
+remove unused inventory monitor
+improve hibernate query iterator
+rename thread - > log4jthread
+refactoring search servlet
+add llvm memory intrinsics
+remove unused class
+add fee tx size to takeofferdata
+add test for falcon random key generation
+remove unused file
+generate 2019-05-26 for ecs
+palette plugin implementation
+print java.class.version a float
+add smartspace provider
+add support for multiple annotation
+add option to set random seed
+rename cumulativecost - > cost
+oracle do not support the identity column use in the mapping
+neffective change - refactoring
+add fill drawable to set1
+add benchmark for observation
+move annotation to jakarta package
+address the c error of camel-redis
+improve rcv udp log
+skip repository update if repository be not work
+add null check for execution id
+add support for 'unspecified ' value
+remove ignore from integration test
+use the context holder strategy for authentication
+move p2p to overlay
+add auto-config for kafka instrumentation
+generate 2019-05-21 for saf
+add support for file permission
+badmap should not throw Verifyerror
+fix c error in test
+rename command - > abstractaction
+add edecobjectidentifiers to operatorhelper
+add depth demo for bitfinex
+add acegisecurity support
+remove -f flag from realandroiddevice.java
+support visibility parameter annotation
+use hamcrest matcher in dataflowassert
+delete current word for character
+add coinbase button
+remove unused import
+move video manager to common package
+add youtube video id support
+optimize summarygroupedgelistadder for root node
+log widget removal at debug level
+add xchart support for bitcoinium order book
+add mime type to file system
+move spring security remoting to spring-security project
+add scrollview and spinner to mobilizedfragment
+use blockutils in chunkdata
+do not set org.freeplane.globalresourcedir if they do not exist
+test for xml parser
+add nullable annotation to codestestclass
+use configuration for attribute view type
+add null check to jobleaderidservice
+simplify thing status message
+add metadata to collection
+add azure support
+add support for zip rule
+remove unused import
+rename networkingplugin - > networkingimbalanceplugin
+add hbase security support
+move database test to utility package
+trim function name
+make connectionfactory.handlereadframe public
+client cluster proxy
+add templateresolver support
+simplify minestom sound registration
+handle nestedservletexception in errorpagefilter
+repair compile error
+add grpc reflection service support
+upgrade neo4j driver to neo4j 4.0.0
+add label and id to basicblock
+add message parameter resolver
+add hashtable and lazydeSerializable interface
+do not perform safepoint check when in java mode
+move batchrunfluenttest to internal package
+add pichunter ripper for photo set
+use a bos for our mostly ascii-output
+initial commit of ldap protocol
+add monitoring model to p2pseednodesnapshot
+add support for postgresql
+return empty collection instead of list
+rename socketwrapper - > socketwrapperbase
+add detect for findinstancelockonstaticdatacheck
+refactoring engine class
+add hazelcast instance callback
+throw exception when statementclient thread be interrupt
+improve mongodb query performance
+catch interruptedexception in sendaccountor
+new analysis engine
+close connection on connection close
+use valueanimator instead of propertyanimation
+rename errorcodec.exception to exception_message_type
+add support for cosmetic item
+auto-configure metric export by default
+improve error message for wrong height
+add helidon connector test
+add debug field to rpcresponse
+add connected flag to activitycontroller
+remove public static field
+add listener to websocketservice
+add simple json parser
+upper.java do not work for bot type
+add pattern and mttd to autotune config
+refactoring class file source state
+add getarch method to platform capability
+add new test for stringaggcompatibility
+add @ autoconfigurationcache annotation
+add support for aggregate stream
+add new test
+add filter support to asyncclient
+rename applicationcontextutil - > appcontextutil
+add support for metric system
+remove unused streamrecord constructor
+add map transformer
+bean can not be cast to string
+remove unnecessary instanceof check
+move hive connector pagesources to spi package
+add file via upload
+make sure callbackinfo be push to the correct frame
+add integration test for theta sketch
+simplify bulkhead test
+add welcome text
+upgrade to tika 1.0.0
+remove dependency on junit 5
+add file browser demo
+add test for classofstring
+avoid static import
+rename mapperscanner - > classpathmapperscanner
+add kafka consumer test
+support custom directory provider
+security support for rest api
+remove relay module
+add recycler to buffer
+remove session timeout from remoteenvironment
+use pairspliterator2 instead of pairspliterator.psofint
+increase socket bind timeout to 0
+support null mask for websocket client
+remove data transfer timeout
+add test for expand panel
+improve propertydatafetcherhelper cache
+do not work in maven on mac
+jdk.internal.loader.bootloader.findresource ( ) throw npe
+quorum client countdownlatch
+remove unused file
+remove parquet record cursor
+remove unused return value
+add null check to firefoxdriver.cleantemporarymodel
+add miss file
+add heartbeat test
+add support for jmx dynamic factory
+remove unused file
+add builder to defaultkafkamessageconverter
+add test for checkin fromasync
+remove junit from testreaper
+move packagecontext to parser.context
+add snippet inlining util
+add support for foreign key table
+add test for multiple role attribute
+add planid to sql query
+add subtransform list to queryablepipeline
+rename tracesystem - > dbexception
+refactoring filter kvp parser
+do not show new task when swipe to new task
+add support for step execution listener
+address nullpointer exception in messenger
+generate 2020-06-29 for alinlp
+add file via upload
+improve error message for arrayindexoutofboundsexception
+add symbol resolution to the node
+use slf4jlogger instead of jmeter
+repair compile error
+highlight chart label
+add path and querystring parameter to template object
+unfail trade on error
+use combinedhighlighter for charting
+do not send escape escape key
+solve npe in extractionmodeleditor when no subject be select
+upgrade to liquibase 4.0.0
+add turbine amqp application
+add test for getfeedbacksessionsubmittedgiversetaction
+use selection in view
+refactor kudu record reader
+add json test
+disable free cancellation for all ticket
+add byte property
+add jta status helper
+add jdeps to module-info
+add test for cache
+log block execution time
+move lookupswitch to switch statement
+fix checkincompatiblestubbingsyntax error
+fix c error in test
+add swing icon
+improve logging of authentication handler
+add toolprovider interface
+add script renderer
+move testtaskexecutor to separate package
+add hcl module
+add node info to heartbeatfailuredetector
+improve error message in nativeimageheap
+add delimiter support to textsink
+remove public modifier from test class
+refactor admin job manager
+implement gpsmarker protocol
+throw executionexception instead of wrappedsqledexception
+add description to testspec
+make sure that forall segment do not have empty constraint
+remove unused package
+add test for instrumentation
+simplify code generation component interface
+remove unused class
+add bitpay provider
+add independence to dfiSimilarity
+add miss file
+add cache test
+upgrade to dubbo 2.0.0
+use enum instead of class
+improve error message
+neffective change - format only
+remove unused import
+progress bar background color
+improve test for java 9
+rename vec - > point
+add basic qos test
+add nullable annotation
+add mongodb resource manager
+add kinesis sink
+make constructor public
+notify objectReachable for field
+deprecate referenceaddedappender # add (
+add hive ingest
+add driver license to meiligao
+add support for jdk 16
+increase max_lines to 7
+ignore facet exception in sub-request
+rename node - > statement
+do not instantiate widget preview loader
+add jsonschema factory bundle
+add bytecodecompiler class
+add security property to health endpoint
+add withdraw bitstamp api
+add okex api example
+address the c error of camel-enhancer
+refactor kubernetes service discovery
+add function for get-table-references
+add search bar
+remove public modifier from jpopulator api
+make softassertsextension namespace private
+add routereader interface
+update to new signature api
+refactor client addpartitionlistener to codec
+do not use enum member bug
+solve problem with empty title in inline parser
+refactoring artifact library
+throw illegalargumentexception when initial size be negative
+standard encryption only supports AES128/192/256
+avoid allocation point allocation if array be empty
+change string for select chart to view detail
+add defuse analysis
+add apex rule
+force all staves to use separate part
+add shutdownsourcesonfinalwatermark option to flink runner
+add eureka health indicator
+add node left event for visualization
+change mean from int to double
+add udf find_in_set
+cloudsolrclient.delete (ids ) throw illegalargumentexception
+remove unused class
+add remove_output to build report
+add new trade api
+allow decimal to be cast to bigdecimal
+do not paint rollover button
+move getwindow to nashorn api
+add test for nvarchar mapping
+improve error message for invalid credential
+optimize chunk reader
+ddl with phoenixrowtimestamp do not work for uncovered global index
+use english string for label
+restart hregionserver on zk expire
+fix c error in test
+wait for jmsReplyto destination to be ready
+catch shutdownsignalexception in ttlhandling
+replace component with textcomponent
+add nurserostering example
+add license header
+refactored qos2publishhandler to use qos2publisher
+remove unused import
+support precision and scale in columninfo
+url encode filter function
+add test for gzippedjsonrecordreader
+use static import in testhivesqlplanner
+spawn height facet
+add test type to testresult
+handle error during authentication
+add firefox support
+add @ extensionmethod annotation
+remove pid_t interface
+repair compile error
+add support for vmware v25
+reuse context in test.evalresult
+upgrade to maven 3.0.0
+refactoring world border
+load all apps icon in bulk
+add dataimportdry command
+add support for amqp error-message-strategy attribute
+refactor token enhancement
+add sm application specific feedback
+invalid signature attribute throw illegalstateexception
+add sample for testng
+add support for expression language parameter
+address thread scope leak in polyglot engine
+remove unnecessary override
+add file via upload
+add filter to configuration summary
+add test for system property
+add jmx port to startmojo error message
+improve error message for python resource file extension
+request permission before check location
+add support for dynamodb
+remove deprecate interface
+fix c error in test
+remove unused class
+add support for protobuf serialization
+add check for duplicate topic in streamkafkap
+return 0 on failure to update upload db
+add pantheon response test
+remove hbase outputformat
+improve error message for bind error
+solve compilation error
+add table_id to column metadata
+vector support in jdk
+make llvmsourcescope return an iterable
+add support for tomcat jdbc XAdatasource
+add s3 info ui
+use static md5encrypter
+reuse indexreader in testbooleanquery
+remove unused import
+force use old method handle intrinsics
+rename eventloopgroup - > networking
+export simulation table to csv file
+add job subtasks to rest endpoint
+support micrometer observation
+do not generate executable method for abstract type
+remove unused import
+add frozen flag to heap
+catch exception when serialize sheet
+add test for domain interceptor
+add new portlet sample
+use saxon factory class name
+solve nullpointer exception in glyphboard
+add classloader support to microservicemeta
+solve npe in jwtecdsaverifykeymanager
+add new file aboutpmd
+implement armoli protocol
+support for array_to_string function
+replace assertj.core.api.assertions with assertthat
+use registry in llvmfunctionregistry
+fix npe in sqlnumericalliteral
+improve logging of checkpoint failure
+add getinfo handler to sqlgatewayrestendpoint
+fail hadoopmapreditcase on window
+test refactor jdbcmfaproviderprovisioningtest
+remove hbase dependency from test
+remove unused import
+use retainablebytebuffer instead of null
+add priority property
+do not crash on invalid screen id
+add multitenancy test
+remove layer name from layerinfo
+add binomial distribution function
+use uri instead of url url
+add brew subtypes
+client nearcache test
+refactoring ebean test
+remove unused import
+add support for double type
+add check for long.max_value
+tidy up ; add nls marker
+improve logging of client timestamp
+add micrometer hystrix metric
+use airlift logger
+use hslf exception
+add destroy and destroy script on exit
+test small initial heap with large page and NUMa
+do not rely on node.getclas ( ) when compare node class
+use createaccess instead of c
+add butterknife to listview
+solve : do not use close resource in lower
+add null check to Whitebox
+rename glowroot to embedded
+add schema to pact Assembler
+add input to mana infusion
+add redirect_uri to oauth2 authorization code grant request
+throw an exception if the constructor can not be instantiate
+improve error message for invalid refresh token
+add context to pframebufferobject
+add support for casttointerface
+update to new dstu3 converter
+refactor entity view controller
+refactoring gui event
+add -s option to tika cli
+improve module status
+use aix signal name
+remove regex property
+remove unused import
+add prometheus plugin
+do not delete temporary file if it already exist
+add symmetric goal
+fix c error in test
+rename databasemetadata - > impl
+simplify truffle sampler
+add support for jpeg format
+log xpath rule chain usage message
+autoconfigured web server factory
+do not set m_debug to true when create new remotetestng
+add plan to querymonitor
+add comment to openalaudio.java
+remove static method for iconcontainedcondition
+add memory revocation request in prestonparktaskexecutorfactory
+make dataflowpipelinetranslator public
+add language enum
+slf4j to debug
+add comparison count to cpd
+add boolean flag to messagepackdataformat
+new pagelog implementation
+add skip to query
+update flink to 0.5.0
+move overriddenmethodsvisitor to separate class
+remove slf4jlogger from starter
+add support for resumable session
+remove proxy receptor from profile
+catch illegalargumentexception in consolekeys
+add vazkii elven portal update recipe
+ignore correlating message handler test
+use value.oftext instead of new one
+ignore flaky test on jenkins
+well handling of invalid xml attribute
+add ltr adapter model
+support ddl create table as
+move joinedrowdata to utils package
+rename subscriber package to observers
+throw an exception when an error open a hive split
+npe in sun and x11
+hive.ranger.use.full.qualified.url be not allow to be modified at runtime
+add lir policy
+remove deprecate dao class
+use static import for clock
+remove nearby activity test
+remove realm result listener
+remove unused class
+change listener to event listener
+remove null check in slopefield
+remove extra line from smtp message
+add test mock request
+neffective change - format only
+improve bazelj2wasmbundle error message
+remove pagehelper aspect
+add support for ebean json
+log ts2js transpiler source file
+phoenix parser do not parse table name
+add empty view to activitylistactivity
+add bareMetal template adapter
+add support for delete child storage pool in datastore cluster
+add return type to multipleinputtransformation
+add update account actuator
+add transaction test
+slackconsumertest should not use junit 4
+add vcard toggle to contactlistfragment
+allow temporary table in view expansion logic
+jdbc io support partitioning
+include function name in error message
+do not use wal crc for long.min_value
+make stream data completable
+increase maxlevel to 10 to prevent infinite recursion
+remove public modifier from string annotation value visitor
+semaphore release task
+xssf reader for eventusermodel
+link extractor for htmlparser
+add type to pendingtransactiondetailresult
+add null assignment rule
+improve logging of cache iterator
+use boolean instead of int
+remove unused private method
+throw an error if there be no aggregator
+simplify data type extraction
+ignore test that require activemq broker
+add support for parquet connector
+add support for package.access and package.definition
+add branch filter
+update gexf to 1.4.0
+use platformDependent.iswindows in utils
+solve nullpointer exception in saveservice
+add primes class
+remove dependency on jboss jandex
+arcsde coverage store
+improve error message for invisible function parameter
+generate 2017-08-01 for edas
+add oidc authentication support
+use key instead of hashcode
+add automation plugin
+add test for pushpartialaggregationthroughjoin
+intern store name
+sort android resource deps
+lucene 3.x codec can only be use for reading
+fix c error in test
+deprecate spanoperator in reactorsleuth
+simplify integration test
+consistency check for cluster session
+add new java code generator
+remove unused logger
+improve error message for incompatible stubbing rule
+escape table name in metadata
+upgrade to ldap 2.0.0
+add message md5 checksum interceptor
+rename test class
+improve logging in Jedissentinelpool
+add support for reliable topic
+add test for overview action menu
+add support for embedded sql job
+make some test class public
+add failonsetup parameter to zipkinspancollector
+remove encode annotation revision and description
+add java 16 support
+add ranking ui model
+add cluster converter
+update service registry test
+update pdfwriter to use xref api
+refactor argument filter test
+add fusedlocationproviderresult class
+filterlist should return key hint for all filter
+add cluster dir delete on start
+support packageresolver for embedded mongo
+remove unused import
+support annotation mixin in javac
+use slf4j logger in feign
+remove reindex job
+bpmn error handle
+add file name to persistingmetadatastore
+do not allow change name of a datastore and a workspace
+refactor shareablememory to extendcell
+generate 20200629 for alinlp
+improve thread fetch error logging
+remove usage from pos command
+add xcode project config
+add namespace support for message
+refactor expression typer
+change copywebinf to false
+remove unused import
+add basic trade class
+throw an exception when a keystore key alias be miss
+add visitor for groovy class
+do not throw an ioexception when an unknown dir object be read
+add json reader all text mode
+add back-compatibility vm hook
+do not send no handler if the address be null
+add isupdateinfo to alert message
+add reference runner
+move splashscreen plugin to a separate package
+add new regexpboostprocessor
+add color to xmpp account view
+remove unnecessary try catch
+return empty byte array instead of null
+remove unused private variable
+refactor servicecomb invocation
+move tabletypes to schema package
+hlogsplitter should not print out the path that be close
+thaumcraft be now available in the api
+add audit to the rest server
+add jwt secret support
+create spring boot plugin extension from project
+upgrade poi to 2.0.0
+indexoutofboundsexception should throw indexoutofboundsexception
+address nullpointer exception in switch
+remove unused class
+add new usermodel example
+add setcreationtimeseconds to eckey
+log change set executor name and replacement executor name
+improve the coverage import process
+add always false validator
+add neo4j driver builder
+throw Guestinterruptedexception if guest interrupter be not available
+throw an exception if the default remote url be malformed
+add process extension test
+add unsaved_changes dialog
+address the c error of aeronThroughputencysubscriber
+remove unused import
+rename option reportanalysisstatistics to printpointstostatistics
+remove ndtpv6 protocol
+make virtualedgesummary field protected
+simplify jar initialization
+re-enable csc-tests integration test
+add test for replace
+solve item pickup event not fire
+rename step1 to step2
+add touch event support for arbase
+add java 8 test
+fix c error in test
+remove unused private field
+remove assert from tracebuilder
+remove unused import
+move conditionalmodule to airlift
+warn if shownotreadyfortxbroadcastpopups be call but no case match
+add chain inventory message
+throw dataretrievalfailure if keygenerator return at least 1 key
+add long blob type
+use enum instead of class
+remove unused class
+line style bar for laf
+sort result by id
+add checkindex hook to checkindex
+move partition class to spi
+do not throw an exception if the xpath attribute value be null
+allow multiple metric set
+add dom listener and suite file listener
+add primitive wrapper to catalogue
+sun.net.spi.nameservice.provider.1 be not set correctly
+system property should be set on the classpath
+server.stop ( ) be not thread safe
+add new stream provider
+add default method for bean definition
+make asserttask an interface
+refactor dispute msg event
+add support for cassandra expression language
+add listener for remove widget
+add pool implementation for redis
+rename stsm to extrathyme
+add lintoutputtest executable test
+wait for accessibility event
+refactoring of selection
+hawtdb aggregation repository should not return old exchange
+add example for usestaticimport
+do not use ldflags for v7 a
+use atomic for long cache
+fix c error in test
+add scale assertion for bigdecimal
+add proto for anomaly model
+change maintenance event name
+implement realtime multivalue and multivalue segment
+add support for function dialog
+convert page to json
+improve error message when resource upload be disabled
+remove feign ribbon client
+lazy initialization of propertypathsbytransiententity
+generate 2021-08-13 for cdt
+remove unused class
+make fillgaps.withmaxgapfillbuckets public
+add getrawnodes method to graph
+add phaseoptions to soot
+make sure drop down list be visible
+add support for html5 location
+system.out - > system.err
+add test for movingfreelist
+add support for hadoop 2.x
+remove json sample
+move clearfailedexception to batch
+throw ioexception when rmi/iiop not available
+add javamail support
+refactor data api
+decode fifotrack photo
+add job exception handler
+add galileo photo header
+add info to mediator
+move executorpool to util
+use random seed
+add delete verb
+add translation to metadata change
+rename state example package
+add test for isterminationexpected
+option to disable exclude from deletion image
+remove Avrocoder from microbenchmarks
+add more logging to isolationbuildablebuilder
+remove unused import
+improve interop access
+add banner printer
+add return address type
+add test for animation listener
+do not update the depth if it be zero
+rename mappermission - > replicatedmappermission
+add test for builder copy
+fix c error in test
+remove unused import
+add xbox component
+add java 13
+remove unused helper method
+upgrade to hamcrest 3.0.0
+remove powermock from emvparsertest
+add code to unsatisfiedauthenticationpolicyexception
+add support for date/time format
+remove liveness analysis mode
+resolve illegalargumentexception in dlnaresource.isweb
+update to new api
+add awaitility to lombok integration test
+add ppolicy response control test
+the -xshareclasses:printstats=startuphint ddr test
+add newgui controller
+thirdeye anomaly detection improvement
+add executable tool
+deprecate the text reader
+new label lookup switch opcode
+add account content provider
+move myvote service to their own package
+add c2d file chooser
+add post preprocessing filter visitor
+address memory leak in monitoraccummodel
+remove unnecessary null check
+remove unneeded url validator
+jdk.jfr.internal.jfr be not available
+add new eeoutputstream class
+rename networkinputchannel to abstractinputchannel
+change uaa-acceptance to oms
+fix c error in test
+log sync event delivery failure
+rename randomoperation - >Prevrandaooperation
+handle unknown structure type
+exclude jndi service provider
+remove deprecate annotationvalue
+set sdkworkerparallelism default to 0
+add path field to filechannelimpl
+do not pass session to jdbcvaluebindings
+make splitenumerator start event loop in sourcecoordinator
+add integration test for persistent inbox
+refactor queue remove key operation
+add default value for string security property
+improve inlining for min type
+remove unused file
+improve pngmap output format
+allow to specify build target for rule publishing
+remove rlp dependency from rlpbench
+add color reset button
+add removeraccountid to the ip quarantine api
+add content service to communityfiliator
+remove xml analyzer
+improve exception handle in loadproxyclasses
+add avro source builder
+contielevel > continue
+add mexc service
+auto-configure jersey server metric
+new forge hook
+add test for verilog symbol tokenizer
+add test for dynamic constant
+improve error message for invalid language code
+remove unused file
+rename classdecl - > classdeclaration
+rename unrar package to junrar
+nullpointer exception in defaultindexchain if indexoptions be null
+add linegetter interface
+add null check to flatfileitemwriterbuilder
+hide jdt use by jetty
+upgrade to notebook 3.0.0
+add support for parameter type
+add to dump active project artifact
+delete slider in delete mode
+drools event persistence
+add jpa support
+change order in tomcatwebserverfactorycustomizer
+improve logging of table and average region size
+swing 1.0 - > sld 1.0
+propertiesbasedprefixresolverforxpath2 do not work for xpath namespace
+add support for multiple output line
+sort result type params
+add nop prometheus metric reporter
+use antlr v4
+render undirected graph
+improve guardloweringphase for schedule
+add configuration to abstractjsonmarshaltester
+lwmodeltoxmldumper should write restsdefinition and rest to xml
+add security manager interface
+improve handling of variable statement
+add null annotation to accountsdbadapter
+new relauncher module
+move client config to client package
+add tregex pattern to coresentence
+remove server from protocolproviderservicejabberimpl
+add check for binarized tree
+add clear message
+fast all test
+support opensaml 4
+dateutil do not work in java 8
+add support for midpoint quadric
+resolve corporea burst not pick correctly
+change icon load to use loadicon
+add rtf list
+add select endpoint to pinot segment restlet
+fix c error in test
+add proxy support to repository
+move some utility class to util package
+improve connection recovery exception handling
+fix c error in test
+add test for prepared statement
+fix nullpointer exception in shadowkeycharactermap
+move stream factory to stream package
+upgrade to hibernate 4.0.0
+use service name from annotation
+rename abstractapexnode - > baseapexclass
+alarm rule engine notification
+remove support for char precision
+add attachment to rest response
+add security group list to updatevmcmd
+improve android_library description
+avoid common pool creation
+add db driver
+increase timeout for test
+do not check for unsized stream
+fix off-by-one error in plottersurfaceelements
+handle null value in updatestatement
+tidy up ; add nls marker
+add heritrix lifecycle processor
+add tnbtu.com to comic download url
+generate 2019-12-27 for cccxspaceinner
+add miss patch for basespawner
+remove dependency on maven artifact repository
+add target triple to parser result
+use switch statement
+make programshutdownhandler an interface
+add folder-unlocked token to upload
+test for onetoone cache enable select
+add more package-info.java file
+add listener to defaultundomanager
+add j9ddr pointer support
+add support for android manifest permission
+add externalapiwhitelist module
+add sort method to array
+use thread-local date for tstamp
+add Diagram script test
+add filter chain manager
+support st3 protocol
+handle return type of void in panamaclosure
+do not retransmission when mqtt message be publish
+add test for predicate primitive id
+simplify sandbox policy message
+create new standaloneblockchain transaction
+add deleteonclosefileinputstream class
+add miss test for near cache
+fix error message formatting
+add role to spoon node name
+remove unused interface
+add ignoretypeheader to jwtvalidator
+add test for null argument
+do not return null for nonreflectiveSteps
+remove map test
+command notification implementation
+move some algos to common
+add gatecoin exchange
+add position and column config
+remove unused class
+add activiti5 test data generator
+add operationName to paged operation template
+make rabbitmqstream use collector
+use lookupclass instead of class.getClassLoader
+throw illegalstateexception when no connection be specify
+thread.interrupted ( ) should inform vm of interrupt
+make sourcesectionfiltertest check for root node
+add itc2007 examination move
+improve error message in framestate
+add abucoins exchange example
+wfs getfeatureoutputformat do not work in stacitemfeaturesresponse
+add objenesis to classObjectType
+hbase master should not load balancer if the table be not on master
+load yaml from file
+add null check for sourceunit
+add workspace instrumentation resource
+add miss file
+improve command handling
+remove timeline ui listener
+use current thread name
+remove unnecessary public modifier
+remove hsqldb test
+auto-configure mobile view resolver
+rename jdbcenvironment to environment
+make inner class private
+address the c error of camel-core
+add checklist keep checkbox
+add backup option to webgraph
+csvreader do not skip first line
+use edge with driver path
+add byte array type support
+add support for forward method
+set the size of all stored upload
+add jcacheCacheEntrylistener for spring cache
+add mvc endpoint to refreshautoconfiguration
+deprecate enablezipkinstreamserver
+rename taker contract signature
+swt2d do not have a background color
+add support for deploy maven plugin
+use byteutil in bloom
+add line number to new statement
+indexfiles.delete should not be read-only
+add metadata to splitmanager
+notify jmx connection abstraction
+rename flavor to audio track title from metadata
+add instructor permission api
+rename showrowcounts - > hide_table_row_counts
+add null check for field type
+add a tutorial to the mindustry renderer
+remove unused private method from responseobject
+use lock in statemachine
+do not limit the number of block in locationmarker
+add lock key to feedrefreshupdater
+refactor colorizer api
+improve deployvmcmd description
+queryparameterbindingvalidator do not validate array type
+add yarn and mesos to security option description
+improve surface replacement
+handle non-integer property value
+add bazel hot restart notification
+provide a data fetcher of last resort
+add circle shape to node style
+support cosmosdb ticket registry
+change dev string to internal string
+add null check for camera resolution
+add support for sentry
+add null check for group property
+add state and mounts to the api
+add support for v86
+clientadminbootstrap throw an exception if client have at least one authorized-grant-type
+add input and output to node
+rename map - > fmap
+remove unused interface
+move import test to separate package
+add builder process
+remove double latex quote
+add support for cache operation
+do not throw illegalstateexception on unknown show
+add expression interface tonull
+simplify thrift serialization
+add default method for cha
+add devtools logger
+neffective change - remove assert
+add bitcomparator to hbase object
+do not apply fontconfig to flowplayer subs
+add support for source srcset
+remove deprecate vm hook
+move trycatch test to testclasses
+add canary application
+close websocket session on error
+move Cleanly to io package
+add duration to scorepart
+sort header by key
+validate certificate when build remote execution
+add new interface
+add banner for spring bootstrap
+handle miss oid in streamingcheckindatabaseaction
+inhibit zip64 entry count
+improve error message for ambiguity method call
+add head to resetpassword page
+use selenideelement instead of null
+rename instance to register
+reduce weight for status page and unit test
+address the c error of camel-core
+add condition to testjolttransformrecord
+address nullpointer exception in usetrappingnullchecksphase
+add isprebuiltsoforhaskellomnibus default method
+add miss enum case default problem
+do not check for rule id when save user notification setting
+add test class for uncaughtexception
+add module-info to jetty-websocket
+image resource type be not support
+use perchunkthreadprovider in acquirableentity
+fix concurrentmodificationexception in persistentEphemeralnode
+re-enabled scaffolding test
+add order by sql test
+add test for segmentationmajorityvotemining
+remove obsolete coinsetter
+add geoapify geocoder
+add checkLMconstraints to query model
+add load node status notification
+add support for long option
+add ircrew recipe
+remove gopher protocol
+allow null additionalfields in gelflayout
+toolbar forpatreon activity
+add owner reference to jobmanager
+move logslider to field package
+add QueryResultproducer interface
+improve error message when mockmaker be not available
+return internal error code for failed query
+repair compile error
+address the c error of camel-core
+change e621 ripper to not use cloudflare captcha
+jpegtableonly should throw iioexception if image data be empty
+add dominators finder for graph
+use char instead of int
+make method static
+use cached interop library
+clarify the description of the native launcher option
+add support forDynanyfactory
+log pipeline id in shutdownwatcherext
+change eth handler to ethver
+notify mail notification
+implement quorum service
+clarify the description of the maximum data size
+use createuncached instead of getuncached
+add support for multi-file file
+make vmservicelisteneradapter abstract class
+add reactor netty client customization example
+make java_serialization_combinefn_URN public
+purge new session request after timeout
+remove old fml patch
+do not schedule memtable flush if there be no column store
+log exception in generate manual.xml file
+add default method to ensure backwards compatibility
+add operatorstate to taskdeploymentdescriptor
+make sourcepoint.record public
+add repository to lucene search result
+rename meta package to interpreter
+add more test for statistic
+log exception when clear near cache before cluster switch
+remove unused transient field
+add allowempty parameter to showtextinput
+do not use uppercasing for keyboard suggestion
+rename abstractscore - > score
+fix c error in test
+remove unused import
+add first in account to group
+add offset size to layer style panel
+throw data validation exception
+move vectorvaluesource to function package
+add test for retain mode
+rename v116 to v119
+add broadcast partitioner
+move listener to listener package
+copyformat to new sibling include icon
+limit the number of available memory in WALinsertnodecache
+repair compile error
+check if component exist in pubsub module
+add nullable annotation to picottsudiostream
+improve error message for bundle file generation
+add hivesqlqueryname to hivecl
+refactoring model dao
+add cli argument
+make containsdescendantof default to unknown
+do not start logging twice
+make sure 'try ' function have exactly one argument
+test for invokestatic during clinit
+solve concurrentmodificationexception in peergroup
+log an error when a principal id attribute be not find
+add -- force flag to the command line
+use slf4j logger for feign client
+throw an ioexception if there be a problem loading a file
+improve tsfile recovery
+kafka adapter implementation
+add position to message
+improve error message for bad history file syntax
+add jcache component
+add support for bitrate
+trigger lifecycle event
+add support for integer column
+do not check permission on jet args
+add support for parquet file format
+add huge resource test
+convert to junit 5
+delete job history after job be remove
+improve console ui
+remove unused import
+add view expression
+add note manager to authorizationservice
+remove unused import
+add fog filter
+sort answer response by recipient
+add builder for compositeitemwriter
+upgrade to hamcrest 3.0.0
+publish usage event for virtualmachine template
+add typeinfo to windoweddatastream
+add support for application jar
+do not call tostring on change parameter
+wait for remove collection leave clusterstate
+mahalanobis distance measure
+improve timeout command
+improve error message when api annotation not find
+add maxplayernear and ticksnearunchanged to elytrabehavior
+add support for process reference
+refactor jsontemplatelayoutnulleventdelimitertest to use log4j 's appender
+add namespace to load configuration
+add jointype enum
+move saml2webssoauthenticationfilter to web package
+add support for native sql query
+remove unused class
+do not set player property if player be not available
+add vlan ip range response
+remove service permission
+add support for record stub
+use paintedborderwidth instead of limit width
+refactoring of score ui
+add ldap authorities populator
+add icu segment analysis
+add final to constantpool
+add check for long rest
+add support for short type
+make property static
+add custom scrollable tile skin
+improve server uid for upgrade module
+add test for root frontend
+support saml sp for gitlab
+refactoring restlet package name
+add new form example
+support slb 2.0
+add support for cors endpoint
+double not float
+make hsqldialect.getcreatesequencestrings protected
+add inputconsumabledecider to adaptive scheduler
+inlining do not work with multiple inlining output
+move lightning abilities to the bottom
+refactor scala encoder
+improve hivecatalog support for hive database
+validate ed25519 public key encode
+add lattice grammar
+mdns discovery support
+remove unused class
+add confirm empty entry button
+add ssl registry rule
+library property dialog
+remove unused import
+add mustache integration test
+websocket api change
+add wiki hook
+add support for enum call wrapper
+allow actual paging b/c of >= behavior on startcolumn
+recoveringchannel should record the queue binding
+rename fluentpath - > fhirpath
+set formula drawable
+throw an exception if the field do not exist in the schema
+initial implementation of micronauthttpdatafactory
+simplify unwind counter logic
+add rollover button to editortoolbar
+throw usernotfoundexception if username be not find
+remove swivel support
+add rootlog4j.properties to flinkflinkdistribution
+rename lucene90hnswgraph to lucene90onheaphnswgraph
+use try with resource
+improve identifier generation
+add static constructor for unmodifiablenavigableset
+address advicematcher not match method return type
+add keyspace parameter to cassandrapojosink
+improve thing status logging
+rename mtgox package to mtgoxTrade
+remove unused import
+add new filter design
+implement checkpointing for iterative job
+improve logging of instance creation
+remove unused class
+rename taskmanager - > stateful
+add stack trace to javaexception
+log rmi client host
+move marblepanel to a new package
+value.get ( ) throw an exception if the value be n't a boolean
+fix c error in test
+add bytecode verification for objectklass
+remove redundant if statement
+add netty 3 aspect plugin
+move remotespringapplication to devtools package
+add error handle to event processor
+use PGproperty.USER for user property
+add get method to array
+fix npe in indexrebuildtaskit
+new tool bar
+increase sleep time for lock test
+neffective change - format only
+add economy view
+change chinese chinese test from 6 to 7
+add update and draw to particle emit
+remove unused parameter
+catch bad server status
+move papplet to core
+create option file for each option
+add max call queue size option
+remove unused import
+move euclidiandraw to common
+do not append value to first annotation
+add support for jmeter certificate store
+add locale update event
+add new whats new map action
+autoformat java file in test/com/facebook/buck/orm
+remove itemgreaterMagnetring class
+allow namespace controller to change name of a namespace
+increase query timeout from 3 to 1
+add routematcher interface
+rename file - > target
+add support for tapandpay
+support timestamps and window in spark runner
+nullpointer exception in changeset.getrootchangelog
+add @ Wrapped annotation
+repair compile error
+implement authentication reject by listener
+rename orion package to enclave
+add hive parser for hive
+add refresh scope refresh event
+remove unused import
+remove dependency on jedis data type
+add paymium authenticated endpoint
+add ninja servlet listener
+add spdy alpn support
+improve error message when kcms be not available
+wait for recoveries to finish in testminisolrcloudcluster
+add master cleaner plugin to backupmanager
+widget type api improvement
+add parseurl and parseurl function
+remove unused interface
+rename consumer - > handler
+removeggdrive.callbackurl property
+add more logging to testcomponent
+switch internode messaging to netty
+do not place in adventure mode
+throw illegalargumentexception when maximumrequestsperperiod be negative
+throw runtimeioexception in util.java
+remove unnecessary else statement
+allow custom path to c compiler option
+improve error message for upstream connection
+add constructor for randomaccessbuffer
+add sparse refresh event for buck
+json decoder return float value
+add remote chunk faultTolerant step jdbc integration test
+add bsq and btc wallet
+return 0 when verifier fail to run
+remove dependency on spring integration
+improve cluster quota api
+amd64 support for aarch64
+add generic arangodb store
+delete existing metadata on disk
+allow set chmod on file
+do not scale bitmap with filter
+solve error message
+add support for jtsop wkb
+use static import in parquetreader
+add test for pln account
+return false instead of true
+add test for mtgox trade
+catch all exception
+add max active session configuration
+improve error handling
+add timestamp stats to bitmap index store
+add parent directory to local file detection
+jar file can not be read from a file system
+add transaction id to access control
+remove unused import
+fix resource leak in filesystemresourcestore
+refactor feature service controller
+remove null check in jobmanager
+add springwebfluxwebapplication interface
+rename admission - > admissionpart
+remove unused import
+delete marker should not be deprecate
+add a new appendablelog
+check for correct depth in framestate
+add a new scoreexporter
+remove unseal from mainprocessinitializer
+standard file processor
+address the c error of camel-spring-mvc
+address aarch64address.asregister ( ) error
+add support for jooby file
+add path field to filechannelimpl
+do not catch stepfailedexception
+add support for signal function
+refactor dubbo service consumer and provider
+add a field filter type flow
+improve error message for spotbugs
+add support for posix filesystem
+add debug flag to status printer
+add params to knnstream
+solve npe in filedisplayactivity
+add support for broadcast input
+verify number of parameter in executable
+move level from bugranker to result
+simplify query template test
+add support for command description
+add test for msq with other option
+adjust dimension for matrix in shadowbitmap
+make inner class static
+add jasypt endpoint
+improve error message for retry
+add norwegian light stemmer
+improve dispatcher debug message
+add callback registration for homematic gateway
+plugin not find error message
+add support for opera
+implement getpeers message
+add support for jackson 2.0
+add pretty print attribute
+solve potential resource leak in hslfextractor
+file protocol implementation
+improve console script output
+move additionalitemssyntaxchecker to common package
+add support for composite node with no incoming connection
+remove unused file
+handshake handler be now thread-safe
+add kafkatopubsub example
+simplify if statement
+add support for ffmpeg ts muxer
+add tcpipjoineroveraws to java
+move internal property type to internal package
+add support for xwpf dt table
+refactor repository query
+convert junit 5 to junit 5
+check if launcher be ready before try to backup
+add support for generic table in hivecatalog
+fix npe in gradle tooling
+add nfi backend panama
+add support for resteasy jackson
+use file time in testverifybucketfilecachename
+report invalidated code if the target be not a call target
+add support for module dependency
+sector planet render
+remove public modifier from keyboard
+use static logger for paragraph class
+remove unused private field
+add end-of-partition event to singleinputgate
+return algo instance
+fix c error in test
+improve error message for positional parameter
+add metric tracking windmill server stub
+fix classcastexception in chart.java
+move range class to util package
+remove unused file
+bluetooth bluetooth blukii binding
+add open folder menu item
+add osgi test
+add test for ajax autocomplete
+remove guava from grid
+move actionsupport to opensymphony-xwork2
+improve the single method singleton rule
+make referenceconfig transient
+make label case insensitive
+add file upload dialog
+cross space compaction : increase compaction file num and memory
+add support for endpoint discovery
+add a new option grouptreesinkiebasesbyfolder
+useEnumeration instead of entry
+add test for many defeasibles
+make sure the listener be set on the model
+move expression parser into an interface
+test for defaultdevicestateservice
+add id to inlininglog
+remove unused field
+throw InvalidObjectexception when deserialization be unsupported
+show an error message if there be no flutter module
+add flyway test
+generate 2020-03-24 for agency
+add package-info.java file
+move import to org.jaitools.media package
+improve error message when speculative node have not assign slot
+fix compile error
+add error report
+add option to only rename one field
+fix c error in test
+remove unused token repository method
+add support for zip file
+add support for comma in point editor
+add jedis cluster implementation
+add toplevelextern class overlay
+repair compile error
+improve error message in testbaseutils
+workbook to fo : do not wrap in div cell
+neffective change - format only
+add deprecated reactive elasticsearch client property
+do not allow delegate to contract address
+make synthetic only method private
+add support for array component
+add public ip to stun service
+add hand to playeritemanimationevent
+use empty assertionresult object
+ldap support for x509 certificate
+add validation-query property to hiveconnectionpool
+show read button in the notification dialog
+add test for closure test statement
+fix concurrentmodificationexception in accumulatorregistry
+remove itbit v1
+support dynamic source in planner
+upgrade to new recurrence api
+fix nullpointer exception in sqltorelconverter when empno be set
+use datastreamsink for compact file sink
+add bazel start command in bazel context
+remove tsid identifier test
+use protocol in socketappender
+add test for forbidden character in file name
+repair compile error
+add target/test-classes directory tourefireplugin
+refactoring loginwindow to use customcontrols
+add executorprovider to jooq auto configuration
+use pool name constant
+refactored heartbeat connection
+test/javax/security/security/ssperftest/ssperftest.java time out
+remove vtdxml from expression
+add privileged flag to execcreatecmd
+announcement watcher subscribe to new consumer
+add license class
+log peer address in blockmsghandler
+do not draw checkbox image in checkboxbox
+fix concurrentmodificationexception in checkpointcoordinator
+add scripting tool
+check if container exit during health check
+move vmutil to util package
+use file extension if possible
+mongodb session store improvement
+remove dependency on junit 5
+add stats to solr-core
+add crafttweaker integration test
+add test for alter duplicate alias
+change volatile to transient
+add backup data for question and response
+use try with resource
+remove string from message
+remove unused class
+improve error message for invalid sheet name
+address the c error of camel-core
+improve implicit include label
+remove unused property
+improve logging of sql query
+use enum for sample number
+rename invertedindexbytokens - > Sentenceindex
+add spark pipeline option
+bug 52527 : a nullpointer exception be throw when a formula record be not find
+add door place event
+log exception when smack initializer can not be load
+do not fail if privacy group do not exist
+add support for stream filter
+sort response comment by creation date
+remove raw.java file
+add one-shot startup check test
+avoid jdk8 jvm freeze
+address nullpointer exception in propertyelf
+address the c error of camel-zipkin
+soul plugin controller
+remove bytekeyrangetrackertest class
+do not cache result of supertype
+more test for intersect command
+move future to util package
+add health check for readiness
+add support for usefixedindex to jdbcparameter
+simplify scheme comparison in asynchttpproviderutils
+add more logging to remotewebdriver
+support odometer in upro protocol
+solve material request filter not work when query start with #
+add indexwriter for sstable
+add new pushstrategy interface
+add upgrade to490
+add sse emitter
+hiveclient.getpartitionchunks should return a list of partition chunk
+test htablewrapper for coprocessor
+add new api
+remove hadoop dependency from streamexecutionenvironment
+make channelcardpresenter interface
+add thymeleaf support
+add java type interface
+add xdh unified agreement
+throw executionexception when execute command without data source
+update favourites button size
+remove unnecessary null check
+remove unused private field
+improve error message for private key
+add model closeable interface
+add viewapkandroidpermissions plugin
+remove extension from defaultartifact
+add smallint and tinyint to presto connector
+add @ donotmock annotation
+rename util package to internal
+use for loop
+throw invalidwebsocketexception if modifier be not public
+add setdigest aggregation
+refactor authentication policy
+move schedulesplit to execution package
+remove unused import
+move sdes control into a separate package
+add grpc function implementation
+check if target be a cell
+replace guava with java array
+add support for cluster management
+rename hivetableconfig - > catalog
+add r interpreter
+fix c error in test
+rename startrow - > withstartrow
+change package name for ftp protocol
+add table option to watch stream
+improve error message for unknown method
+add default grpc client observation convention
+add netty publish receiver support
+remove unused abstract class
+simplify languagespecifichacks api
+make annotationlookup.keylookup private
+add world generator manager
+add copy method for row
+rename slogaction - > sgeometryinfo
+add extra edge to querygraph
+add exception to validatewitnessschedule
+upgrade to junit 5
+add remove method to throttlesubmissionsstore
+use picocli to parse config file
+update msbibexportformattestfiles to use builder
+use a random data generator to generate random number
+add purge world event
+update exception message when run with no language parameter
+add coercer source
+remove unused import
+bitmapfont.getglyphwrap ( ) throw indexoutofboundsexception
+add schema and catalog argument to checksum command
+update test for grobidservice
+remove unused parameter from nodeview constructor
+add get method to extendedstate
+add mnemonic setter to submenu
+add price to hitbtc order update
+add miss file
+display reason of conflict when collect field
+add caption to xmlmeasure
+remove evjpanel stuff
+add long filter
+add new rule for loop variable count
+add support for @ callersensitive method
+support dynamic property group
+fix restartpipelinedregionstrategy exception handle
+resolve url problem in queryorture
+add extracttextsimple example
+add storage level check to mtree
+add jdbi example
+improve error message for duplicate rule
+add xmp support
+add constructor for data
+add support for azure pinot store
+use junit 4 for test
+add block comment delimiter
+improve espresso error message
+implement geofence event handler
+increase signup request count to 32
+improve osgi service
+remove unused import
+refactor gradle dependency lookup
+add new logic for upload profile picture
+add test for jmetertest.properties
+add support for euclidian altitude
+check error counter if aeron client be available
+add more logging to pckg
+solve error message for sync conflict
+remove paddlepaddle zoo
+decode sanav status
+remove unused public method
+do not select item if it be already select
+add wordcount example
+add test for table retrieval
+repair for problem with menu open
+remove unused import
+add offlineloadingstrategy for html5
+improve error message for invalid input type
+add nullable annotation to luceneserializer
+rename name - > preferredname
+redirectionprotocollistener be now an inner class
+refactor queryadvancedtest to use hazelcastinstance
+add customblock to playerblockbreakevent
+add proposal approve actuator
+fix c error in test
+add nullable annotation
+add citavi xml importer
+use gnu.tobjectbytehashmap instead of maps
+add support for lifetime analysis
+add client capability
+remove unnecessary exception throw from kubernetesclientutils
+implement emscripten abortnode
+add kntdisabled annotation
+nsg support for wfs capability
+add capacity parameter to pipetransportliquids
+remove unnecessary catch from test
+add inmemoryinterceptedrequest and inmemoryinterceptedresult interceptor
+add jwt key converter
+use cosstream instead of string
+move androidwallpaperlistener to backends
+move util to depparser
+add support for pseudo field
+address the c error of camel-core
+allow write-all permission for hive job
+refactoring listvlaniprange to new api framework
+add sample authorization plugin
+remove unused interface
+add tcpconnectioninterceptorsupport constructor
+remove unused class
+add support for insert annotated entity
+add support for age-restricted channel
+improve error message for invalid key
+add registry support to protobuf converter
+support batch processing entry
+simplify rollup logic
+refactor containerfillingplanner to use new volume box
+convert Alternativeroutetest to junit 5
+add span to search coordinator
+add show pipe plan v2
+add jfr scope decorator
+add canopy clustering
+format java code in marytts-common
+add block serialization serde
+add default implementation of toolchainsbuilderresult
+improve xml output
+use string for loop
+move cargo output to rust console
+remove sstable serializer
+make reactivejwtauthenticationconverteradapter a converter
+add support for yiddish language
+application do not allow arbitrary argument
+make the default factory a singleton
+move utils to spi
+return boolean from notificationLite.accept
+address nullpointer exception in metricexportautoconfiguration
+enable the experimental intellij project generator
+add support for stop jmx
+add rsassapkcs1publickey class in java
+remove unnecessary null check
+simplify jaxcoder test
+remove dirties-context from test
+do not allow direct call to abstract method
+improve error message for invalid type
+add alter statement
+do not check for null method in androidmodulelibrarymanager
+remove custom wagon manager
+address nullpointer exception in validator
+print error message if validation fail
+add description to the rest api parameter
+add multipledatabases test
+add u2f support
+add test for flinkoutputfieldsdeclarer
+update link to pmd-code.org
+add graph type adapter
+upgrade to hive 2.0.0
+add support for grep column pattern
+indexmap should ensure index be positive
+check that defineconstraints return an empty array
+hard fork for tron
+refactor fontawesome demo
+do not close a websocket tunnel if it be already close
+add lombok test
+use mockito in bitstreamtest
+add file base security support for hive connector
+add serializer for elasticsearch
+upgrade to dropwizard 3.0.0
+add Leafspy protocol
+do not ignore ifnonnull edge
+fix c error in test
+move player join event
+add inverse plugin
+set index for methodir
+add interval type to telemetry endpoint
+use class loader for resource bundle
+make unboundedsourcewrapper non-blocking
+rename messagehandleracceptor to rsocket
+solve npe when restart jabref
+use concurrent collection to allow create chunk from multiple thread safely
+remove deprecate listhdfs property
+handle response error in actuatorrefreshrabbitmqit
+add client pool implementation
+rename address to id in libgraalisolate
+add support for gorm 2.0
+support posix permission for zip file
+make metriccell and distributioncell public
+remove unused import
+do not clear current animation on cancel
+catch unexpected exception in gpsloggingservice
+add support for java.sql.lob type
+ftp helper class
+remove unused featureitem class
+make google analytics detail fragment public
+use snackbar for load url
+add futURE_completion_executor to client advanced option
+add support for lazy event listener
+use metastorecolumn instead of metadatainfo
+remove unused class
+make BigQueryservices public
+set default locale in paralleluniverse
+make constructor public
+add karaf test
+add more log
+refactor transaction context
+remove netbeans profiler
+implement tkmate protocol
+use element not b
+add a command-line argument to the remote server
+remove replicationregioninterface interface
+improve error message in stringfunctions
+autoformat java file in marytts-mysql
+add webfinger service
+replace google import with javax
+improve error message for miss springfactoryconfiguration
+new selection manager
+use file instead of file name
+auto-configure query endpoint for couchbase
+auto-configure jackson parameter name module
+throw exception if object id do not exist for a static gateway
+do not throw nullpointerexception
+fix player interact event not be dispatch
+refactoring service annotation
+refactoring of property parser
+brush color change
+solve deadlock in javamonitor
+export llvmasforeignlibrary to aot
+address nullpointer exception in isolationexecutorrepository
+deprecate perftest class
+dump lower after every node to igv
+refactor apex runner translator
+update fullyplayed icon
+handle invalid presence show
+reactive thymeleaf result view
+claim device service
+add jdbc importer
+add html diff formatter
+improve bootstrap method resolution
+make sure the tool bar be active
+add jetty metric
+allow non-leaf node in selectmenuitemdialog
+add metadata support for wps
+use bigint type in testremoveunreferencedscalarLateralnodes
+add support for module-info
+create parent directory for fileiochannelfactory
+remove unneeded query check
+check if share link be public
+fix c error in test
+add chunk filter for member
+add show command
+dmn feel api
+add kotlin language analyzer
+add zipcity demo
+add in transform function
+remove jedis static method
+add test for starter randomizers
+verify rowid and uniquevalue mask overlap
+add token to session
+procedure store flush test
+add relative position to setblock command
+add metadata support to gaplessinfoholder
+change the default function type for string to interval
+initial implementation of the selenium module
+update altcoin popup message
+set test result status in testinvoker
+make method private
+simplify stream usage in fasthierarchy
+remove default user quota
+print type argument in java type script
+add 2.2.4 upgrade
+do not allow nan in value
+add imull and imulq amd64 assembler
+return 0 instead of error_value for cpu load compatibility
+rename file - > file
+add atomicbuffer interface
+do not blacklist lvalue replacement
+refactor usergrouplookupproxy to identitylookup
+add null check
+add the spring40 test
+improve statemachine factory exception handle
+throw graphqlexception when defer code only support one subscription
+catch redis connection problem
+make sure intersection be only process if the meta already exist
+add postgresql support for postgresql
+add 'accumulate ' api parameter
+move entitytolinksiterable to a separate package
+add max size of profile picture
+add venmo payment method
+use async task for benchmark
+add test for embed service
+move splash to gui package
+refactor scoremanager to use xmlmapper
+add crsname attribute to gml3featurecollectionencoder
+update logical part in sheet
+use try with resource
+add blender model loader
+use @ dirtiescontext for test
+rename lockmanager to lockfactory
+remove unused @ jsonignore annotation
+remove jsontestsuite dependency from genesisloader
+add support for asyncinputstreamadapter.skip
+add between parameter
+make construct method public
+fast forward world
+rename messageconverter - > recordmessageconverter
+generate 202001-01 for ddoscoo
+disables bind on init for tomcat
+add delta relation to calculatedeltanode
+add option to change packaging
+do not load top-level menu item if the path be the same
+add session property for use stream exchange for mark distinct
+add new memorysize class
+add @ hollowinline annotation
+make sure to reset the counter when the input be standardize
+add support for javascript transform
+remove alias from pathresource
+do not truncate/extend to 4gbiB
+refactoring item to itemstack
+do not ask for password on non-existent share
+improve error message when vertex be not find
+remove deprecate getkeymanager (
+add test for recursive menu structure builder
+update interceptor to v4.7.16
+remove unused private method from listblockparser
+add rawclient test to connectionit
+export excel file
+add long cache
+make artifact api interface public
+enable rpc servlet by default
+add test for jwks
+add cache request body filter
+add generic udf example
+add apple_swift_private_preprocessor_input to Applelibrarydescription
+fix c error in test
+add create folder operation
+remove unused method from mutabletable
+rename receiver to impl
+add test annotation
+move ignorance to notification package
+add neo4j support
+add hasphysics flag to entity
+fix nullpointer exception in defaultinstancemanager
+add security requirement to oas reader
+remove unused wrapper field
+allow &amp ; in query
+remove unused class
+add defaultoutputchannelname to router
+fix c error in test
+add miss parameter to giveblock
+add state holder to choicestatedata
+add userpreferences to broadcastmodel
+segmentfetcherfactory do not handle linkageerror
+remove eclipse dependency from sketchbuilder
+remove create volume on primary storage
+set delivery mode on exchange
+new layer ui
+expand new frame node in phase context
+add test for web security
+remove flink 's future from heartbeatlistener
+add support for flat theme
+add error message if system property be not initialize
+remove unused collector field
+improve error message for update recipient
+add timestamp to ticker
+do not show error message when unable to decode wallpaper thumbnail
+move reservoirsample to differentialentropy
+add support for xml attribute name
+add nodeid to component session cache
+retarget dependency on duplicate node
+move Securedtext to new package
+remove unused class
+remove dmn feel test
+handle xml not well-formed exception
+add instrument to xchange
+use static method for column mix
+make sure all specialization be not empty
+can not downcast output stream when wrapper be use
+add tpc server bootstrap
+improve error message when cp subsystem be disable
+add flag to ignore resource bundle
+handle corrupted leveldb database
+remove unused static field
+upgrade to maven 3.0.0
+ignore test that be for jvm testing
+add ip address to pki node
+add default attribute for bpmn
+fasttext dataset implementation
+add new test
+remove console module
+reset static method invocation control
+add auto-configuration for searchbox client
+do not throw malformed exception
+set gradle main class in run task
+optimize valuegeometry.intersect (
+pstricks export implementation
+support type inference in builtin function
+add texture atlas optimize
+remove changelog test
+log simulation abort event
+add support for google certificate
+initial commit for agent
+remove ttl test
+use jta transaction manager
+add test for load from 9
+add file via upload
+remove old patch
+add locale setting
+add loot entry patch
+add test for executioneventlogger
+rename -viewpages - > -viewstructure
+make costcalculatoruseexchanges return local cost
+remove public modifier from test class
+allow old-style svn workspace
+do not create anchor for non-recorded probability
+clone the unresolved dependency
+add static member stop message
+add cwe test
+allow time to pass for the server to startup
+add jni function to javamainwrapper
+add test for authenticationactivity
+add support for obsolete-stats-days parameter
+add a new session queue batch size flag
+fix concurrentmodificationexception in abstractQueuedsynchronizer
+handle worker bootstrap error
+add closeinput in blocking mode
+improve error message for fail to setup freflower
+add query parameter metadata to sql optimize
+switch to qr web flow
+add image resize operation for differential function
+add patch for pause screen
+refactor pincode activity
+add static pgd driver
+add truffle boundary to invokeinterface
+release session on exception
+remove unneeded ctx from lucene-migration
+add offline segment support
+drop 0 count meter
+change string name
+support redis channel adapter task-executor
+make cxxlibrary.getsharedlibrarysoname public
+rename flume.conf.source to spooldirectorysource
+remove unused abstract class
+move tailchain move selector
+add jslttransformjson result filter
+use proxyconfiguration.interceptor for proxy interceptor
+rename test class
+reduce default queue size from 128 to 1024
+add reset method to java parser
+add uptime info to overviewcontroller
+address nullpointer exception in provx509keymanager
+use thread factory for blocking tasklet thread
+rename piechartactivity to chartreportactivity
+do not push watermark into table source scan for python call
+add clear method to powergraph
+add timestamp to task event
+make logger public
+show bsq amount in swap offer detail
+move batchlanguageprocessor to impl package
+add alarm to t800x response
+add more spi type
+move notlnode to amd64 package
+throw ioexception on unexpected input format
+add vm support to register template
+add contains method to Rectangle
+add test for parent module
+remove script engine manager
+remove unused interface
+remove unused file
+add result and status api
+add discardwithinadvice to requesthandler filter
+remove snakeyaml loader
+address the c error of camel-core
+file consumer should not skip file that be already in progress
+make field transient
+add support for pinned event
+catch illegalargumentexception in activitylistadapter
+add mouse wheel listener to editor
+add code cache provider interface
+add retry option for network communication
+add mqtt base url for activemq
+remove unused import
+fix c error in test
+add profiler example
+giac jni support
+upgrade netty to 2.0.0
+allow session strategy to be disable
+allow user js injection to be use with -proxyinjectionmode
+nullpointer exception in fetchrequest when ssl not available
+improve error message for already exist table
+address nullpointer exception in ephemeralbuilder
+fix identity projection to planoptimizers
+add fastjson selector
+fix test for takewithinobserver
+adjust x-axis x-axis width
+add adapter for bukkit 1.17.2
+rename weightedterm - > weightedspanterm
+add analyze rest endpoint
+fix wait time for temporary file
+new interface for goptionpane
+use new norm interface in memoryindex
+add default constructor for eventstorageengine.createtailtoken
+add support for wms feature
+fix c error in test
+remove dependency on jmx property
+open xcode on macos
+refactoring of timeout
+cast orc vector before use it
+nullpointer exception in cosparser
+add iobalancer to tcpipconnectionmanager
+add branch to lucene search result
+return scala iterable from dep.load
+deprecate pillarselector.buildpillarselector (
+announce selection in the picker
+add support for jabber pubsub
+fix function type 4
+add ibft eventmultiplexer
+improve error message when plugin can not be load
+add support for default class loader
+move mock to new package
+folder_name_suggest flag to true
+switch to thymeleaf 5
+use slf4j logger
+add title to file chooser
+fix template support to cluster
+add new groupwindow api
+add demo for json serialization
+make field private
+remove unused private method
+add constraint validator
+simplify new query operation
+throw an error if the value be out of range
+add support for papplet density
+add usage message for index merging and optimizing
+add uimock framework
+add smoke test
+log warn if joinmessage from master host be not a trusted interface
+allow write to non-managed hive table
+upgrade to snakeyaml 2.0.0
+add deploy demo
+refactor thread group recomputation
+make sure row key be always in order
+add py4j support
+create point for inequality functionalnvar
+generate 2019-08-01 for polardb
+add test for override1sample
+add debug data source
+add static resource handler
+dormant chunk cache
+extend navigation for setting activity
+upgrade to solr 2.0.0
+make default button align
+disable virtual thread test
+use slf4j instead of log4j
+remove unused class
+add failed_open state to regionstate
+remove cr cache
+check if plan file exists
+add test for weak association
+fix array comparison test
+add setlanguage function to api
+add import suggestion for type problem
+add support for reactive tomcat websocket
+remove jta test
+remove unused switch case
+implement manual viewers
+fix getarguments from targetcommand
+add mariadb support
+remove close chat action
+move endpointdiscoveryfilter to registry package
+add support for dynamic client registration
+show warn message for assumption violation
+use constant for collectiontype
+add concurrency test for acid
+add legacy component serialization
+add saber implementation
+fix fake monitoring client
+add new binding for growatt
+add warmup option to pump
+fix support for drm format
+add support for snmp protocol
+add new client packet
+remove allowDuringpassivestate interface from partitionstatemanager
+refactor clientkeypublishermapping to use mvc condition
+new api for baritone
+add patch for entityplayer
+add client type rule
+remove unused import
+log an error in solrdispatchfilter
+add @ xstreamalias annotation
+optimize detectauthenticationmethodoperation by check for header
+remove dependency on kotlin gradle
+av do not work for string node
+deprecate configuration value provider
+add delete operation to beam
+filter peer capability in p2pservice
+remove redundant file
+test hql collection expression example 10
+rename object - > map
+add support forCTR mode
+add support for exception type
+fox miss annotation to test
+add defaultrecord to getoperation
+string.fromcodepoint be now private
+add /usr/libexec/cloud-qemu-kvm if it exists
+add builder for storedprocedureitemreader
+file protocol implementation
+add -sarif option
+dynamodb enhanced integration test
+remove order by in aggregate function
+add support for sensor sensor
+specialization for llvminsertelementnode
+remove unused class
+fix try-with-resource for identity key
+add raptor backup cors
+use oncancel for cancel test
+add avoidhardcodedip rule
+add nativ native library
+make replicationloadsinkbuilder a class
+solve concurrentmodificationexception in futurestatechange
+add virtual method generic implementation
+remove proxy authentication password from preference
+use assertj instead of hamcrest
+remove unused import
+add support for lbclassic133
+add default_ibtexentry_id to field
+add auxiliaryimageheap.java file
+remove unused import
+close selenium proxy after each test
+make idnutil private
+add support for local distributor
+deprecate graphite reporter
+add cookie comment
+add spike annotation processor
+do not cache build locally
+add hbase thread util
+solve npe in bitmapimagepreview
+improve error message when cell-relative path not find
+add @ action annotation
+add qif export
+endpoint filter condition
+fix aria-controls and aria-labelledby to table
+add new progress bar
+multiline mode do not work in the editor
+add new class chatconferencelist
+verify invocation in order verification mode
+remove thumbnail from native filesystem
+re-enabled additional test
+add test for ioresource
+remove test file
+basic reject requeue test
+add incubator interface
+generate 2019-10-20 for pts
+implement kenji protocol
+do not use integer division in web
+make proposition generic
+remove unused import
+remove instanceof check for connection
+do not treat double a a scalar
+remove flink 's streaming runner
+optimize bandwidth calculation in freezebalanceactuator
+implement dingtek protocol
+rename interiorIntersectionfinder - > nodinginteriorfinder
+add counter check rule
+correct spelling of archive directory
+add support for spring context
+validate attribute provider
+enable wal for asynchbase sink
+catch illegalstateexception in counterstorage
+rename extendedtypeheader - > extensiontypeheader
+move unixutils to a separate file
+add support for gradle java source set
+okcoin future service
+use static logger for google authentication handler
+generate 2019-08-01 for polardb
+block update log until the new one be initialize
+authenticate orcid profile
+add trimmer for beam pipeline
+add miss file
+path parameter be not append to urlpathbuilder
+remove unused module-info class
+add additionalproperties and patternproperties pointer collector
+use task tier in oncompilretry
+log block add event head block number
+add is.4chan.org link attribute
+fix formattedmessage interface
+add logging for partition pruner
+remove unused class
+balance tank fluid
+move dot to cli package
+add liquibase.hub.mode=all to hub updater
+log packet in jinglenodescandidatedatagramsocket
+add sample for implicit sample
+fix reason to disputeresult
+add support for spatial field type
+fix sql to exception message
+add support for hive table catalog
+rename propertysource to enumerablepropertysource
+add support for querydsl annotation
+replace string.join with join
+use buffer size
+use wrapper instead of webdriver
+make request id transient
+improve metric for idle connection
+use factory for interceptor builder
+inject query timeout
+remove unused class
+make deobf transformer public
+throw an error if the termination with bestscorefeasible be not use
+move transaction store to mvstore2
+cosparser throw ioexception if object be not a list
+use mockit for builder
+change drop all command to internal
+enable checkpoint after task finish
+add check for update title to sparkle
+convert test to junit 5
+testng ant task improvement
+add coercer for optional type
+add jmx connector
+check return type of bootstrap method
+add null check for hub project id and project name
+change default usebufferedwriter to false
+repair for 3d surface not be draw when split in 3d mode
+do not select more than 1000 table
+nullpointer exception in byteref.getvalue (
+rename command to stdevp
+handle empty option value
+allow null message in unsupportedfeatures
+add new class
+remove unused private field groupsort
+extremum multi point support
+address nullpointer exception in telemetryprocessor
+add runtime hint for flyway resource provider
+include the exception when throw an ioexception
+add support for dump thread container
+move rsocket auto-configuration to server package
+auto-configure mobile view resolver
+address the c error of camel-cxf
+move matchertypeextractor to internal package
+use actionnames constant
+temporarily disable broken brokerhandlertest
+imagereader : number of image
+fix nullpointer exception in datacache
+add jdbc url to ingres store
+add primitive function serialization test
+add group parameter to channeluristringbuilder
+improve error message for ldap error
+allow null state in oidcauthenticationfilter
+deprecate on-redeploy option
+add support for xmpp account order
+change openstreetmap to https
+address nullpointer exception in methodinvokerhelper
+add new test case for pdf417
+nullpointer exception in primary key validator
+move to new algos package
+improve error handle for failed subject change
+add boost parameter to globalordinalsquery
+add local date to live timeline
+add uri regex matcher
+add redis metric
+make dictionary test class public
+no query plan for db2
+nashorn exception should not keep track of file name and line number
+add test for osgi annotation type converter
+complete context in futuretest
+add authority support to gitblit server
+do not validate extension with id equal to externalid
+ignore some test on mac
+remove debug print statement
+improve import manager for jdbi
+add test for webview
+add async support
+evaluate attribute expression in kerberos validation context
+do not auto-suspend taskbar on fullscreen
+nullpointer exception in mapwriters when mapwriter have multiple value vector
+support amd64 address shift
+add ability to scale up in parallelism
+add jgroups component
+add truffle heapwalker
+frame center in appd
+use Objects.null instead of null check
+remove static modifier from test class
+ktab support for ssl
+request parent block when propagation be complete
+add cancelledserverwebexchangeexception class
+remove unused record
+improve cash handling
+hbase tool do not work with hadoop 2.x
+add builder for repositoryitemwriter
+add miss file
+remove security dependency from utils
+unnecessary class in sun.awt.windows
+improve error message for invalid reference
+hive.repl.ranger.target.deny.policy will not be update to the target database for all user except hive
+remove nano clock from archiveconductor
+add geometry simplification support for hana dialect
+do not use string literal
+make cssapplierimpl constructor public
+move gwtbinary to feature
+add instructor permission modifier
+improve fast sync error message
+remove unused import
+remove smpp session handler
+rename profile - > userprofile
+catch securityexception in compositeparser
+add equivalents example
+add aqua look and feel ui
+support geos : in geo uri
+cache specialized function info
+handle null intent in startedmatcher
+add -- intellij-project-root option to project command
+do not use same name for multiple native source
+address nullpointer exception in device.getstatus (
+remove unused private method
+add customurl job
+rename trade amount to amount
+add resource policy service to setworkflowgroup
+use mbrolavoice class
+catch filenotfoundexception when construct overflowio
+add enable method to scriptmanagerw
+use static import
+add ollama chat client
+add jmx support to localdistributor
+use event bus for build event
+add git extension
+disable test on java 9
+add nameutils.sometransform for autovalue
+optimize logicalstylecontroller.getstyles (
+add support for gradle change dependency
+optimize beam sql function
+add persistance to proposal
+add shuffle support to presto spark query
+procedure implementation for createmanydatabases
+add contractevent and contractlog trigger
+do not allow static constructor shadow method
+add requestmatcher interface
+throw an error when a single collection be send to a v2 request
+use awserrorstring in s3crtresponsehandleradapter
+use perfstatscollector in cppassetmanager2
+upgrade mysql to 8.0.29-oracle
+resolve preview text not show up in dark mode
+simplify elasticsearch test base
+add health indicator for kubernetes discovery client
+refactor session resource
+add support for custom value comparator
+allow remove non proxy header filter
+deletecolumnfamilyprocedure should throw an exception when only one column family be present in the table
+add android import support
+add clash detection
+format java code in marytts-core
+enable backend test on os
+make sure segment input dialog be visible
+polish multifactor request context validation
+refactoring testbuilder model
+add test for read-only field
+move nearby parent fragment presenter into mainactivity
+remove unused test watcher
+generic menu builder
+add softmask transfer function
+add env var to jetty7appserver
+add check for global stream partitioning column
+remove unused class
+add minion client
+add portable pipeline option to flink runner
+add support for if_expr statement
+refactor gson auto-configuration
+add resource hint to ptransformtranslation
+add miss break statement
+throw an exception if a formatter be not support
+add external resource support to kubernetes resource manager
+use p14d for remember me expiration policy
+rebuild trailer if startxref be not find
+rename repositoryinfo - > repositoryinfo
+remove unused import
+remove unused import
+equation hyperbola foci length
+new regionserver interface
+remove unused static method
+address the c error of camel-ftp
+make logger static
+upgrade to websocket 3.0.0
+refactor noding function
+refactoring transaction status
+allow static service provider blacklist
+remove unused class
+add support for synchronous backfill on function id
+add key class to abstractpact
+add support for buck maven repository
+add new handler
+add share button
+use unauthorizedaccessexception in instructorcourseeditpageactiontest
+rename raptor output handle to storage
+add feedback response comment
+add mime type detector test
+add support for lastindex in removejavasedeps
+add static factory method to schematransformer
+move clustermetadataupgradeharrytest to distributed package
+add java interop snippet test
+remove unused mlfunctionfactory class
+add user-specified annotation to rest service
+add public login rest endpoint
+layer for objectives
+use coercingserializeexception in scalars
+use constant for max_bytes_array_header
+add jdbc module
+simplify expanded list
+add some logging to the ie driver
+do not compute stable array element for primitiveStamp
+do not show the contact list if the list of account be empty
+add support for custom opengl library
+move kafka connector to spi
+update to noggit 2.0
+add tostring method to additionalitemskeywordvalidator
+fuzz pre loop for superword
+add provider definition
+add width to inc cell
+add webcontext to authenticator.validate
+simplify kafka test
+add background color to preference
+remove task checkpoint alignment
+improve error message when parse raw rule
+add redis test
+add support for remove font-based symbol
+do not escape qualifier in query
+ntlm.debug be now privileged
+delete old contributions table
+add macho dump reader
+move jdom to jdom2
+add tiff write params
+use isEmpty instead of null
+improve test output
+refactor upload network test
+use abs dot instead of if
+do not save the path
+add diskspace health indicator
+move publish to core package
+add null check to QRcodeencoder
+add javamail component
+add support for flyway vendor location
+remove unused import
+file content provider do not work for remote file
+bitcoinaverage api implementation
+simplify for loop
+remove unused import
+rename test class
+remove old android profile
+use code registry for graphql schema
+remove unused import
+remove unused class
+add showdevices node
+scroll to bottom , not bottom
+add null check to category.setpriority
+add affinity factor to execution plan
+do not pause the stream if it be not a file
+improve image reader mime type
+improve error message for unsupported coder type
+refactor exception handler
+make loaderproxy.newmap private
+add support for new operator api
+add trackinglog for listentcp
+add spi for sign request
+add localstack test for listkeys
+add test for author
+move view to user package
+add support for list of columnconfig
+remove dependency on freeplane icon
+do not throw exception when mock strategy be insteference
+add test for dropwizard clock
+add discovery health indicator
+move threadutil to backport
+add support for read/write header
+rename name to columnname in redisinternalfielddescription
+rename chooseaccountfragment - > chooseaccountdialogfragment
+address nullpointer exception in dynamicinstantiationassemblerinjectionimpl
+upgrade to kafka 2.0.0
+address nullpointer exception in channelfactory
+add trade closed state to dispute
+remove hssf from test
+do not try to set subtitle if we can not find it
+new class fluentlauncher
+add support for annotation mirror
+do not call setter on null value
+add elastistor primary datastore driver
+testallfiles fail with npe if jre not available
+address nullpointer exception in collectorservlet
+rename listener method
+refactoring search manager
+refactoring tenant apis
+repair compile error
+add purgepartialevaluationcaches to compiler
+add daemon manager for flutter runner
+upgrade websocket to 1.0.0
+make sure query target can be find in query environment
+remove unused clientcontainer
+add multithreadedinitializationtest for slf4j
+add file via upload
+avoid npe when there be no index result
+improve error message for failed transaction
+add test for data bundle with no section
+default shell to /system/bin/sh
+remove repeat from backup test
+move dbappender to core
+remove jms static setting
+add support for presto s3 storage
+add engine test case
+change delete last cache logging to debug
+add test for ant task
+add sourceinfo to agent object
+add assert to avoid npe
+refactor lwm2m integration test
+warn instead of throw exception
+rename hauler to slidr
+add jfx animation template
+add support for handlerenamedfiles flag
+make sure the spy be call on an uncaught exception
+add bar data to chart activity
+add pathhashing.java file
+add test for mockito
+remove spurious println
+remove unused import
+add test for shufflesactualmemoryonhostside
+move keytypeobjectprocedure to new package
+remove generator test
+add support for keep.tmp.files option
+use static import for sortorder
+add simple json serializer
+fix nullpointer exception in roster contact name
+add validator for eth
+do not continue sending after a timeout or a cancellation
+solve error message in difftochangelog
+ensure grpc client interceptor be order
+use correct mask in bcpdefaulttlscredentialeddecryptor
+remove hbase lookup service
+remove unused import
+use try with resource
+hivesplitloader do not count footer header with splittable = 0
+ignore intermitent test
+use utf-8 for channel byte array
+move distanceutils to spatial package
+add default category to adaptive logistic
+create swagger file from template
+add logical id to joystick compatibility mapping
+allow table migration to iceberg and set metadata location in one step
+remove dependency on guava collection
+move caching interface to quadtree package
+add test for getintervals
+add transferedge method to dataflowanalysis
+replace command with worldedit
+move keyverifier to autoconfiguration package
+add support for methodnamedeclaration
+add integration test for native jsmethod
+use iotdb thread pool name
+improve logging of transient exception
+remove setup wizard
+use target jdk for reflection factory
+relocate timings package
+address nullpointer exception in schemalessfeaturemapper
+add support for constant line
+remove cache for composite discovery client
+remove unnecessary null check
+improve error message for @ constructor and @ constructorproperties
+generate 2019-01-23 for copyright
+improve liquid color
+add hotspot support for sparc
+remove unused interface
+improve support for nested comment
+resolve nullpointer exception in resolvetypedeclaration
+add avatar support to xmpploginfragment
+create remote folder operation
+remove teradata from metadata
+add support for generic type
+add nutch spell support
+improve type annotation cache
+add amount_scale to currencymetadata
+refactoring inventory system
+rename jdk - > jul
+add miss file
+add support for micrometer observation
+rename listener - > listener
+add duo security bypass code
+disable flaky test on travis and multiple local machine
+add null check for max_hint_window_in_ms
+use assertj instead of hamcrest
+move delegatepropertyeditorcomponent to provider package
+remove unused import
+add dataformat component
+remove protobuf dependency from edgeimitator
+catch throwable in session
+remove lwjgl interface
+thread local random be not thread safe
+do not set buildargs if it be empty
+add remove file operation
+add request orientation to directmessageconversation
+improve management server role
+add test for w3c converter
+add account name to file
+add support for java 22
+auto-configure graphql security
+log exception in restspandecorator
+support @ method annotation
+fix off-by-one error in defaulttexturebinder
+address nullpointer exception in syncpool
+integration test for dbclient
+rest api credential error
+do not eagerly initialize bundle in the optimized mode
+make recursive cycle try to resolve a non-fatal error
+refactor showcaseview to checklistview
+add benchmark phase event
+add localcontrolledlooper class
+notification request preview improvement
+add python node root node
+remove unused class
+add arabic ligaturizer for text processing
+add support for multiple prompt
+use outputcaptureextension to test flyway license key
+do not show error message when file be not find
+add test for exchange metadata
+skip all test for testbeangui
+fix nullpointer exception in entityfinder
+rename containbasedsearchrule - > containsbasedsearchrule
+thread.getthreadid return wrong thread id
+try to send log history without an app
+add file support to meitrack protocol
+make sure all and under mouse be set on the root
+handle exception in eventnode listener
+deprecate shade resource transformer
+add openweathermap binding
+remove debug output
+add @ ondisabled annotation
+add start and end parameter to bitposparams
+improve performance of prestresultset
+add truffle nfi dummy class
+use float for edge source
+add plateau dynamic threshold
+move preference class to preference package
+allow attribute repository to recover from exception
+add more test category
+add normalization process for raster process
+rename putfromloadalloperation to putfromloadkeysbackupoperation
+improve exception handle
+seda consumer should use the conumser multicast
+wait for find node to send neighbors
+implement mqtt protocol decoder
+add timeformat to dynamic model
+close spring context in bannertests
+remove dependency on htmlunit
+limit the task update size
+upgrade to maven 3.0.0
+add admin packet
+change warn to debug
+add test for ` group by non-existent ` column `
+add dnd component
+add druid connector page sink
+make labelfixingvisitor an interface
+add loinc consumer name handler
+add delete question test
+add option to save spark history file
+add debug message to indicate that groupchat stanza to bare jid be discard
+improve smart client thread count
+add ssl support to hbase
+add call participant to history service
+add support for analyzers with extension ext
+add stacksize to executionstate
+add listener interface
+remove shade import
+add tmpfs support to genericcontainer
+add jni 1.4 and 1.8 support
+remove unused import
+add open field to appauth service
+set item in adapter in order to avoid npe
+rename constructor to econstructor in query
+remove unused file
+improve error message in abstractarrayblock
+address validation do not work for non-existent address
+upgrade to optaplanner 2.0.0
+add support for kerberos proxy
+allow parameter in expression evaluator
+add event for authenticationfailureaccountlocked
+fix spell error in streamsqlexample
+add showcase demo
+fix npe in testcommand
+use size variable for loop
+add backup for global prefs
+simplify distbuildservice fetchsourcefiles
+throw indexoutofboundsexception when index be out of range
+repair compile error
+add systemutil class
+add zipkin trace support
+add attributeholder interface
+add support for xls property file
+add chat annotation
+add null check
+sleuth span namer
+make boundmethodhandle sealed
+do not use custom view for wallpaper
+add local.storage.path parameter to libvirtComputingresource
+remove unnecessary null check
+add ovm to list of hypervisor
+solve npe when bsf manager not find
+remove unused class
+rename package to any23
+rename pushupassignUniqueIdthroughremoteexchange - > pushremoteexchangethroughassignUniqueId
+removedoi action
+replace jacksonfactory with jsonfactory
+add setting icon to profiler
+rename ibft to common
+upgrade osgi to osgi 4.0.0
+use nio 's file path
+handle null value in columnconfig
+add support for additional remote repository
+remove redundant temp file creation
+add sourcesortedsetattribute to rule
+simplify pinot sort
+hide unencrypted message
+add test for swap bsq account
+remove cxxplatforms from cxxgenruledescription
+disable firebase collection by default
+move package to dataformat package
+add multithreaded option to pathexhibitor
+refactored grid layout
+add japanbank payment method
+remove unused class
+add initial status to irc presence
+upgrade to junit 5.0.0
+improve handling of null in extensionfieldobject
+add new class membermatcher
+use svm hosted json parser
+upgrade to testcontainers 3.0.0
+throw unsupportedoperationexception for fdlibm
+add mono defer to session registry webfilter
+support hex color
+add builder to reactivecommandgateway
+add description to route
+check if method be a rest method
+remove unused class
+support edrx cycle in lwm2m client
+add preference for sketch name
+java.lang.illegalstateexception : java.lang.arrayindexoutofboundsexception
+refactor referencerunner to use gbk
+ibft integration test
+add body original message support
+add new class threadcontextcurrenttracecontext
+upgrade to kubernetes 1.0.0
+add elasticsearch io support
+rename playbin - > playbin
+improve error message for meter registration
+add coprocessor for stats collection run track
+generate 2018-12-12 for unimkt
+do not use string literal
+return unboundedreader.backlog_unknown if shard reader pool be null
+remove unused variable
+make an abstract class
+recover exception in the exception handler
+metadatafielddaoimpl do not cache field
+move command binding to worldedit
+cryptofacilities account adapter
+remove java 1.5 support
+close spring context on application failure event
+add gas enum
+address nullpointer exception in weblogicclassloaderhandler
+add a test that compareresults work correctly
+improve error message for @ publisher on a void return
+notify libgraal when outofmemoryerror be throw
+add butterknife to filedetailfragment
+add support for h.264 and ac-3 video
+address the c error of camel-rest
+close streamthrottler if possible
+improve line-pattern style
+remove point center
+use foreach instead of foreach for loop
+address nullpointer exception in ftppatternmatchingfilelistfilter
+add jdbc status store
+add null check to isolater
+add broadcast partitioner test
+add support for initialize permit
+auto-configure facebook app-id
+skip oracle8i join condition in manytoonewithformulatest
+use enum instead of class
+add timestamp attribute to transactionindex
+hive.optimize.update.table.properties.from.serde and hive.optimize.update.table.properties.from.list to optimize table-properties
+add option to specify path to the clustered point
+remove redundant null check
+use nustaq 's serialization
+improve error message for composite font
+avoid npe if arbconst be null
+add support for kafka consumer config
+do not reactive liquid
+sequentialrestRateLimiter.getglobal ( ) should not return negative value
+address the c error of camel-inet
+use lombok setter instead of setter
+deprecate split and side-outputs
+remove unused abstract class
+import bulk output
+add renderfirstperson case
+support saml response customizer
+make sure the bridge surface be a long
+make selfvalidatingvalidator constructor public
+add arquillian test
+neffective change - format only
+use translated username for ldap authentication
+refactoring xml parser
+add initial value to generatetablefetch description
+add buck audit owner plugin
+refactor open settings view
+make ticker an interface
+improve handling of exception from thread
+add featured image activity
+upgrade to hadoop 0.9.0
+add -- verbosity to buck step
+fix nullpointer exception in loadupdatedatachangelog
+extractccdaattributes should not require record-oriented handling
+add support for parquet table
+add inner class validation
+remove useless class
+add connection device support
+drag cursor do not work in 3d mode
+change state to bodystate
+format java code in marytts-core
+add default case
+add new frontend test
+simplify if statement
+add sopremo query parser
+add support for remove reaction
+replace \n with EOL
+add support for jdk 2.0
+add @ validtypes annotation
+remove unused import
+improve transaction fee detail message
+java.lang.nullpointerexception in cstring
+add @ Providedby annotation
+use apache common lang3
+add constructor for endpoint affinity
+move reactive loadbalancer property to reactive package
+remove orc io
+refactoring itemaddbundlecontroller to new itemrest api
+add test for date converter
+remove unused import
+add null check to studentfeedbackresultspagedata
+autoformat java file in test/com/facebook/buck/model
+remove old light class
+add file via upload
+optimize pgl initialization
+add test for delete from person
+remove activiti event listener
+convert stringliteraltest to junit 5
+inout component should throw an exception when transacted=true or inonly exchange pattern be use
+add acl test
+add base64 relay
+make abstractunuseddependenciesfinder agnostic
+use easyrandomparameters.getrandomizerprovider in arraypopulator
+add public_announcements flag
+improve error message for bad option
+add monitoring to hybriddecryptwrapper
+replace valuelobinmemory with lobdata
+remove volatile from vaultconfiguration
+add miss gate
+catch classnotfoundexception in dashboardapplication
+add limit parameter to analyze query
+add rate limit support to kafka010 fetcher
+add support for h2 database
+remove memory limit from tpcdstestprogram
+fix npe in feedrefreshtaskgiver
+remove phantomjs test
+new class iterablejsonnode
+remove reset_gui menu option
+make tab stop chunk private
+move journalinformationfetcher to importer package
+add support for include class in coprocessor class loader
+add integration test for item drop
+add relation extractor test
+add support for 32-bit archive
+move buildruleDiagnosticdata to stats package
+add rcfile support to hive client
+add trap splitter
+upgrade discovery module
+fix concurrentmodificationexception in standardbytebufferpool
+add test for email format
+add support for cassandra clear operation
+add graph decorator interface
+wrap openssl session if possible
+add filter to signwitnessservice
+dismiss material dialog
+add jetty log factory
+polish `` add support for timer property ''
+do not show progress bar for the dark theme
+new queue implementation
+default copyonget to false in 4.1
+allow android project with scala
+simplify new session queue
+improve performance of messageinputstream
+increase default connection count to 4
+extract abi jar into jar file
+handle miss index change in mssql
+remove experimental.join-spill-enabled from hive query runner
+do not fail if socket be not connect
+rename hardcodedconstructorargsbaserule - > hardcodedconstructorargsvisitor
+add encoding to database search
+add constant for valid image file extension
+add spring data web auto-configuration
+pathchildrencache do not handle decompressed data
+add builtin optiq implementation
+rename bouncycastle to jdk
+calculate column hash for star expression
+catch contract not process exception
+upgrade to dropwizard 3.0.0
+move test to util package
+implement zone protocol
+auto-configure jersey server metric
+add svias protocol
+add watch support to applebundle
+neffective change - format only
+add amqp client test
+rename inventory - > ownedcollectioncomponent
+solve npe in multiuserchatmanager
+add fakeprocess class
+remove static modifier from enum
+synchronize load core state
+refactoring android bitmap store
+add global flow control strategy update
+new ant property provider
+support rabbitmq exclusive mode
+add test for contextlistenerlistener
+add live search support
+add trx transactionExtention api
+first activity refresh service
+remove xerces dependency from jaxp
+remove unused test file
+upgrade to junit 5
+upgrade to lucene 2.0.0
+add locale to format
+log thread name instead of thread number
+export drive content
+add systeminfo collector
+add separate item capacity
+check if logger have a handler
+new block join sorter
+simplify elytra repacking
+add function range query
+throw ioexception when tsfilemetadata be not in tsfilemetadata
+add crash block
+decode atrack driver id
+use lambda printer instead of lambda fingerprint
+remove vine ripper
+add write svg sketch
+autoformat java file in src/com/facebook/buck/xcode
+use long offset for unsafebuffer
+enable bulk-memory operation for reference type
+address nullpointer exception in ethkdfsenderkem
+refactor test infra
+add yarn.security.kerberos.additionalFileSystems option
+add replication group offset
+add support for saml metadata ui
+improve error message reporting
+move db2 connector test to server package
+add support for union type
+do not send todevicemsg if subscription be not send to rpc
+rename losslessrecoveryenabled - > losslessrestartenabled
+do not show character in target system
+fix classcastexception in hotkeyinfoaction
+add query context to transform function
+add support for openshift kubernetes model
+vectormapjoinfasthashtableloader should throw an exception if fail to complete the hash table loader
+catch exception instead of ioexception
+upgrade opentelemetry to 2.0.0
+use slf4j instead of log4j
+increase max x time for slow disk
+upgrade to 2.22.0
+add support for single vertex
+close checkpoint channel in taskstatemanager
+improve error message for fiat payment transfer
+simplify redis test
+use clock in webfilter
+log script body on script execution error
+add minimal flag to sharedjsonStreamingserializer
+decode suntech attribute value
+move textcommandservice to internal package
+add new locationidentity class
+add max thread support to hub
+solve possible npe
+upgrade to testcontainers 3.0.0
+populate rubric question description
+remove vlan range from physical network
+remove selfcheck activity
+return content-type in saverequestawarewrapper
+make schematransform from public
+remove spill hole design
+throw unsupportederror if format do not support auto-partitioning
+update to atlassian link
+openwire v2 support
+add now filter
+add width and height to lossless factory test
+remove unused private method from querystatemachine
+add min function to aggregatenode
+refactoring clientendpoint to dto
+add test for boolean expression
+add hapi system property
+add prepare method for assertable context
+add getxeslabels method to ggbapi
+add spanish tokenizer test
+allow reactive oauth2 to retrieve user info
+remove jsonreader class
+remove jpa metadata support
+add framebuffer_incomplete_multisample and framebuffer_draw_buffer
+include total amount of cell move to mob during compaction
+add user id to attachment
+add getter for block state
+add testcontainers atdevelopmenttime feature
+improve groovy library description
+upgrade to hazelcast 2.0.0
+remove unused enum
+add mockitostubbedcallinanswer test
+add expression to solr
+suppress duplicate alias for forge minecraft command
+add requesthostandportdetail to detailcapture
+do not set fail state twice
+collapsed aggregate table
+remove jakarta validation interceptor
+only put into cache if we're use dormant chunk cache
+add echoserver websocket example
+recycle point in getvaluesbytouchpoint
+remove reactor from prepostadvicereactivemethodinterceptor
+remove license header from importcontainerimpl
+upgrade h2mock to junit 5
+move mvc example to springboot3 package
+separate multiple subtitle file in mencodervideo
+improve error message for duplicate cause
+remove unnecessary cast from aggregatefts
+add url action
+move qp test to qp package
+add getexpressablejavatypedescriptor method to entitykeydefinition
+add support for object link record
+use item.getitemdamage instead of entity.getitemdamage
+remove unused class
+support array append function
+use static method to get header
+add total byte array size
+do not show search result if there be no more than one hit
+remove asciidoctor css
+refactoring start event activity behavior
+add access test
+upgrade to hssf 2.0.0
+add test for scan rest endpoint
+add test for ssl handshake
+add rule chain rule chain type
+add option to ignore table bucketing
+add support for jpa repository
+make instance field private
+add registration and trade controller
+add file id to file cache
+change shape icon to clutter
+optimize hexread.read ( ) and hexread.write (
+rename class - > interface
+add tri reactive generator
+remove unused import
+ignore incoming event if they be deprecate
+add extension event logging
+refactor cache record store
+make logger private
+add @ mongodbavailable annotation
+solve npe when first/last row be null
+auto-configure jpa persistenceunitmanager
+rename clientv2 to client
+solve npe on mac o x
+add boolean support to espresso
+solve concurrentmodificationexception in repairjob
+move category to common package
+log warn if dictionary can not be parse
+remove unused private method
+remove unused private method
+new class `` wrongmapiterator ''
+pseudo center for polyhedron
+simplifyHystrix gateway filter
+add test for uidraggable
+remove unused import
+remove debug histogram
+add coingecko exchange rate provider
+use unresolvedidentifier in test
+add keycloak servlet
+do not trim multiline statement
+add getbufferindexforcurve for new size
+fix notification notification notification notification notification notification
+add extra data to payment account
+move Unixarchiveentry to util package
+add support for @ timer annotation
+move header to header package
+remove internal annotation from jsonviewcodecresolver
+improve error message for dynamic partition
+improve error message when h2 be not find
+add agent rollup to startuplogger
+add jcache guice test
+add support for joda time
+auto-configure jackson in test
+add network module
+add czech support for lucene 31
+add custom rule dialog
+add support for celllayout board
+add ancient emi recipe
+move leaktask to util package
+move package com.google.protobuf to org.apache.hbase.thparty
+catch security exception when set tOTP key
+add test class for string
+add amazon schemaregistry client
+add @ tenantdbcall annotation
+move web app to html5 package
+add nullable annotation to jpaconfiguration
+use jgit 's inserter
+move blockencodingfactory to block package
+add tooltip for trader offerbook
+add token filter to vault service
+parse boolean column
+use batchproperties for job name
+add flush method to writerpool
+encode file name
+remove support for offset commit in kafka dynamic source
+add burn output model
+implement bukkit location adapter
+auto-configure jersey server metric
+add support for attribute value
+refactoring command syntax
+add requireassertenabled rule
+handle gap in the chain
+use static import for error code
+remove unused import
+add javax websocket test
+generate 2016-06-16 for green
+add valuecontainer interface
+fix resource leak in openapiconfigurationloader
+solve npe in detail view
+throw an exception if replication_factor be an option for networktopologystrategy
+move iopinputstream to impl
+use try with resource
+remove unnecessary keyselector
+log savepoint for cancel job
+upgrade to vertx 2.0.0
+remove pmd dependency on file collection
+add test for insert with non-equal source column number
+syslog store implementation
+putlambda exception handling improvement
+add border to status
+add parameter declaration to astparameter
+add test for null invocation
+add fullscreen and reset flag to display
+add password change
+wasm memory : improve memory allocation
+refactor statemachine factory
+move bloom command into a separate package
+add springmvc demo
+add llap daemon protocol support
+add javafx option
+check for free var in expressionnode
+add instance type to clustermanager
+use static socket factory for ssl connection
+add exception to abstracttestqueryframework
+remove unused import
+new file list panel
+add property file to environment for test
+add l10n translation
+add border to contribution manager dialog
+add -- xeth-capability to the eth protocol option
+add maxentries to ticket reservation
+add duplicate search menu
+do not insert empty job parameter
+upgrade to amqp 4.0.0
+add plugin name for clustered cache factory
+return empty list instead of empty list
+simplify wait method in selenidetargetlocator
+add authorize service to bitstreamcontentrestcontroller
+remove unused package
+do not cache script content
+add track to program code
+remove hamcrest from testwebsettings
+make inner class private
+throw illegalargumentexception when eviction policy be not support
+add subject to xabber account manager
+print packet size in test
+add movie maker tool
+use generated security password if possible
+add a sai test
+upgrade to sql 4.0.0
+add reminderhelper test
+replace at with aslong
+add event filter to collector
+remove old file
+rename package opengl2 to opengl
+add lazy test
+add rxin asset
+do not redirect to current log
+dubbo proxy cache do not invalidate reference key
+virtualmachineimpl class should be static
+remove org.glowroot.plugin from log
+improve error message when file can not be save
+add new traffic-router example
+do not set host and port when use proxy
+simplify table grep filter
+reduce default number of generation from 4 to 3
+add support for jpa-repository
+remove icon check
+move colormode to desktop package
+address nullpointer exception in classpathfinder
+switch to lambda expression
+client partition service proxy
+refactor taskbar animation
+avoid strict check for raster dimension
+improve splash support
+menu view controller
+fix npe in statgraphvisualizer
+add null check to abstractauthenticationtoken
+cache orc rowgroup index
+remove unused import
+remove worker code
+use container name from config
+move urldragdrop to gui package
+add support for s3 credential provider
+remove jakarta dependency from testasynccontextimpllisteneroncomplete
+dnot close the tsfile when recover
+address nullpointer exception in enumdeclarationcontext
+add collapsibleif statement rule
+add a link to the lucene index file
+jetty 12.0.x 12.0.x 12.0.x 12.0
+upgrade to pdmodel 1.0.0
+replace string.valueof with string.valueof
+add pkill process manager
+function type cast to function
+update changelog to 13.1
+improve regex for composing
+set extended state do not work in javafx
+refactor jda builder
+remove bogus import
+increase timeout in ffmpegexecutortest
+add support for annotation visitor
+add transaction fee reward
+add type to cast expression
+remove system out from splashprogress
+add file via upload
+add support for read-only note
+move nexmark query model to nexmark module
+improve error message for no matching constructor
+generate 2019-03-07 for cloudauth
+add one-handed mode input consumer
+add backoff to dataflowworkerharness
+add interruptableparsing example
+remove truffle expansion histogram
+add file via upload
+injectmocks should not be initialize before have a constructor
+new pattern class
+refactoring curly pattern
+throw illegalargumentexception when unresolving dns server
+realsense support for realSense
+remove easymock from buck test
+improve peerserver error logging
+re-enabled additional test
+move domain predicate to common
+add helium registry
+resolve crashunit not take care of poofing
+remove elasticsearch 5 processor
+address the c error of camel-ftp
+add test for addhostbutton
+improve processing of cpd file
+catch exception in jsr292
+upgrade to jetty 12.0.0
+use vmresolve instead of try catch
+add cookie policy
+add support for array type
+update snakeyaml to v2
+simplify guava session management
+remove jmh benchmark
+use graph builder instead of hashmap
+refactored memorymeter to use the new component
+use miginfocom to match embedded resource url
+add model implementation provider
+add wfs transform controller
+add function0 supplier
+add wnd event to worker
+move profiler to nn package
+add private field set method source
+move integration test to messaging package
+rename internal package to pluginapi
+fix compilation error
+change refresh log to debug
+add test for wilcard from join
+use random lock for txengine
+add support for identity column filter
+ensure that the type of a concrete processor be create if they do not exist
+remove deprecate static method access
+ignore component_descriptor record with duplicate constraint
+add late data output to patternstream
+refactor etcd test
+add support for freq read for lucene50postingsreader
+add support for tab in jdbc metadata
+add servlet for async proxy
+do not bind private constructor
+add default method for add ticket
+make some class public
+check for null coder in rehydratedcomponents
+remove jmx support
+support @ @ nullable annotation
+handle expansion service error
+add appinfo interface
+add support for java file header
+upgrade to rsocket 3.0.0
+hive meta store do not check for already exist partition in the table
+add require transitive to module-info
+improve syntax error message
+repair compile error
+add module-info.java file
+do not compare trade timestamp
+fix potential deadlock in pipesclient
+crawldata.evaluate do not work with url
+add jabref xml handler
+add deliberate test
+improve error message for invalid identifier value
+add mesh for 3d surface
+remove unused method from feedbackquestionbundle
+add app page ui test
+return this from expectation.withid
+enable error handler in production mode
+add retweet status to the tweet view
+sun.misc.floatingdecimal to jdk.internal.math
+solve rendererlivingentity.renderlivingevent not be call
+add output device label to gwt audio
+improve logging of context error
+remove unused option from cli
+add enum for cluster operation
+remove butterknife from contributionslistfragment
+move testblockandpositionnullconvention to scalar package
+rename iongoingstubbing - > ongoingstubbing
+solr.home be now relative to solr.home
+add @ jsonpropertyorder annotation
+upgrade to lucene 2.0.0
+add meter name to error message
+add serialization to jwk and ec
+use int.tointexact for height calculation
+remove elasticsearch connector
+procedure namespace support for sql
+remove check for oracle vm vendor
+add tree layout plugin
+move duplicatedetectionrestcontroller to repository package
+make argument method static
+remove unused class
+improve error message for @ immutableinfo annotation
+cache file name in publishersampler
+add maxtokenlength to lucene tokenizer
+refactor rule name and message
+format java code in logger
+move testkit to gradle runner package
+refactoring place list
+add id to freematics sentence
+collection norevision test
+make testmethodsfinder static
+remove unused import
+add file hash cache to audit params
+update to jedd 1.0.0
+improve error message for duplicate definition
+ignore invalid plugin id
+add -xmlpathinjar parameter to testng
+add teleport command
+move ebean.json to text package
+add consistency check for paper
+remove resume preroll preference
+remove static modifier from temp directory
+update kbpannotator to use new classifier api
+remove geolocation jabber implementation
+remove unused client proxy class
+add ingest module
+catch ioexception while releasing the lock
+log skipped cxx library
+use map.entry instead of set
+remove test from creative tab
+rename rowtsrecordoutputformatitcase - > rowtsrecordoutputformatit
+move chunk header to the end of the file
+add default exception handler
+make javaconstant an interface
+add behavior editor button
+add option to store full name field
+use jmeter 's util keytoolutils
+propagate failure count to Invoker
+add scope to testregexurlnormalizer
+solve nullpointer exception in grblcontroller
+avoidduplicatesliteralsrule should not use property for ignoredlist
+add support for default-payload-expression attribute
+add nio helper
+rename chatroomid - > message
+improve error message for database deletion
+kvp filter support
+remove cglib instrumentation
+add static cache for valuetime
+add gradient transform
+remove unused import
+remove unused import
+add cluster affiliation
+improve svg rendering
+move dependencyparser to dependencyparser
+add measureforpreparedcache interface
+add nogc test
+add immutables to defaultclassinfoinfo
+amd64assembler do not handle byte
+auto-configure jpa driver
+use byte instead of nblocks for compressed format
+improve hibernate type descriptor
+add new 'reset ' button to the skin menu
+use identifiername for inner type name
+add support for dynamic jms
+hide search button in popup
+use myglyphLagview for coloring
+add webm extractor
+remove urimanager from jsonresolver
+add support for date constant
+address nullpointer exception in contextthreadlocal
+can not start on jdk 16
+add support for json vector
+do not set sketch position if it do not exist
+add support for touch screen and input device
+set scroll speed when navigating between entry
+add test for java udf with no return type
+add treeitem utility class
+clone table in xssfsheet
+add test for metadata description provider
+handle static null value
+repair compile error
+add animation for profile picture
+rename serialization to parsedserialization
+add support for java dependency
+remove deprecate grpc service
+check if database information be retrieve
+remove vertex and state from graphstate
+loop safepoint elimination : handle 32 bit loop
+delete temporary file
+refactor actionableenumeratedproperty into an interface
+add shadowloadedapk annotation
+remove unused private method
+remove setup database structure test
+improve getchildnames for gcn format
+support r5 list resource
+remove formdatapopulator from web app
+add tabledebuginfo api
+add test for chapter4
+remove unused import
+wagon manager do not stop on first match
+remove unused class
+do not warn/error on redundant interface
+diagnosticsoutputdirectory be not thread safe
+add miss module-info.java file
+rename table - > keyspace
+increase request count
+make hbase.regions.slop protected
+do not check for null value in Usagesrequiringnullvalues
+throw hazelcastclientnotactiveexception if client be not active
+format java code in marytts-core
+add support for all permission
+return true for upgrade provider
+log ignored file
+log4j plugin refactoring
+add file metadata filter
+add floatingpoint data type test
+repair compile error
+add merging flag to lucene40
+catch imageioioexception in chartservlet
+add distinct color hash
+use parameter flag for annotation
+add null check
+do not use buck-out/gen/package/foo/bar
+simplify event publishing
+move sha1syncfilterfunction to sha1 package
+add max open txns and interval to hiveserver
+verify phi input stamp
+add tx3g test
+add connection timeout support to rabbitmq
+add katas withkeys transformer
+refactor grid distributor
+add support for privacy enclave
+address nullpointer exception in type qualifier analysis
+address the issue that closepullproducer do not close the pull request service
+add kraken account raw specific demo
+remove unused import
+add scope to type signature
+throw exception when @ id property be miss
+add sensitive property to redisutils
+remove old pmd test
+rename newbytebuddyinvoker - > invokerfor
+delete binary blob when resource be expunged
+remove unused private method
+add longitude max and default value
+remove unused import
+new class askeditorquestions
+remove unused enum
+use assertj instead of junit
+make sure that unlocalized text be render correctly
+do not change field in constructor
+add slo logout request executor
+rename shutdowncapable - > Terminable
+use enum instead of class
+rename fileoutputformat - > beam-outputformat
+rename test package
+add pendantui support
+add hibernate cache region factory
+hbase-1943 hstore.split ( ) throw npe while split file
+support drop subset of partition in an archive
+update to mycollab 2.0.0
+improve test for invalidextendedcdisupport
+do not look good but unfortunately it be necessary
+add snippet_file_not_found property
+bitbay v3 adapter
+make infiniteloop abstract
+add file via upload
+remove unused private field
+validate armor header
+add beaninfo to generictestbeancustomizer
+move major compaction request test to hbase class
+move filter factory to filter package
+add static constructor for unmodifiablenavigableset
+add support for zuul query
+add -extract option to compoundfilereader
+add environment to selector
+handle null authorities
+use static aggregation memory context for orc reader
+add jsonschema processor
+add paddle support
+add espresso to java_lang_ref_reference
+upgrade to inspektr 2.0.0
+simplify if statement
+add minicluster support to localexecutor
+change partitioningchannel to list
+set the transaction isolation on the connection
+add default seed for deterministickeychain
+add the binding to the jbi component
+make llvmloadnode.createforeignread abstract
+add table.exec.interval-join.min-cleanup-interval option
+remove unused private field
+add conditional on batch jdbc property
+add miss file
+add new bugtraq module
+improve hwpf table autoformat detection
+disable logging for wrapper type
+improve the error message for the executor cli
+use jsgf recognizer for rule grammar
+remove precision from assetissueactuator
+log exception thrown during xml parse
+add unicode test
+add it0003 for maven
+add set note revision to notebook server
+add translation test for reduce
+add xmlRollingwithproperties test
+add model interface
+add type to hivepartitionmanager
+texture width and height must be square when use mipmapping in opengl 1.x
+support for array value
+add html head and body addon
+use nextlong for random value
+add error description to message item
+add dsl test for object export
+jedispubsub should throw a connectionexception if the client be not available
+hbase backup do not work with hbase 3.0.0
+address nullpointer exception in contract
+upgrade bitcoinde to v4
+add test for copy session button
+test/javax/tools/jdk/sampleapi/sampleapitest.java fail with java.lang.illegalstateexception
+add support for transfer domain
+move aetherutil to aether package
+btce api implementation
+rename getdisplayrepositories - > isdisplayrepositories
+log spring application startup exception
+upgrade to cockroach 2.0
+add tsfiledb config
+add dataformat support for protobuf
+add canchooseservicecapability api option
+repair rotation of 3d element in 3d mode
+add label pattern
+catch exception loading footprint
+use raw timestamp value instead of quotation
+make object9mr.access public
+improve error message when stream id be duplicate
+add smooth support for surface
+add workflow scope to describe step
+make sure response be always asembledfullresponse
+repair nullpointer exception in Timedmemberstatefactory.getmemberlist (
+support openaire pid-href-prefix
+refactoring client test
+canonicalise architecture for ipfs installation
+address the c error of camel-core
+add benchmark for idl
+address nullpointer exception when vm be disable
+repair compile error
+rename lwm2m client credential
+change name to email
+simplify metric registry test
+improve error message when max allowed number of call be exceed
+increase retry count from 1 to 3
+make abstract typedescriptor public
+rename movefactory - > selector
+remove unused import
+repair compile error
+add xml integration test
+add filter buffer recipe
+remove unused class
+remove unused class
+re-enable integration test for inotify limit
+rename pubsub table provider class
+add file via upload
+use urlencoder in desencrypter
+add json type to pinot query
+fix gate not work for pipe that have gate
+move cse provider to servicecomb
+add test for meta only parent
+add generation flag for power entity
+add Positrex protocol
+update welcome page
+move nosql to proper package
+store only 1 session in a pool
+address the c error of camel-asm
+fix resource leak in coswriter
+add shutdown hook for file watcher
+improve error message for unknown destination type
+improve debug message
+remove unused class
+add mockmvc test for multitenancy
+test for concurrent sqm select query
+make socketconfigurator an interface
+add getthumbnailview method to taskoverlay
+address the c error of camel-amqp
+add none push strategy
+add test for orm
+add package test
+add rpc failure count metric
+improve handling of user interrupt exception
+add context toechnode
+format java code in test/com/facebook/buck/naccache
+shutdown executor in test
+add ability to calculate all face normal
+add login url support
+add an option tthe number of thread to use for index generation
+move slow test to test category
+add it it0016
+new eclipse handler implementation
+add jwtheaders header filter
+add metric aggregation for statistic
+rename collector - > leafcollector
+add zone parameter to describe physical connection
+entity graph navigation support
+attach attachment time
+do not consider annotation whenAttributing comment
+remove unnecessary static field
+add support for kafka header propagation
+rename timeoutmiliseconds - > timeoutms
+add table column privilege retrieval strategy
+add test for backdoor registration key
+branch probability must follow a branch probability only if node
+throw illegalargumentexception when nearbyselectconfig have distribution parameter
+remove unused private field
+convert javafx to dlsc
+add iotabtc pair to binance
+add html layout
+add support for file type
+add support for set useWideviewport
+rename legacy admin WEB-INF/lib to backup
+add ldap test server
+rename authorizationcodeauthorizationresponseattributesconverter to authorizationresponse
+move ui class to ui package
+remove unused private field expression
+rename hmacsha1 - > mac
+add palantir schema controller
+remove unused import
+skip delegation if a single-sign-on session already exist
+add support for job explorer
+use cassandra ttl for hint ttl
+testrowtoobig do not work in root region
+nullpointer exception in trieimpl1
+add state monitoring service
+ensure that the state of the stack overflow check be update
+solve compilation error
+add allowremoteaccess to the port api
+lazy initialization of stringbuilder
+add user defined scalar function test
+use db.wavdir , not db.wavext
+do not try to load libhook if it do not exist
+add test for logical type
+remove java dfa facade
+rename envers.valid_time - > Validity
+add support for java.sql.timestamp
+remove unused @ externalDocumentation annotation
+shuffle hash in hashcodeoperator
+update octree selection area center
+upgrade to poi 2.0.0
+improve error message when vm be exclude
+remove antlr v4
+add support for annotation
+hide add-on attribute for hidden addon
+add test for jpa nonce repository
+remove test notification
+move some algos to common
+improve error message in indexwriter
+add avoidbranchingstatementaslastinloop rule
+add graph visualiser test
+add support for annotation
+simplify scrape test
+add btcchina trade stat example
+format java code in marytts-core
+add successbody to fhirio
+simplify row expression optimization
+remove unused import
+catch all exception in processrestrepositoryit
+add yaml support
+add junit 3 to the classpath
+add nullable annotation
+remove unused class
+remove unused rule
+remove xmp support
+add array_contains udf
+do not set hover state for folder icon
+add task list to processruntimecallactivitymappingit
+make anonymous activity abstract
+add targettype to describewarningmachinesrequest
+polish wisp carrier
+use proxy lookup for target lookup
+rename builderreference - > reference
+remove curator5 support
+refactoring keyboard model
+add sanity check for @ child and adoptchild
+use @ conditionalonbean for refresh scope condition
+upgrade to elasticsearch 3.0.0
+rename tabletype to string
+add world renderer metric
+set isisolateinternalqueries only if there be query to execute
+add builderupdate interface
+move action to action package
+add dumphostdb for hostdb
+trigger chain correction for planning variable
+throw an error if an unknown feature be present
+add javax-net alias store
+add a command to run a target
+add support for null predicate
+make ircconnection.connectsynchronized static
+add support for not_equal operator
+remove unused class
+java/lang/illegalaccesserror : java.lang.illegalaccesserror
+add fallback brew
+use charset from asynchttpproviderutils
+use transaction bag instead of wallet
+add debug instrumentation test
+remove unused aggregationutil class
+add null check for debugger class name
+make bivalue abstract class
+add type inference for temporal table
+splash dialog improvement
+add error message on hollow hash index creation failure
+add smtpappender for logback
+allow proxy control to use java regex
+rename jffl - > jffi
+rename activemq package to jms
+upgrade to jakarta 2.0.0
+add deprecation warning for spring starter
+ignore the timeout property in the ehcache test
+rename daemon to registry
+improve unique tag generation
+add new reusable command
+support skipfailbackexception in nacosregistry
+move tubefilecontrolpanel to ggt
+add owner and target stats to spacecheckingkeyfilter
+throw illegalargumentexception when class-id be zero
+log voice load
+propertydeclaration do not support origin count

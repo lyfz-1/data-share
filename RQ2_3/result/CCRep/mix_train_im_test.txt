@@ -1,0 +1,4879 @@
+expose c class to match the package
+do not try on notification message
+deprecate 1.5 error
+address nullpointerexception in thin action so ensure mostly call
+remove default string name for default
+default method for default method
+better error message
+optimize comment and remove segment import
+improve label label for 3d label
+deprecate unnecessary style remove
+clarify error on the query body
+remove unnecessary warning
+solve field not require field
+filter : type type of type type
+repair compile error in another target
+fix annotation report
+add clipboard escape to string
+prepare java file a benchmark
+comment comment in split block
+tidy up error
+resolve for miss git event not propagate correctly
+the ssl handler have an loop
+remove null null for null
+repair pom error
+optimize a unneeded case
+solve keyboard problem with android
+address syntax error in github line
+fix errorprone problem of load library cache
+fix bad import of c import
+fix error repair
+do not cache entity with entity cache
+remove unnecessary down status
+mark thread a bit
+fix another nullpointer exception handle
+do n't cache slice error
+solve `` break '' error on the user which set the text to it
+repair focus error when no widget be start
+autoformat java file in test/com/facebook/buck/jvm
+address the pom build error in gradle generation
+optimize request code from uri
+do not use content body
+do not check lgtm comment
+infer type instead of type
+improve errorprone compatibility
+no npe when avoid a null '' code
+fix abstract error - > 1
+fix java error in camel-core
+solve handling : throw exception for a session be not throw
+address compilation error
+address deployment error while make false
+annotation do not add cache class when compare entity type
+make java cli be call
+add null stats count in various metric
+remove unnecessary import style
+update 1.4 annotation with java annotation
+minor copy pointer exception from surface log
+solve compile error
+remove verification be throw
+address miss disk error
+do not leak on buffer side
+make small method change and no method be throw
+do not use query when query with row count
+do not report index on error
+fix correct error of deprecated `
+fix compile index error
+upgrade name to use toolchain wrapper
+fix package report tthe package
+make sure fractiontext stuff
+address : break error of bound ''
+fix : break error of suggest a table ''
+expose same image a top
+remove unnecessary import
+mark @ field a public annotation
+make sure `` login '' a user ''
+solve an block in block cause indexoutofboundsexception
+expose the wasm object to be share correctly
+address the deadlock of the sure be create guard
+hopefully not bug mismatch
+neffective change - long field
+fix case not filter for quote value
+fix possible npes during unnecessary state
+address c error in camel-restlet
+default errorprone npe when resolve
+add logger : setter parameter and be exception
+fix small error to occur
+add table attribute for sql table
+do not block a block block
+deprecate unused import
+generate database code do not set database to sql the database
+optimize generate index constraint
+fix filter report by sql constraint
+delete unnecessary import
+a unnecessary ( get problem
+move thread name to be start ,
+resolve index not suggest bug when first search by offset
+do not play down if player 're not
+fix another import twice
+fix bad widget problem
+expose java class to load class
+solve nullpointerexception in android v2
+remove double ' statement
+fix bug of schema use schema for schema
+do not put back on message
+fix logging of optimizer optimizer
+fix errorprone sync problem
+deprecate annotation annotation
+java kind information be not call
+resolve 1.4 error
+mark client can not need
+make sure compile have never throwable
+security not include to exception
+fix error reporting
+repair a nullpointerexception in camel-core
+make sure the future count logic
+fix the shutdown hook not stop
+optimize query flag - use flag in sql flag
+solve that keep meta a place
+repair point problem with android
+add accessor of setter to snippet
+fix chart error in previous error of
+fix compile error
+autoformat java file instead of set
+repair netty error of minecraft own class
+mark keyboard flag in the background
+fix miss type message
+remove unnecessary import of note can not be use
+solve class problem
+add trace level to trace error
+address export code name
+address up c error in log
+add new session property to the session cache
+add package for error message
+add a param '' strategy
+autoformat java file `
+raise overflow to long the overflow }
+replace unnecessary import of 5.0
+make bad metric name on trace
+fetch mode select cause stackoverflowerror
+copy annotation a enum
+solve `` join '' on timeout
+repair error of line > functional
+a async thread of client condition when each client be close
+resolve potential npe on string
+compile menu error
+synchronize concurrency comment
+do not need back for rule
+repair no nullpointerexception from cookie
+fix server error handle
+highlight error in score that deprecate translation
+fix file import for last history error
+fix incorrect error # parquet ( )
+mark java file in java 17
+solve compile problem
+regenerate java 7
+` keyword type with type
+fix ( throw error
+optimize concurrent memory problem
+fix unnecessary npe of message control
+address compile error
+mark a source annotation
+solve build error when jmeter contain directory
+deprecate npe of null and null method
+resolve android package
+fix annotation problem with java annotation
+solve nullpointer exception handle
+do not mark comment on comment
+repair error with nullpointer exception
+fix metric report in observation
+fix redundant check in muc mode
+neffective change - this access scope
+page do not close an page when close multiple page
+method be not properly in sentinel ( cache # 481
+remove unnecessary parameter handle
+neffective change
+solve potential npe
+do not rely about unsupported sstables be close
+kafka kafka metric error
+minor potential npe
+update index name be not support
+deprecate cli api
+remove unnecessary import handler
+address example in late java example
+test the nullpointer exception
+resolve nullpointer exception when render page can not be null
+fix miss error of deoptimization
+fix incorrect localization with log
+solve name problem
+npe tab and new ui
+fix compilation issue
+solve nullpointer exception cause while native error
+address wildcard import
+memory leak of the collection
+java 1.4 class a late codegen
+address potential resource leak
+solve thread can not be call when thread return the thread
+address spell error
+fix incorrect nullpointerexception
+fix java error in file list
+deprecate pom import
+solve class name add to interface
+remove quick error
+change file upload to volume upload
+resolve # off-by-one '' error
+java avro class change
+address the c error of camel-core
+solve miss hint
+fix spell error
+solve bow not allow properly properly when use their block
+reorder task report in flink report
+fix off error
+optimize identical import
+fix net error on extra component
+remove redundant import
+remove android super exception
+can not open stack count during indexwriter
+address it be find in camel context
+address exception message in groupbyhash
+remove unnecessary term bug
+fix errorprone warning
+address compilation error
+reset call worker after shutdown if the shutdown be shutdown
+fix task leak during shutdown
+create table on scan zhang
+correct method error be not call
+address the c error of camel-mail
+make array public class
+i miss file in bug
+fix error of repair be not link
+add source : code to local the block of transition
+clear metric cache surface
+i update ssl of ssl
+update error to no c error
+fix another label error
+add miss file check for file
+address compile error
+mark some 4 requirement
+list and class change
+cast operand to int
+solve error for interpreter name
+restore array need
+java 1.5 class change
+fix nullpointer exception when cancel frame not end
+generate android file not detect
+update table import
+solve compilation error
+solve exit error ;
+do not cancel effect on animation
+solve unnecessary import
+solve miss error reporting
+a single method : catch logic in batch
+add openid info need
+change method - add a method to override a superclass
+address c error of the convertersmojo
+deprecate netty connection check
+solve another nullpointerexception during item
+do not report error in case
+resolve consistency check
+solve redundant error
+fix call interpreter in error
+unify abstract handler interface
+fix confuse import during jar
+remove unnecessary import
+autoformat java class in llvm class
+admin api information in hive table
+internal class change of constructor
+include command output command
+update alternate error
+not index checker ) by expect error
+repair compile error
+try to add comment
+fix demo error
+fix debug task for the graph be not null
+fix java 6 problem
+i no the bound '' to ensure the task
+solve nullpointer exception while throw the item
+updated detailed error message
+several eclipse handler on the java thread
+add new stream ' method
+solve bug : one npe when try already try in a database class
+pas recent ' in recent ' activity
+fix release of inventory reference before slot finish
+autoformat java file in test/com/facebook/buck/randomizedtrial
+set 1.5 code be not new member
+address compile problem
+fix the off-by-one error of there be use data data
+minor error in setwidth
+address ripper problem due to resource
+mark file file a public file
+build syntax & save logic
+address the potential error of camel error
+update the thread name to run thread
+add client import
+repair no problem repair
+solve code error
+solve spotbugs error for iterablesubject
+add java file format into java
+delete unnecessary import
+put off filter for filter
+do not accept boolean flag
+fix incorrect skip error
+solve npe style
+replace shift error in fencedcodeblockparser
+address a nullpointer exception in camel-core
+fix unnecessary unnecessary import message
+correct security throw class
+fix compatibility error of explain format
+remove null token check
+hopefully with node render problem
+fix npe in background
+solve npe - do not update collection from the same collection
+do not let virtual thread a thread
+no boolean break - no boolean again
+concurrency concurrentmodificationexception in the queue queue
+do not report bug in file report to invalid file be empty
+fix compiler error in case : support for case ''
+client can not work # zookeeper mode
+repair copy/paste error in device
+replace openid of login filter
+do not check frame be incorrect ,
+add order for order ;
+address the c error of camel-cxf
+replace java string in locale
+add netty requirement for java
+do not close the intermediate even if there be not initialize
+change the date format
+change pattern to match error message
+address the compilation error
+fix miss error when partition exception
+add password `` java apis
+fix compatibility update column not update column
+do not report error of unsupported signature type
+update metric stats be not include
+remove unnecessary import style
+add view view for view view
+stop fallback class for launcher class
+solve nullpointer exception in the sip action
+address format & paste
+compile compile error
+we not external external to external directory
+fix unnecessary import
+import for security package
+correct ticket parse for openid
+solve the memory size in nio2
+npe repair for relation
+solve bug bug in the graph can not be parent correctly
+autoformat java file
+report class of add class name
+set session type
+compile the nullpointerexception : occur
+fix shutdown import
+add scala example
+make sure thread have the thread even
+fix bad column error
+reorder gc cache to download
+more unnecessary cert handle
+address client call handler
+null session for packageinstallercompat
+delete unnecessary import
+replace sm ' error
+keep copy node a first removal
+fix error on jdbc statement , do not fail down
+solve the password '' error for user
+autoformat java file in build
+address off-by-one exception in hl
+repair compile error in : pr / address can not be change
+make sure cancel method be not even
+address surface error
+target type lazily into non-generic type
+solve ticket handler in locked
+resolve nullpointerexception : no longer there be set by device
+update text type with chat
+fix compilation error
+repair nullpointerexception where no character
+address off by one error
+fix problem with file not include file
+use same health check
+tolerate regionserver during backup
+table table not suggest
+update java metric in the metric
+deprecate 's import handler
+fix server decode error when decode segment
+possible npe when possible
+rpc request of request handler
+implement complex type / column type
+only functional callback handler
+optimize java setting format
+address more error of bad error
+edit unnecessary status in 500
+abstract class be not check
+address mistake output in stream
+address miss warning of deprecated header
+resolve annotation : empty project result
+search code repair
+repair compile error from previous > log
+address compilation error in nio2
+extra null check
+do not copy frame twice
+do not report throwable log
+address another nullpointer exception in geoserver ( not try
+address lazy issue in notification
+address the c error
+address spell error in negative
+delete identical style
+fix indexoutofboundsexception of folder not start folder on jar
+repair format error for small format format in small
+patch should throw nosuchmethoderror
+add java code format
+change `` password '' on user ''
+java 11 language in java 11
+delete the unused answer
+add i18n name for group message not possible
+modify redundant 's break with log
+bug # 18 : no function name be miss
+address the c error of camel error
+repair copy/paste error
+delete bad case of bad signature
+make mod icon icon
+make java 5 `
+no font size for do not use 10 size
+correct c error
+sql hash break
+fix up error message in verifier
+resolve nullpointerexception where avoid npe in audio data
+address linelength error in
+fix incorrect error in the date
+make sure 14 deprecate code
+address for possible bug
+should not exit when exit node be not close
+fix miss error message
+replace import of deprecated import
+change note to open note
+move redundant down manager logic
+fix more unnecessary problem
+make minimum comparison threshold
+autoformat source file
+store file only class
+only unnecessary context that never fire
+make sure table be reset
+encrypt java file ' by default file
+default null when default
+add java class to test on the project
+make sure limit limit on an last limit
+address error message
+do not recognize about deprecated code
+roll more asset shortcut > single
+do not put copy button on place
+solve the npe in task to not empty task processing
+solve crash with presence icon
+tiny solve to the new content ) the content
+fix compile error
+report error message for failed insert
+address comment break a errorprone
+bug syntax - add useful test from interface
+fix the c error of camel-core
+do not break compilation a bootstrap
+add slice cache a buffer
+replace the note 's > small ''
+add protocol to char change in case
+update command - > 1
+correct annotation error
+resolve note note not update
+correct audio error in audio
+address compile error
+address an static stats relate in scheduler
+remove unused manager plugins
+fix compilation error
+fix package message
+join execution optimization in parallel phase
+replaced few switch to switch
+support migration file
+solve potential error when call property
+follow term index
+solve method problem
+should create draft in connected connection
+no recursive interface change
+organize a config in jms gateway
+minor return error in monotonicity
+fix possible style error
+autoformat java file be throw
+enable regex for break layout
+update useless field check
+resolve possible immediately when exception
+make sure list list , be throw
+solve name issue : you pick the project 's
+autoformat java file in test/com/facebook/buck/randomizedtrial
+solve an arrayindexoutofboundsexception in previous error
+repair problem with touch contain background
+solve the memory ' issue
+fix problem of widget item
+neffective change - prevent nullpointerexception with
+address transaction error in transaction
+rename space to output directory
+solve compilation crash in eclipse
+fix array error relate to varargs method
+fix error message for failed error
+do not issue if pruning be set
+solve classcastexception can not call a thread message
+do not rely about deprecated connection in every connection
+change file - > url in file
+format java - > test
+fix user type : user check
+solve problem due by rebase
+fix non nullpointerexception that problem
+select method be not select for select and select tool
+improve annotation about miss annotation
+can not delete value from getdeletecascade or it impact exist
+repair error repair when no widget upload
+autoformat import assertion
+fix miss error message
+address pom error of camel-optaplanner
+fix compile error in itemtexturequadconverter
+address more error message
+fix miss error message
+fix nullpointer exception in renderer
+do not close exc twice
+update key error
+signature do not contain generic array
+remove redundant try that handle it try
+add ci order
+minor exception of widget link
+library load the maven loader
+add metadata output in performance
+update event to change context
+fix `` ssl '' error
+optimize eclipse problem
+address npe in flink queue
+fix a npe that actually try from a session try
+add macro method public
+optimize unnecessary session creation
+small the netty to no authentication
+do not write anything while there be a end
+repair npe if empty job type
+re-enable deprecation compatibility
+fix : nullpointer exception in statisticsperinstitute.java
+enable @ lint of handle error
+do not warn if true a true
+add new command list in command
+rename previous transform logic
+support array type for tuple type
+repair custom exception of log
+make sure query have bail in delete file
+fix compilation error in criterion filter
+update security implementation
+format `` issue ''
+bug 57312 with null check
+address error of error
+do not correct error
+release nfa be not close
+fix nullpointerexception of logic
+temporary block check for recovery
+validate numeric numeric and numeric comparison
+hide copy preference with custom state
+fix more error message in serializabletype
+change an error message for file load
+add network line to default
+ticket ( not translate / tile problem
+address the nullpointerexception handler not occur
+streamline ctors be accept checker
+address nullpointer exception in single command # 481
+repair the header report error
+ticket the error when there be no scroll to scroll
+add java example for spring example
+ensure onalldataread thread in all thread
+add new annotation to return rule
+resolve off comment error
+only unnecessary token detail
+address thread be not thread safe for every thread
+address off error in compute expression
+i remain comment be visible
+solve off error
+java nullpointerexception message
+fix column error in read header read
+fix copy/paste error for repair
+solve load file not commit
+fix bad stuff
+solve the audio frame crash with message
+more unnecessary layout : resolve
+better error message to miss component
+master split in cluster job
+dnot reassign region if it be shutdown
+fix miss mistake of rename package
+address mistake : occur
+make sure inlined line '' a error
+resolve table error with keywords
+resolve compilation problem
+autoformat java file break
+address : exception : check by directory
+handle clone ( ) for github : i dnot need
+make sure thread be optional variable
+repair nullpointer exception in build runner
+ticket format - no bound bug
+delete redundant state menu
+add additional class check , > nullpointerexception
+add recursive validation for the rule
+repair npe when android
+address file check in 304 file
+address the c error
+address build error in the parser
+solve block and block error
+store the path name in case
+resolve more localization of paste problem
+do not scan hit result in there
+do not import encode of desktop
+optimize animation and animate
+neffective change - sql query in sql and sql ''
+make ping metric report a metric
+neffective change - duplicate statement
+add sql class from { database
+repair throw nullpointer exception when a anonymous interface name be not a caller
+address java class for testng
+do not reassign session twice
+do not use default table when delete it be empty
+compile do not report the c name when contain special class
+fix small error repair
+create collection api
+support for security service type
+fix compilation problem with eclipse
+generic param change - exception
+address the c error of stop be null
+repair compile error in
+add correct partition result in orc query
+update device id check
+optimize array & check
+correct pom metadata due
+fix nullpointer exception on errorprone label
+dnot cluster fail on meta error
+add bound height to resolve component )
+repair potential race problem
+allow recipe 's system recipe
+polish java file with default
+solve style error
+optimize array error with hash object
+bug # nullpointer return object with custom value
+still solve the right error after script be load
+fix the row error on last read value
+update if svg exists
+resolve nullpointerexception : save notebook
+make client thread should close the underlying connection
+add miss class for explain function
+repair sync ( problem
+implement sql value and double
+miss file error
+replace java pattern by check
+allow column support for nested schema
+fix compile error in
+repair unnecessary error of alert
+deprecate log4j logger
+resolve the file error
+remove unnecessary term import
+fix an npe where check in file be not exist
+fix compile error
+use unnecessary removal for place
+add marker name to blob output
+address potential error of request
+add new interpreter flag in llvm reload
+replace slf4j with slf4j dependency
+minor logic logic
+fix compilation error
+add java class to all keywords
+add exception can not be call
+update wildcard access to default
+add `` java connection '' algorithm
+add example to use parquet and writer
+update hide `` true ''
+address the c error in camel-core
+address address address - address error
+fix that clear npe
+do not remove exception in task when schedule task
+workaround for important problem
+autoformat java file in sure
+ticket : throw method be throw
+more unnecessary operator of no assumption
+fix compile error in
+resolve resolve error on very cancel
+autoformat source in the task level problem
+delete a bitmap style problem
+deprecate openid code
+make sure method do not work
+add option on the metric pool
+solve errorprone error
+resolve annotation not add type message
+address the c parameter in the original invert
+address source error in marytts-common
+resolve block error
+address mistake report for error
+synchronize order and listener in ping
+fix compile error in 460
+fix compilation error
+address default by default error
+address ` constructor ` problem
+add test for keywords
+update window value for only profile value
+address an nullpointerexception repair
+rename notification to match notification
+address c error in potential path
+delete redundant exchange
+fix nullpointer exception in the small slider slider
+resolve like off-by-one error
+fix error message
+ignore launcher flag in touch
+organize compile problem
+polish the junit builder ; change
+change report error to make debug
+help . solve correctly with java ( j
+add null check in parameter
+close network connection leak
+address the scanner bug of scanner optimization
+solve undo and remove npe in order
+bug : file support
+add sql predicate to filter
+deprecate openid code
+replace errorprone error to rename
+do not break checker on feign header
+fix more violation import of
+do not suggest bug twice
+repair the error for % task be not
+fix a npe of thumbnail can not be null in a shard
+solve identical exception
+fix potential particle error
+do not cancel last exception if there be no yet
+repair unnecessary exception of previous commit in previous header
+fix no correct error for bad file type
+add unnecessary import for security
+spell compile error
+fail generate `` ssl '' on ssl
+content should not java content
+address off-by-one error in previous comment
+address miss nullpointerexception due to java sdk
+fix potential npe
+change user change message
+oops all term 's suggest out
+make sure import code
+fix ui error when enable thread from background
+delete a unneeded import
+fix nullpointer exception on java model
+do not check if whitespace
+make sure class public
+fix the concurrentmodificationexception with multiple handler
+fix unneeded warn ,
+solve incorrect bad problem
+add null check for dynamicpls
+repair off-by-one error in touch
+solve errorprone subscription on order
+ticket # 3662 : repair problem
+cluster can not pass the client side property when there be use interval
+solve local local name from thread
+repair problem in jogl layout
+replaced rid of json error
+address miss error of logger
+java comment - remove edge directly
+dump object type tthe feature feature
+mark global lock support
+mark java file problem
+fix pom error when no file be delete
+do not select the paste when click be empty
+add lock for lock in monitor
+do not put space on there on there be empty
+address incorrect address in stack error
+add some test in the code
+address potential resource error
+improve hbase flag
+add java code for the core
+change google file in new activity
+optimize break bound issue
+add two build point
+tweak session session issue
+address index in bug
+additional start file check
+update kid field
+make sure ca work
+add a inherited build parameter
+skip el namespace in trunk
+cross compaction : split npe in tsfileiowriter
+add new boolean enhancement
+fix bad nullpointerexception
+connection do not close online connection
+avoidduplicateliterals warn about deprecate property when deprecate property
+solve light issue from recent ' task
+singal return thread even for thread process
+format and problem
+address the c error of camel-core
+copy code problem in generated schema and schema encode by string
+work collection and resolve collection throw
+address problem in
+decode player and display entity error
+do not close all term when there be not use
+enable unnecessary patch for the previous patch
+java capacity buffer to be allocate
+there be you not generate an metadata for file
+do not report problem if there be no them
+format the class - add it test for the rule
+do not flush about empty file when be search
+fix possible nullpointer exception
+solve player not return player
+drop compatibility style
+inline import in the mutable map
+fix edit npe
+shutdown semaphore shutdown
+optimize parquet transformation use
+solve the channel refresh error in
+add android resource only
+change logger - > debug
+mark websocket exception
+add new path to test
+repair compile error
+autoformat java file in test/com/facebook/buck/step
+fix sign error
+fix the background error when cancel if cancel property
+repair compile error
+fix comparison style check
+the scanner dnot throw logic in master and addendum
+fix return error of query
+address up error in path
+do not call auto-pip task if there be not process
+restore gc cache
+sync file sync to true
+make sure style problem
+minor an default discovery default
+repair npe do not clear the new file
+solve auth error for new credential
+eliminate java code on seperate
+format error repair
+solve color and background color
+solve concurrency not duplicate node in a map
+address a ip problem
+fix compatibility error :
+fix potential particle error
+initialize locale to make sure
+address potential error in schema
+edit what error
+fix error : printing under error
+optimize key format
+i compile `` error
+address error of format error
+fix event out event
+rename logger of logger
+address a nullpointerexception for verify message no longer exception to
+fix compatibility of compatibility operator
+reset null pointer exception
+fix shift update in the array
+add test file : always delete file
+do not change the logger message
+single lock lock for lock
+update annotation for error
+fix migration style problem
+repair for style 's call
+add rout query for describe response
+repair no error repair when there be no yet
+implement the client '' exception
+rename current context context
+do not ignore error for the last filter
+update eclipse import on log
+oops do not get index when open the table
+add additional error of response
+address the c exception
+do not run down case when there be not active
+format `` compile '' by camel-core
+better error message on printing
+fix mistake message in alter line
+java class in = parser
+remove unnecessary exception in log
+solve npe when make attend transfer
+resolve illegalstateexception of avoid return field
+fix compatibility : commit key
+delete unnecessary import of
+address the error message in exception
+distinguish the field name relate
+performance pool problem during concurrent initialization
+fix unnecessary error reporting
+bulk split a bound with mxnet
+repair copy/paste problem
+bug of component icon on icon
+add nullable annotation with update processor
+address incorrect error in string
+solve method cause
+fix off error
+fix error message on parallel partition
+remove a health '' by camel-cxf
+do not recognize more term error
+remove cluster method on shutdown
+do not create unsupported exception when there be no associate
+solve the collection issue in collection : no try to list
+fix plugin manager include error
+update sdk error in touch
+repair stuff stuff
+address source file check
+fix unused import of new stream
+autoformat java file in test/com/facebook/buck/file
+address potential exception in mongodbmessagestore
+repair error handler in exception
+optimize head of problem
+solve npe in expunge not try
+optimize unnecessary session check
+declare class to match word problem
+ticket # background ) error
+can not start the browser '' when open it
+add metric count to default metric
+add source data to enum ''
+change the object cache for all object object
+change code to not java recipe
+address the instruction in error
+deprecate openid method
+address error in javautilzipsubstitutions.doinflate
+fix proper error message for executesql
+only no main flag if shut sync
+delete a little import
+address compilation not find twice
+format table format
+eliminate unused error in some code
+eliminate actual statistic count when explain statistic
+remove unnecessary import if the view be link
+address source 's c class
+solve vanilla miss error in which cause recipe error to not
+upgrade for eclipse
+solve file not return an action
+enable layout for widget layout
+fix npe with tostring
+update array update
+make maven build format
+java key format
+fix java amount of wal
+correct java metric only
+solve forge error in the message about entire client hook be not
+build file on buck file '
+fix antlr error of
+fix mockito library problem
+repair the deprecated method from favor when expose it update to the forge
+solve ci error in generated file cache
+add new test - convert test
+rm miss error
+better error message for failed graph
+fix compile error in
+add java property for redis
+resolve -r : re-activate check
+format v2 add
+address nullpointer exception load when source state
+fix compilation error
+address `` call '' error when junit bytecodeexceptionnode
+support sign command for buck
+do not copy the space before it be delete
+fix errorprone stuff .
+add java class to top file
+a cluster startup , retry up
+yet java class problem
+return patch of snippet only
+repair nullpointer exception on nullpointerexception
+fix a validation for row validation , fail on client
+add mqtt error for bitfinex
+fix error style : no slider
+expose cli server require by example
+add world interface for the world package
+include recursive class change
+remove identical warning
+change cli parsing to use 11
+give one base email
+ticket size error in structuretype
+address the unnecessary exception )
+address possible pointer exception
+optimize wildcard import
+lower report problem
+reset token , a suggest case
+deprecate ast stuff
+add batch name for cpu result
+ignore null pointer exception
+address compile problem when execute a ast name
+optimize query by order ''
+fix off-by-one error : make append
+clarify error on nan or float
+highlight mvel error
+do not use stable flag
+fix compile error
+add key error
+changed player not fake player
+fix compilation error
+add miss assertion reporting
+do not require @ security condition
+address java language language in language : language content be throw
+fix error in % sdk error
+change class not submit to submit history
+can not get null action
+repair compiler error
+correct miss error
+address back error in tx allocation
+address wrong error message
+address npe in order when resolve be set
+resolve another session error in case
+fix table type with suggest column
+fix all order order when
+mark java file in java
+fix npe when drag be not properly
+resolve java.lang.nullpointerexception : resolve
+remove static method
+icon icon icon with custom image
+add java key
+add null method for java 1.7
+update `` lock ''
+address error of solve / function
+add config property to use bean
+class should not expose internal class
+neffective change - logical sql statement
+disallow append failure of @ aggregation count
+fix lint error
+make java method name can not be null on tostring
+fix off-by-one error
+do not swallow error with it
+fix import , remove import
+hbase npe in hdfs if hadoop hdfs
+solve spell error
+remove more exchange (
+expose locale and filter bug
+address error - > spell ''
+fix deprecate style error
+fix flugel tiara not render error in 2363
+keep memory reference problem when it be cancel
+update flutter metric a java
+add miss code to test
+java java line format
+fix compile error
+solve the c error
+make sure we not need even if first write
+optimize entity bug
+log the vm help
+fix comparison error
+fix error message for miss column
+change the line length
+fix `` break bug of camel-core
+mark error immediately
+fix `` ci '' warning
+score score highlight by score
+solve compilation error on android app
+address java space report
+solve mistake of remove stream usage
+autoformat java file error
+address nullpointer exception in multithreadedblobuploader
+stream be not api base
+fix more quad_strip problem
+modloader be officially deprecate it will all cease
+much good thread approximation , still not perfect
+fix key replacement
+fix librust_shared_library
+fix compile error
+do not concatenate non-constant expression inside call to stringbuilder
+mysql reserverd word not quote
+make sure the gutter color be update when change the theme
+fix class-cast exception relate to vaqua
+make limit not happen if it should not
+connectionwatchdog should handle timer
+fix possible npe
+ensure host lookup should never be use in substratevm at runtime
+morecollectors
+fix error instructorcourseenroll
+ensure that aggregatetype instantiation be never part of compilation
+fix textfields only show if we copy their parent algos too , so these change fix the problem in this ticket
+can not access methods/fields of a captured type belonging to an intersection type
+fix an issue where item spawn be not give a proper cause , which lead to thing like the super pickaxe not work
+address the c error in case
+annotation now report class of collection not map to entity
+fix equal error where `` schema ''
+image error in pipeline dialog
+fix shift error
+text text : render bar and be own
+solve java file error
+update java text highlight
+import import of batch hint
+address java error in the thread
+fix error message on invalid graph
+increase off-by-one size in java buffer
+address an issue in case when not name base name
+solve npe : upgrade
+fix nullpointer exception when pass value of select filter
+java 1.4 stuff
+address an shield error
+release the stream in niodatainputstream
+repair focus error in touch start
+repair emitter compile error
+make sure picker list by entry
+repair a bound error
+normalize space flag
+address error with unsupported 's name name
+add new error message
+address gwt problem of it override
+add throwable name for error
+log the mistake relate for previous
+fix deprecate file requirement in read file
+make sure handler a possible
+fix tab error
+remove unnecessary file check
+do not skip eviction size a indexwriter
+fix java 7 problem
+add internal event and patch
+optimize micrometer import
+update non account ''
+address exception cause nullpointerexception
+fix order error in order
+update disk error in buffer
+add shield line and plane
+clean spell error with window
+format class name
+format object with an item
+format error of format format
+java function : in sql ''
+change error for failed hint
+restore unnecessary npe
+add player and return player
+add test for nested ` action
+address like filter like filter
+fix : empty table not null on string
+fix shift error
+remove redundant violation style
+flush/lock : minor error
+fix 2 problem with text generation
+address off nullpointerexception on unknown
+update 1.4 error of recipe 's
+change an error msg
+remove unnecessary null from exception
+reduce null code with null and null value
+fix unnecessary frame exception
+dialog error when no modal be not visible
+ensure cluster iterator be not properly in underlying ( )
+repair compile error in touch
+do not check with font that problem
+do not break off to there be not turn anymore
+fix off file check in journal
+fix concurrency problem in the collection
+solve conditionalonproperty error from xml setting
+solve command break problem
+remove redundant import
+fix npe when no default setting
+fix error message for java task can not be set
+do not crash on unsupported error # shufflecompressionitcase
+remove unused import
+organize java code )
+repair compile error
+fix up oom here
+java regex to need with key base key
+remove redundant block in peer
+do not select the selection when click be click
+repair the flip error of plane
+address object error in hive reader
+repair java daemon error
+remove unnecessary import
+throw error message for invalid field error with empty field
+solve for case bug
+resolve incorrect error of switch
+do not need to load the same correctly properly
+add assign to seed
+fix compilation error
+solve incorrect amount message in previous
+add array length to read array array
+remove assumption , require exception
+repair unnecessary unnecessary problem
+fix `` issue '' - execute prepared exception ''
+delete a unneeded ( cause
+minor compile error and animate
+fix gc copy in wal
+add tx error
+neffective change - add error
+fix errorprone import
+format code of skip the parser ''
+add valid syntax for validation
+improve transaction fail to transaction not marked-for-rollback-only
+compile syntax : no compile code
+remove hystrix jdk1.7 limit
+address compilation error
+polish the block to issue handler
+fix error of repair already no block in case
+fix another error-prone of switch
+better error message
+change error - format behaviour with if format be not find
+make sure split split }
+let servlet a request attribute
+solve code do not work 802 for android api
+fix errorprone violation problem
+update example to be java }
+resolve off-by-one error in preview
+address most problem in error
+add unnecessary comparison to private method
+do not check for deprecated argument problem
+oops do not have static field
+deprecate hibernate code support
+resolve npe of null value
+repair can not throw nullpointer exception
+fix npe against npe
+add the status flag
+ticket # 2489 tab error
+rename an true ''
+solve 7 problem
+repair shift error
+fix the error message when use user type
+address compilation error in cli
+deprecate unnecessary ( error
+change date format and format converter
+change error of connection
+polish jackson dependency
+address the pop error in case - remove target object
+not verify information when access file
+image bug of image format
+replaced unnecessary queue out to queue
+fix java error
+add `` simple '' pattern on openie
+we be break the lock
+solve java 7 problem
+more pmd argument check
+update gc i in log
+rename java path
+solve formatting , add
+make subclass public
+autoformat java file error in
+do not bother out of rpc manager
+address a 7 name not exception when name be empty
+add test to score
+fix thread report at thread
+optimize gc value in libgraal
+fix an nullpointer exception in bug
+remove unneeded import
+do not use standard dependency for each codegen
+hide an item for bug that no item can not be visible in the bottom page
+fix a bad layout of bad bad field
+polish return the task
+address no else be not even when there be cancel
+replace the c parameter for process
+fix previous error of double comparison
+remove unnecessary check of deprecated expression
+add support for deprecated argument
+resolve page not resolve error when there be load multiple page
+map block object with trace
+change char check for int and char ' error
+fix wildcard import for android bundle
+change `` today '' error message
+clone root error
+address server error on cluster connection
+expose collision for construction and collision
+report a font problem with bad font
+kafka server error
+solve rare compile problem
+address method not not replacement
+optimize aarch64 : opts
+fix deprecate pom package
+replaced identical call operation
+change proxy path not new
+remove redundant import message
+repair edit button
+duplicate annotation with @ enum
+solve npe of miss null
+let original link a original player
+combine span level not trace
+address `` socket leak on case
+spannable of wire name
+address type constant on an analysis
+update java file format
+update collection collection for collection change
+minor edit button repair
+fix bad nullpointerexception while occur
+fix filter cause by filter when filter do not work
+address another concurrentmodificationexception with comment
+invert kafka metric in statsd
+fix : column not find in truncate statement
+address return count in float
+resolve note error in note
+remove unnecessary warning
+avoid star import
+delete unneeded condition
+some miss operator on assertion
+fix mana item error in entitycreature
+redisson 's dispose in redissonconnectionfactory
+miss annotation can not be null
+address invalid type msg be pass in an parser
+java scope can not close a scope when a same '' context
+step glyph with display
+add query for sql query
+do not suggest table a oracle if there be initialize
+build parameter can not be reference parameter
+verify nullpointerexception base
+solve npe that leak in certain server
+fix comparison style in bound exception
+re-enable compiler error
+change pom api to v1
+correct compilation error
+address error message on spring processor
+update color for device in dark view
+fix import style in error
+do not deploy the thread name for a stack pool
+address build error in rolling-update command
+fix error for throw task
+fix `` ssl '' error on jdwp state
+implement new policy to create replica
+fix entity not remove an exception
+solve net problem with `` dot contain dot loader
+mark @ interface on interface
+eliminate small error in lwjgl
+add locale format to bug
+solve class with java code
+replace stream with stream read
+minor the few stuff
+do not use fact error during @ rule
+encode response encode error when debug
+fix `` subtitle '' error
+clone copy assertion in case
+jvmti can not call the thread ''
+optimize cell ( )
+fix the indexoutofboundsexception in old remove index
+remove unnecessary warning
+initial support for static entity not not static
+resolve nullpointerexception with dot not match character
+address compile error in compiler
+address socket ' error
+organize import with eclipse
+address incorrect type handling
+address mistake in repair log
+better error message
+remove unnecessary bad npes
+address java c error
+optimize clone ( )
+only wait menu action
+no jwt parse logic
+fix null parameter in min
+fix incorrect error
+repair compile error in touch
+address nullpointerexception due
+clean exclude failure during compaction
+update regex format
+solve : record record problem
+replace java library with solr
+ticket # 4798 : repair can not read a font when open window
+no eof to mm confusion
+fix for query error in query
+step # 4309 : keep background color
+repair bug of file not read file
+back session property on spring integration start
+copy file a boolean flag
+fix compile error
+add java function to function
+eventbus , implement deprecate interface
+deprecate subscription check
+no clipboard bind for the party '' button
+use netty name in error
+add java boolean flag
+add extra source property
+solve memory usage with deprecated plugin
+repair the lint error
+solve generate amount
+address compile & break a problem
+define some event name
+make sure be break correctly
+fix identical error in log
+address guava problem
+correct unneeded error
+address compile error in message
+update miss lock error
+address nullpointerexception - make sure request be empty
+address the disk error when vm error
+replace java style requirement
+update lint error
+add word type for postgres / consistent
+solve lifecycle event on `` listener ''
+java the date format
+can not return the thread pool
+fix mistake report in error
+explicitly not shutdown transaction if it be not process
+fix notnull compatibility
+do not import import
+solve api name to bug
+add output field to sink
+address the c packet in order
+solve : npe
+yet another stuff for window
+do not instrument stack exception for the stack ( )
+remove reactor state manager
+add request execution request to exception
+do not cancel note a previous error
+fix bad detail twice
+repair graphic error
+polish java format format
+solve nullpointer exception handle by alert
+fix memory not render correctly
+fix sign ' target problem
+port for record eviction eviction & eviction
+address compile error
+update beam type to correct error
+solve two socket catch
+address compile error
+address the nullpointerexception of no else twice
+updated method for java method
+fix wildcard filter with filter
+fix regex by use problem
+add enum name to default name
+update spelling for error
+add ability to set the buffer correctly
+fix inspire post error of switch
+return sql value for row & query
+repair help `` help ''
+fix hbase import during hadoop zhang
+add test to verify privilege issue
+update regex format not allow to top
+create the server hit `` authentication throw , cause by user
+fix unneeded npe
+solve file with full file cause by one flag
+solve potential nullpointer exception handle
+oracle : oracle api
+compile `` java '' code
+tool work in java reader
+remove unnecessary condition for bad setting
+add s3 copy for s3 side
+find pom test
+format with problem
+update view creation
+fix null nullpointer exception
+make buck 2.0 a buck ''
+fix compile error
+use unneeded down file
+update the nic not need
+fix instrument error on nested context
+resolve player save from play that include a audio
+fix potential npe
+fix deprecated import of previous class
+expose common class in property
+modify memory output for metric
+avoid unnecessary import that
+null null check
+disable bad import of one error
+the sql hint should not be pass
+fix errorprone error of comment
+address compile error
+fix compile error
+make sure that auto problem be not apply in android
+fix compile error
+make password grant be work
+address c error
+fix forge style problem
+drop unnecessary import of it import
+fix bad unused import
+solve uncaught problem with message commit
+eliminate java class dump
+address error message
+do not check about exchange check
+fix error message in failed
+address the socket upgrade - remove the previous exception
+reset security and work
+format java code in ci
+fix pom error
+fix possible ( ) error
+mark java file in = process
+deprecate string with deprecated order
+autoformat buck file only
+address nullpointer exception on log
+solve compilation error
+do not show widget button when start
+make sure compile error
+fix error handler by error
+replace unnecessary import style
+oracle table not tidy
+address compilation error
+add annotation check for the tiff type via constructor
+customizable and material render shape
+replace unnecessary import
+address private vm error
+make sure field only by default token
+address normalization problem in some video
+update @ test statement
+pas too to error
+set java header only
+integrate group relate by batch and partition sort in group
+update file break a false
+fix an note name do not be change
+resolve compilation error in
+make sure string problem with mention
+solve problem with unsupported identifier a suggest
+remove unnecessary null handler
+format source problem
+fix # cluster dnot throw nullpointer exception
+address the off-by-one error in itemtexturequadconverter
+add java property for root ''
+the region be throw by issue
+do not write bazel file on the archive command
+format java code
+address off line error in command
+solve an problem when create login account
+neffective should not work
+address pom error
+add another config again
+autoformat compile of the future ''
+solve `` boolean '' error
+more unnecessary nocommit handling
+add jwt support
+drop interpreter connection not shutdown
+add miss description for log
+address nullpointer exception in sql and query '' by the clause
+do not show down style if edit be edit
+resolve up ac3 again
+remove redundant casting check
+fix deletion during error
+add miss service implementation
+address the c error in the last log
+bug of text : display the actual locale
+keep score count
+remove unnecessary import style
+fix nullpointerexception with oracle : compare class
+resolve compilation error
+handle decryption check in handshake
+do not overwrite a default '' if it be not support
+java java constructor should not support a kotlin package
+handle proper event of reset the state message
+nullpointer exception repair in housekeep
+rename common object to match
+make internal variable during snippet
+fix ( ) problem
+solve incorrect method in the object object
+repair the c error
+disabled rewrite price policy
+fix `` round '' error of a last function
+address null name in transient , thread error
+preserve string in match package
+modified api field : check to incorrect error message
+update bcel code problem
+error for cluster error
+fix bug of nullpointer load name via schema ''
+address the c error of camel-core
+address an off-by-one error in terse ( )
+address nullpointer exception in certain jar path
+solve link with link icon
+format source in data format
+address spell error in camel-jpa
+fix @ deprecated annotation with deprecated bean
+clarify region base , exception
+remove unnecessary stuff on deprecated reader
+java 7 file not suggest
+fix method ) no suggest
+solve be empty slice problem
+replace assembly item to be show
+fix should not check key with region with region
+format java code
+address shift error
+fix unnecessary compiling problem in
+polish java class
+update errorprone flag
+set logger name for logger
+fix method out in method
+add preflight validation report
+fix compilation error with animation
+update command format in the firmware interface
+fix errorprone import
+address problem report by silviu andrica
+fix query error for notnull query
+do not use wildcard params set
+solve nullpointerexception on unknown event not
+address file leak in fileloadermanager
+address wrong error message for xml property
+extract metric format
+remove unused import
+remove redundant redundant warn
+repair compile error of compute variable
+address a nullpointerexception
+remove unnecessary import of statement
+address the c error of camel-rest
+repair copy/paste error in
+set session will not work in case when multiple session be close
+fix the error message to throw error
+only icon icon with icon
+solve a course ' logic
+address the c error of no producer
+fix base sink error
+index index may not clear correctly and there be change
+unnecessary null check
+compile class not be static
+fix npe if possible be null
+quick button be not perform
+add language access to java key
+do not check whether or block
+add endpoint endpoint to be public
+resolve nullpointerexception in string not escape value
+do not show widget style on widget
+actually java annotation with java annotation
+add the key correctly
+solve block return problem
+fix ci error on hive table
+update hbase specific option
+reuse row index in case
+fix incorrect error
+add connection handle
+fix non npe when a seek be not enable
+fix more unneeded import
+format problem in concurrent map
+correct miss error message
+fix accidental error of repair handshake
+resolve entitycreature not compute the pathfinder
+fix compile of deprecate method
+fix possible style error
+optimize condition on predicate condition
+fix all shift error
+solve ui api not improve
+fix unnecessary import of string import
+solve root count
+solve array issue with this try
+update wildcard import
+fix preview error when embed resource be not
+report server can not close
+do not print compilation on trace
+address compilation error
+address off filter logic
+update rpc path
+enabled flavor from junit path
+remove unnecessary violation problem
+support with spark spec
+solve sync data on session store
+add new field
+changed color and color in background
+organize formatting ,
+ut for database upgrade
+fix bad complex error
+fix compile error in recipe
+eliminate rid of market method
+optimize unnecessary import
+remove miss import
+expose debugger printing a fatal bug
+solve performance problem with eclipse
+update text to find convention
+replace wildcard import with pre import
+fix a error message for delete it
+build rule not find constraint
+fix non nullpointerexception that never default permission
+address compile error in camel-jpa
+add test for page not test
+resolve sign frame not work
+remove unnecessary import
+give thread name on shutdown
+restore boolean boolean to use boolean
+eliminate java specific code more
+compile format > regex
+backport for log4j dependency
+add example for java annotation
+address `` issue toogle error
+solve miss error message
+address the error of defaultcxfrsbinding
+add index count to index
+address `` compile '' problem
+give view method in draw
+make sure thing be not yet in the special event
+only set security access once
+throw the exception message be not happen
+add stream return stream
+compile panel issue
+fix shift error in de.mud
+fix compilation error in ci
+solve redundant history problem
+address the c error of camel-cxf
+create eclipse file into a separate file setup
+repair java file when fail with large session
+address compiler error in compiler report
+add long number for byte
+le stream output
+avoid nullpointer exception report of there
+address the compile error
+remove unnecessary import
+make cli return problem
+fix errorprone import
+repair bound error repair
+update java file to see behaviour
+more unnecessary import
+address the c error to occur
+generate this class check
+build analysis with java reader
+fix non npe when drag be null in
+fix another warn of log
+do not accept null class for nested class
+solve mod solve error
+address compatibility specific error
+address build error in there
+fix legacy string error for switch
+ensure archive session 's an counter in the session session be use
+add filter name filter
+do not show npe when click on disabled
+optimize kafka plugin hierarchy
+repair error message repair
+fix non else ''
+address nullpointer exception on call message
+protect against null check
+le string problem
+change upload file in uploads log
+no ssl be not work
+solve memory leak during parquet optimization
+address nullpointer exception when use route
+add new plan support in jdbc - upgrade
+fix java compilation error
+protect the handler handler not load handler
+deprecate unused code
+address off look a suggest error
+update enum type rename
+do not show the thread id to initialize the thread id
+solve incorrect source of inlined instruction
+add new class on hive
+drop unnecessary import for rotation.py library
+make sure code error
+repair compilation error
+repair compile error in touch
+insert text can not be null
+more hive driver on hive
+restore another session creation
+address actually not count count in metric
+repair error where no font from mac
+resolve java.lang.nullpointerexception : at note click
+make java 1.5 package
+format a precision
+do not throw nullpointerexception when the first enable and
+solve for npe that be stop
+repair compile error for material
+autoformat java code with benchmark
+replace identical condition to be use
+resolve pointer1 error on touchdragged address # mac
+skip require @ field to set the field
+do not read a term that throw an file be throw
+change nullpointer exception of file change
+do not break table error
+do not break jar jar in mapreduce
+remove unnecessary check
+do n't show the string '' on string
+add null constructor to check
+address compile error
+solve could not drop column ) by the sql ''
+address the c error of camel-cxf
+make sure resource be reset
+bug for sf bug : npe
+fix compilation error on case
+correct java character in java character
+delete the region can not be active anymore
+address non true error for network , enable network offering
+make sure header be null
+address the nullpointerexception report
+optimize qualify import out
+add unnecessary 6 import
+address an sql '' error
+give function with function with truncate if function
+address c error in camel-core
+fix sub error of last query
+fix error message for miss line
+log the logger report
+limit the disk size size
+look class be throw a method
+abstract metadata id - update column
+fix problem with oracle directive
+organize cast error
+resolve previous call error of terminal
+neffective change - format a property
+solve the nullpointer exception in collection report
+fix compile error
+fix google problem due
+ticket do not break the right of error when it be handle
+fix that error when read file be not in build
+miss menu class in java module
+update error for widget name
+mark the flaky test
+log all logging
+do not build alias around class
+update same error in trace
+build pointer a error
+format example , > user '
+fix ioexception swallow in fatal throw ioexception
+remove unnecessary import and resolve annotation
+format java code
+address spell error in there
+resolve potential string logic
+remove unnecessary bad warning
+solve concurrent storage problem
+update `` support message throw message
+fix : sql error message
+optimize more string of previous commit
+fix npe with bytebuffer
+fix concurrency problem
+address compile package
+push boolean flag
+resolve off-by-one error in accordance
+do not cancel term before filter service
+solve the gauge value
+check the unnecessary exception
+eliminate java thread cache
+fix headless error where redrawing chunk could not be load
+add command parse by command
+jstack know window on lwjgl
+address `` break error message in message should not be support
+solve shift error
+repair span not access in launcher manager
+if the root check
+change chat flag
+raise invalid error message for invalid error
+autoformat external file in release
+address an thread even in thread
+more ssl handler throw handler
+help player can not be correctly on the world
+fix errorprone error of switch
+update audio file > new
+java file format to java 1.5
+implement the provider provider
+address table error with sql format
+patch of building region layer
+fix nullpointerexception can not be set
+compile compiler not work
+force type resolution on ast type
+remove unnecessary import
+add sign handle method for getfastxxx operation
+ensure input stream even when there be not cache
+repair the throwable error for log
+include method for method count
+deprecate complex header
+address source error in case
+use netty path to avoid output
+solve compilation error with some search
+solve generated file a error
+repair the async error
+resolve confuse error message
+address compile error in jetty connector
+do not use body body
+add source file and support
+fix encode keystore on ssl handler on ssl
+eliminate miss string handle
+address array problem
+oracle collection change - > collection
+drop nio 2.8
+there be add handler for the handler handler
+update import for junit module
+content only no attachment handler
+remove unnecessary case be use
+, link action close
+copy base64 launch for mac
+add timeout repair from previous shutdown
+correct the world crash for world
+address build error
+address compile error of no method
+add ability for index up response
+fix unnecessary style exception
+re-add off-by-one error in window
+address c error
+synchronize notification to call
+fix another problem
+edit spell code in no response to return the response ''
+resolve error on focus opening
+raise nullpointerexception when start max time after review dai
+remove license dependency for run
+java table stuff
+address array error for array with array
+update `` space '' in feedback message
+repair redundant npe
+address pom error in android source
+include config management class
+address code return in 500
+add name name to display name name
+eliminate unnecessary stuff in trunk
+fix deprecate ( parse in aggregation
+do not suggest anything parameter on example
+optimize join style algorithm
+query 's source object
+create root class name
+ticket command ) be deprecate
+do not rely with unknown iq type
+replace guava import with java
+show category to use category
+roll back compilation by default
+add statistic for statistic statistic in aggregation
+format `` input ''
+optimize eclipse problem
+solve library solve problem
+fix resource leak in shutdown
+simplify replay event for subscription
+add param to filter
+remove deprecate style option
+do not null indexed exception if there be not null
+do not compute exit unless exit code
+address 461662 error in thing
+address the block to return the player
+do not use implicit term twice
+delete unneeded import
+manually now need to refresh if empty file
+do not select an exception when click be select
+correct mistake after match hint
+increase note be n't visible
+fix compilation error
+neffective do not generate sql `` query ''
+address return nullpointerexception
+rename example example
+autoformat java file in s3 file
+fix redundant date error
+fix error report
+replace wildcard import
+calculate validate validation in constructor
+address nullpointerexception : rename error
+check the potential context for log
+optimize shift error in previous
+fix `` compile '' error
+report error of reporter function
+replace legacy saml import
+optimize errorprone stuff to be use
+stub stub & the task
+shutdown shutdown and task in default
+address no c error of objecthelper
+add test for file access
+eliminate wildcard import in eclipse
+update miss header check
+format an source name
+do not blur over you already no active
+remove usage of expression implementation
+throw a boolean handling
+update forge error in camel-splunk
+fix the mutable size cause
+add notification rule for the tenantidloader
+autoformat java file in test/com/facebook/buck/model
+remove unnecessary import of
+fix fix npe on message state
+repair headless error in android
+address c package
+solve communication and track method
+no table just > one
+postgres beam source source
+fix wildcard error in certain header
+update bcel class a java
+remove unnecessary import of
+more redundant condition
+address spell error in the producer
+fix concurrency error
+fix error due to start partition
+add session ' option
+address the c error of camel-core
+optimize the concurrent class with first only
+remove sql syntax do not match string
+change function - > function
+neffective for change data class
+correct unnecessary compatibility in java
+add test , add it with be return
+address potential nullpointer exception in camel endpoint
+do not restore import of analyzer
+replace unnecessary import
+solve solve error in background and work
+jfxsnackbar tab a default button
+address class not find code
+the last thread be n't clear , clear ( )
+solve pom visibility
+fix nunsed import
+fix unnecessary npe in case
+fix error message
+do not write comparator on bound commit
+fix clone workspace & paste
+close button close
+solve small error in itemtexturequadconverter
+fix an npe in buffer could not be negative
+more shift stuff
+fix logical plan for sql use
+autoformat java class
+sql logical plan ) in sql name
+deprecate @ constructor name
+remove unnecessary import style
+`` oracle '' do not use the oracle '' for sql
+add miss keyword logic
+repair compile error
+add case address
+solve error when occur can not be use from classpath
+instantiate root class in the root try
+fix nullpointerexception repair
+fix compilation error
+address compilation error
+additional unnecessary condition
+remove unused import anymore
+add code to return 1
+solve array usage in clarity
+address annotation return error
+address root problem when load the same component
+add function for ast variable
+fix eclipse import
+address compilation error
+php function : switch to local code
+address & issue of arrayindexoutofboundsexception
+segment control : compute graph to guard
+make sure security break problem
+do not retry even if there be not split
+add parameter to double and double
+expose null parameter for ast and allow '' }
+fix nullpointer error throw when data not find bean
+ensure null object ) incorrect error
+do not close session issue when a session be set
+organize nest import code
+do not launch popup in chrome can not be support
+address the c error of reporting
+fix small modification problem
+solve identical 7 problem
+compile memory problem in multiple segment
+resolve compatibility : throw miss method
+solve call error in bazel build
+fix that unnecessary cert in handshake read
+do not rely with hash split index
+remove unused assertion check
+fix errorprone import
+repair spell error in log
+solve upload file in read chunk
+autoformat ssl in saml 2.0
+double removal of deprecated problem
+repair nullpointer exception in multimapservice.getstats
+remove unnecessary import where possible
+update test for numeric class
+resolve file error in directory to start directory
+close gwt class
+correct valid space for an user
+fix potential nullpointerexception while find already find class
+fix wildcard predicate with predicate
+remove unnecessary error
+autoformat correct file in build
+address incorrect error in ast '
+resolve errorprone error
+remove import import
+update the object object in hazelcast object
+fix concurrent safety with problem
+update pom plugin
+make sure 's compile ''
+repair the compilation error
+fix import warning
+do not build alias around class
+upgrade thrift error for ca review
+update off-by-one error
+add utility test for extends and no testcase
+fix compilation error when use batch flag
+resolve column error
+do not check dropstatements.size algorithm when
+log and hide task exception
+solve an nullpointerexception while remove the queue queue
+remove unnecessary import of service
+replace java 4 class
+make sure stuff should not be enable properly
+the password copy a last error
+remove unnecessary state of deprecated state
+replace all score with score
+npe + npe
+add java code for java 7
+repair : throwable throw code
+delete a unneeded condition
+repair for debug bug
+java ast checker
+format not debug name
+add java module to java environment
+fix null error
+solve the future error
+do not use the login info on authentication
+address : build error of user be open in resource
+fix build error
+solve : avoid error in oracle
+format metric in llvm example
+solve nullpointer not error in sentinel connection be report
+address compile error
+copy java file not no throwable
+format source convention
+create cluster migration on database
+comment , unnecessary unnecessary import
+repeat annotation for java annotation
+add function name to be specify
+image asset error
+format class - > abstract
+organize page dnot match the schema
+correct password check
+solve chat ' notification
+fix deletion ( )
+format java name - improve a function name
+remove redundant query instead
+address `` sql '' by truncate statement
+optimize the c order of release
+generate class in reserve code
+add long type for long
+null `` bound not problem
+address compile error
+add cli property to top command
+fix empty metric error
+address file print error
+fix method in delete file since delete directory
+update spell error in player
+repair thread bind thread a exception
+make sure we have a bound error
+address class return in bound ' algorithm
+undo accidental 6 compatibility
+address the nullpointer exception in case when delete user 's the leader
+do not import twice
+minor non npe when click be not connect
+ignore test for left not false ''
+remove arrayindexoutofboundsexception of unsupportedoperationexception
+fix incorrect problem
+format java code
+solve potential issue in nullpointer exception
+do not handle throwable case in a log
+address sync metric report
+polished word for java sdk
+optimize and config node not default in case
+optimize unneeded body
+solve the nullpointer exception in previous logic
+do not exit compilation on error
+fix the c error in camel-restlet
+update package level > slf4j
+format word of the dictionary
+fix copy/paste error in
+various function : prepare
+support expression type
+ensure java token with ctor
+improve errorprone import
+do not show query view if there be use view
+expose java file to skip a zip file
+remove unused import
+index portable task . support
+fix bug : notnull `` null '' ''
+polish kid error
+enhance priority level for query
+nullpointerexception # the network can not check when the world be close
+replace android android dependency
+solve compilation error in mainline
+fix potential error for a filter
+repair compile error
+bring the ie driver into ie
+fix : descend ) exception when update column update
+miss entity generation
+move hash join with collection
+optimize ci problem
+address token with error
+do not close indexed index ''
+ticket for compile problem
+delete a unneeded import
+fix import of deprecated import
+solve syntax not paste in error
+keep metadata name in invocation
+add try to set context manager
+fix listfiles error :
+additional off-by-one error when there be enable
+close index may not work after there
+fix ci issue
+solve compilation leak in parallel task
+another class change of root cache
+do not retrieve out file in csv
+fix ci error
+update logical value for sexprliteralnode
+solve disconnect # disconnect
+organize compile problem
+fix miss error , > bottom
+repair for jmeter build error
+remove unnecessary style import
+improve error message when hdfs output failure
+fix potential error when resource be set
+polish java code change
+format source code
+autoformat java file update
+repair pom error in maven pom
+address null nullpointer exception
+tune class : error message
+add java property to kafka property
+hide button : do not show an screen screen
+solve nullpointerexception of filter in filter
+build amount to pair
+fix unnecessary | problem
+update 1.4 ' check
+another nullpointerexception repair
+fix bug : npe do not work in workspace
+solve console error
+pas improvement for session session
+remove duplicate field in duplicate (
+replace empty label problem
+replace twitter code
+fix import 's upgrade handler
+fix compile problem
+resolve note error when no note name
+address error for unicode parse error
+add next test
+remove a unneeded frame creation
+fix `` nullpointerexception with deprecated component
+do not skip implicit metadata if they be not present
+create empty page
+add replay a network class
+address the c error of camel-cxf
+update java title for mention
+spell incorrect api with log
+java parameter parameter be not well well
+fix visibility error on incompatible public
+only event name
+fix unnecessary condition of switch
+ensure cryptree read in file
+add web option for local setting
+address spell error in three message
+fix npe of empty value value
+jstack -m fail on win32 unalignedaddressexception
+ensure classpath resource be also filter
+should not be affect by lead or trail white space
+rollback do not work correctly
+cope with threadinfo be null due to thread not be alive
+ensure the id be give in chatmarkerselements
+issue 185 : do not output
+make sure we always close the stream on exception
+fix the specified child already have a parent
+do not persist invalid preview to cache
+nexus 1000v dvs integration be not functional
+there be a problem when open a database file in a timezone that have different daylight save rule
+concurrentmodificationexception in appcontext code
+do not only install runtime
+mdf snor problem
+fix a npe
+pinot helix resource manager conflict
+fix support big cell range in geogebraweb
+fix uncaught exception issue
+ensured we eventually work with absolute path
+fix problem with uppercase letter in username jm-760
+ensured low case of baggage key
+do not invoke the analyzer for not-analyzed field
+fix npe in injection
+connection handler should not ever be null
+fix gwt import in spring (
+address interceptor on custom method
+minor compile for java error
+reverse server will not use last result page
+do not write html error
+solve joda error with locale to use locale
+address mana item not be save
+add miss method for public name
+rename netty 's a logger
+ensure clone class can not be search
+better error message
+change class to generate array in the array
+add scheme support for oauth2 scheme
+address nullpointerexception with wrong plugins
+do not authenticate specific error
+add java file support
+add test , function with you be empty
+fix shift problem in 460
+save random seed
+solve bug : template : incorrect value
+report error message on method
+add miss file assertion
+solve a nullpointerexception with contact sync
+do not generate email error
+fix a error reporting
+report error of failed hint
+if invalid space be not throw
+remove custom compact import
+update spell error
+mark code return if the call stack
+update for image icon
+close nio leak when bind the connection
+solve potential session error
+default session compatibility : correct session correctly
+remove unnecessary check style
+solve incorrect error in objecthelper
+fix compile error in
+address problem with jar class to load
+change large data - display object
+correct vm error
+clear collection deletion when delete collection remove their collection
+replace kotlin parameter a default parameter
+use unneeded import for the shadow class
+change method to return future worker
+repair compile error
+do not use bad import of log
+cluster command error in flink # cli
+rename spell format
+nullpointer exception in row , explain npe
+null return null to null
+deprecate annotation annotation
+solve the length length not work
+address comparison in case
+address compile error when create it
+fix more redundant layout
+update example code
+update the string to correct
+bound mark error
+mark accidental operation check
+fix entity import error
+make unsafe class that contain static around class
+fix java code in java reader
+optimize identical file ) cause permission cause of it
+address the error message
+use jwt params a request
+repair a bound exception during record array to avoid a top (
+reformatting bar and index sort
+fix unnecessary import
+make sure graphic not need
+menu menu have a preview
+more off-by-one error - remove small replacement
+disable unused import
+solve bug with nullpointer exception
+add activity ' task
+table can not assign padding ,
+fix off style error
+remove unnecessary null style
+address the c logging of debug
+format error repair
+ticket format - no bound bug
+add `` new connection id ''
+java ast method on public method
+fix custom logger handling
+address bunch message for report method
+java class - support with enum
+do not compile a deprecated style
+fix nullpointerexception that occur
+fix unused import
+ability hash update command
+update metric name
+add api support for message
+log the plugin filter
+remove unnecessary stream be not throw
+solve block issue
+copy code code
+compile compile error in
+give error message on error
+add class name to throw throwable
+remove unnecessary import of twice
+autoformat java memory leak
+build error for junit : exception
+address netty report problem
+npe when edit slider
+remove redundant flag check
+do not support lgtm token
+fix legacy metric import
+use slf4j of shutdown handler
+do not connect lob in database
+address build error
+solve a new test with new session
+fix bug of style error
+optimize final problem , remove bytebuffer
+update file update to match the character
+optimize environment of filter
+fix unnecessary npe
+correct null pointer check
+remove unnecessary a context manager
+do not use one table to hide one of table
+add concurrent api to delete the schema
+update generated code to find
+replace unnecessary import of util package
+add metric name for metric
+a unnecessary compliance of deprecated classcastexception
+solve off error
+fix potential player control by previous
+create file artifact and artifact artifact
+add miss client for client api
+address java file in java file
+fix shift problem in previous comment
+do not copy token a token
+repair headless error for touch
+rename java class on `` 10 ''
+return root 's constant
+report error on program , do not optimize 1
+address the c ` logic
+fix pom error
+fix deprecate lint and commit
+do not require the login '' when there be use a connection
+replace non shortcut shortcut not need
+add test to return task directly
+update towards geotools view problem in the analysis
+fix rebase - resolve error
+solve an icon icon
+autoformat java file in public
+be more error message when large block
+postgres explain sql from sql statement
+add exception on cluster pool connection
+replaced inline attribute : be reference for right node move
+remove redundant index that
+add ui error for admin apis
+address potential nullpointer exception on springbatchproducer
+address error message by `` buildtargetexception
+fix reflective error in previous commit
+wrap constructor that contain case which be reference
+remove unnecessary bad file
+fix comparison expression
+remove unnecessary import
+address server server can not be shutdown properly
+a file '' : work
+need encode error
+return null result
+solve the race condition not call if app be null
+remove accidental channel check in muc
+fix compilation error
+require `` password '' with user sample
+optimize unnecessary style problem
+pas auth access auth for oauth
+replace scala import problem
+fix another item error
+generate unique field name in validation , validation
+type parser not work
+add avro support for java file
+fix npe ; add null value
+repair problem with previous render error
+a integer converter a bit
+delete a unneeded case
+debug popup bar in progress
+solve error message in public text
+solve multipart render render render
+address error in negative capacity message
+update shift error
+add sql function to java array
+add ssl plugins to specify mutual client
+neffective change for local class
+fix copy label for string change
+add abstract class to be throw
+address more c error
+make team team to team
+make sure handler be show
+update to ssl 7
+solve the main menu exception when be apply to the new menu server
+refactor import import
+update 'return line error
+do not use problem of new file entry
+solve nullpointerexception with nullpointerexception
+wrong region repair repair with good error
+wrap custom exception handler
+repair copy/paste error in video
+only unnecessary actor that after sure state
+correct correct string format
+fix compilation error in compilation
+repair two race optimization in previous phase
+autoformat java file in src/com/facebook/buck/json
+do not reset error when there be no property
+remove the multimap implementation for all member
+update miss code
+resolve preview error with background be not support
+update key update
+neffective do not use the sql statement of the prepared statement
+index leak on hbase repair
+default file break for schema
+solve an block change in the plugin
+format java code
+more unnecessary import
+remove redundant session check
+method not problem when a file change a file
+update 1.4 class in recently map
+matrix test in the vector will not work of the 6
+address small issue in previous column ) exception
+address java package
+fix the compile '' for an future can not be create
+repair the c error
+fix compile error in touch
+remove unused import
+address miss exception in deprecated code
+make sure length a bit ''
+remove openid import
+format sample - > property value
+export & nullpointer exception
+should return long base connection in which second second m
+ensure same tier problem
+mark the string ''
+ticket tab error when you be refresh
+resolve compilation error relate
+highlight type in chat & c class
+add new method to return variable
+address endpoint name error
+utility class report for java class
+correct error message for start
+do not use stuff for the rsa package
+google link code in new activity
+make sure shutdown handler be stop
+organize all exception
+parse timestamp for date type ,
+resolve a progress that not focus with render pane
+code break from compiler not perform the analysis ''
+solve potential npe
+address the c error of camel-core
+do not add launch to the action ''
+rename selenium boolean in boolean
+do not require a password ''
+do not break the table '' if it be find
+patch ( problem in shadow class
+address off-by-one error in the middle
+solve a unnecessary ( problem
+address an maven output output
+organize compile error
+enforce java key a bit
+java class problem
+address error message when invalid error
+cancel timer function in the timer
+that bad stss name on deprecated
+solve file not read error of file be load
+upgrade to eclipse alphabetically
+replace bad npes of switch
+repair @ relation
+fix import message in some package
+remove unnecessary style check
+add user test to each table
+add query statement and execute client result
+drop static style
+generate class / recursive exception
+hql `` break '' by suggest
+fix the memory bug in merkle-btree
+implement code implementation
+do not work super in app & app can not be close
+dnot disconnect can not be shutdown
+address the c error
+only cancel timer once be not dispose
+fix dnot join down join in operator join
+minor can not find once when connect node
+remove unknown ( import
+format error with last address npe
+update accidental provider a default
+address concurrentmodificationexception in the task track
+correct awt stuff on android
+restore java code in plain condition
+fix jei 4 error
+fix ci source in error
+solve the off-by-one error during failover
+solve the plan report
+fix an note '' problem when no note list to
+fix android problem
+fix unnecessary npe of closing image
+fix compilation error
+do not use runtimeexception of it process in the db
+address a c error in camel-core
+do not cancel the session solution when report the end (
+fix the sql predicate with distinctlimit
+reduce ssl of ssl to be load
+solve thread thread not start thread to start the thread
+add order order for order
+do not compile super commit
+fix % detail problem
+correct nullpointer exception handle when receive or ncause
+solve get focus slider
+solve npe when allow npe
+replace some class in kotlin package
+solve forge structure error
+update entity import
+do not break into account
+hook dnot close connection close
+minor compatibility : compile point
+optimize filter filter
+fix eclipse problem in ci
+add filter for filter and filter
+repair the c package
+fix annotation with java annotation
+solve @ nonnull
+repair npe in ev plugin do not fail yet
+add google request recording test
+log more slf4j logger
+make sure shutdown error
+repair : compile error
+throw exception message with content
+format code and no few public
+better static error of point
+type descriptor should not null to type name
+replace more 1.5 here
+fix java session not new mechanism for the new session api
+compile tab error
+do not require keystore for public setting
+repair accidental client error
+organize java example
+replace antlr context usage
+new property : alias back key
+drop nunsed import
+solve bad exception of duplicate node not apply
+report more command by use method
+do not use the cached token for an client
+fix java style error
+fix error message not be support
+expose compilation error in camel-core
+do not write anything twice
+resolve unneeded note on last note
+solve kotlin child problem
+solve in bound '' to explain error , if the previous transfer error
+change the c to not error in message
+remove redundant character check
+make sure cumulative selection and need
+no unnecessary tier twice
+make sure query with security method
+fix unneeded 's problem
+build root directory
+do more unnecessary exception twice
+fix unnecessary string of find package
+address enum name in default message and default
+remove android import layout
+deprecate accidental stuff
+problem of no last call method be throw
+repair empty time while hashmaps
+format class improvement
+do not show the note panel in the window window
+do not refresh checkpoint condition during an shutdown (
+address compile error in ci
+minor remain error
+changed class in iobalancerstresstest : display it generation
+address no exception in inlining ` guard
+address the c error
+fix compile error report
+minor compatibility + remove point
+implement java file
+remove pom dependency for weblogic
+new annotation - update a annotation
+remove redundant string handle
+edit useless job . not need
+fix light render render
+bug : session check in session
+spell `` issue ''
+replace unsafe problem
+address compilation error
+java annotation registry
+correct buffer error in vlc buffer
+default storage check for true
+add sql function - presto
+address sql and find error in web.xml not return
+sql dsl should not be static
+address throw error for junit file
+delete unnecessary import
+do not call entry from entry to extract
+fix unnecessary import of extra header
+user query report - they be show
+address `` issue bug
+address off cert cause error
+fix unnecessary import here
+repair errorprone problem in order
+make sure we return the thread if thread be initialize
+compile compile error in r1605054
+fix be disabled while trigger price
+consider annotation change
+fix query error )
+eliminate unnecessary comment
+replace conflict with slf4j
+make sure d compile method
+make last insert '' button
+fix npe : add npe
+address class can not be reference in old face
+address c error
+change annotation name
+improve additional code here
+update answer problem
+fix off mistake in order
+solve shift not save the block
+solve error when language exception
+actually deprecate stuff
+generate file system detection
+address address error in varargs
+simplify unnecessary file check
+fix npe in empty ( update
+deprecate the date instead of handle them to see
+resolve possible frame cause problem
+repair potential interruptedexception
+bug 56325 : arrayindexoutofboundsexception when re-opening index in xssf
+update pom manager to be build
+expose comment around comment
+neffective not avoid an field format
+correct original item at item
+make unsafe thread a thread safe
+add new constructor for geometry vector
+autoformat java file
+make llvm compile a java
+modify java comment for every reference object
+ensure stream name in the 1.7
+add depth type for fn { aggregation ''
+one the unnecessary exception , illegalargumentexception with the server list
+make java library `
+edit key check
+supported patch message for reject method
+expose ssl property property
+address potential nullpointer exception
+remove unnecessary exception catch
+drop identical import
+fix more oom style
+address possible nullpointer exception in deprecated
+think method with method
+solve compilation tier problem in concurrency report
+focus , solve focus
+fix nullpointerexception in filter when filter predicate
+java 1.4 class report
+make background render error
+address property error
+do not keep new item on the login
+java java module and support from gradle application
+remove unnecessary state manager
+bug : incompatible exception message on prepared variable type
+head player not display
+add field just > float ''
+keep an iq package packet
+fix calcite import for table
+resolve non note bug
+fix unnecessary metric in describe
+solve errorprone import
+address `` nullpointerexception '' by nullpointerexception
+guard @ nullness annotation
+remove identical casting statement
+address nullpointer error report for dsl report
+make shutdown object implement
+set ability to local local variable
+repair some inline code
+fix off block error
+better error message
+format code format
+fix table not drop drop constraint in oracle ( ) exception
+do not find off unless one be not properly
+compile the block repair
+do n't put cert out on login session
+fix imap error of constructor
+fix an issue case for realtime segment control
+update mistake of log
+fix off-by-one error in previous seek
+address java source problem
+fix check message on exception
+add float option to the 16
+polish empty file only if cache
+compile error of address can not be valid to android
+solve vanilla patch that be reference
+update off error for
+fix npe when drag null menu
+possible webclient handler error
+address error in compiler not evaluate statement
+fix the problem of one down the rule
+fix miss error message
+update the compilation to return an approximation
+address the nullpointer error in the aggregation if no user be empty
+add null value
+bug : visibility error for class
+fix non issue ( ) by first call
+polish `` java '' ' can not be close
+process permission permission with permission permission
+solve possible nullpointer exception
+remove import import
+java ast declaration
+remove comment check
+address the error of error
+compile image not no image
+solve compilation exception dispatch
+possible decryption problem
+remove unnecessary import message
+expose miss error message
+repair file report error
+mark unneeded lock
+address off line error in my region
+refactored old specific package
+yet another me problem
+better error message on invalid binary
+do not read stack level in order
+fix ci error in
+fix query failure with distinctlimit
+fix another npe when load it be close
+fix for 269 connection not check
+repair off-by-one error in touch
+java context class to be invoke
+solve miss logging message
+eliminate java thread name in the truffle thread
+address the nullpointerexception in the response
+do not crash that the thread even if it be throw
+solve bug # 18 : remove cell correctly
+ticket can not no ie method when the ie side to the bottom
+update mistake message in log
+more unnecessary check-in of bad signature
+update keyboard error
+address the c error of camel-cxf
+fix linter import
+address the assumption out logic
+optimize unnecessary import
+removed deprecate behavior for feedback file
+remove comment check
+repair intellij error for deprecated protocol
+add miss key on `` trace ''
+can not show the size ''
+can not close file when delete in the session list
+fix potential error of kafka sample be not include
+do not call introduction twice
+address potential nullpointer exception with ` namespace name
+index will not find word
+update audio recorder not leak
+make few import class
+address the metric error report
+deprecate 1.5 error
+mark keyboard exception on
+format no problem of repair already selection in selection
+repair kid 4 error
+autoformat java file in which format which be only of
+no file change for local file cause
+fix for wal error in trade 's they be not want
+autoformat java file in favor
+fix why compile error
+add two test to network ''
+update file error
+hbase writable file cause by hadoop file
+resolve edit error when there be delete a command
+address the c error message
+replaced awt import again
+address possible ( exception
+java 1.4 compatibility
+push args parse - parse command
+fix preview shortcut not apply immediately
+do not report error message if it be use
+java value count and long
+xml xml namespace into namespace name
+solve the off-by-one error
+update java file in java
+support lint by support
+format java code
+resolve nullpointerexception in seriestimer
+solve link with admin action
+upgrade kafka message to be load message
+solve generate error name
+fix compile error
+bug class : format a task format
+autoformat gc with file
+java annotation access to java object
+solve neighbornotifyevent not error
+encode class name with byte
+default nullpointer exception repair
+address another compilation error
+update comment . comment
+remove unnecessary import
+optimize transaction optimization
+make inner class compatible
+remove unnecessary import menu
+highlight the error message : insert
+address import problem
+address `` parse error in prepared statement
+do not clear texture a texture that
+add extra test to set message
+repair copy/paste error
+fix shift error
+pas database still support to database ''
+format : error message
+minor abstract fix by graph
+address an logic issue
+address bug : nullpointerexception with nullpointerexception
+solve bad error when get last error
+explicit null implementation of freeplane define
+do not create toolchains when create a host to be restart
+make new profiler factory
+add uuid and enum directly
+repair compilation error in client
+address space count during compilation result
+fix off style exception when allow null directory
+type : sql type in sql
+fix compile error
+address regex chain plugins
+ticket generator : no dot render to custom dot name
+be miss line , just incorrect error for the database
+some rank sort
+port quick agent
+correct metric import
+query error of the schema
+solve player not reason , spawn their reason
+table format problem
+repair all filter in filter
+add if view do not come preview
+autoformat java file in buck
+do not pass error message for good
+format file name not improve file
+add case coverage
+miss entity reference
+java resource to download
+repair repair nullpointer not null properly
+remove unneeded import of
+remove enable boolean flag
+solve npe for schedulereadtimeout
+some unnecessary import
+fix log.error ( )
+mark nullpointerexception message
+do not mark source twice
+update title name to show title
+can not break the length of there be use a app
+do not compute signature if a bound be need
+oops : index be not arrayindexoutofboundsexception
+repair encode 4 problem
+fix off row error
+ensure java table 's limit
+reset step initializers
+repair off-by-one error :
+the scanner can not open spatial with blob
+rename the logger name rename to log
+add diff file in test
+restrict class to java context
+address miss error in command
+address off problem
+can not create space name from headless
+address the client leak cause by client
+custom stream secret be not close
+repair filter error
+repair empty error if occur
+repair the c error
+ssl password be not cert
+add mongo translation support
+fix array problem
+neffective for modify the class
+log error message in error of wal
+remove client usage
+fix error when split partition
+session can not java session session ) when the session session ) the session :
+fix legacy violation error of
+update thread name to not thread count
+fix java class type
+we be not see a root class can not be use
+various class can not follow variable when a param ''
+do not compute cell even if there be not need
+remove unnecessary import
+solve stub problem in their renderer
+fix intellij error for subtitle
+fix annotate error of switch annotation
+fix compilation error :
+add payment list to wallet
+change code - > exception
+fix jei error
+fix npe , again button
+address problem with longer load resource in crash
+eliminate java code on non nullable field
+better error reporting
+address potential nullpointer exception
+do not issue about empty presence in previous list
+address compile error
+address error on sql error
+repair class error
+parse xml xml from xml node
+editor not submit panel
+minor miss error in reporting
+format class name
+fix device issue , add device check
+address ' optimization of arrayindexoutofboundsexception
+solve incorrect amount in the amount
+format marker name in recently format format
+make sure event be not stuff
+more correct ( handle by exception
+eliminate java flag to java
+repair background error with background
+fix mistake where update be empty in case
+correct java code be not support
+autoformat java file store
+fix problem with wrong constructor without default argument
+remove unnecessary import statement
+correct service name for error
+replace java security upgrade
+address problem in java environment
+upgrade ffmpeg to start
+remove unnecessary code check
+address the plugin in plugin : possible the plugin
+only thread name be not thread
+address potential logic logic
+solve potential super npe
+fix array error with string
+solve off npe when request be ignore
+solve timeout cause operation exception
+fix miss 4 problem
+java maven file break
+add null check for method
+add awt class a web
+resolve off-by-one error in touch
+fix compile error
+fix sign payload error of payload
+fix most class with bug
+comment in java code disable do not perform with default
+address can not be error on firefox node
+add debug field to java graph
+for ssl : upgrade file
+fix more ( problem
+postgres # jdbc report error
+change abstract class name in some class
+inherit sequence in truffle and work with truffle condition
+repair compile error
+address nullpointerexception handler in ` handler
+fix useless error anymore
+copy setting can not be display
+auto-format should not be optional
+solve display variable lookup for svm call
+solve error on select preference
+additional additional ( removal
+interpret `` break '' error
+add transient of duration format
+i edit bound not cancel
+focus can not work yet
+reset off error if region already close
+address java source code
+correct default error
+address the nullpointerexception of camel-cxf mapping
+refactored package between exception
+fix off case problem
+format the error of repair
+address the param format in case
+oops # child : problem with nested array only
+change illegalargumentexception in date format
+fix build error for ` method
+mark volatile flag
+optimize npe when check
+repair error for font
+add more field for @ setter and field ''
+address an source interface for not public class
+handle unnecessary import
+solve some plugin on plugin
+repair compile error
+update the last logic : prevent false if the last value be disabled
+fix sql class error
+table not update column in oracle , one one
+fix fix violation problem
+optimize unnecessary stream handle
+mark some 4 requirement
+update websocket detail in order
+add sql source class
+fix rid of eliminate thing icon
+oops can contain compress the term
+the null health check for alert
+address nullpointer exception report by the last value value be not false
+solve hash issue
+expose code be not throw
+fix potential nullpointer exception
+add array length to initialize array
+address off error error
+change a authentication handler
+repair compile error
+split method : extract two method
+add hibernate cache to cache
+add source example
+fix illegalstateexception : put all resource in classpath
+issue : logical event change
+these class should be accept
+be import before example
+do not show down table on property
+fix unnecessary notification of debug
+format test - empty pattern from test
+address compiler error with annotation be use
+modify the c error
+couple - > little ''
+fix the apps icon error when it be not any
+compile format in java
+more removal of algorithm
+change tab id : suggest exception
+the schema should not output assertion
+, insert row with null statement
+ssl ssl be default
+address index leak when query be not request
+replace static import
+address error ) formatting
+add icon icon
+address compilation error
+minor exception cause to original boundary
+replace up of error
+expose matching of group only group by group
+fix bunch of path output
+resolve : run the statement '' to run the sql statement
+implement payload path in notification
+address copy/paste error in feign interceptor
+solve npe when open launcher in launcher
+add miss stream method
+address the java m functionality in
+address java file in test
+do not issue that term term at a session
+updated java file in adapted 1.7
+change the case of unknown handling
+log exception in case
+optimize `` query ( problem
+add byte converter in aws client
+add config option for the config
+organize import error
+fix case : correct error for camel-core
+no same frame be not even if there be not consume
+minor potential nullpointer exception in headless context
+update miss annotation
+modify internal api
+address error message
+upgrade for java interpreter property
+change error of caught fail
+fix bug : last entry in nested collection
+fix validation of deprecated error
+address the enum bug
+fix preview error in allapps3d.onkeydown
+fix more unused import
+solve : save word count
+repair nullpointer exception when compute constructor
+tidy up code a solr
+resolve out code error
+resolve error do not wait for terminal without device
+format error message for main thread should not be call
+fix copy/paste error
+fix incorrect error of deprecated stub
+replace unsafe error with web
+solve db2 with database pool
+rm , keep paste anymore
+fix an exception occur in case
+repair thread ' engine to be exception
+repair puttransient do not handle record record
+fix bad message handle problem
+add java class a java
+address `` parse error when split split by the clause
+fix compile error
+address `` error report by last build a ast
+repair exception in negative argument
+fix `` issue ( ) error
+remove unnecessary state statement
+fix : compile error
+fix : source file in open order
+fix column leak
+autoformat shutdown that can be close to the shutdown class
+add falcon factory
+autoformat java file in test/com/facebook/buck/randomizedtrial
+remove unused import
+do not report consistent on sealed class
+repair nullpointer exception repair in touch
+update 1.4 package
+synchronize concurrent error in background
+solve entity not render error when they be not correctly
+update google setting in setting
+another solve in the text : ignore npe
+do not solve bug in tiff file
+fix live error while set while start
+add uuid value in db2
+better error for variable / work
+java nullpointerexception around no npe
+repair the locking when there be use in same collection
+fix sign error for create buck directory
+fix error : remove unused import
+resolve java specific error
+repair command error in process command
+fix sql error
+fix comparison error
+undo errorprone error
+solve world error
+organize compile error
+do not need up then then search
+autoformat java file of catch error
+remove unnecessary import menu
+fix case error when create column type
+fix unnecessary import of the redundant service
+resolve redundant timestamp out logging
+do not create write file on ca
+do not swallow error on the socket
+add sql support for database class
+fix a nullpointerexception of registering/logging
+mark off-by-one error
+do not reuse query entity on filter
+remove unnecessary bad warning
+address potential error
+fix off problem
+address miss error of the parser
+fix the break error of the property
+sql import with sql code
+improve extra point also
+repair null problem
+solve compile error
+change large metadata info
+autoformat jar file in a applet
+use unnecessary import instead of miss certificate
+rename logger over logger
+bug # text can not show the focus to run the user
+resolve world error of the repaint
+repair compile error in ca
+resolve no function : no nullpointerexception when no select index
+eliminate unnecessary code out by pmd
+repair copy/paste error
+fix query error when execute function function
+repair empty value do not read two value
+fix object - query encode error of string
+fix error message when no partition
+address extra address
+fix av restriction not bottom
+minor error repair while drag npe
+offer . wait for page search
+address not reserve sequence in truncate ''
+update 1.4 code
+try to tile bug
+solve an exception in negative exception
+delete unnecessary style style
+solve netty error in message
+repair error handling
+solve all error to refresh response
+optimize cli api
+add long type for literal and clob
+address patch handle error
+fix nullpointer exception with exception
+add password and make authentication ''
+api class - add iterator with iterator set
+solve channel sync deadlock
+add nullable annotation
+remove unnecessary hint for describe (
+delete token usage
+tooltip for some java library
+change filename level
+fix compatibility with null name
+java spark interpreter in flink
+fix nullpointer exception in case of iterate be empty
+remove more term instead
+no code of just break token
+more missing ( )
+replace accidental internal from logger
+make sure capacity size to be specify
+solve the music recorder adjustment if not end it
+fix incorrect error in date
+solve the iterator leak in order
+correct background color from background
+search do not work for the search ''
+add optional parameter from endpoint
+model in the model
+return type of null ''
+update miss error for
+fix a unnecessary layout :
+do not create paste about one error
+can not keep note after process
+generate class for new image name not be set
+remove a region guard
+solve up plugin with java module
+update widget error in
+remove identical import
+add performance of java key
+repair compile error
+repair problem with `` constant
+organize java example
+patch visibility by an class
+optimize async operation handle by log
+fix call scope when dispose
+drop @ deprecated option
+add dummy test
+update import for java name
+fix intellij error in maven plugin
+remove unnecessary npe
+fix temporary table update error
+optimize index optimization
+modify quarry down logic
+remove redundant detail without warn
+solve array add problem
+remove unnecessary bad statement
+format bibtex format format
+solve npe
+remove more exchange parameter
+copy cooky use to compliant character
+format annotation a record modifier
+resolve compilation error
+repair possible problem of deprecated library not be load
+solve base64 problem
+delete stray header
+address that nullpointerexception out
+fix the error message like error
+repair unnecessary exception
+use array component with java component
+do not serialize term with indexwriter
+remove more frame import
+tweak flag to ignore dispatch
+format window with java file
+handle a paragraph problem
+optimize unnecessary removal of minor
+change case to show profile id
+improve error handling
+fix linter error on previous class
+solve regionserver can leak when zookeeper shutdown
+fix the nullpointer exception throw nullpointer exception
+urlplayer not close buffer
+fix error message : occur to start
+address the nullpointerexception in previous commit
+do not read runtimeexception if the file be not present to
+format month # error
+format copy/paste error
+fix admin space could not cause error when directory be not
+make sure the thread '' instead of a last interface
+optimize possible buffer in io
+address the c error
+repair nullpointer close in stream
+repair compile error in
+fix live error in log
+fix error when lwjgl not start
+add property property for java annotation
+fix unnecessary error
+fix off-by-one error in the buffer section
+fix string error
+solve java source action not try
+generate bean overload for setter
+address the c error of camel-cxf
+repair non live error not bind it
+solve npe when open an template
+fix another note that be reference
+solve with action with threading ''
+build code in ast , continue 1 or input
+upgrade assertion to junit assertion
+fix string error from `` subquery
+copy the boolean flag only
+autoformat java file
+remove import import
+do not use implicit size on negative buffer
+address off-by-one error in vlc format
+deprecate token of authenticate handshake error
+repair compiler not find file
+replace same array usage
+do not load runtimeexception of client be not available
+remove unused import
+improvement to clear the shutdown statement
+deprecate 14 constructor : problem
+ticket tab now be start
+fix miss error in string
+fix java file error
+format class with abstract class
+fix pmd error on rule
+address compile error
+add amount to float
+fix compatibility error in 460
+java operator regression
+fix npe handle in case
+infer object type by their parser
+format visibility name
+upgrade to java security compatibility
+fix deprecate method
+minor compile error
+address the c bug
+solve : account error
+do not retry stale compaction message
+update script problem for run
+fix nullpointer exception on failover split
+more generic keyword check
+change java line error - > 1
+mark token count
+fix java 7 error
+generate cli build from solr
+correct root dir not include
+address error message in case
+deprecate unnecessary import twice
+fix compiler error in planoptimizers
+update the network object not return it in order
+address broken error
+address error report by eclipse parsing
+sql format string
+default npe in background
+address another target bug
+autoformat java code in test/com/facebook/buck/randomizedtrial
+repair compile error
+incorrect type while use super type
+change the thing can not be change
+fix compile error
+do not bother up than small
+do not get unneeded block twice
+fix npe in home page
+repair hash error
+fix miss error
+address miss error of error
+fix `` issue bug when there be not null on root ''
+use null ( ) in dashboard
+update pom import
+repair pom code a suggest style
+optimize command return command
+remove redundant import
+add openid flag in oauth2
+give null name in network
+fix unnecessary style error
+remove unnecessary property for @ same
+add function check for function
+expose off-by-one error in float
+address a null address
+fix compiler error
+update the c abstraction of json
+config job with dataflow builder
+disable unnecessary import of
+view do not require any field
+add password and new user update
+address compile error in touch
+repair the off-by-one error during broken
+do not report method on the method
+fix ci error
+fix incorrect error in collection
+fix a bad ( problem
+update comment a default
+create npe in jfilechooser
+compile tab do not work
+reuse audio stream only if seek
+remove redundant bitmap loader
+fix that time time rather than interface
+update the lock to verify the lock
+update miss string in java sdk
+fix drop unneeded error of
+solve bug of paste error
+add complete state of failed service
+fix more 1.5 problem
+cache class : constant up
+inline boolean cast
+add return amount for trade
+fix cast error for convert parameter
+ability to java java class
+remove unneeded parameter resolve
+address miss error of log
+improve java file dump
+do not support twice of the file commit
+move class do not match to object
+fix wildcard import with deprecated module
+solve a nullpointerexception where possible
+fix sql type error
+improve errorprone code
+change space dir explain by jmeter
+address round error in interval and prevent end value
+address up error for compute character
+fix wildcard import
+repair compile error
+update verbose error
+address error message
+mdf error message
+remove unnecessary import anymore
+can not issue in csv format reader
+imageworker.affine scale optimization do not handle affine flip
+preview be different from actual when instructor be not visible to student
+do not discard changelog share state on tm
+optimize filtering of hive partition
+resolve ww-3325 do not serialize add by javassist property
+bug fix in alarm where it be not get call correctly if the
+fix jobcreatecommand : do not overwrite capability from json file
+region of dynamic cd archive be not unmapped
+fix mapview projection : latitude increase northward
+the ca it not work the others be okey
+several class dnot set property properly for building request
+resolve the crash when account be not new
+constantnode method should not throw internalerror
+we do not need the start , stop , reboot command in the citrixrebaseclaas anymore
+escaped new line should not be copy into the result buffer
+fix possible npe when redirect
+not let long operation overflow
+bug 55652 javasampler silently reset classname if class can not be find
+fix config rpc.thread and validatesignthreadnum
+do not derive
+build , cause nate do not care for gwt
+more robustness if primary key be not specify correctly
+optimize reducewindow operator for attached windowing
+fix possible deadlock during startup
+do not count cancelled remote action against fallback event
+potential thread leak in operation deng review by peter vary
+ensure non-rolledover file be most recent , even on file
+spark bug fix : it use to not be allow to add edge between node that
+fix potential npe
+eudc character be not display on swing
+do not emit error when already complete
+fix registrymanager # getregistry not work for generic registry entry
+user exception chain cause not retain
+fix custom parent package not inherit properly with namespace annotation
+fix 2275513 icon do not update on package update
+address the c error of connect
+fix illegal style error
+add a password on ldap ''
+address the debug bug
+generate miss file checker
+do not call specific error in the command
+neffective change - format class
+remove repository package
+fix : remove alias error
+correct mod package in fml module
+add standard constant for suggest
+autoformat java file in test/com/facebook/buck/randomizedtrial
+address file regression in ftp error
+expose compaction value in ranking
+allow span ` to context
+solve potential resource cause nullpointer exception when create a resource or absent
+remove toggle menu condition
+repair a resource leak in znodecleaner
+solve compile error in recipe {
+solve mana player error
+add validation to security validation
+java 1.5 code not new longer new method
+fix @ bad annotation
+fix back error in message explain
+mark the header ''
+replace redundant violation problem
+address illegalstateexception cause by previous exception
+add full error for failed error
+change error message for select list
+solve date { 1 }
+java 1.4 import
+update for svg support
+repair classcast error repair
+fix useless d problem
+do not cache cert on a chunk cache
+update setting and update
+fix annotation error in collection
+finish registry start by server
+openapi deprecate endpoint
+solve export error
+address miss test reporting
+repair the nullpointer exception in blockqueueimpl
+optimize unneeded import of processor
+fix ioexception error
+solve nullpointer exception in mysql : set ( )
+deprecate unused code implementation
+change code initializer method
+fix the nullpointerexception when set ( ) in next
+solve mvel problem in java library
+update command decode in redis object not include nullpointer type
+fix compile error
+fix unnecessary error of camel-paxlogging
+address compile error in restclusterclient
+do not warn on nullable anymore
+address the c error of camel-cxf
+address java source in c error
+do not suggest @ hashcode name if it be not equal
+address the c error
+fix compilation error
+add null annotation
+use java unicode file for ascii
+tweak specific session error
+repair style error
+repair nullpointer error
+java table convention
+repair hover error when iterate be load
+update sql error
+remove unnecessary import of dependency
+implement entity type
+delete unnecessary import message
+address aarch64 with junit error
+wrap syntax not work with char in hwpf
+set compilation hint do not work yet
+repair an nullpointer exception in flink 's thread
+box search this can not search multiple index
+fix edit style method
+solve method : check
+solve problem with you not fire
+repair recommend command
+fix file not be correct from project to create the directory
+for server the server return the user when return startup
+fix errorprone error in previous
+fix a npe when sort a bound list
+repair unnecessary request handler for shutdown
+address nullpointer exception with nullpointerexception
+remove unnecessary import of redundant unused
+expose error reporting
+fix font problem with osx library
+fix memory leak in parallel v
+fix unnecessary problem
+solve helper & function
+fix indexoutofboundsexception of remove parquet error
+give helper and static recipe
+fix java problem in one
+solve import for junit sstables
+edit shift method : make sure actually commit
+make mana class class
+do not use implicit parameter on twice
+make span_multiplier public
+add thread interrupt to the thread name
+remove unnecessary account check
+should not retry counter should not be shutdown
+remove unnecessary import
+address java code in error
+fix package package
+resolve annotation problem on miss annotation
+fix unneeded import of
+do not rely with java target properly
+fix nullpointer exception in multimapservice.getstats
+the partition partition can not be call when unknown partition call
+add api store for storage object
+mark ci comparison
+fix unnecessary error of log
+remove unnecessary call button
+add java checker on window
+quick check for npe
+fix miss table not show
+repair non shift '' problem when click be load
+restore consistency for append encryption
+remove stream stream
+compile error repair
+default queue size size on flink and client cache
+improve module for the module module
+address build error in there
+autoformat java file in gradle build
+repair the resource leak
+do not cache error of the stack cache
+fix method that get reference in file reference
+add visibility declaration
+correct launcher error
+repair that block out code
+remove unnecessary removal remove
+correct environment code in favor
+update example to match category
+remove unnecessary bad file
+fix compilation error
+address window error in their chart
+remove identical import
+fix `` problem report with nullpointerexception
+use junit file catch
+fix bad widget error
+make sql method add
+ensure java byte in byte
+address no there be less error in the frame list
+address syntax not paste error
+restore draft tuse junit rule
+solve miss line error
+minor error repair when drag be select
+report compilation hint
+well the engine stats on single wal
+fix miss error for invalid attribute
+expose ssl access a java file
+another score towards score 2
+solve world error on debugger
+resolve group type & title
+repair miss warning in xcode pr
+address miss error in r1712225
+updated pom filter
+delete redundant detail creation
+completablefuture out compilation error
+use query count for error
+add thread support for heartbeat listener
+abstraction and sql function
+address a nullpointerexception report by github
+replaced unnecessary unnecessary error of process
+change object - a double method
+address `` issue '' error
+remove unnecessary import of import
+fix type problem
+add encrypt file a encrypt
+fix import about deprecated method
+rollback up field do not generate null field when null
+render recipe class
+tweak bcel class : use boot style requirement
+fix compilation error
+address miss status error in case
+add last password fail
+update guava . > bit
+restore unneeded compatibility
+add aggregation function in parallel function
+roll create throwable log
+copy byte buffer in large buffer
+resolve identical error
+remove null code
+neffective change on java field
+reorder import for java module
+add explicit class change to retrieve
+do not write error of there
+add unnecessary import
+change bunch of transaction
+oops can not have null member
+remove class visibility
+update steprunner level
+address potential c error
+address potential error of it be put
+fix unnecessary import
+update base64 package
+format date format
+add import for slf4j name
+format `` issue ''
+fix logger information
+fix error for split parallelism
+edit this error , add field
+fix potential npe when try
+address error message for miss class
+solve memory leak
+java code for resolve mapping problem
+address error of { classcastexception in case
+do not try about try in folder .
+solve forge line error
+fix a bad presence handling
+fix compiler error
+repair miss stuff relate
+only ssl problem on trunk
+fix bug of repair bug of bound try
+do not show a paste highlight when drag highlight
+avoid sql name name in the classpath
+tiny compatibility with miss key
+more proper error message for failed
+optimize reactor package
+address sql error in sql and use clause
+add netty processing to be read
+repair compilation error in case
+optimize wildcard import
+solve batch directly from batch
+replace gwt import of eclipse
+address off error
+let non method override on method method
+rename compilation in correct ''
+do not show backdrop for widget
+do not report assertion in log
+make sure ssl be not a once
+fix java error : can not be null
+avoid check keyword on queue
+fix redundant null problem
+add a ie logic to schedule the task safe
+java call compiler not work
+do not test to just '' name
+handle item item in one
+repair the memory copy problem
+add error handling for ldap and authentication
+lower will not work in audio oops
+repair error for printing
+solve off error
+address nullpointer exception with null value
+remove unnecessary queue check
+fix task be not npe if the spark task be not
+fix npe of switch
+fix an block bug
+fix sign check in case
+accept optional file in ftp list
+solve c error in camel-splunk
+correct the nullpointerexception of cancel
+fix more warning
+mark stream a keywords
+repair off-by-one error in terminal
+fix exception during index do not work
+add full rpc interface
+do not read term twice
+improve 1.4 method in public
+sort rank 's > long
+address text error when deal with upper hint
+fix @ null for explicitly get time
+nullpointerexception in a graphic
+address java source in maven path
+java 11 code
+add nullable annotation
+optimize partial aggregation for base aggregation
+fix edit error message not need
+edit content that do not enable any or child
+do not rely on alter index when check
+resolve spelling of swallow error
+fix wildcard import
+change other resource to not find resource
+deprecate lint error
+address null error in array
+solve java file error in flink
+eliminate unnecessary import for script
+fix the couple of property property
+solve the chrome error of the shadow handler get an try to create target
+add null attribute for new session
+optimize class serializers
+fix query name in quote ; add column name
+fix copy/paste error
+copy net error
+do not check about modded ( still cause the same flag
+autoformat java file in junit reporting
+resolve forge block error
+remove unused import
+fix google search collection
+output output key output of beam output key
+repair two race bind
+fix mana item not render
+address the c error of the correct method
+do not close session on session
+expose sampler name - report error for string
+neffective change - reduce table with schema
+solve thread not report thread name
+optimize ci order with order
+add validation message to validate
+remove unnecessary warning of
+work of collection change
+solve nullpointerexception of no nullpointerexception
+solve bug and previous commit
+address off-by-one error in last
+add new ticker implementation
+solve : sql bug of sql identifier
+solve for npe on the android view can not be exist on android
+solve concurrency error in concurrent
+fix sign error
+repair method be not call
+fix unnecessary operator )
+do not receive error in the handler
+java file copy a file
+address example report in case
+address a c error
+repair npe : resolve an problem
+do not use output result from table
+format java code
+add a router interface
+address compilation error in the brokerservice
+resolve derp regression in allapps3d.onkeydown
+never consume resource will not be load for the resource resource
+address java file error
+java annotation : > java annotation
+replace errorprone condition
+add extra condition for spring condition
+explicit java parameter for serializable
+update the null instead of null
+update `` file not report an correctly in the file report it
+update reader : modify reader
+address the c error of camel-restlet
+address java code cause by nullpointerexception
+address an off-by-one error in muc
+upgrade jitsi bulk import
+remove redundant debugging
+address the c error of camel-cxf
+address `` java '' error
+do not reset down anymore
+restore off operation problem
+solve the block error in itemtexturequadconverter
+format java file
+restrict java method for static method
+polish java compilation error
+update mvel test for touch
+fix preview problem in drag pad
+solve metric can not be call in bytecode
+repair another error
+java annotation : work
+repair 14 error of deprecated protocol
+remove redundant color for the muc color
+disable ci option
+add key length to not contract
+add long field to describe
+pas parameter a line
+solve import annotation
+address java annotation in java
+remove unused import
+solve compile error
+set the url encode to the error
+add some test in the code
+should wrap begin item
+button no problem to hide button
+remove lombok import
+fix wrong event come correctly
+java class from class report
+update wildcard import
+address compile error in jabber load
+remove unnecessary import
+use unnecessary stuff of the redundant import
+fix ( type error
+fix embarrasing logical error
+two provider provider with the contact try
+postgres `` mysql '' to allow '' character
+update command parse
+set task = take an else value to run the 5 error
+fix exception when occur , throw an directory in file
+deprecate sql syntax use
+table not close ( ) after truncate statement
+solve vanilla armor error
+better error when drag sync to not active
+ignore internal propagation with another propagation
+fix java error of junit (
+address miss error
+solve span 's time report
+format java problem
+java csv class format error
+add source 's test
+address there be not need in there
+address the issue of logic bug
+rename java file only
+resolve exception of deprecated ( throw
+solve compilation error where there be not in build
+address ` consumer ` checking
+address compile error
+initialize thread pool with default
+update jackson import
+remove deprecated session :
+address off-by-one error in defaultrolloverstrategy
+mark code report if the method return return method
+address build issue
+do not compile a client '' if the connection be initialize
+replaced unnecessary block out while remove node remove
+fix compiler error in criterion connector
+no ssl solution be not support for
+dnot need even in remote address ) an exception
+fix unnecessary bad style problem
+remove redundant kind of log
+mark miss header
+make sure status return status
+fix another problem of switch
+small block priority with maximum compaction
+fix embarrasing logical error in last condition
+no label do not show npe
+report the longer trace to an error
+add exclusive context support for context
+do not update table with oracle constraint
+address and c error in buffer
+fix incorrect error of int value
+add annotation around type annotation
+add error message for callback
+fix nullpointerexception report to no nullpointerexception
+fix query error in sql query
+address the shift can not find with illegalargumentexception
+solve off line problem
+resolve npe repair
+modify java instead of a string name
+normalize total verbosity of compute
+deprecate jwt import in oauth2 token
+autoformat java file part
+address case error
+mark non false case
+clear dialog error when not exit
+repair compile error
+fix 2.0 error
+solve lint error cause
+repair kid error
+fix compile error in 3d segment
+report error message when invalid image error in the 11
+solve an problem for catch reader ) throw exception
+support v2 driver
+address the common collection out of collection generation
+repair the throwable throw an exception
+support stream with stream read
+repair kid error of there
+resolve whitespace 's exception message
+do not copy frame error in frame decode
+solve accidental race out by the queue queue # 863
+fix errorprone import in java sdk
+do not get unneeded down twice
+address exception in unnecessary queue problem
+fix off error in one
+format content with java attribute
+add regex filter for filter
+fix empty file not notification
+think tab i not java text in terminal which be show
+fix confuse error
+ticket can not be select yet when the web browser be visible
+load url property from property management
+modify comment level in log
+add java method for observable
+correct unnecessary condition
+fix recommend error in a security
+repair gwt error
+update vector module
+address the c error
+do not check multiple file if no option
+address error message when create vm or not available
+add java key annotation
+delete redundant import
+correct annotation import
+implement keyboard tool + basic keyboard
+add stub stub from tomcat heap
+deprecate unnecessary collection )
+do not put down by login
+ticket ( not work in 3145
+method not arrayindexoutofboundsexception when there be a upper array
+null npe when possible be null
+solve warn / npe
+solve index error
+update jei library problem
+do not clear the cached argument for mark
+restore some npe for camera
+address nullpointerexception now filter
+update package message in match
+optimize unnecessary thread usage
+i problem with the action repair
+mark deprecated annotation
+repair error # # ( ) dnot retry yet by error
+fix off-by-one sync method
+java method name be ignore to the inner class
+do not add error twice
+address { final error
+solve memory problem with java module
+test for sf bug
+rectangle will not new marker shape
+fix ` file cause nullpointer exception in puthdfs file
+default string not check when null key be not support
+remove more compact annotation
+repair for auto style problem
+use unnecessary string check
+make sure ( call handler
+do not authenticate indexed illegalargumentexception
+fix resource leak in znodecleaner
+java ssl libs support
+repair error handler to load component
+fix the compile error
+spark flink error in flink runner
+two keyboard '' do not perform keyboard
+remove authentication cookie since remove cookie value
+java 1.4 package
+address compile error
+do not read bottom vector a problem
+fix java resource error
+remove redundant import twice
+update thread name to be process
+fix java file in java module
+fix java analysis problem
+replace java 4 problem
+address c error
+close the task to close the task have be execute
+remove redundant connection check
+fix unused error in formatter
+update rule - no rule example
+do not resolve identical exception when a mention column be not
+compile bound error
+solve unnecessary usage
+fix non issue where selection be not select
+solve java file in error
+remove accidental import requirement
+more authentication address upon server not run down
+repair jitsi c error
+fix array error during collection
+remove unnecessary exception in invocation
+make sure queue should return the queue
+resolve empty npe
+jfxsnackbar the error repair
+do not pass the storage object in a karaf object
+cache the size with size
+add java method for the benchmark
+address compilation error in flink explain
+fix errorprone requirement in geoserver
+fix node without part path
+address potential the nullpointer exception cause by rpc parsing
+address ` error checker
+reset inputmethodmanager.sinstance ( by previous commit
+compile syntax not be consistent
+fix the couple
+update comment error
+address deprecate error
+change image of new image
+resolve copy/paste error in
+solve non problem occur
+use expanded to return error
+solve a line ''
+solve concurrency error in case
+modify amount level algorithm
+address the c error
+address the compilation error
+fix miss error message in raptor plugin
+add nullpointerexception address
+new metric name
+fix flugel compile error
+fix unnecessary import
+fix file not get check until file move on file
+fix compile error
+do not throw illegalstateexception on the user be not need to
+solve the player side render
+minor netty handler not be play
+implement generic interface and
+include compilation compilation with compilation
+update chart patch
+fix instanceof style issue
+fix compilation error with netty 's upgrade
+address error message by miss function
+display info requirement in another server
+more timing of diamond break problem
+address an error reporting
+do not use static style twice
+remove unnecessary import statement
+property that problem
+address crash during compiler constant
+solve compile error
+can not have a sql in parser
+check that null
+update price error
+show slow reporter log
+fix errorprone import
+format ticket in rule
+rename sql expression add
+address dnot add error in hive table
+java file skip
+compile problem of the environment only it can not be set
+autoformat java file in maven
+solve node not show correctly when the slider be show out
+fix redundant redundant npes
+repair custom socket timeout
+keep unnecessary import ;
+update netty over new field
+resolve off-by-one error in vlc
+add new execution logic in new rpc api
+add bug for null property : do not null a null value
+solve copy npe
+solve concurrency error of occur
+not overload method on the shadow type
+remove unnecessary bad localization
+correct java file in verifier
+avoid java specific property in android property
+update rule checkskipresult
+expose byte field a long
+address the c error
+do not issue happen when there be no block
+remove unnecessary npe of switch
+fix java table error
+address the c error
+add junit annotation a junit
+add parameter support for input parameter
+make sure we not be reference properly
+address nullpointer join when join the join
+small error with concurrent type
+java 1.4 problem
+address exception during flink optimization
+repair = int value in monitor (
+change error for socket disconnect
+repair miss error
+support for python setting
+correct generic handler handle
+fix off bound issue in bound optimizer by simple ( )
+add java network api
+fix compile error
+make expose session reference from remote session be only
+autoformat java file in posix
+fix out job problem
+solve compile error
+add try to close action
+address method & let track
+modify pipeline of start
+we be break the new handler
+fix error message when be call
+autoformat java code a truffle
+fix method be not properly on the first directory
+address regex with java character in order
+fix nullpointer exception in explain and statement
+do not write dofflineparentinmeta encounter a data error
+repair array error handle
+set session id in session , session session ''
+log all unhandled exception when log
+remove security dependency on java library
+be default for interpreter ''
+update jitsi setting to enable setting
+optimize memory cache problem
+only try to initialize class in the context , ca not initialize
+only unknown slot check
+correct the c error
+address the c error of load bundle
+solve all nullpointer exception with load session
+do not use implicit entry of switch
+do not call the thread to start the thread safe
+repair remain issue for order order
+correct the job status be throw
+do not find around error in
+fix animation animation be not call until animation state
+fix an little error
+link register nfi register
+return null immediately
+fix non npe
+fix error reporting
+address exception repair for verifier
+fix copy file ) error in file
+fix a redundant ( problem
+small margin error in desktop
+do not recreate illegalargumentexception when click be edit
+add event name
+do not check indexed exception in each file
+model dnot have the model model
+more unnecessary plan error in
+fix identical error
+solve texture render and reload mesh
+java metadata level a task
+throw error message to create runtime can not be call
+fix unnecessary import of process component
+output failure of failed failure
+solve android solve in android applet
+make sql variable be not 0
+do not copy the manifest size if not work
+repair color color when the background color
+fix mistake in error
+deprecated java code
+remove unnecessary check algorithm
+resolve indentation where recover could not be commit
+repair command parse error
+add test to inject base bean
+upgrade compiler error
+repair surface error
+make sure date return logic
+add error , on illegal transaction
+$ pattern match pattern in binaryliteral
+optimize the child of the collection cache while the same cache key
+add error for the sql parser
+repair file error in filedownloader
+prob . no spreadsheet error
+factor remain stuff
+do not call peer when call one
+solve specific line return logic
+fix server error on log
+deprecate openid dsl
+do not sort down bound problem
+address java error
+fix error of unit error
+resolve ( error of request a url
+resolve index check
+ticket # 3065 : repair the big repair if it be load
+add password check for password
+test for read 2.1.0
+add test to match category / no class
+polish circular cache property
+add build file to open file
+fix unnecessary import of logbackvalve
+polish a relic discovery default
+address the c error in camel-core
+update google `` list ''
+update socket ' method
+fix miss file error when more region
+fix query pool by query
+miss null pointer not call
+do not show note to cancel in app . app be initialize
+sql format and solve
+repair image not render error
+fix the segment index throw exception
+set behavior to the task be not support
+add format field - tidy
+fix off-by-one error in terminal
+add validation validation
+feedback test for text type
+mark expire writes , always clear
+fix signature error with previous function
+solve build id use
+fix error-prone . no default
+hide an item name
+copy java file from directory
+copy the 4 error
+sort root { suggest
+change oracle `` oracle '' error
+remove unused import
+fix the nullpointerexception of filter with first condition
+auto-format in eclipse
+add sql flag for ` statement
+remove scroll item creation
+solve source line with single file
+remove unnecessary state id
+support for ignored parse error message
+regenerate miss a changelog
+expose endpoint - public interface
+add ability to use transaction class
+nullpointer exception repair in previous itself
+pas query : do not work properly
+format `` error ''
+add support for widget layout
+correct unnecessary resource leak
+solve gwt import
+do not require the thread '' for it 's it return
+fix compile error
+reduce null address in sip address
+fix miss error in android : code support
+update off-by-one error in itemtexturequadconverter
+change user in user ''
+make sql { abstract class
+delete unneeded state
+replace java 4 class from kotlin class
+abstract abstract table update to 1
+address error of the focus
+fix compile problem
+improve array leak
+support rule chain problem
+restorereplace dnot remove key compatibility
+yet java compilation
+solve miss exception in deferred rest
+fix check style problem
+address cluster source size
+google share setting to sync
+add banner config option
+do not cache the task cache if it be enable
+consider generated metadata a description
+deprecate package-info file
+repair client error
+modify xml error
+content content be no link
+update the 4 positive
+repair the thread error when repair by shutdown
+solve keyboard 's error with `` keyboard '' ''
+do not use unsupported space type for invalid character
+fix compile error
+add boolean cache for cache
+remove unneeded parameter catch
+if the file open without file do not break the script
+address java file cause exception
+fix error or close or stream ''
+update java class from jdk method
+optimize curve + private point
+format java code
+fix eclipse style by default
+address java c error
+repair the width error
+neffective change - sql class
+update it to deprecate
+repair off-by-one error in previous error
+new new method to accept number
+repair copy/paste error
+fix logical error - explain all error
+address off by bug
+fix grant error for schema . empty schema
+solve lint error
+autoformat java file in order
+drop clear state , never clear reachable
+correct timing of election error
+fix thread dnot handle the connection alive # case
+address potential nullpointer exception on ci
+address expose problem
+fix potential nullpointer exception during preload
+add ioexception to return buffer in buffer
+format java file in java file
+raise error message for receive buffer
+enable session cache for reconnect
+create concurrent list on maven
+can not submit invisible when search from the text element
+update java annotation to be public
+upload file upload
+add facet index for index
+ca editor be not npe
+repair for deprecated parameter problem
+format compile of solve error
+fix compilation error
+resolve compilation error
+repair compilation error
+log hadoop metric in geoserver
+solve possible operation problem
+address a config bug
+the min pool timeout when execute session request
+do not use wildcard import
+fix the else error
+java ssl attribute not use by ssl
+do not change table to just the correct table
+fix java source in java sdk
+do not handle important file in order
+add schema / liquibase ' file to be create
+remove unnecessary warning of deprecated
+fix the profiler happen because if there be not show yet
+format and change class from common class
+repair compile error
+solve currency error
+change additional code with boolean cause class
+only block icon problem
+address compatibility error
+address for issue : no uri can not work with host
+fix the suggest constraint dnot report constraint name for the same table
+no off-by-one flag not nothing
+change default message to upgrade
+build qualify expression with java order
+change method change for varargs overload
+solve compilation problem
+call bad instruction
+solve compatibility - add npe when set database directory
+repair shift error
+bump the year in the example
+collapse import import
+make the head report > error
+add couple around parameter on the log
+fix java error of there
+fix `` break '' error
+resolve note note not note
+remove oauth2 setting for switch
+i copy size
+use unnecessary warning of
+improve error message for case mismatch
+solve a socket alive of handshake error
+delete redundant import of
+fix nullpointer exception cause by row set value
+avoid unnecessary exception check
+remove redundant term ,
+fix build error during build failure
+hibernate default = default setting
+fix redundant exception message
+fix `` rich @ schema '' for java class
+solve bug : resolve nullpointer exception on an party index
+update exponent stuff
+fix spdy import
+use java client header
+solve another style style
+add provide endpoint to endpoint endpoint
+consistent id not possible
+solve `` issue where there be not send status to there
+do not use ack on error if there be not use in network
+more parquet 's block switch
+solve class : no byte in full file
+fix null safety issue
+add example for java example
+stub package
+address java mistake
+change and response type
+optimize unnecessary import
+fix bad gif block error in while video
+fix maven error in maven plugin
+better return to error
+fix off error during string
+address java c error
+solve ci error
+add list name for table
+remove conditional bean for spring dsl
+fix copy/paste error in preemptive
+do not generate method to generate byte name
+the class can not be consistent
+some null format in case
+add session property for system session
+update eclipse import
+fix nullpointer exception on oauth2 connector
+repair a problem
+replaced expire error
+split spelling of job split job
+eliminate aarch64 of bound error
+correct java package in directory :
+ticket # 3662 : repair embeddedsize error
+return new operation for error
+add source to use assertion in case
+compile tab in the keyboard
+do not rely be set on remote m
+correct detailed error
+polish the maven code
+fix bad style check
+rpc server change to netty
+solve all error in network
+repair shutdown worker leak
+add compilation build
+add java code for `
+add test class for report category
+drop ci handler for spring # 70
+solve for block filter problem
+temp html error
+add compaction size
+fix build dependency
+do not use ignored exception when set the websocket request
+address nullpointer exception in negative ( )
+add null for device capability
+modify more amount of log
+resolve error of admin ticket
+solve two nullpointerexception on text ''
+throw redundant detail check for message validation
+fix compile error
+remove redundant bad annotation
+mark deprecate code
+correct errorprone import
+resolve consistency 's check logic
+replace rank order in order
+highlight span report in bound report
+remove unnecessary import
+address method return by argument
+change error message for flyway build
+fix the command error on the command
+optimize a cached ( ) here
+address the c type of jmx
+solve npe when show the view view be not support
+address : f expose error of message
+address the c error of camel-core
+fix a ring buffer not problem
+address nullpointer exception report
+update 1.4 to check
+add draft implementation
+add key return to false
+remove unnecessary null check
+resolve marker problem
+fix potential npe in thirdeye-dashboard
+address java example
+rename logger with log
+fix query and remove error of collection call
+java netty = no netty in the netty
+update compilation error
+fix quick error in vlc
+resolve potential error
+fix comparison not remove npe
+address the cluster address on cluster
+add extra timer to timer the timer
+fix build error
+fix recipe not render
+solve lint error
+do not compile the error when there be the wrong string
+fix import import
+resolve class error in invalid file
+autoformat miss file in log
+optimize use redundant ( )
+content dialog be add for the window window
+remove redundant `` exception ''
+fix java file problem
+remove redundant term of resolve
+fix file not check in classpath
+address the nullpointer exception handle while remove null result in case
+address nullpointer exception cause by client
+address pesky c error
+make sure detail only a last detail to be list
+solve color issue
+update the bound list to null with negative array
+fix miss error message
+solve a nullpointerexception when add a email
+cache file store - include the file cache
+address build error
+address error message in fatal output error
+remove unnecessary import of entry
+convert some require annotation
+update compilation : format problem
+expose byte and byte in byte
+solve error for junit error
+mark non comment private a lock
+add root param to the top command
+repair compile error
+compile compile error
+update java file to test
+address mistake of parse error
+repair null error
+address compile error
+eliminate java 7 compatibility
+do not break logic if there be no yet
+update collection & remove collection with collection
+fix copy/paste error
+java code and return benchmark of multiple benchmark
+update the behavior - add null with null in expression
+neffective change - ormquerydetail with duplicate order ,
+do not cache eviction if one cache
+address compile error
+address the ssl leak when request be request when use a cached connection
+deprecate the comment in implicit process
+mark code : update
+drop 11 flag in java 17
+java regex & break constraint
+address no error message to decode character
+rename package name
+fix nullpointer exception in /rest/cluster
+fix compilation error
+fix compile error due to no toolchain
+add margin to stop transcode setting
+add miss annotation for check
+solve vanilla block error when there be save a block
+address back failure failure
+return null message if `` verify '' node
+do not resolve anything task on there
+fix kafka error if run benchmark be not set
+add java path to warn
+enhance metric name on various metric
+delete unnecessary state style
+make sure thread a thread safe should not be break
+optimize length of offset optimization
+change java class to test
+repair nullpointer exception with unsupported client via client
+add html library support
+fix : resolve error in schema
+no java client can not work on tomcat
+add hard call to be shutdown
+support syntax & sql format
+do not require the callback twice
+add raw error msg
+resolve null npe in some null
+fix the index bug in sqmpathregistryimpl
+try for java activity change
+fix error when create class
+update logger to eliminate stack package
+add abstract class ; support
+fix context check : clear context in rest of rest
+address a c change in path
+fix possible ( problem
+remove double localization
+solve improvement text for android
+fix a unused problem
+resolve error message on receive failure
+replace note note with note
+build class tuse java class
+replace guava hash by match
+rename xml code change
+fix all resource leak in fileloadermanager
+remove unused import
+log logging in oracle
+repair copy/paste error of no component
+address another import of the convertersmojo
+address the nullpointer not crash cause if player be set
+update miss library with order
+do not break error when property be set
+repair the nullpointer exception cause when npe
+fix ci problem
+resolve query timeout exception
+implement a way
+update client placement
+add a relic to override credential
+address nullpointer exception : use transaction twice
+ignore buck command not test
+remove small be only for negative hour error
+make abstractheapmodel hash of faster
+resolve error message for invalid null
+image cache size
+fix file problem
+fix constraint cause error of 32 schema
+minor null against null against null value be null
+do not exist large font on font
+postgres v2 error
+address error for recursive error
+resolve note error in note
+delete unnecessary warning
+repair compilation error of split
+add ci comparison
+replace same execution error with one
+correct correct error of camel-cxf error
+bug - add plugin improvement
+solve miss error message
+polish the cookie copy error
+fix the wrong exception handler
+address report error
+add @ sql annotation , add example information
+`` set interpreter '' '' if a user set a database
+correct mana item not animate
+do not show table with empty table
+fix compilation error
+fix cast error
+repair null error when collection not find
+increase gui into layout
+do not import with classpath specification
+do not require build flag on an parser
+change date name / time name
+solve wildcard problem with io library
+address build error
+update correct type for exception
+address potential error of request
+solve miss error of llvm error
+address graph break by graph
+do not scan reference if we be not close
+change logger - > debug
+update c error
+address off-by-one error in thirdeye-dashboard
+solve on date : java 17
+autoformat java file
+fix compilation problem
+no function can not find a callback
+solve method can not follow the same variable
+add correct detail to error
+all ordered and iterator `
+repair the next exception when stop the shutdown
+fix exception when split partition
+do not create user with table ''
+make java 4 a java
+set hbase compaction output
+autoformat java file a src/com/facebook/buck/ide
+restore redundant down a assertion
+bug object can not suggest a indirect error
+the bug , solve array be throw for a json
+mark java code a few error
+postgres query and sql query
+drop range check
+solve world display error
+expose pojo field private
+encrypt password be not reset
+fix a redundant import of
+fix file error in camel-restlet
+wrap npe with text
+the cell index ) error
+add @ annotation annotation
+fix package of rename method
+address not compute stack error
+update nullable annotation
+fix non file copy in s3 file not create file
+repair the ssl repair ) exception
+fix error for display task can not be display
+correct accidental nonnull in message
+dialog have error for you be not support
+repair repair nullpointer exception
+do not use cached history when a history have time like than history
+fix do not call node after package
+abstract field count - not volatile
+repair java file when fail with large session
+fix error message do not throw arrayindexoutofboundsexception
+update rule about junit rule
+update comment in scala timestamp
+fix potential error handler
+handle permission permission for user read permission
+accept java file not be public
+more ( ) : check
+repair nullpointer exception repair
+address potential nullpointer exception
+solve errorprone catch problem
+solve error style when call
+fix the nullpointerexception in case of process a queue
+solve null npe
+address miss error message
+repair kafka callback handle
+change error - > field
+fix more violation problem
+log : slf4j system method
+address the error of error
+address java file not launch correctly in which report file
+add sql build to issue
+fix nullpointer error report
+replace java 7 to be own
+remove unnecessary cert that possible
+remove unnecessary bad parameter
+add cache code of blob cache
+address compile error
+java 1.5 error
+format format with the text
+add index attribute for sql matching
+remove remove row remove remove interface
+solve compilation error with simplify
+address content-type error in xml
+repair copy/paste error
+update the thread count for log
+do not import for deprecated header
+java example from word example
+repair problem with touch problem
+fix metastore error on hive table
+fix wildcard import
+fix shift error out of buffer
+repair nullpointer exception in the environment
+address the c error in
+do not return table before fetch row
+fix file error when recognize a jar file to not exist directory
+mark the lock check
+address the c error
+fix error of caught exception
+format errorprone issue in android setting
+fix miss error of text mapping
+update bunch of slf4j
+repair encode error in camel-restlet
+fix import of deprecated package
+solve the admin and footer error
+fix unnecessary import of actor
+do not copy bug page when draw be too
+do not include the thread per thread
+do not find case on one file
+address compile error
+deprecate localization , remove a option
+fix animation animation ) when connect the device
+add clear method to the future worker
+there be empty error
+correct down interval by float
+resolve npe when paste be miss
+solve potential task error
+add class base word in rule
+make sure optional a nullpointer exception
+update error of repair
+solve : identifier error
+fix error . remove comment in
+log a jul trace in logger
+compile size size for style style
+do n't pull error on message content
+update previous line from no entire flag
+correct segment movement problem
+store threadlocal local in threadlocal
+address compile error
+resolve field error
+upgrade ( patch
+the filter operator use
+, resolve the main error if it be n't any
+correct the string check
+format error message
+update wildcard import
+fix planning of break a java 7
+solve table issue with last query hash
+remove unnecessary style import
+basic java library support
+solve the null issue
+fix import : compile error
+make new driver name just
+save identical permission
+fix error on failed partition
+java java file break
+restore restore action on action
+repair the swallow exception in feign exception
+address query cause by query
+optimize the order order
+solve an bound exception in negative buffer cause if -1
+address incorrect error
+optimize the collection collection with collection
+solve potential npe on replica
+hadoop hadoop error
+fix unnecessary exception in hl
+remove unnecessary import
+remove unnecessary import twice
+format compiler : be bug
+add unnecessary method check
+update an error for match error message
+address net address error
+deprecate kafka source
+only result result during outdated event
+solve off error of build rule
+repair recipe error
+lir property out of property
+replace unsupported default error
+do not throw throwable or format in an command
+optimize java file in switch
+dnot build jar file with llvm jar
+have upgrade message to be throw indent
+integrate single graph count by benchmark
+address an parse npe with some string
+solve mistake with job error
+fix unnecessary unnecessary problem
+fix more ( problem
+possible nullpointer throw nullpointer exception
+fix the c error of possession
+resolve npe : occur when no note be not use
+update java header
+remove redundant message in log
+solve task : issue for the activity & thread even
+do not cancel illegalargumentexception of data be call
+optimize share of task count
+chain class of the graph checker
+fix errorprone import
+more priority level
+fix unused import and use schema
+add rpc cache method
+fix nullpointerexception with drag error in vcard
+solve redundant event )
+return empty cursor to remove empty result in
+add enum value to use byte object
+fix errorprone error
+fix emitter compile problem with the renderer
+solve resource not be embed to a resource upload
+address compilation error with it review
+finish implementation to add static class
+fix off-by-one error when drag the bottom
+add java line `` error
+fix errorprone import
+update comment for java class
+collection create work with collection interface
+rename rpc param - test
+handle unnecessary index problem
+report file report when open file
+deprecate unused import
+fix unnecessary error for describe
+do not put vlc in vlc error
+fix a bad ( creation
+make unnecessary comparison code
+fix `` issue where avoid exception with wrongly match the shard
+prob tab problem
+do not create byte base byte
+up security access to security error
+fix import format of date
+address error from compiler 's include compiler 's exception
+solve memory solve on memory exception
+update comment in case
+build variable : include marker instead
+table class - > spreadsheet
+address up error in r1712225
+fix ( npe
+repair incorrect error of no string ''
+update location error
+fix legacy bitmap problem
+repair nullpointer exception repair
+fix a unnecessary context of commit
+address proxy problem with java boot
+solve the unnecessary error of indexoutofboundsexception
+resolve npe in appw and renderer leak
+some debug method when track
+do not reassign unneeded ( )
+solve a boolean flag relate
+autoformat java file in test/com/facebook/buck/jvm
+can not put '' , then directory have
+some filter tweak message
+resolve nullpointerexception can not be use stack
+implement long value in float
+solve incorrect nullpointerexception on discord
+address the c error of the camel-core
+update semaphore error
+possible client normalizer in metascanner server
+address the c error in camel-splunk
+remove unnecessary bad header
+repair keyboard stuff in public web
+address error of c error
+repair compile error in repair
+fix param error for deprecated 1
+fix nullpointer exception while throw a table on user not need
+no debug info :
+regenerate miss class a late class
+address error on client
+build class name for the class name
+address the c error in camel-restlet
+format java file not shift problem
+another shift to reflect
+minor : join style : join
+do not le signature twice
+address nullpointerexception of serialize string
+solve an batch batch issue
+address the compilation problem
+solve compilation of problem
+add test for c type
+modify thread name on start
+type : consider functional / functional interface be instantiated
+update nullable annotation
+address the problem of create directory be not log
+solve redundant violation error
+mark source method
+update the guava list
+highlight token in the token
+solve forge error
+not debug flag be not call
+remove unnecessary string again
+resolve error message for be load
+update file output
+address file error with json file
+do not put view with expect even if there be not support
+deprecate consistency be check
+optimize the connection throw exception
+build the build bundle build during ci
+require java file for property
+address compilation error
+increase off-by-one `` limit ''
+do not read session counter in the first session
+solve nullpointerexception when generate player
+fix file error in filedownloader
+format compile in error
+add command cache to cache command
+address java parameter error for varargs
+repair `` compile error with no character to common character
+no class can not try to execute the inner class
+fix redundant problem
+neffective : take long number of `` 1 '' which be support
+new storage operation not work
+handle client exception when connect socket
+solve npe in multi selector
+address and color ''
+update compilation error
+workaround for nullpointerexception should not mention the nullpointerexception
+fix potential resource exception
+implement user color display
+solve keyboard still not kill yet
+for script report error message
+address the shutdown of shutdown
+new world patch
+solve error : occur
+optimize netty object in netty
+format ` enforcement enum
+no ssl provider be not support
+fix miss error message
+rename pom error
+do not recognize package ; move class
+`` close connection '' on error
+address kotlin c error of the powermock
+quick npe when stop the apps
+if copy library list
+change event object for retrieve event object
+change ant code in java 7
+add java library a java
+remove unnecessary import
+resolve bound leak during indexwriter
+address a null nullpointer not connect
+fix metric output in metric
+compile error with the task can not be full task
+repair possible npe
+fix case error
+update thread so the counter
+solve spell error
+update nio error
+fix preview error while repair
+resolve mistake in log : log
+make java java code
+make sure we not select a amount for the player
+remove redundant import of bad package
+deprecate openid code
+add instance for event ''
+address error of report reader format
+fix oom problem when create the login initialization
+replace bad bad presence handling
+do not report package report on eclipse
+replace layout error in android
+delete unnecessary style problem
+deprecate unused import
+fix redundant attribute check
+report build directory do not contain distribute cell
+address not return error
+fail interpreter can not be start
+address the c error of camel-restlet
+repair setting repair
+update java file default
+fix possible npe
+java code problem
+fix illegalstateexception for recognize utf8
+address java java security error

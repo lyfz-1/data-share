@@ -1,0 +1,5000 @@
+add support for new file format
+add a new test for the new api
+add support for multiple field
+add support for multiple field
+add test for new file
+remove unnecessary null check
+add a new file
+add a new file
+move test to the correct package
+remove unused private method
+remove unused import
+remove unused private method
+add a test for the new option
+remove unused class
+add test for the new api
+add support for the new api
+remove unnecessary null check
+add check for null
+add support for multiple column
+add test for new file
+add support for multiple column
+add support for the new api
+add support for multiple column
+add support for the new api
+add support for multiple field
+remove unnecessary null check
+add support for the new api
+remove unnecessary null check
+remove unused import
+add support for apache kafka support
+add support for multiple value
+add a new option to disable the load if it be not specify
+add support for the new api
+add support for new file format
+add support for multiple column
+add new test for new api
+add support for multiple column
+add check for null
+move to junit 5
+add test for the new api
+remove unused private method
+remove unused class
+add a new method to the class
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add a test for the new session
+remove unused private method
+add a new interface for the new interface
+remove unused import
+add test for the new file
+add support for multiple column
+add support for new api
+add support for the new api
+move test to the correct package
+add null check
+remove unused private method
+move test to the correct package
+add a new file
+add new test for new file
+remove unused private method
+add a new file
+add support for multiple column
+move test class to the correct package
+add support for new file format
+add support for the new file
+add support for multiple column
+add support for the new api
+add support for multiple column
+add new test for new api
+add support for multiple column
+move to junit 5
+add a new file
+add test for new feature
+add support for the new api
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for the new api
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for new file format
+add support for multiple column
+add test for new file
+remove unused private method
+add support for multiple column
+add new class for module
+add support for new api
+remove unused private method
+add support for multiple column
+add a test for the new feature
+remove unused import
+add support for the new api
+add support for new feature
+add a new file
+add support for multiple column
+add support for new file format
+add a test for the new feature
+add support for multiple column
+add new test for new file
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove unnecessary null check
+remove unused private method
+add support for multiple column
+add support for new file format
+remove unused import
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove unnecessary null check
+add support for new file format
+remove unused import
+add a new class to the test that be use for the new api
+add support for json file
+move test to the correct package
+add support for the new api
+remove unnecessary null check
+add support for custom command
+add a new file
+add test for new feature
+add test for new feature
+add support for the new api
+add a new file
+remove unused import
+add a new file
+add test for new feature
+remove unused class
+add a new test for the new api
+add support for new file format
+add support for multiple file
+add support for multiple column
+remove unused private method
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+move test to the correct package
+add a check for null
+add support for the new api
+add a test for the new feature
+remove unused import
+add a new test for the new api
+add check for null
+add new test for new file
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+add a new file
+add support for the new api
+add new test for new api
+add test for new file
+remove unused class
+remove unnecessary null check
+add support for multiple value
+remove unused private method
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary catch block
+remove unused class
+add support for multiple column
+add support for the new api
+remove unused import
+add test for the new api
+add support for the new api
+remove unused private method
+add support for kafka stream
+add support for file name
+add a check for null
+add support for new file format
+remove unnecessary null check
+remove unused class
+add new test for new api
+remove unused class
+add support for new package
+remove unused import
+move test class to the correct package
+add a test for the new api
+move test to the correct package
+add support for multiple column
+add a test for the new file
+remove unused import
+remove unused class
+add a new interface for the interface
+add check for null value
+add a new method to the class
+add support for new feature
+remove unnecessary null check
+add test for new file
+add a new file
+remove unused class
+add support for multiple column in hive
+add support for multiple column
+add new test for new api
+add support for multiple column
+add test for new file
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for spring data
+remove unused class
+add a new file
+add a test for the new api
+remove unused import
+add support for new feature
+add support for new file format
+remove unused import
+add support for the new api
+add a test for the correct exception message
+add a test for the test
+add test for the new api
+move test to the correct package
+add a new option to disable the new file
+add test for new feature
+add a new class to the test that be use for the new api
+remove unused class
+remove unused private method
+add support for json schema
+add support for multiple column
+add test for new file
+add support for multiple value
+add support for multiple column
+remove unnecessary null check
+add support for the new api
+remove unnecessary null check
+remove unused method in the list of file
+remove unnecessary null check
+add new test for new api
+remove unused import
+add support for multiple value
+remove unnecessary null check
+remove unnecessary null check
+add support for new feature
+remove unnecessary null check
+add a new file
+add a test for the test
+add support for json file
+add a new method to the class
+remove unnecessary null check
+remove unused import
+add support for new feature
+remove unused class
+remove unnecessary null check
+remove unused private method
+add a check for null value
+add test for new file
+add support for the new api
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for the new api
+remove unused class
+remove unused class
+remove unused class
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add a new interface for the interface
+remove unused private method
+move test to the correct package
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+remove unnecessary null check
+add a new file
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add a new test for the new api
+add new test for new file
+remove unused import
+add support for multiple field
+add a new interface for the new interface </s> </s>
+remove unused private method
+remove unused private method
+remove unnecessary null check
+remove unused import
+add support for new api
+add support for multiple column in hive
+add new test for new api
+add a new file
+add support for multiple column
+add support for new file format
+add support for the new api
+remove unused import
+add support for the new api
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for multiple column
+remove unused private method
+remove unused import
+add new test for new file
+remove unused class
+add support for the new api
+add a new test
+add new test for new api
+add test for new feature
+add support for multiple field
+remove unused private method
+add test for new file
+add test for new file
+remove unnecessary null check
+remove unused import
+add a test for the new api
+remove unnecessary null check
+add support for json schema
+remove unused class
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add a new class to the test that be use in the api
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+remove unused import </s>
+remove unnecessary null check
+remove unused import
+remove unused private method
+add a new file
+move test to the correct package
+remove unnecessary null check
+add test for new file
+add new test for new api
+add support for multiple column
+remove unused import
+add test for the new api
+add support for multiple column
+add test for the new api
+add support for new file
+add support for multiple column
+add support for the new api
+add a new file
+remove unnecessary null check
+add support for multiple column
+move to new api package
+remove unused private method
+add support for multiple column
+add support for the new api
+add new test for new api
+add a test for the new feature
+add support for multiple column
+remove unused import
+add a new method to the class
+add support for multiple column
+add support for json file
+add support for multiple column
+move test to the correct package
+add support for multiple field
+add a new test
+add new file
+add a new method to the class
+add a new method to the class
+add support for the new api
+add support for multiple value
+move test to the correct package
+add support for the new file format
+add test for new file
+remove unused import
+add new test for new api
+add a test for the new option
+remove unused import
+remove unused private method
+add support for multiple column
+add support for new file format
+add a test for the new session
+add test for the new api
+add support for multiple column
+remove unused class
+remove unused private method
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused class
+remove unused import
+remove unused private method
+add new test for new api
+remove unnecessary null check
+add a test for the new api
+remove unnecessary null check
+add support for the new api
+add a new file
+add test for new file
+add a new interface for the interface
+remove unused import
+add support for multiple column
+remove unused class
+remove unused import
+remove unused private method
+add test for new feature
+add miss import
+add support for multiple column
+add a flag for the new marker
+add support for multiple column
+add support for the new file
+add support for multiple column
+add support for json schema
+remove unused import
+add a test for the new api
+add new test for new file
+add support for kafka stream
+add a test for the new api
+remove unnecessary null check
+add a new file
+remove unused import
+remove unused private method
+add test for new file
+add support for new file format
+remove unused class
+add test for new feature
+add a test for the new method
+remove unnecessary null check
+add support for file format
+remove unused import
+remove unused import
+add a new option to disable the new file
+add support for multiple column
+add support for json schema
+remove unused import
+remove unused import
+remove unused import
+remove unused class
+remove unused import
+add support for multiple column
+add a check for null
+remove unused import
+remove unnecessary null check
+add a test for the new api
+remove unnecessary null check
+add support for new file format
+add test for new feature
+add support for new package
+add a new file
+remove unused import
+add support for the new api
+add a check for null
+add a test for the new method
+add support for the new api
+add support for multiple column
+remove unused private method
+add a test for the new session
+add a new test for the new api
+add a test for the new method
+remove unused class
+add new test for new file
+add new test for new api
+add support for the new api
+remove unused private method
+remove unused import
+add support for the new api
+add a test for the new session
+add support for multiple column
+remove unused class
+add support for multiple column
+remove unused private method
+remove unnecessary null check
+remove unused import
+add a test for the new api
+remove unnecessary null check
+add a test for the new session
+add support for the new api
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add test for new file
+add support for the new api
+remove unused import
+add support for the new api
+add support for multiple column
+add test for new file
+remove unused private method
+add a new method to the class
+remove unused private method
+add support for the new api
+remove unnecessary null check
+remove unused import
+remove unused class
+add support for multiple column
+add new benchcases.bench project
+add client side tl cert support
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add test for java 8
+remove unused import
+add test for new file
+remove unused private method
+add a test for the new api
+add support for multiple column
+add new test for new api
+remove unnecessary null check
+add support for multiple column
+add support for multiple field
+add a new option to disable the new session
+add a test for the new session
+remove unused import
+remove unused import
+add support for multiple column
+add support for json schema
+add decorator to ui property
+add int value to bug instance
+add a test for the correct log
+move test to the new package
+remove unnecessary null check
+add support for the new api
+add a test for the new session
+remove unused class
+add a new file
+remove unused private method
+add check for null
+add new test for new file
+add support for new file format
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add test for the new api
+add support for multiple column in hive connector
+add support for multiple column
+remove unused private method
+add a new file
+remove unused private method
+add a new file
+add support for multiple field
+remove unused import
+add a new file
+add support for multiple column in hive connector
+add support for the new api
+add a new method to the class
+add support for multiple value
+throw exception when try to read a new file
+add test for new feature
+remove unused import
+add support for multiple column in hive
+add test for new feature
+remove unused class
+add new test for new api
+add support for multiple column
+add support for new interface
+add support for multiple column in hive connector
+add support for multiple field
+remove unused private method
+add a test for the new api
+remove unused private method
+add support for multiple column
+add support for multiple column in hive connector
+add support for multiple column
+remove unused class
+remove unused import
+remove unused import
+add a test for the new file
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+remove unused class
+add support for multiple field
+add a new file
+remove unused import
+add miss import
+add support for new file format
+add new test for new file
+move test to the correct package
+add null check
+remove unnecessary null check
+remove unused import
+remove unused private method
+add new test for new file
+add new test for new api
+add option tconnect use
+add new test for new file
+add support for multiple column
+add support for json schema
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unused private method
+remove unused import
+add support for multiple column
+add support for multiple value
+remove unused import
+add miss import
+remove unnecessary null check
+add support for the new api
+remove unused import
+add support for multiple column
+add new test for new api
+add support for the new api
+remove support for spring data
+add a new method to the return the return of the return value
+remove unused import
+add support for the new api
+remove unused import
+add support for new file format
+add support for new file format
+remove unused import
+remove unused import
+add support for the new api
+add a check for null value
+remove unused import
+add a new method to the class
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add test for new file
+add support for multiple column
+add a new file
+remove unnecessary null check
+add a test for the test
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for apache kafka support
+add new limit order flag
+add approx_distinct for boolean
+add support for multiple column
+add a new test for the new api
+add support for the new api
+add test for new file
+remove unnecessary null check
+remove unused import
+add support for the new api
+add a flag for the new api
+remove unnecessary null check
+remove unused class
+remove unused import
+add support for new api
+add support for the new api
+remove unused import
+remove unused import
+add support for kafka stream
+add support for the new api
+add a test for the new method
+add support for multiple column
+add support for multiple value
+add a new class to the test that be use for the new api
+add support for multiple column
+add support for new file format
+add support for new feature
+remove unused private method
+remove unused private method
+add support for the new api
+add new test for new api
+add support for the new api
+add a new test for the new api
+remove unused private method
+add test for new feature
+add a check for the file name
+add a test for the new api
+remove unused import
+remove unnecessary null check
+add support for multiple expression
+remove unused class
+remove unused class
+remove unnecessary null check
+remove unnecessary null check
+add support for the new api
+remove unused import
+move test to internal package
+add test for new feature
+remove unused class
+remove unused class
+add new test for new api
+add test for new file
+remove unused interface
+remove unused import
+remove unused private method
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for multiple column in hive connector
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add a new method to the class
+add new test for new file
+remove unused import
+add a new file
+remove unnecessary null check
+add a check for the same class name
+add support for apache kafka support
+remove unnecessary null check
+add test for new feature
+add support for the new api
+remove unused private method
+add test for new file
+add support for json schema
+add support for new file format
+add support for the new api
+add a test for the correct property
+remove unused private method
+add test for new file
+add support for new file format
+add support for the new api
+remove unnecessary null check
+add a test for the new api
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for new file format
+remove unnecessary null check
+add new test for new file
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add test for new feature
+add a new interface for the interface
+add support for new file format
+add test for new file
+add a new file
+remove unused import
+move test to the correct package
+add a new file
+add support for multiple column
+add support for the new api
+add support for multiple column
+add test for the new api
+add a new file
+remove unused file
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for the new api
+add test for new file
+add a test for the new feature
+remove unnecessary null check
+add a new interface for the new interface
+add support for the new api
+add support for the new api
+remove unused import
+add a new test for the new api
+move test to the correct package
+add a new method to the class
+add a test for the new api
+add a test for the new session
+remove unnecessary null check
+remove unused import
+add support for json file
+add test for new feature
+remove unused import
+add support for new file format
+add a new interface for the new interface
+remove unused import
+add new class for module
+add support for multiple column
+remove unused private method
+remove unnecessary null check
+add a check for null
+add support for multiple column
+remove unused private method
+move test to the correct package
+add test for new feature
+remove unused class
+remove unnecessary null check
+add a check for the same class name
+add a test for the new api
+remove unused class
+add support for multiple column
+add a new test for the new file
+add a test for the new api
+add support for json schema
+add new class for module
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add a new file
+add support for new file format
+remove unnecessary catch block
+add support for multiple file
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for the new api
+add support for multiple field
+remove unused import
+remove unused import
+remove unused import
+remove unused class
+add new test for new api
+add support for multiple column in hive connector
+remove unused private method
+add test for the new api
+add support for new feature
+remove unused private method
+add a new method to the class
+add a new class to the test that be use for the new api
+remove unused private method
+remove unused private method
+remove unnecessary null check
+add a test for the new file
+add support for the new api
+remove unused import
+remove unnecessary null check
+add a new file
+add support for the new api
+add a new test for the new feature
+add a new file
+add test for new file
+add support for the new api
+add support for json schema
+remove unused import
+add test for new file
+add a new test for the new api
+add a new file
+remove unused class
+add support for the new api
+add a new method to the class
+add test for the new file
+add new test for new api
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add a new method to the class
+add test for new feature
+remove unused import
+add support for multiple column
+remove unused import
+add support for the new api
+remove unused import
+add a new method to the class
+remove unnecessary null check
+remove unused import
+remove unused class
+remove unused import
+add test for new file
+remove unused import
+add support for new file format
+remove unused private method
+add support for multiple column in hive connector
+add new test for new file
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+remove unnecessary null check
+remove unused private method
+remove unnecessary null check
+remove unused import
+add a new file
+add support for multiple column
+add new test for new file
+add support for multiple column
+add check for null
+add support for the new api
+add support for multiple column
+add support for json schema
+add support for multiple column
+add support for new file
+remove unused class
+add support for multiple column
+move test to internal package
+move test to the correct package
+remove the exception throw on the error exception
+move test class to the correct package
+remove unused private method
+add support for multiple column
+add support for multiple column
+add a check for null
+add support for the new api
+remove unused class
+move test to the correct package
+remove unused import
+add null check
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused private method
+remove unnecessary null check
+add a test for the new feature
+add test for new file
+add support for the new api
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for new file format
+remove unused import
+remove unused import
+remove unused class
+add a test for the new session
+add test for new file
+add test for new feature
+add support for multiple column
+add support for apache kafka support
+add support for multiple column
+remove unused import
+add support for multiple field
+remove unused import
+add support for multiple column
+remove unnecessary catch block
+add a new test for the new file
+add null check
+remove unused class
+add support for multiple column
+remove unused private method
+remove unused import
+remove unused import
+add check for null
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add test for new feature
+remove unused import
+add support for json schema
+remove unnecessary null check
+remove unnecessary null check
+add a new test for the new api
+add null check
+add support for multiple column
+add test for new file
+remove unused interface
+move test to the correct package
+add support for the new api
+add support for json file
+add a test for the new feature
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add test for new file
+add test for new feature
+add a new file
+add a new file
+remove unused import
+add support for json schema
+add test for new file
+remove unused import
+move test to the correct package
+add support for the new api
+remove unused import
+add support for multiple column
+remove unused import
+add a test for the new feature
+add support for the new api
+remove unused private method
+remove unused import
+add a check for null value
+remove unnecessary null check
+add support for json schema
+add a check for null
+throw exception when the exception
+add a test for the new api
+remove unnecessary null check
+add support for the new api
+add support for multiple value
+add test for the new api
+add support for multiple field
+remove unused class
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add test for new feature
+add a new method to the class
+add support for multiple column
+add check for null
+add a test for the correct log
+add support for json schema
+add support for multiple column
+add support for multiple column
+add support for json schema
+add a new method to the class
+add test for new feature
+add a test for the new session
+add test for new feature
+add a new test for the new api
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unused private method
+remove unnecessary null check
+remove unused class
+add new test for new file
+add support for new file format
+remove unused private method
+add support for multiple column
+add support for the new api
+remove unused import
+remove unused class
+add support for new interface
+add support for multiple value
+add a new file
+remove unused import
+add a test for the new api
+add support for multiple column
+remove unused import
+add a new test for the new api
+add support for multiple field
+remove unnecessary null check
+add test for new file
+add support for multiple column
+add a new file
+add new test for new api
+add a new file
+throw exception when the exception
+move to junit 5
+add new test for new file
+remove unused import
+add test for new file
+add support for the new api
+add a test for the new session
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused class
+add test for new file
+add support for the new api
+remove unused class
+add test for new file
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add a new file
+add support for multiple column
+add test for new feature
+add new test for new api
+add a test for the new api
+remove unused method in common
+add test for new file
+remove unused private method
+remove unused private method
+add support for the new api
+add support for multiple column
+remove unused import
+add new test for new file
+add a check for the same class name
+remove unused private method
+remove unused private method
+add support for new file
+move test to the correct package
+add support for the new file
+remove unused interface
+remove unused private method
+add test for new file
+remove unused method in common
+remove unused import
+remove unnecessary null check
+add new test for new api
+add support for multiple column
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add a check for null
+remove unused class
+add test for new file
+add support for multiple value
+remove unused import
+add support for multiple expression
+remove unnecessary null check
+add support for multiple column
+add a test for the correct property
+add support for spring data
+add cassandra connection provider service
+add flag tdisable stream capability
+add support for the new file format
+add support for multiple column
+add support for the new api
+add support for multiple column
+add test for new feature
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for multiple column </s> </s>
+remove unused import
+move to new api package
+remove unnecessary null check
+add support for the new api
+add a new file
+add support for the new api
+add a new test for the new api
+add test for the new file
+add support for new feature
+remove unused private method
+add support for the new api
+add support for the new api
+remove unused import
+add support for multiple column
+add support for multiple column
+add a new option to disable the load on the file
+add a new method to the class
+add support for new file format
+add support for new feature
+remove unused import
+add support for multiple column
+add a test for the new file
+move test to the correct package
+remove unused import
+remove unused private method
+add support for multiple column
+remove unused import
+add new test for new file
+remove unnecessary null check
+remove unnecessary null check
+add a new test for the new api
+remove unused import
+remove unnecessary null check
+add support for new file format
+remove unnecessary null check
+add a new file
+remove unused import
+add new test for new file
+remove unused class
+remove unused private method
+add a check for null value
+remove unused private method
+remove unused import
+add support for the new api
+add support for multiple value
+add a test for the test
+remove unused import
+add a test for the new feature
+add test for new file
+add new file
+remove unused import
+add test for new file
+move test to the correct package
+remove unused import
+remove unnecessary null check
+add support for custom expression
+remove unnecessary null check
+remove unused import
+remove unused private method
+remove unused import
+remove unused class
+remove unused class
+add support for multiple column in hive connector
+add test for new feature
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add new test for new file
+add support for the new api
+remove unused import
+remove unused import
+remove unused import
+add support for new file format
+add a new method to the class
+add support for json schema
+add test for new feature
+add a test for the new api
+add a new method to the class
+remove unnecessary method for method
+add test for new file
+remove unused class
+add support for multiple field
+add test for new feature
+add support for multiple column
+add support for the new api
+add support for import
+add a check for null value
+add test for new feature
+remove unused private method
+add test for new file
+remove unnecessary null check
+add a test for the new api
+add a test for the correct log
+add support for new file
+add a test for the new method
+remove unused class
+add test for new feature
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add a test for the new method
+remove unused private method
+add support for new feature
+add support for the new api
+remove unused private method
+remove unused private method
+add a test for the new feature
+add test for new file
+add new test for new api
+add a new file
+add support for multiple column
+remove unnecessary null check
+add support for new file format
+remove unused class
+add a test for the new method
+add support for the new api
+move test to the correct package
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for json schema
+remove unnecessary null check
+move to junit 5
+remove unused import
+add a new test for the new api
+add test for new file
+remove unused class
+remove unused import
+add support for multiple column
+remove unused class
+add a new file
+remove unnecessary test
+remove unused import
+add support for the new api
+add miss import
+add support for the new api
+add support for multiple column
+add new test for new file
+remove unused import
+add test for new feature
+remove unused import
+add support for multiple column
+remove unused class
+add a test for the new api
+remove unused import
+add support for multiple field
+remove unused import
+remove unused import
+add a test for the new feature
+remove unnecessary null check
+add support for multiple column
+add test for new file
+add support for multiple field
+move test to the new package
+remove unused import
+remove unused file
+add support for new feature
+remove unnecessary null check
+remove unnecessary null check
+add support for the new api
+add a new file
+add support for new file format
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add a new test for the new api
+remove unused import
+add support for multiple column
+add a new file
+add a test for the new api
+add support for multiple column
+move test to the correct package
+add a new test for the new api
+add support for multiple field
+add support for apache kafka support
+remove unused private method
+add support for json schema
+remove unused import
+add support for multiple column
+add support for multiple field
+move test to the new package
+remove unused class
+add a new test for the new api
+add a new test for the new api
+remove unused import
+add test for new feature
+remove unused private method
+add support for the new api
+add random test
+remove unused class
+add support for new file format
+add support for new file format
+remove unused import
+add test for new file
+add support for multiple column
+add support for the new api
+remove unnecessary null check
+add support for new file format
+remove unused import
+add support for multiple expression
+add test for new feature
+move to junit 5
+add a test for the new session
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+move test to the correct package
+add test for new file
+add a new file
+add support for new file format
+add a new method to the class that be a class
+add support for multiple column
+remove unused import
+add miss import
+add test for new feature
+add support for multiple column
+add a test for the new feature
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add a new test for the new file
+remove unused import
+move test to internal package
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for kafka stream
+add mime type to file info
+remove unused import
+add support for multiple field
+remove unnecessary null check
+add support for multiple column
+add support for json schema
+remove unused import
+add support for multiple field
+remove unnecessary null check
+remove unnecessary null check
+remove unused private method
+add support for the new api
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column in hive
+remove unused import
+add support for multiple column
+remove unused import
+add new test for new api
+remove unused import
+remove unused private method
+add support for multiple column
+add support for the new api
+add test for new file
+remove unused import
+remove unused private method
+add support for json schema
+add a new class to the test that be use for the new api
+add a test for the new feature
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for the new file
+add support for apache kafka support
+add test for new feature
+remove unused private method
+remove unused private method
+add test for new feature
+remove unused import
+add a new file
+add a check for null
+add support for multiple column
+add a new method to the class
+add support for new file format
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for new file format
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add a test for the new feature
+add support for multiple value
+remove unused private method
+remove unnecessary null check
+add support for multiple column
+add support for file
+add support for multiple column
+add new test for new api
+add support for the new api
+add support for json schema
+add test for new feature
+add a new test for the new api
+add test for new feature
+add support for json schema
+remove unused import
+add support for the new api
+remove unused private method
+add test for new file
+add new interface for interface
+remove unused import
+move test to the correct package
+add support for the new api
+remove unused private method
+add a new test for the new api
+remove unused import
+add support for new feature
+add support for multiple value
+remove unused import
+add test for new file
+add a test for the new feature
+add support for multiple column
+remove unused import
+add support for new feature
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+remove unnecessary null check
+add new test for new api
+remove unused import
+add support for new api
+remove unnecessary null check
+add support for multiple value
+add support for multiple column
+add support for the new api </s>
+remove unnecessary null check
+add test for new feature
+remove unused class
+remove unused package
+remove unused import
+remove unnecessary null check
+add a new file
+add support for json schema
+add test for the new api
+remove unused class
+remove unused import
+add a new file
+remove unused import
+add support for multiple field
+add support for the new api
+add support for the new api
+add a new file
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add test for the new api
+add support for new feature
+add a new file
+add support for new file format
+add a new method to the return the return of the return value
+add support for the new api
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add new test for new api
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for new file format
+add test for new file
+remove unnecessary null check
+add support for multiple hive
+add test for json parser
+add additional check in test
+add class support
+add a new class for the class that be use by the new api
+remove unused import
+add support for multiple column
+add support for new file
+remove unused import
+add a new test for the new api
+remove unnecessary null check
+add support for new file format
+remove unnecessary null check
+add support for new file format
+add a new file
+move test to the correct package
+add test for new file
+add support for multiple value
+remove unnecessary null check
+add support for the new api
+remove unused import
+add support for multiple field
+add support for new file format
+remove unnecessary catch block
+add a new method to the class
+add support for multiple column
+remove unused file
+add test for new file
+remove unnecessary null check
+remove unused class
+add test for new file
+add support for multiple column
+add a new file
+add a new class to the test that be use for the new api
+remove unused import
+remove unused import
+add a check for null value
+remove unused import
+remove unused import
+remove unused import
+add support for multiple file
+add new test for new api
+add support for the new api
+remove unused import
+add test for new file
+add test for new file
+remove unused import
+add support for multiple column
+add support for multiple value
+add test for new file
+add a new test for the new api
+remove unnecessary null check
+add a new test for the new java api
+add a check for null
+remove unused import
+remove unnecessary null check
+add support for new feature
+add a new class to the test that be use in the api
+add new test for new api
+add support for multiple column
+add a new class to the test that be use for the new api
+remove unused import
+remove unused import
+add new class for module
+add new test for new api
+remove unused private method
+add a test for the new feature
+add a new file
+remove unused private method
+add support for multiple value
+add a new method to the return the return of the method
+add support for multiple column
+remove unused class
+add support for multiple column
+add a check for null
+remove unnecessary null check
+remove unused private method
+add support for apache kafka support
+add test for new file
+add support for multiple column
+add support for the new api
+add test for new file
+add support for the new api
+remove unused private method
+add support for json schema
+add support for the new file
+remove unused class
+add support for multiple column
+remove unused private method
+remove unnecessary null check
+add support for multiple column
+remove unused class
+add a test for the new api
+add a check for null value
+remove unused import
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+add new test for new api
+add a test for the new file
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add a new file
+add test for new file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add a new class to the test that be use in the api
+add support for custom expression
+remove unused private method
+remove unused private method
+add new test for new api
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for json schema
+add support for json schema
+remove unnecessary null check
+add support for multiple column
+add support for new file format
+add a new file
+remove unused import
+remove unnecessary null check
+remove unused private method
+add test for new file
+add support for the new api
+add a new file
+throw exception when the exception
+add a new file
+remove unnecessary null check
+add support for new feature
+remove unused private method
+add null check
+remove unused class
+add test for new feature
+add support for multiple column
+remove unused private method
+add test for new file
+remove unused class
+add support for multiple column
+add new test for new api
+add support for multiple column
+add support for new file format
+add new test for new api
+add a test for the new api
+add test for new file
+remove unused private method
+add a test for the new feature
+remove unused import
+add new test for new api
+remove unused private method
+add test for new file
+add support for json schema
+add test for the new api
+add support for multiple column
+remove unused import
+add support for multiple column
+add a test for the new method
+add a new file
+add test for new file
+add support for multiple column
+add support for multiple column
+add support for new api
+remove unused import
+add test for new file
+add a new file
+add support for the new api
+add a new option to disable the new file
+remove unused private method
+add support for multiple column
+remove unnecessary null check
+add support for json schema
+add support for the new api
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for new file format
+remove unnecessary null check
+add test for new feature
+remove unused import
+add support for the new api
+remove unnecessary catch block
+add support for multiple field
+add test for new feature
+add support for multiple field
+remove unused import
+add support for multiple column
+add support for multiple column
+add a new option to disable the new session
+add support for multiple column
+add test for new feature
+add a test for the new test
+add a check for the same file
+add support for the new api
+add a test for the new file
+remove unnecessary null check
+add support for multiple value
+remove unused private method
+add a test for the new api
+add support for multiple column
+remove unused private method
+add support for apache kafka support
+remove unused private method
+add support for multiple column
+add support for multiple column
+add a check for null
+remove unused import
+add a new interface for the interface
+remove unused import
+remove unused private method
+add support for multiple field
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused private method
+remove unused import
+add test for new file
+add a check for null
+add support for multiple column
+remove unused private method
+remove unused private method
+remove unused private method
+add a new file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for the new api
+add a test for the new feature
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add a test for the test
+add new test for new file
+remove unused private method
+remove unnecessary null check
+add support for the new api
+remove unused import
+add support for new file format
+remove unused import
+add support for new file format
+remove unnecessary null check
+remove unused private method
+add support for the new api
+add a test for the correct property
+add new test for new api
+add a test for the new feature
+add support for multiple column
+add test for new file
+add support for kafka stream
+remove unused import
+move test to the correct package
+add support for multiple column
+add support for multiple column
+add a test for the new api
+add support for new file format
+remove unused package
+remove unused import
+remove unused class
+remove unnecessary null check
+remove unused class
+add new test for new api
+remove unused import
+remove unused import
+add a new file
+remove unused import
+remove unused private method
+remove unused class
+add a new file
+remove unused private method
+remove unused import
+add support for multiple value
+add support for json schema
+add support for multiple column
+remove unused private method
+add support for multiple column
+add test for new file
+add support for spring data
+remove unnecessary null check
+add support for the new api
+add support for kafka stream
+add a test for the new feature
+add a test for the new api
+add new test for new api
+add a test for the new api
+remove unnecessary null check
+add test for new file
+add test for new file
+add a new file
+add support for the new api
+add a new file
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add a test for the new api
+remove unused import
+remove unused import
+move test to the correct package
+add new class for module
+add support for new file format
+add support for multiple column
+remove unused import
+add check for null value
+add a new file
+remove unused import
+remove unused class
+add a check for null value
+add support for new file format
+add test for new file
+add a test for the correct value
+add test for the new file
+add test for new feature
+remove unnecessary null check
+remove unused private method
+add support for multiple column
+remove unused private method
+add a new option to disable the new session
+remove unused class
+remove unused private method
+add support for json schema
+remove unused import
+remove unused import
+add new test for new api
+remove unused import
+add test for new feature
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for new file format
+remove unused import
+add support for new file format
+remove unused import
+remove unused import
+remove unused private method
+add support for new file format
+add support for multiple column
+add test for the new file
+remove unused import
+remove unused import
+add support for multiple column
+add new test for new api
+remove unused import
+add support for multiple column
+add new file
+remove unnecessary null check
+remove unnecessary null check
+add new test for new file
+add a test for the new feature
+add a test for the new session
+add test for new feature
+add support for multiple column
+remove unnecessary null check
+add a test for the new feature
+remove unused import
+add test for new feature
+add support for the new api
+add new test for new file
+remove unnecessary null check
+add a new test for the new api
+add new test for new api
+remove unnecessary null check
+add a new option to disable the test for the issue
+add a new file
+move test to the correct package
+add test for new file
+add support for multiple column
+remove unnecessary null check
+remove unused private method
+remove unused import
+remove unused private method
+move test to internal package
+add a new test for the new api
+remove unused private method
+add test for new feature
+add support for new file format
+add support for multiple hive
+add support for multiple value
+add a new test for the new api
+add support for multiple value
+remove unused class
+add test for new feature
+add a check for null value
+add a test for the correct value
+remove unused private method
+add support for multiple column
+remove unused import
+add a check for null value
+add a check for null
+add support for json schema
+add a test for the correct import
+remove unused import
+remove unused import
+add new test for new file
+remove unused class
+add new test for new api
+remove unused import
+remove unused import
+add support for new file
+remove unused import
+remove unused private method
+add a new file
+add a test for the new api
+remove unused private method
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+move test to the new package
+add null check
+add support for the new api
+add a check for null
+add support for the new api
+remove unused private method
+remove unused class
+add support for new feature
+add a new option to disable the new session
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for the new file
+add support for multiple value
+add new file
+add a test for the new file
+remove unnecessary null check
+add support for new interface
+add a test for the new api
+remove unused import
+add support for multiple field
+add test for the new api
+add a test for the new api
+remove unused private method
+move test to the correct package
+remove unused import
+add a new test for the new file
+remove unnecessary null check
+add support for the new api
+add support for the new api
+add support for multiple column
+remove unused private method
+remove unnecessary null check
+add support for new file format
+add support for apache kafka support
+add a test for the new api
+remove unnecessary null check
+add test for new feature
+remove unused import
+remove unnecessary null check
+remove unused class
+add support for multiple column
+add a new file </s> </s> </s> </s> </s> </s>
+remove unused class
+remove unused import
+add support for multiple column
+add test for new feature
+add support for the new api
+add test for new file
+remove unused import
+add support for the new api
+add test for new file
+remove unused class
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused import
+add support for new file format
+add support for multiple column
+add support for the new api
+move to junit 5
+remove unused import
+add a new file
+remove unnecessary test
+move test to the correct package
+add a test for the new session
+remove unnecessary null check
+remove unused class
+add test for the new api
+remove unused import
+add support for multiple column
+add a new file
+add a new file
+add a new file
+add check for null
+add a new method to the class
+add test for decimal support for annotated generated class
+add some test for web expression handle code
+remove unused private method
+add a new file
+add a test for the new session
+remove unused class
+remove unused import
+remove unused import
+add a test for the new api
+add a new file
+remove unused import
+add a test for the new feature
+remove unnecessary null check
+remove unused private method
+add a new file
+add a new file </s> </s> </s> </s> </s> </s>
+add support for new file format
+add support for new feature
+add test for new feature
+add a new file
+add new test for new file
+add test for new file
+remove unused import
+add support for multiple column
+add support for the new api
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add a new file
+remove unused import
+add a new option to disable the test for the issue
+add new test for new api
+add support for multiple column
+add new test for new api
+add support for multiple column
+add support for the new file
+remove unused class
+remove unnecessary null check
+add a test for the new api
+remove unused import
+add a test for the new session
+add test for the new api
+remove unused private method
+remove unnecessary null check
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple value
+add support for the new api
+add support for the new api
+add support for multiple field
+remove unused class
+remove unnecessary catch block
+add explicit source builder support
+add new rsmset constructor api
+add mexc skeleton for the new api
+remove unused import
+add a new file
+add test for new feature
+add support for new file format
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for custom expression
+add support for the new api
+add support for multiple column
+add support for multiple column
+remove unused private method
+add a test for the new method
+add a new test for the new session
+add new test for new api
+add support for new file format
+remove unused private method
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for new interface
+remove unused private method
+add support for multiple value
+remove unused private method
+add support for multiple column
+add support for multiple column
+add a new class to the test that be use for the new api
+remove unnecessary null check
+remove unused import
+add test for new file
+remove unused import
+add support for the new api
+remove unused private method
+add support for multiple column
+remove unused private method
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for the new api
+remove unused import
+remove unused import
+add test for new file
+add support for the new api
+add a new method to the class
+add support for multiple column
+add a new class to the test class
+add support for the new api
+add a check for file
+add support for multiple field
+add support for multiple column
+add new test for new api
+add support for multiple field
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for the new api
+add support for the new api
+add support for multiple column
+remove unused private method
+add a new file
+remove unused private method
+remove unused import
+remove unused import
+remove unnecessary null check
+add new test for new api
+add a new file
+add a check for null value
+remove unused class
+add new test for new file
+remove unused import
+add new test for new api
+add support for multiple column
+remove unused import
+add support for the new api
+add test for new feature
+add a test for the new feature
+add support for the new api
+add test for the new api
+add a new file
+add support for new file format
+add support for the new api
+add support for multiple column
+add test for new file
+add test for new file
+add support for multiple column
+add support for the new api
+add a new test for the new api
+add test for new file
+remove unnecessary null check
+add support for multiple column
+add a new file
+add support for the new api
+add a test for the new feature
+add a new method to the class
+remove unused class
+add support for the new api
+add new test for new file
+remove unused private method
+remove unused import
+add support for new file format
+move test to the new package
+add test for new file
+add a new file
+remove unused class
+add support for the new api
+add a test for the new session
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for json schema
+add support for multiple column
+add a new file
+add a check for null value
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for the new file format
+add a new file
+remove unused import
+add new test for new file
+remove unused import
+remove unused import
+remove unused import
+add test for new feature
+add a test for the new api
+remove unused private method
+add support for multiple value
+add support for multiple column
+add support for multiple column in hive connector
+add a test for the new constructor
+add support for the new api
+add support for json schema
+add support for the new api
+add support for multiple column
+add test for new feature
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for json schema
+remove unused import
+remove unnecessary null check
+add a new test for the new api
+add new test for new api
+add support for multiple column
+remove unnecessary null check
+add a new file
+remove unnecessary null check
+add support for multiple column
+remove dependency on primitive collection implementation
+remove unused private method
+add a test for the new session
+remove unnecessary null check
+remove unused import
+remove unused class
+add support for multiple column in hive connector
+add support for the new api
+add a test for the correct exception message
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple value
+add new test for new file
+remove unnecessary null check
+remove unnecessary null check
+add support for json schema
+add support for multiple column
+add support for the new file
+add a new class to the test that be use for the new api
+remove unused private method
+remove unused import
+remove unused private method
+remove unused class
+move test to the correct package
+add support for new file format
+remove unnecessary null check
+add support for the new file format
+remove unused method
+remove unused import
+remove unused private method
+add a new file
+add test for new file new file new file new file new file
+remove unnecessary null check
+add test for the new api
+add support for multiple column
+add support for multiple column
+add new test for new api
+add support for multiple column
+add new class for module
+add a test for the new api
+move test to internal package
+add support for the new api
+remove unnecessary null check
+add support for the new file format
+add a new file
+add support for multiple column
+add a check for null
+add support for multiple column
+remove unnecessary catch block
+add support for the new api
+remove unnecessary null check
+remove unused private method
+add a test for the new session
+remove unused import
+remove unused import
+add a check for null value
+add a new method to the class
+add support for multiple field
+remove unnecessary null check
+add a new file
+add a test for the new session
+add support for multiple column
+add a new test
+add a test for the new feature
+add support for multiple column
+add support for new file format
+add test for new file
+remove unused class
+add support for new file format
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for json file
+remove unused class
+remove unnecessary null check
+add a test for the new api
+add a test for the new feature
+remove unused import
+add a new class to the test that be use in the api
+add a test for the new file
+add support for multiple column
+add support for multiple column
+remove unnecessary catch block
+add a test for the new session
+add support for file
+add test for new file
+remove unused private method
+remove unused private method
+add support for multiple field
+add a test for the new api
+add support for the new api
+add a test for the test
+remove unused import
+add a new test for the new api
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple field
+add new test for new feature
+add support for new file format
+remove unused import
+add support for the new api
+remove unused class
+remove unnecessary static method
+add a new test for the new api
+add a test for the new api
+add test for the new api
+add support for multiple value
+remove unused private method
+move test to the correct package
+remove unnecessary null check
+remove unused private method
+add a test for the new session
+add a new method to the class
+remove unnecessary null check
+add support for multiple column
+add support for the new api
+remove unused import
+remove unused private method
+add new test for new api
+add a new file
+move test to the correct package
+add support for multiple column
+move test to the correct package
+add support for new file
+remove unused import
+add support for the new api
+remove unused private method
+remove unused private method
+add a test for the new api
+remove unused import
+remove unused file
+add support for the new api
+remove unused import
+add a new file
+add a test for the new method
+remove unnecessary null check
+add a new test for the test
+add support for new file
+remove unused private method
+add a test for the new api
+add support for multiple column
+add support for multiple column
+add a check for an error message
+add support for multiple column
+add test for new file
+add a new method to the class
+add a new file
+add a new file
+add support for new feature
+add support for multiple field
+add test for new file
+remove unused private method
+add a new file
+add test for new file
+remove unused import
+add support for the new file
+add a new test for the new api
+remove unused import
+add a new method to the class
+add support for multiple column
+move to junit 5
+add test for the new api
+add support for the new api
+add support for json schema
+add a new test for the new api
+add support for json schema
+add support for apache kafka support
+add support for multiple column
+add a new method to the class
+add support for multiple column
+add test for new file
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple field
+add support for the new api
+add a new file
+move to junit 5
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for apache kafka support
+remove unused import
+add a check for null
+remove unused import
+remove unnecessary null check
+add a new file
+add test for new feature
+remove unused import
+remove unused private method
+remove unused import
+add a test for the new feature
+add new test for new api
+remove unnecessary null check
+add support for json schema
+add support for the new api
+move to junit 5
+add a new file
+remove unused class
+add support for apache kafka support
+add a new test for the new java api
+remove unused private method
+add support for multiple field
+add support for new file format
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add test for new file
+add test for new feature
+remove unused class
+add support for the new api
+add miss import
+add test for new file
+remove unused import
+add support for json schema
+remove unused private method
+add support for the new api
+add support for multiple field
+add support for multiple column
+add a new test for the new api
+remove unused class
+add support for import
+remove unnecessary null check
+add test for new file
+remove unnecessary null check
+remove unused private method
+remove unnecessary null check
+remove unused import
+add support for the new api
+remove unused import
+remove unused private method
+add support for multiple column
+add a test for the new api
+remove unnecessary null check
+add a test for the new api
+add a test for the new session
+remove unused import
+remove unused import
+add a new file
+remove unnecessary null check
+add a test for the new feature
+remove unused class
+add a test for the new api
+add support for the new api
+add a test for the new api
+add test for new file
+remove unnecessary null check
+add a test for the new api
+add support for the new api
+remove unnecessary null check
+add test for new file
+remove unused class
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add a new test for the new java api
+add a new file
+remove unused private method
+remove unnecessary catch block
+add new test for new api
+remove unused import
+add support for multiple column
+remove unused class
+add a check for null value
+add test for new file
+add a test for the new file
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for json schema
+add a test for the new feature
+remove unused private method
+remove unused interface
+add support for the new api
+remove unused import
+add a new file
+remove unused import
+add new test for new file
+remove unused import
+remove unnecessary null check
+add test for new file
+remove unused import
+add support for new interface
+move test to the correct package
+add test for the new api
+add support for multiple field
+remove unnecessary null check
+remove unnecessary null check
+add test for new file
+add a new file
+add test for new feature
+add a test for the correct log
+add support for multiple column
+add support for the new api
+add a new option to disable the test for the issue
+add support for the new api
+remove unused class
+remove unnecessary null check
+remove unused import
+add a test for the correct property
+add support for the new api
+remove unnecessary null check
+add a check for null
+add support for multiple column
+remove unnecessary null check
+add support for multiple column in hive connector
+add a test for the new session
+add support for new feature
+add support for multiple column
+remove unnecessary null check
+add a new file
+remove unused import
+remove unused private method
+remove unused import
+remove unnecessary null check
+add support for multiple field
+add a new file
+add support for the new api
+add support for the new api
+add support for multiple column
+remove unused import
+add check for null
+remove unnecessary null check
+add new test for new api
+remove unused import
+add support for json schema
+remove unused import
+add support for the new api
+remove unnecessary null check
+remove unused private method
+add support for file name
+add test for the new file
+remove unused import
+remove unused import
+add a test for the new api
+add support for multiple field
+remove unnecessary null check
+add a new file
+add support for multiple value
+move to junit 5
+remove unused private method
+add a new file
+add support for multiple column
+add support for multiple column
+remove unused private method
+add test for new file
+remove unused import
+add support for multiple column
+add test for new file
+add a test for the new api
+remove unused private method
+add support for new file
+remove unused import
+add support for the new api
+remove unnecessary null check
+add test for new feature
+add support for multiple column
+add support for the new api
+remove unused import
+add support for multiple column in hive connector
+add support for the new api
+add support for new feature
+remove unused private method
+move test to the new package
+add support for the new api
+add support for the new api
+remove unused private method
+add support for json schema
+remove unnecessary null check
+add support for new feature
+remove unused import
+add support for the new api
+add a new file
+add support for multiple column
+add a new file
+add support for new file format
+add a test for the new file
+add support for multiple column
+add support for the new file format
+remove unnecessary null check
+move test to the correct package
+add support for multiple column
+remove unused class
+add support for multiple column
+add a new file
+remove unused private method
+add support for multiple column
+add test for new feature
+add support for multiple expression
+add support for multiple column
+add support for apache kafka support
+move to new api package
+remove unused import
+add support for the new api
+add support for multiple column
+add test for new feature
+add support for multiple column in hive
+remove unused import
+add check for null
+add support for multiple column
+remove unused import
+remove unused import
+add a new option to disable the new session
+remove unnecessary null check
+add support for multiple column
+add new test for new api
+remove unnecessary null check
+remove unused import
+add support for json schema
+add support for multiple column
+remove unused class
+remove unused file
+add support for kafka stream
+add support for multiple column
+add test for new file
+add test for new file
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused private method
+add test for the new file
+add support for json schema
+add support for multiple column
+add a new file
+remove unused import
+add a test for the new feature
+add new test for new api
+add support for spring data
+add support for kafka stream
+add support for the new api
+remove unused private method
+add support for the new api
+add support for multiple column
+add support for new file format
+add a new file
+add test for new file
+remove unused import
+add support for the new api
+make some method private
+add new test for new file
+add support for the new api
+remove unused private method
+remove unnecessary null check
+add support for the new file
+add support for the new api
+add a new file
+add support for new feature </s>
+move test to internal package
+add support for multiple column
+remove unnecessary null check
+add a test for the new api
+add test for new file
+add a test for the new api
+add support for the new api
+remove unused import
+add support for the new api
+add support for new feature
+remove unused import
+remove unused private method
+add a test for the new api
+add support for multiple column
+add test for new feature
+add a new constructor to the public constructor
+remove unused class
+add test for new feature
+remove unused import
+add support for multiple column
+add a new method to the class
+add support for multiple column
+remove unused class
+remove unused private method
+add a new file
+add support for multiple hive
+remove unused import
+remove unused import
+add support for multiple column
+add a test for the new session
+remove unused private method
+add a new test for the new api
+remove unused private method
+add support for the new api
+add new test for new api
+add a new class to the class that be use for the api
+add a test for the new feature
+remove unused import
+remove unused import
+add a new file
+add support for the new api
+move test to the correct package
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add test for new file
+add support for the new api
+remove unused import
+add support for the new api
+remove unused import
+remove unused private method
+remove unused class
+remove unnecessary null check
+remove unused private method
+remove unused import
+remove unused private method
+add new test for new api
+add support for the new api
+remove unused import
+add a new file
+remove unnecessary catch block
+add a new file
+add support for multiple column
+remove unused import
+add support for the new api
+add support for the new api
+remove unused class
+add support for multiple field
+add a test for the new session
+remove unnecessary null check
+remove unused private method
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add a test for the new api
+remove unnecessary null check
+add a test for the new api
+add support for multiple column
+add support for new feature
+add support for json schema
+add new class for module
+remove unused import
+add a new file
+remove unnecessary null check
+add test for new file
+add test for new file
+remove unused import
+remove unused import
+add support for json schema
+add test for new file
+add a new file
+remove unnecessary null check
+add support for multiple column in hive connector
+remove unnecessary null check
+remove unused class
+add a check for null value
+add support for multiple field
+add support for new file format
+remove unused import
+add support for multiple hive
+add support for new file format
+move test to the correct package
+remove unused private method
+add support for multiple column
+add support for json schema
+remove unused import
+move test to internal package
+remove unused import
+move test to internal package
+add support for new feature
+add support for multiple column
+add support for multiple column
+add a new file
+add new test for new api
+add test for new feature
+add null check
+remove unused import
+remove unused class
+add support for json schema
+remove unnecessary null check
+add support for new file format
+add support for new file format
+remove unused class
+add support for multiple column
+remove unnecessary null check
+add a test for the new api
+add a new method to the class
+remove unused private method
+add a new test for the new api
+remove unused class
+remove unused import
+add support for the new api
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add a new interface for the interface
+throw exception when try to read a throw a throw an error
+add test for new file
+remove unused import
+remove unnecessary null check
+add support for multiple column in hive connector
+remove unnecessary null check
+remove unused private method
+add support for the new api
+add support for multiple expression
+remove unused private method
+add a new file
+add support for new feature
+add support for multiple column
+remove unnecessary null check
+add test for new file new file new file new file new file
+add a new interface for the interface
+add a new method to the class
+add support for the new api
+add a new option to disable the load if the user be not find
+remove unnecessary null check
+add test for new file
+add support for the new api
+add test for new feature
+add a test for the correct log
+add support for multiple column
+add a test for the new constructor
+remove unnecessary null check
+remove unused import
+add support for the new api
+add support for multiple column
+add support for multiple value
+add a test for the test
+add support for kafka stream
+remove unused private method
+add new file
+add support for the new api
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove unused class
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for json schema
+add test for new file
+add support for the new api
+remove unused import
+add a new test for the new api
+add support for the new api
+remove unused import
+add support for multiple value
+add a test for the new session
+remove unused import
+add support for multiple column
+add support for new file format
+add test for new file
+add a new test for the new api
+add support for json schema
+add support for multiple column
+add support for new feature
+add a new file
+remove unnecessary null check
+add a new file
+add test for new feature
+add test for new feature
+remove unnecessary null check
+add support for multiple column
+add support for kafka stream
+add test for new feature
+remove unnecessary null check
+remove unused interface
+move test to the correct package
+remove unnecessary null check
+remove unused private method
+add support for multiple column in hive connector
+remove unused import
+add a new test for the new api
+remove unused class
+add support for multiple column
+remove unused private method
+add test for the new api
+add support for multiple expression
+add a new method to the class
+add support for new api
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add test for the new api
+add support for json schema
+add test for new file
+add test for new file
+remove unnecessary null check
+add test for new file
+add a test for the new api
+remove unused private method
+add a check for the new api
+remove unused import
+remove unused class
+remove unused import
+add support for multiple column
+add a check for null value
+add new test for new api
+add support for multiple field
+remove unnecessary null check
+remove unnecessary null check
+add new test for new api
+add support for the new api
+add test for new feature
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for the new api
+remove unnecessary null check
+add support for json schema
+remove unnecessary null check
+remove unused package
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add test for new file
+add support for new file
+add test for new file
+remove unused private method
+add test for new file
+add support for multiple column
+add a new file
+remove unnecessary null check
+add support for the new api
+add support for multiple column
+remove unused import
+add support for multiple column
+add a new class to the test that be use in the api
+add support for apache kafka support
+add support for new api
+add a new file
+add new test for new api
+add test for new file
+add support for multiple column
+remove unused import
+move test to the new package
+add test for new feature
+add a test for the new api
+add test for the new api
+remove unused private method
+remove unused import
+remove unused private method
+add a test for the new session
+add a test for the new file
+remove unused import
+add support for multiple column
+add new class for module
+remove unused private method
+add test for new file
+add support for multiple column
+add a new method to the class
+remove unused import
+add a test for the new method
+add a new method to the class
+add support for multiple column
+add a new file
+remove unused private method
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+move to new api package
+remove unused class
+add support for multiple field
+add support for the new api
+remove unused import </s> </s> </s>
+add karaf test
+add more logging to a new session
+add support for multiple expression
+remove unused private method
+add a new file
+remove unnecessary null check
+add support for new file format
+remove unused class
+add support for multiple column
+remove unused private method
+add test for new file
+remove unused import
+remove unused import
+add a new class to the test that be use in the api
+remove unused import
+add support for multiple field
+add test for the new api
+add support for multiple column
+add a check for null
+remove unused import
+add support for multiple field
+remove unnecessary null check
+add support for multiple field
+remove unused private method
+add support for multiple field
+add support for multiple column
+add support for new file format
+add support for multiple column
+add new test for new api
+remove unused private method
+add a test for the new constructor
+add new test for new api
+add support for new file
+add test for new feature
+add support for multiple column
+add support for the new api
+add support for multiple column
+add test for new feature
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for the new api
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add a check for null
+remove unnecessary null check
+add support for the new api
+add a new file
+add test for new file
+add test for new file
+add test for the new api
+remove unused import
+add new test for new file
+add a test for the new api
+add support for multiple column
+add test for new file
+add support for kafka stream
+add support for multiple column
+remove unused import
+add support for new file
+remove unused import
+add support for multiple column
+add a new test for the new api
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add a new file
+add a test for the new api
+add support for the new api
+add null check
+add new file
+add support for new file format
+add support for the new api
+remove support for new java api
+add a check for null
+add a new file
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add a test for the new session
+remove unused class
+add a flag for the new marker
+add support for json file
+remove unnecessary null check
+add test for new file
+move test to internal package
+remove unnecessary test
+add support for multiple column
+add support for multiple column
+remove unused import
+add a new file
+add support for multiple expression
+remove unused class
+remove unused import
+remove unused import
+remove unnecessary catch block
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for new file
+remove unused private method
+add a test for the new feature
+add support for multiple column
+remove unnecessary null check
+add support for the new api
+add new test class
+add support for new file format
+remove unnecessary null check
+add support for json schema
+remove unused import
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused private method
+add a new file
+remove unused class
+remove unnecessary null check
+remove unused import
+add support for multiple field
+add a new file
+remove unused import
+remove unnecessary null check
+move test to the new api package
+add support for new file format
+add test for new file
+add private preprocessor input for new api
+add support for join active connection
+add a new file
+remove unnecessary null check
+remove unused private method
+add support for multiple value
+move test to the correct package
+remove support for spring data
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for new file format
+remove unused class
+add support for new file format
+add check for null
+remove unused private method
+add support for multiple column
+add new test for new api
+remove unused private method </s> </s>
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add test for new file
+add support for multiple column
+add support for json schema
+remove unused import
+remove unnecessary null check
+add check for null
+remove unused private method
+add a test for the correct log
+add new test for new api
+add support for multiple column
+move test to the correct package
+add support for multiple column
+add a new test for the new file
+add support for multiple column
+move test to the correct package
+remove unused class
+remove unused import
+add support for the new api
+add a new method to the class
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add new test for new api
+throw exception when the exception
+add support for multiple column
+add a new test for the new api
+remove unused import
+remove unused import
+add a test for the correct exception message
+add support for multiple column
+remove unused import
+add support for new file format
+add new test for new file
+remove unused class
+add support for the new api
+add test for new feature
+remove unused import
+add support for multiple column
+add support for multiple column
+add a new file
+add support for multiple field
+add test for new feature
+remove unused class
+add support for multiple column
+add support for json file
+add a new test for the new api
+remove unused class
+remove unused import
+add support for the new api
+add a new file
+remove unused class
+add support for the new api
+add test for the new file
+add a new file
+remove unnecessary null check
+add a new method to the class
+remove unused import
+add a test for the correct value
+add support for multiple column
+add a test for the new constructor
+add support for the new api
+add test for new file
+add a test for the new api
+add miss import
+add test for new feature
+add support for multiple column
+add support for multiple field
+remove unused private method
+add a test for the new api
+add support for the new api
+remove unnecessary catch block
+remove unused import
+remove unused import
+add support for multiple column in hive connector
+add a new method to the class
+remove unused import
+remove unused private method
+remove unused import
+add a check for null
+remove unused private field
+remove unused import
+add support for multiple column
+add a test for the new feature
+add a new method to the class
+add a new test for the new api
+add support for multiple field
+remove unused class
+remove unused import
+add support for the new file
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add a new option to disable the new session
+add new test for new api
+remove unused import
+add support for multiple column
+add support for the new api
+remove unused private method
+remove unused import
+remove unnecessary null check
+move test to the correct package
+remove unused import
+add support for the new api
+move test to the correct package
+add a check for null
+add support for multiple column
+add a test for the new attribute
+add a new file
+remove unused import
+remove unused class
+remove unused class
+add a new interface for the new interface
+add support for the new api
+remove unused import
+remove unused import
+remove unnecessary null check
+add a new option to disable the new session
+remove unnecessary null check
+add a test for the new api
+add a new option to disable the new file
+add a new interface for the interface
+add support for the new api
+add support for the new api
+remove unused import
+remove unnecessary null check
+add a new file
+remove unused private method
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add a new option to disable the new file
+remove unused import
+add support for the new file
+add support for the new api
+add a test for the new api
+add support for new file format
+remove unused import
+add a new file
+add support for multiple column
+add support for the new file
+add new test for new api
+add support for multiple column
+add a new option to disable the new file
+add a test for the new api
+remove unused private method
+add check for null
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for the new api
+add support for the new api
+add support for multiple column
+remove unused import
+add a test for the test
+add support for multiple column
+add support for json schema
+add support for multiple value
+add support for multiple column
+remove unused private method
+add support for new file format
+remove unused import
+remove unused import
+add a new test for the new api
+add new test for new file
+add support for the new api
+add a new file
+add a new file
+add support for multiple column
+remove unused import
+add support for multiple field
+remove unnecessary null check
+add support for multiple column
+add support for the new api
+add support for multiple column
+add a new file
+move test to the new api package
+add support for multiple column
+add a check for null value
+add support for multiple column
+add support for new file
+remove unnecessary null check
+add a test for the new feature
+add a new test for the new api
+add support for multiple column
+add test for new feature
+add support for the new api
+add support for new file format
+add test for new file
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add new test for new api
+add support for the new api
+add a new test for the new api
+remove unused class
+add a test for the new api
+remove unused class
+add support for new file format
+add test for new file
+add support for multiple column
+add a new method to the class
+add support for multiple column
+move test to the new package
+remove unused package
+remove unused import
+add support for multiple column </s> </s>
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+move test to the new package
+add support for the new api
+add support for multiple column
+add support for multiple column
+add test for new feature
+add a new method to the class
+add test for new feature
+add test for new file
+add a new file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for json schema
+remove unnecessary null check
+remove unused import
+add a new file
+add test for new file
+remove unused import
+remove unused import
+add check for null
+remove unused import
+add support for multiple column
+remove unused private method
+remove unused import
+add new test for new file
+add support for the new api
+remove unused import
+remove unused class
+add support for new file format
+remove unnecessary null check
+add support for multiple column
+remove unnecessary public modifier from the server
+add support for json schema
+add miss import
+add a new method to the class
+add check for null value
+add test for new file
+add support for the new file format
+add support for the new api
+add test for new file
+remove unnecessary null check
+add a new test for the new api
+add support for the new api
+remove unused class
+remove unnecessary null check
+add support for multiple field
+remove unnecessary null check
+add new test for new file
+add a new class to the class that be use for the api
+add a new method to the class
+add support for new feature
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add new class for module
+add a test for the new api
+add test for new feature
+remove unused import
+add support for multiple column
+add support for new file format
+add support for multiple value
+remove unused import
+remove unused import
+add test for new feature
+remove unnecessary null check
+add test for new feature
+remove unnecessary null check
+remove unnecessary null check
+add support for new interface
+add new test for new file
+add support for the new api
+add support for multiple column
+add a new file
+remove unnecessary null check
+add a new file
+add support for multiple column
+remove unused import
+add support for json schema
+add test for new file
+remove unused class
+remove unused private method
+add support for new interface
+add a new file
+add a new file
+remove unused private method
+add a new test for the new api
+remove unused import
+remove unused private method
+add null check
+remove unused class
+remove unused private method
+add a new file
+remove unused import
+add support for multiple column
+remove unused import
+add new test for new api
+add support for multiple column
+add test for the new api
+add a new file
+add a new method to the class
+add new class for test
+add support for the new api
+add a new file
+add a new method to the class
+add test for new feature
+add support for multiple file
+remove unused private method
+add test for new file
+add test for new feature
+add a new test for the new api
+remove unused class
+add test for the new file
+add a new test for the new api
+add support for the new api
+remove unnecessary null check
+remove unused class
+add a test for the correct log
+remove unused class
+remove unnecessary null check
+move test to the correct package
+remove unnecessary file
+add support for the new api
+add test for new feature
+add support for the new api
+add test for new feature
+remove unused private method
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add a test for the new session
+remove unnecessary null check
+remove unnecessary null check
+remove unused private method
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null
+add new test for new file
+remove unused private method
+remove unused import
+remove unused private method
+remove unused import
+add support for kafka stream
+add support for the new file
+add test for new feature
+add support for the new api
+remove unnecessary null check
+remove unused private method
+remove unused import
+add support for multiple column
+remove unused file
+remove unused private method
+add a test for the new api
+remove unused import
+add a new class to the test that be use in the api
+remove unused import
+add support for multiple column
+add new test for new api
+add support for new api
+add a check for null value
+add support for multiple column
+move test to the correct package
+remove unused class
+add support for multiple column
+move test to the correct package
+remove unused import
+add support for multiple column
+add support for the new api
+add a test for the new session
+add a new test for the new api
+add support for new file format
+add support for multiple column
+add a test for the new api
+remove unnecessary null check
+add a test for the new session
+add support for the new api
+remove unused import
+add a new test for the new api
+add a new file
+remove unused private method
+move test to internal package
+add support for multiple column
+remove unused private method
+add support for the new api
+add support for the new api
+add support for the new api
+remove unused private method
+add a test for the test
+remove unnecessary null check
+add new interface for node
+add a new test for the new api
+add new test for new file
+add a test for the new feature
+add support for multiple column
+remove unused import
+add support for json schema
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove dependency on primitive collection implementation
+remove unused import
+add support for new file
+add support for new file format
+add a new file
+add test for new feature
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+add support for the new api
+remove unused class
+remove unused class
+add support for multiple column
+add support for multiple field
+add test for the new api
+add support for new file format
+remove unused private method
+remove unused class
+add support for multiple column
+add a test for the new option
+remove unnecessary null check
+add support for multiple column
+remove unused private method </s> </s>
+remove unused private method
+move test to the correct package
+add support for the new file
+add support for multiple column
+remove unused import
+remove unused class
+add a new test
+remove unnecessary catch block
+add test for new file
+add support for multiple column
+remove unnecessary null check
+add support for the new api
+add check for null value
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add support for json schema
+remove unused import
+remove unused import
+remove unnecessary null check
+add a test for the correct log
+add a test for the new api
+remove unused import
+add test for new file
+add support for kafka stream
+remove unused import
+add test for new feature
+add a test for the new feature
+add support for multiple column
+add support for multiple column
+add test for new feature
+add support for json schema
+remove unused import
+add support for apache kafka support
+add test for new feature
+add a new method to the class
+add support for multiple column
+add a new interface for the interface
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple value
+remove unnecessary null check
+remove unused private method
+add new test for new api
+add support for multiple column
+add support for multiple column
+add new test for new api
+add support for multiple column
+add support for multiple column
+add a new file
+add new test for new api
+remove unused import
+remove unused import
+add a new option to disable the new file
+remove unused private method
+add a new file
+remove unnecessary null check
+remove unused import
+add new test for new file
+add a test for the new session
+add support for multiple column
+add test for the new api
+remove unused class
+add test for new file
+add support for multiple field
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple field
+remove unnecessary null check
+add support for multiple expression
+add a new method to the class
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+remove unused import
+add new test for new file
+add support for the new file
+remove unused private method
+remove unnecessary catch block
+remove unused import
+add a new test to the new api
+remove unused import
+remove unused private method
+remove unnecessary null check
+remove unused class
+remove unnecessary null check
+add support for new feature
+add test for new file
+add support for the new api
+add support for new file
+remove unused private method
+remove unused import
+add support for multiple column
+add support for the new api
+add a test for the new api
+add a test for the new method
+move test to the correct package
+add support for new file format
+remove unused class
+add a test for the new api
+add support for the new api
+add support for multiple column
+add a check for null
+remove unused import
+add test for new feature
+remove unnecessary null check
+add a test for the new session
+add support for new file format
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused private method
+add support for multiple column
+add a new file
+add new test for new file
+add support for multiple column
+add support for multiple field
+remove unused private method
+add miss import
+remove unnecessary null check
+add a check for null
+add support for multiple field
+add support for multiple column
+add a new method to the class
+add new test for new api
+add support for multiple column
+add support for json schema
+remove unused import
+add support for the new api
+remove unnecessary null check
+add a test for the new feature
+remove unnecessary catch block
+remove unnecessary null check
+remove unused import
+add support for the new api
+move test to internal package
+add check for null stream
+add a mail component use support
+add support for vendor specific flyway migration location
+remove unused import
+add new test for new api
+add test for new file
+remove unnecessary null check
+remove unused import
+add support for multiple field
+remove unused class
+remove unnecessary null check
+remove unused import
+remove unused class
+add a new file
+remove unused private method
+add a new method to the class
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add support for the new file format
+add a new method to the class
+remove unused import
+add test for new file
+add support for new feature
+add test for new feature
+add test for new feature
+add test for new file
+move test to the correct package
+add support for multiple column
+remove unused import
+remove unused import
+add a new file
+remove unused import
+remove unused import
+add support for the new api
+remove unused private method
+remove unused import
+add check for null
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add a new class to the test that be use in the api
+add a test for the new api
+add support for multiple column
+add test for new feature
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused private method
+remove unused private method
+remove unused private method
+add test for new feature
+add support for the new api
+add a check for null
+add new test for new file
+add test for new file
+add support for new file format
+add support for multiple column
+add support for multiple column
+add support for the new api
+add support for multiple column
+remove unused import
+remove unused class
+remove unused import
+add a test for the new api
+add support for new file format
+remove unnecessary null check
+add test for the new api
+add support for the new api
+add a test for the new session
+remove unused import
+throw exception when try to read a throw a throw an error
+remove unused import
+add a new file
+add support for the new api
+remove unnecessary catch block
+remove unused import
+add test for new feature
+add a new file
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary test
+remove unused class
+add a new file
+remove unused import
+add a new file
+add null check
+add support for the new api
+add null check
+remove unused import
+remove unused private method
+remove unused private method
+remove unused class
+remove unused import
+add a test for the new api
+add support for multiple column
+remove unused import
+add a test for the test
+move test to the correct package
+add a new option to disable the new file
+add test for the new api
+add support for multiple column
+add support for the new api
+remove unused import
+add new test for new file
+add support for the new api
+add support for the new api
+remove unused import
+remove unused interface
+add support for multiple column
+add a new file
+add support for multiple field
+remove unused private method
+remove unused class
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for the new api
+remove unused class
+remove unnecessary null check
+add support for the new api
+add a new file
+remove unused import
+add support for the new file
+remove unused class
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add miss import
+remove unused class
+add support for new file format
+add test for new feature
+remove unused import
+add a new method to the class
+remove unused import
+move test to the correct package
+add a new file
+remove unused import
+remove unused import
+add support for the new file
+add a test for the new feature
+add check for null
+remove unused import
+remove unused import
+remove unused import
+add test for new file
+remove unused import
+add a new method to the class
+remove unused class
+add support for multiple column
+remove unnecessary null check
+add new test for new api
+add support for the new api
+add support for multiple value
+add support for the new api
+add new file
+remove unnecessary null check
+add support for new file format
+add a test for the correct log
+remove unnecessary null check
+remove unused import
+remove unused import
+add test for new feature
+add a new class to the test that be use in the api
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add test for new file
+add a new file
+remove unused import
+add test for the new api
+remove unused class
+add support for the new api
+add support for new file format
+remove unused import
+remove unused import
+add support for the new api
+add support for multiple column
+add a test for the new session
+remove unnecessary null check
+add support for multiple column
+add support for multiple column in hive connector
+add new file
+remove unnecessary null check
+add a new method to the class
+add a new test for the new api
+add new test for new file
+remove unused import
+add test for new file
+remove unused import
+add new test for new api
+add a new interface for the interface
+remove unused private method
+add a new test for the new api
+move test to the correct package
+add a test for the new api
+add miss import
+add test for new feature
+remove unused private method
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+add test for new file
+add support for multiple field
+add support for multiple column
+add support for multiple column
+add support for new feature
+remove unused import
+add new test for new api
+add a test for the new feature
+add support for the new api
+add test for new feature
+add support for the new api
+remove unnecessary null check
+add test for the new api
+add support for multiple column
+add test for the new file
+add support for multiple column
+add support for multiple column
+add support for json file
+add new test for new api
+add support for multiple column
+add a new test for the new api
+add support for the new api
+remove unused import
+add support for the new api
+add support for apache kafka support
+remove unused import
+add a test for the new api
+add a new test for the new api
+add support for multiple column
+remove unused class
+add a check for null
+add support for multiple column
+add new test for new api
+add support for multiple column
+add a new test for the new api
+add support for multiple column
+add a test for the new feature
+add test for new file
+add a check for null
+add support for multiple column
+add test for new feature
+remove unused import
+add a check for null
+remove unused private method
+add a new file
+add new class for module
+add a new file
+add test for the new file
+add support for json file
+remove unnecessary null check
+remove unused class
+remove unused import
+add a test for the new session
+remove unnecessary null check
+remove unnecessary null check
+add a test for the new api
+remove unnecessary null check
+remove unused class
+move test to the correct package
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused class
+move test to the correct package
+add support for multiple column
+remove unused import
+add a check for null value
+add support for multiple column
+remove unused import
+add support for new file format
+remove unnecessary null check
+add support for multiple column
+add support for new file format
+remove unused private method
+add miss import
+move test to the correct package
+add support for multiple column
+remove unused import
+add test for new file
+remove unused class
+add support for multiple column
+move to junit 5
+add support for multiple column
+add a new file
+remove unused import
+add support for apache kafka support
+add a test for the new api
+remove unused private method
+add support for multiple column
+add support for new feature
+add a test for the new option
+add check for null
+remove unused class
+remove unnecessary null check
+add support for multiple column
+remove unused private method
+add support for multiple value
+move test to the correct package
+add a new file
+add a new file
+add support for json schema
+add test for new feature
+remove unnecessary null check
+throw exception when the exception
+add support for new file format
+add test for new feature
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for the new api
+remove unused private method
+add support for multiple field
+add support for json schema
+add a check for null value
+add a test for the correct property
+add support for multiple column
+add a check for the same class name
+add support for the new api
+add check for null
+remove unused import
+add support for the new api
+remove unused private method
+remove unused import
+remove unused import
+remove unused import
+add test for new file
+remove unnecessary null check
+add support for json schema
+add a new test for the new api
+add support for multiple field
+add a new file
+remove unused private method
+add test for the correct import
+add a test for the new feature
+add support for the new api
+remove unnecessary null check
+add support for multiple value
+add support for multiple column
+add support for multiple column
+add support for multiple expression
+remove unused private method
+add support for multiple column
+remove unnecessary null check
+remove unused private method
+add support for the new api
+remove unused class
+add support for multiple column
+add a test for the new api
+add support for the new api
+add new test for new api
+add support for the new api
+add test for new feature
+remove unused private method
+remove unused private method
+remove unused import
+add a test for the new option
+add test for new feature
+remove unused import
+remove unused private method
+add support for multiple column
+add support for json schema
+add support for kafka stream
+remove unused private method
+add support for multiple column
+add support for the new api
+add test for new feature
+add support for multiple column
+remove unused class
+add support for new feature
+add support for multiple column
+remove unused private method
+remove unused private method
+add support for multiple column
+add test for new file
+remove unused import
+add test for new feature
+add support for the new api
+remove unused private method
+add test for new file
+add test for new file
+remove unused import
+remove unnecessary null check
+add support for the new api
+add test for new file
+add support for multiple column
+add support for the new api
+move test to the correct package
+remove unused class
+remove unused private method
+add test for the new api
+remove unused import
+remove unused private method
+add new test for new api
+remove unused class
+add a new file
+add support for multiple column
+add a test for the new api
+remove unused import
+remove unused import
+add support for json file
+add a new file
+add a new class to the test that be use for the new api
+add a test for the new session
+add new test for new api
+remove unused import
+add support for the new file format
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused private method
+add support for multiple column
+add a new file
+remove unused private method
+remove unused import
+remove unused class
+add a new file
+remove unnecessary null check
+remove unused private method
+move test to internal package
+add support for multiple column
+move test to the correct package
+add support for the new api
+add a test for the new api
+move to junit 5
+add support for the new api
+add a new file
+add new test for new api
+add support for the new api
+remove unused private method
+add support for the new api
+remove support for new feature
+add support for multiple column
+add support for multiple value
+add support for multiple field
+add a new file
+remove unused class
+remove unnecessary null check
+add new test for new file
+remove unused import
+add support for multiple column
+add new test for new api
+remove unnecessary null check
+add a new test for the new java api
+add support for the new api
+add support for the new api
+remove unused private method
+add null check
+remove unused import
+add support for new api
+add new file
+add support for json schema
+remove unnecessary null check
+add test for new feature
+remove unused import
+add a new method to the class
+add a test for the new api
+add support for multiple column
+move test to the correct package
+add test for new file
+move test to the correct package
+add test for new feature
+add support for the new api
+remove unnecessary null check
+remove dependency on release
+remove dependency on primitive collection implementation
+remove unnecessary null check
+add support for new file format
+remove unused import
+add a new file
+move to new api package
+add support for multiple column
+add a new class to the class that be use for the api
+add support for multiple column
+add test for new feature
+add support for new feature
+add support for the new api
+add support for new file format
+add new test for new api
+remove unused class
+remove unnecessary null check
+add support for kafka stream
+remove unused private method
+remove unused import
+add support for apache kafka support
+add a new file
+remove unused private method
+add support for multiple column
+add test for new file new file new file new file </s>
+remove unused import
+add support for the new api
+remove unnecessary null check
+add support for the new api
+add check for null
+remove unused import
+remove unused class
+add a new method to the class
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add a new file
+add support for the new api
+remove unnecessary null check
+add support for the new api
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add a test for the new session
+add support for multiple column
+add support for multiple value
+add support for json schema
+add a check for null
+remove unused import
+remove unused import
+remove unused private method
+add a test for the new feature
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+move test to the correct package
+add a new class to the class that be use for the api
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple column in hive connector
+add support for multiple column
+remove unused class
+add support for the new api
+remove unused import
+remove unused import
+add support for the new api
+add support for multiple value
+add a new file
+add a new file
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for new file format
+remove unused class
+remove unused private method
+add support for the new api
+add test for new file
+add support for multiple column
+remove unused class
+remove unnecessary null check
+add support for multiple column
+add support for the new api
+add support for the new api
+add support for the new api
+add support for new file
+remove unused import
+add support for multiple field type
+remove unnecessary null check
+add test for new file
+add a new test for the new api
+add a test for the new api
+remove unnecessary null check
+add support for new file format
+add support for the new api
+remove unused package
+add support for multiple column
+add test for new feature
+add a new method to the class
+remove unused private method
+remove unused import
+remove unused import
+move test to the correct package
+add support for file name
+add support for new file format
+add support for multiple column
+add support for multiple column
+move test to the correct package
+add a new method to the class
+add test for the new api
+remove unused import
+remove unused class
+add support for multiple column
+remove unnecessary null check
+add support for the new api
+add support for multiple column
+remove unused private method
+add a new file
+add test for new feature
+add support for multiple value
+add a test for the new api
+add test for new file
+add support for json schema
+add a test for the new api
+add support for multiple field
+remove unused private method
+add support for json schema
+add support for file
+remove unused import
+remove unnecessary null check
+add support for multiple field
+add a new class to the test that be use for the new api
+move to junit 5
+remove unnecessary null check
+add a test for the new option
+add support for spring data
+add a test for the new feature
+add new class for module
+add null check
+add support for multiple column
+move test to the correct package
+add support for multiple value
+add support for multiple column
+add support for multiple column
+move test to internal package
+add a test for the new feature
+remove unused private method
+remove unused import
+add test for new file
+add support for multiple column
+remove unnecessary null check
+add a test for the new feature
+remove unused import
+remove unused private method
+add test for new feature
+add a new test for the new api
+add support for file name
+add a test for the new api
+add support for the new api
+remove unnecessary null check
+add support for the new api
+move to the new package
+add support for multiple column
+move to junit 5
+remove unused import
+add a test for the correct log
+add a new file
+add support for multiple column
+add support for new file format
+remove unused import
+add support for multiple field
+add support for multiple column
+add support for new file format
+add a new file
+add support for new file format
+add test for new feature
+move test to internal package
+add support for multiple column
+add support for the new api
+add a new file
+add test for new feature
+add new class for module
+remove unused class
+remove unused private method
+add support for multiple column in hive connector
+remove unused import
+remove unused import
+remove unused import
+add a new file
+add support for multiple column
+add a new method to the class
+add new test for new api
+remove unnecessary null check
+add new test for new file
+add support for new api
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add new test class
+remove unnecessary null check
+add new test for new api
+remove unused import
+add test for new feature
+add a new file
+add a new file
+add new test for new api
+remove unnecessary null check
+add a check for null value
+remove unused class
+add support for multiple value
+remove unused import
+add a test for the correct log
+remove unused import
+add support for multiple column
+add a test for the new api
+add test for new feature
+add a new file
+remove unused import
+remove unused import
+add a new file
+add a new test for the new api
+add a test for the new session
+remove unused private method
+remove unused import
+move test to the correct package
+add new class for module
+add support for the new api
+add support for the new api
+add check for null
+remove unused import
+remove unnecessary null check
+add a test for the correct log
+remove unused import
+add test for new file
+add support for new file format
+remove unused import
+remove unnecessary test
+add support for the new api
+add a new test for the new api
+add a test for the new constructor
+add support for multiple column
+remove unused private method
+add support for multiple column
+remove unused private method
+remove unnecessary catch block
+add support for multiple column
+move test to internal package
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add a check for null value
+add support for multiple value
+add a test for the new feature
+add test for the new api
+add support for multiple column
+add test for new feature
+add new test for new api
+add test for new file
+add a new method to the class
+add support for the new api
+remove unused class
+move test to the correct package
+add support for multiple column
+add a new class to the test that be use for the api
+remove unused import
+remove unused import
+remove unused import
+add a test for the new session
+remove unnecessary null check
+add new test for new file
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add test for the new api
+remove unnecessary null check
+move test to internal package
+remove unnecessary null check
+remove unused private method
+add support for new feature
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add new test for new api
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused class
+add a test for the new feature
+move test to internal package
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add test for the new api
+add a test for the new feature
+add new test for new api
+remove unused import
+remove unnecessary null check
+add support for new file format
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+make public
+add a new file
+add support for the new api
+remove unused private method
+remove unnecessary null check
+add test for new file
+remove unnecessary null check
+move test to internal package
+add support for the new api
+remove unused private method
+add support for the new file format
+add support for multiple field
+add test for new file
+remove unnecessary null check
+add a new test for the new api
+remove unnecessary null check
+add new test for new file
+remove unnecessary null check
+add support for multiple column
+add a new method to the class
+add support for multiple column
+add a test for the test
+move test to the correct package
+add support for multiple column
+add support for multiple column
+add a test for the new api
+remove unused class
+add support for multiple column
+add support for multiple field
+add new file
+add test for new feature
+remove unnecessary null check
+remove unnecessary catch block
+add support for multiple column
+add support for the new api
+remove unused import </s>
+remove unused import
+remove unused class
+remove unused import
+remove unused private method
+remove unnecessary null check
+add support for new file
+add test for new feature
+add support for the new api
+remove unused private method
+remove unused import
+add a new class to the test that be use in the api
+remove unused import
+move test to the correct package
+remove unused import
+remove unused import
+add support for the new api
+add new test for new api
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for the new api
+remove unused import
+remove unnecessary null check
+add a test for the new api
+add test for new file
+add support for the new api
+add support for the new api
+remove unused import
+remove unnecessary catch block
+add support for multiple field
+remove unnecessary null check
+add a check for null
+add a new file
+add new test for new file
+remove unused import
+add support for the new api
+add a test for the new api
+remove unused private method
+remove unused import
+add test for the new file
+add a test for the new api
+remove unnecessary null check
+add support for multiple column
+add new test for new file
+add a test for the new feature
+remove unnecessary null check
+add support for the new api
+remove unused private method
+add test for new file
+remove unused private method
+add support for multiple column
+add support for multiple column
+remove unused import
+add null check
+add support for the new api
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+move test to the correct package
+remove unused private method
+add support for multiple column
+add support for import
+add new test for new api
+add a test for the correct log
+add support for the new api
+add a test for the new session
+remove unused class
+add test for new file
+remove unnecessary null check
+add support for json file
+move test to the correct package
+remove unused private method
+remove unused class
+add check for null
+add support for multiple column
+add new test for new api
+remove unnecessary null check
+remove unnecessary null check
+move test to the correct package
+remove unused private method
+add a new method to the class
+add a new file
+add support for multiple column
+remove unused import
+remove unused import
+remove unused private field
+remove unused import
+add support for multiple column
+add support for new file format
+add support for new feature
+move test to the correct package
+add test for new feature
+remove unused import
+remove unused import
+remove unused import
+remove unused class
+remove unused private method
+add test for new file
+add a new test for the new api
+add support for the new api
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unnecessary null check
+add new test for new file
+remove unused import
+add support for new api
+add support for multiple column
+add a test for the new option
+remove unused import
+add a test for the new session
+add a check for null
+remove unnecessary null check
+add support for multiple column
+add support for new file format
+remove unused private method
+add a test for the new session
+add test for new file
+remove unused class
+add support for the new api
+add support for apache kafka support
+remove unused import
+remove unnecessary null check
+add test for new file
+add a test for the new api
+remove unused import
+add a new interface for the interface
+add a new file
+add support for apache kafka support
+remove unused import
+add support for apache kafka support
+remove unused private method
+remove unnecessary null check
+add a new option to disable the new file
+add a new file
+add support for the new api
+add a test for the correct log
+remove unused private method
+add support for new file format
+remove unused import
+add support for multiple column
+remove unused import
+add a test for the correct log
+add support for new file format
+remove unnecessary null check
+add support for multiple field
+add test for the new api
+add support for the new api
+add a new file
+add support for multiple column
+add support for json file
+add support for multiple column
+remove unused private method
+add support for multiple column
+remove unused import
+add a new file
+remove unused class
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused class
+add new class for module
+remove unused private method
+remove unused class
+add support for new file format
+add support for the new api
+remove unused import
+add test for new feature
+add a new test for the new api
+remove unused import
+add support for multiple column
+remove unused class
+add support for multiple column
+remove unused method in common
+add support for kafka stream
+remove unused import
+add support for multiple column in hive connector
+add support for multiple column
+add support for the new api
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add a test for the new file
+add support for multiple column
+add support for multiple column
+add test for new file
+add support for spring data
+add support for the new api
+add a test for the new constructor
+add new test for new api
+remove unused private method
+remove unnecessary null check
+remove unused import
+remove unused private method
+move test to the correct package
+add support for the new file format
+add support for multiple column
+add test for new feature
+add support for multiple column
+add support for json file
+move test to the new package
+add support for the new api
+add support for multiple column
+add support for new file format
+add test for new feature
+remove unused import
+add support for multiple column
+add check for null
+add a test for the new api
+remove unused class
+remove unused import
+add support for multiple column
+remove unused private method
+add support for multiple column
+remove unused import
+add a new class to the test that be use in the api
+remove unused file
+remove unused import
+remove unused private method
+add support for the new api
+add support for json schema
+remove unnecessary null check
+remove unused import
+add support for multiple value
+remove unused class
+add support for json schema
+add test for new file
+remove unused private method
+remove unnecessary null check
+remove unused import
+add support for new feature
+remove unused import
+add support for multiple column in hive connector
+add test for new feature
+remove unused import
+add test for new feature
+remove unused import
+add support for the new api
+add a new method to the class
+remove unused import
+add test for new file
+add a test for the new api
+add a new test for the new api
+add support for the new api
+add a test for the new session
+remove unused private method
+remove unused import
+add support for json schema
+add test for new feature
+add support for multiple value
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for multiple column
+add new test for new api
+add a new method to the return type of the type of type of type
+add support for multiple column
+add support for the new api
+remove unused import
+remove unused import
+add a new file
+add test for new feature
+remove unused private method
+remove unnecessary null check
+add a test for the new feature
+add support for new feature
+remove unnecessary null check
+add a check for null value
+add a new file
+add a new class to the test that be use for the new api
+add support for multiple column
+remove unused import
+add test for new file
+add support for new file
+add support for multiple expression
+add a check for null value
+add support for multiple column
+add support for new file format
+add support for the new api
+add support for multiple column
+add a test for the new api
+add support for multiple column
+add support for multiple value
+remove unused import
+remove unused import
+add test for the new api
+remove unused import
+add support for multiple field
+move to junit 5
+add test for new feature
+remove unused private method
+remove unnecessary null check
+remove unused private method
+add a new file
+add support for the new file
+add support for multiple column
+add a test for the new session
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column </s> </s>
+add support for the new api
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add a test for the new api
+add support for the new api
+remove unnecessary catch block
+remove unused class
+add test for new file
+remove unnecessary null check
+add support for multiple field
+add support for multiple field
+remove unnecessary null check
+remove unused private method
+remove unused private method
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+add a new test for the new api
+add support for multiple column
+remove unused class
+remove unused class
+remove unused import
+add new test for new api
+add a new file
+remove unused private method
+remove unused import
+remove unnecessary null check
+move to junit 5
+add a test for the correct property
+remove unused private method
+add support for new file format
+remove unused import
+move test to the correct package
+add a test for the new feature
+add support for multiple column
+add a new method to the class
+add a test for the new file
+add a check for null value
+remove unnecessary null check
+remove unused class
+add support for kafka stream
+add test for new feature
+remove unused private method
+add a test for the new api
+remove unused private method
+add support for new file
+add a new class to the class
+add test for new file
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused private method
+add support for multiple column
+add support for multiple column
+move test to the new package
+add a new method to the return the return of the return value
+remove unused import
+add a new file
+add support for apache kafka support
+add test for new file
+add support for the new api
+remove unused private method
+add support for the new api
+add support for apache kafka support
+add support for the new api
+remove unused import
+remove unused private method
+remove unused import
+remove unused import
+remove unnecessary catch block
+add support for multiple column
+add support for multiple column in hive
+add support for multiple column
+remove unused import
+remove unused import
+add support for the new api
+add support for json file
+add new test for new file
+add support for the new api
+add a new method to the class
+add new test for new api
+remove unused import
+move test to the correct package
+remove unnecessary null check
+add a new option to disable the new file
+remove unused import
+remove unused import
+add support for multiple column
+add support for the new api
+add a test for the test
+add support for multiple column in hive connector
+remove unnecessary null check
+add support for multiple expression
+add support for the new api
+add support for import
+add a test for the new feature
+add a new test for the new api
+add support for the new api
+add support for multiple file
+remove unused import
+add test for new file
+remove unused class
+remove unused import
+add support for the new api
+remove unused class
+add a new method to the class
+add support for multiple column
+move test to the correct package
+add a check for the same file
+remove unused class
+add support for multiple column
+add support for the new api
+add support for json schema
+remove unused import
+add support for apache kafka support
+add a test for the new api
+add support for json schema
+add test for new file
+add a new class to the test that be use for the api
+add support for multiple field
+add test for new file
+add support for kafka table
+remove unnecessary null check
+add new test for new api
+remove unused import
+add a test for the new method
+add a new file
+add a test for the new feature
+remove unused private method
+remove unused class
+remove unused class
+remove unused class
+add support for json schema
+add support for multiple column
+remove unused private method
+add a new method to the class
+add support for the new api
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple field
+move test to the new package
+add support for import
+add a new option to disable the new session
+remove unused private method
+remove unused import
+remove unnecessary null check
+add support for new feature
+add a check for null value
+remove unused class
+move test to internal package
+add support for json schema
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for json schema
+remove unused private method
+remove unused import
+add support for multiple column
+remove unused class
+add a new method to the class
+remove unused import
+add a new method to the class
+remove unnecessary null check
+remove unused class
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple field
+remove unused private method
+add support for the new api
+add a new test for the new api
+add support for multiple column
+remove unused import
+move test to the correct package
+add support for multiple column
+add a new file
+add new test for new api
+move test to the correct package
+add check for null
+remove unused private method
+add support for multiple column
+remove unused private method
+add support for new file
+remove unnecessary null check
+add support for multiple field
+add a new method to the class

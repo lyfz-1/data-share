@@ -1,0 +1,5000 @@
+add support for multiple file
+add support for multiple user to the same key
+add support for multiple query
+remove unused import
+add support for legacy type
+remove unnecessary null check
+add support for legacy annotation
+add support for spring data
+move package to the util package
+remove unused import
+remove unnecessary null check
+add a test for the java source
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for legacy annotation
+address nullpointer exception in `
+add support for hive table
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+add support for hive table
+add support for multiple column
+add support for multiple user to the same key
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple column
+add check for null value
+remove unused import
+add support for multiple column
+fix error message
+add support for spring data
+remove unused private method
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+remove unused import
+add support for spring data
+add support for multiple type
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for hive table
+move to common package
+remove unnecessary null check
+add support for multiple parameter
+move package to the client package
+add support for legacy annotation
+add support for legacy type
+remove unused import
+add support for legacy type
+add support for multiple column
+move to common package
+add support for spring data
+add support for multiple file
+add support for multiple column
+add support for multiple query
+add support for multiple query
+add support for multiple query
+add support for multiple file
+add support for hive table
+add support for legacy type
+add support for spring data
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple query
+add new test for issue
+add support for multiple parameter
+add support for multiple column
+add support for multiple message
+add miss null check
+remove unused import
+add support for multiple column
+add a test for the java source source
+add support for legacy type
+remove unused import
+add support for spring data
+add miss null check
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for spring data
+fix error message
+add support for legacy type
+add support for hive table
+move package to the util package
+add support for multiple column
+remove unused import
+add test for issue with java 8 type
+add support for legacy annotation
+add test for issue with java 8 type
+add test for issue with java 8 type
+add support for multiple user to the same key
+add support for spring data
+remove unused import
+add support for legacy annotation
+add support for legacy annotation
+remove unused class
+add new interface for interface
+add support for multiple file
+add support for multiple file
+add support for multiple message
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+move package to the client package
+add support for multiple query
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple parameter
+add check for null
+add support for multiple file
+remove unnecessary null check
+add support for hive table
+remove unused private method
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple user to the same key
+add support for multiple column
+add support for spring data
+remove unused class
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+fix error message
+add support for multiple user to the same key
+add support for multiple query
+remove unused import
+add support for hive table
+add support for file
+remove unnecessary null check
+add support for spring data
+add support for multiple user to the same key
+remove unused class
+remove unused import
+remove unused class
+move the client package to the client
+remove unused import
+move to the package
+add support for multiple column
+move package to the util package
+add support for multiple column
+fix error message
+remove unnecessary null check
+add support for hive table
+add a new test for the java api
+add check for null value
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add test for issue with java 8 type
+add support for spring data
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused class
+add support for legacy type
+fix error message
+remove unused import
+add support for hive table
+add support for legacy type
+remove unused import
+add support for multiple column
+fix error message
+address the c error of `` `` `` `` `` `` nullpointer exception ''
+add support for multiple query
+move package to the util package
+remove unused import
+add support for spring data
+add support for multiple file
+remove unused class
+remove unused private method
+add support for hive table
+remove unused import
+add support for legacy type
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple query
+add support for multiple file
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple query
+remove unused import
+remove unused import
+add support for multiple query
+remove unused import
+add new interface for interface
+add a test for the java source source
+add support for hive table
+add support for multiple column
+add support for multiple column
+fix error message
+add support for hive table
+remove unused class
+add support for multiple column
+remove unused import
+add check for null
+add support for legacy annotation
+add support for multiple query
+add support for multiple column
+add support for multiple message
+remove unused private method
+add support for multiple column
+remove unused class
+remove unused class
+remove unused class
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add miss file
+remove unnecessary null check
+move the client package to the client
+add support for multiple query
+add support for multiple query
+remove unused import
+add support for multiple file
+remove unnecessary null check
+add test for issue with java 8 type
+add miss import
+remove unused import
+add support for multiple column
+add miss annotation to test
+add support for multiple file
+add support for multiple file
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple query
+add support for hive table
+add support for legacy type
+add support for multiple column
+add support for multiple file
+add support for multiple query
+remove unused import
+add support for multiple query
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple file
+remove unused class
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for legacy type
+add support for multiple column
+remove unused import
+add test for issue with java 8 type
+add support for spring data
+remove unnecessary null check
+remove unused import
+add miss null check
+remove unused import
+add support for spring data
+remove unused file
+remove unnecessary null check
+fix error message
+add support for multiple column
+add support for legacy type
+add support for multiple query
+add support for multiple column
+add support for hive table
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add new test for issue
+move package to the package
+remove unused import
+add support for legacy type
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple query
+add support for legacy type
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple parameter
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+move package to the util package
+add support for multiple query
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple query
+move to common package
+add support for multiple file
+add support for legacy annotation
+make sure that the same class be not a the same class
+add support for multiple parameter
+add support for multiple message
+fix error message
+remove unused import
+add support for multiple column
+add support for hive table
+add miss null check
+add support for multiple column
+remove unused import
+remove unused class
+add support for multiple message
+add support for multiple message
+add support for multiple query
+remove unused import
+remove unused class
+remove unused import
+add support for multiple message
+add support for multiple query
+remove unnecessary null check
+add support for multiple parameter
+remove unnecessary null check
+add support for multiple column
+add support for legacy type
+add support for spring data
+add a new test for the java source file
+add support for hive table
+add support for multiple column
+remove unused class
+remove unused import
+remove unused import
+add support for spring data
+add miss annotation to test
+add support for multiple column
+add a test for the java source source
+remove unused private method
+add support for multiple file
+add check for null
+add support for spring data
+add support for hive table
+add support for multiple column
+add support for hive table
+add support for hive table
+add support for multiple user to the same key
+add support for multiple user to the same thread
+add support for legacy type
+add miss annotation to test
+remove unused import
+add support for legacy annotation
+add support for multiple column
+remove unused class
+add support for spring data
+add miss null check
+add support for multiple column
+add support for file
+remove unused import
+remove unused import
+add support for hive table
+remove unused import
+add support for hive table
+add support for multiple query
+remove unused import
+remove unused import
+remove unused class
+remove unused import
+remove unused import
+add check for null
+remove unused import
+add support for multiple column
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string class
+add support for multiple query
+add support for hive table
+add support for legacy type
+add support for multiple file
+add support for spring data
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add miss null check
+add support for multiple column
+add support for hive table
+add support for hive table
+add support for multiple user to the same key
+add support for multiple column
+fix error in the same thread
+remove unused class
+add support for spring data
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple query
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for multiple user to the same key
+remove unused import
+add support for multiple column
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple message
+add support for legacy annotation
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused class
+add support for hive table
+add support for multiple file
+add support for spring data
+add support for multiple column
+add support for multiple query
+remove unnecessary null check
+remove unnecessary null check
+remove unused import
+add support for legacy annotation
+remove unused import
+add miss null check </s>
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add support for hive table
+add support for multiple query
+remove unnecessary null check
+fix error message
+move package to the client package
+fix error message
+add support for multiple query
+add miss null check
+remove unused import
+add support for legacy type
+remove unused import
+add check for null
+add support for multiple column
+add support for multiple file
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column </s> :
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add new interface for interface
+remove unused import
+add support for spring data
+add support for multiple query
+make sure that the class be not be call
+add support for multiple file
+remove unused private method
+add support for multiple query
+remove unused private method
+add support for multiple query
+add miss null check
+add support for legacy type
+add miss annotation to test
+add support for multiple column
+add test for issue with java 8 type
+remove unused class
+remove unnecessary null check
+add support for multiple user to the same source file
+add test for issue with java 8
+remove unused import
+add support for hive table
+fix error message
+add support for hive table
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused class
+address the c error of `` `` `` `` `` `` nullpointer exception ''
+fix error in the java source
+add a test for the java source file
+add support for multiple message
+remove unnecessary null check
+remove unused import
+remove unused class
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add miss annotation to test
+add support for legacy annotation
+add support for legacy annotation
+move to the package
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for legacy type
+remove unused import
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+add miss null check
+add support for multiple parameter
+solve npe in call
+add miss annotation to test
+add support for multiple column
+add support for multiple user to the same key
+add support for hive table
+add support for multiple message
+add support for multiple column
+add support for multiple query
+add support for hive table
+add miss null check
+remove unused import
+add support for multiple column
+remove unused import
+add support for spring data
+add support for spring data
+remove unused import
+add support for multiple query
+add support for multiple parameter
+add check for null
+remove static method from interface
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple column
+fix error message
+add support for multiple column
+add miss import
+add support for multiple column
+add support for hive table
+add support for hive table
+add support for multiple query
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+fix error in the same thread
+add support for multiple column
+remove unused private method
+add support for multiple column
+remove unused class
+add support for multiple file
+add support for hive table
+add support for hive table
+fix error message
+remove unused import
+add support for hive table
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for spring data
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+fix error in the same thread
+add support for legacy type
+add support for multiple message
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused class
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+fix error in the java source
+move package to the util package
+add support for spring data
+remove unused class
+remove unused class
+add miss annotation to test
+add support for legacy type
+add support for hive table
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for hive table
+remove static method from interface
+add miss null check
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add miss null check
+add support for multiple message
+add support for multiple file
+add support for multiple query
+add support for spring data
+remove unused import
+add check for null value
+add support for hive table
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple parameter
+add support for legacy type
+add support for legacy annotation
+add support for multiple file
+add support for multiple column
+add miss null check
+add support for multiple message
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+remove unnecessary null check
+add support for multiple query
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for hive table
+add support for multiple query
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add a new test for the new interface
+add support for multiple file
+add support for spring data
+add support for legacy type
+add support for multiple query
+move package to the core package
+add support for legacy type
+add support for multiple column
+add support for multiple query
+remove unnecessary null check
+add support for legacy annotation
+add support for multiple file
+remove unused class
+remove unused import
+add miss null check
+remove unnecessary null check
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple column
+add support for multiple query
+add support for multiple query
+make sure that the class be not a class
+move package to the core package
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for spring data
+add support for hive table
+add support for multiple file
+add a new test for the java api
+add support for hive table
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple column
+remove unused import
+move package to the util package
+add support for spring data
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for hive table
+add support for multiple query
+add support for spring data
+add test for issue with java 8 type
+add support for hive table
+add support for multiple column
+add support for multiple user to the same key
+remove unused import
+add support for spring data
+add support for multiple query
+add support for multiple message
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple parameter
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+remove unused class
+remove unused private method
+add support for multiple message
+add support for multiple message
+add support for multiple query
+add support for hive table
+remove unused import
+remove unused import
+add support for multiple file
+remove unused private method
+remove unused import
+add support for multiple column
+fix error message
+add check for null value
+add support for multiple file
+remove unused import
+add new interface for interface
+add support for multiple column
+make sure that the class public
+add support for spring data
+add support for legacy type
+add support for multiple column
+add support for legacy annotation
+add support for multiple file
+add support for legacy type
+fix error message
+add support for spring data
+remove unused class
+add support for hive table
+add support for multiple query
+add support for legacy type
+add support for multiple query
+add support for multiple column
+remove unnecessary null check
+add support for multiple query
+make sure that the class be not be call
+add support for spring data
+fix error message
+add support for multiple column
+add support for multiple message
+add support for multiple user to the same thread
+fix error in the java source
+add support for multiple parameter
+add support for multiple column
+remove unused import
+remove unused class
+remove unused import
+add support for spring data
+remove unused private method
+add support for spring data
+remove unused private method
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add support for hive table
+remove unused import
+add support for multiple query
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unused import
+add support for file
+add support for multiple column
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple file
+remove unused class
+add support for multiple column
+remove unused import
+move to common
+add support for multiple message
+move to common
+add support for multiple user to the same key
+add support for multiple column
+add check for null value
+add support for multiple column
+add support for multiple parameter
+remove unused class
+move package to package
+remove unnecessary null check
+address nullpointer exception in `
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+remove unused private method
+add support for hive table
+make sure that the class public
+remove unused import
+remove unused class
+remove unused import
+add support for legacy type
+add support for spring data
+add support for multiple column
+add support for multiple query
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for hive table
+add support for multiple column
+add support for spring data
+add support for multiple message
+remove unused import
+fix error in the same thread
+remove unused import
+add a new test for the java source source
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for spring data
+add support for hive table
+add support for hive table
+remove unused import
+add support for multiple column
+add support for multiple query
+add check for null
+add support for multiple column
+add support for spring data
+move the client package to the client
+move package to common
+add support for hive table
+add support for legacy type
+fix error message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for legacy type
+add support for spring data
+add new interface for interface
+add support for legacy annotation
+remove unused import
+add support for multiple file
+add support for legacy type
+remove unused import
+move package to package
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+fix error message
+add support for hive table
+add support for multiple column
+remove unused private method
+fix error message
+add support for multiple column
+add support for spring data
+add support for multiple parameter
+fix error message
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple file
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple parameter
+add support for multiple column
+add check for null value
+fix error message
+add support for hive table
+add support for multiple column
+remove unnecessary null check
+add support for hive table
+add support for hive table
+add support for legacy annotation
+remove unused import
+add support for spring data
+add a test for the java source file
+remove unused import
+add support for multiple column
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple column
+remove unused class
+add support for hive table
+add support for hive table
+add support for multiple message
+add support for multiple column
+add support for multiple column
+fix error message
+remove unused class
+add support for spring data
+add support for hive table
+add support for legacy annotation
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for legacy type
+fix error in the java source
+remove unused import
+add support for legacy type
+add support for hive table
+add support for legacy type
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple user property
+add support for multiple file
+remove unused class
+add support for legacy type
+add check for null value
+remove unused import
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for hive table
+fix error message
+add support for multiple query
+add support for legacy annotation
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple column
+move package to the util package
+add support for multiple file
+move to the package
+add support for multiple query
+add support for legacy annotation
+add support for multiple file
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+remove unused class
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for hive table
+remove unnecessary null check
+add support for multiple column
+fix error message
+remove unused import
+add support for hive table
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for legacy type
+remove public modifier from test
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for legacy type
+add support for multiple column
+add a new test for the new session
+add support for multiple file
+add support for multiple parameter
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple parameter
+add support for multiple column
+add support for multiple file
+add support for hive table
+remove unused import
+add support for multiple column
+add support for multiple file
+move package to common
+remove unused import
+add support for multiple column </s> : </s>
+add support for multiple column
+remove unused import
+add support for legacy type
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple message
+remove unnecessary null check
+add support for legacy type
+add check for null value
+add support for spring data
+remove unused import
+add support for spring data
+remove unused class
+add support for multiple user to the same key
+add check for null
+remove unused import
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add miss null check
+remove unused private method
+add miss null check
+add support for spring data
+add support for hive table
+remove unused import
+add support for spring data
+move to the package
+address the c error of `` `` `` `` `` `` nullpointer exception ''
+add support for multiple column
+add support for spring data
+remove unnecessary null check
+remove unused import
+add support for multiple parameter
+add support for hive table
+remove unused class
+remove unused class
+remove unused private method
+add support for spring data
+add support for multiple column
+make sure that the class public
+remove unnecessary null check
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+fix error message
+add support for hive table
+add support for multiple parameter
+add support for hive table
+add support for spring data
+add support for multiple query
+remove static modifier from test
+add support for multiple column
+add test for issue with java 8 type
+remove unused class
+add support for hive table
+add support for legacy type
+add support for multiple column
+add support for hive table
+add miss null check
+add miss null check
+add test for issue with java 8 type
+fix error message
+add support for legacy type
+remove unnecessary null check
+add support for multiple user to the same key
+fix error message
+add test for issue with java 8 type
+fix error message
+remove unused class
+add support for legacy type
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add miss null check
+remove unused import
+add support for hive table
+add support for hive table
+remove unused import
+add support for hive table
+fix error message
+add support for legacy annotation
+remove unused import
+add new interface for interface
+add support for multiple column
+add support for multiple column
+add support for legacy type
+remove unused class
+add a test for the new session
+add support for multiple column
+move some test to the new package
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for hive table
+remove unused import
+remove static method from interface
+add support for spring data
+remove unused import
+remove unused import
+remove unused private method
+remove unused class
+add support for legacy type
+add support for multiple column
+add support for spring data
+add support for multiple column
+add miss annotation to test
+add support for hive table
+add support for multiple parameter
+add support for hive table
+fix error message
+add support for spring data
+fix error message
+add support for multiple column
+remove unused class
+add support for multiple parameter
+remove unused import
+add support for multiple message
+remove unused import
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple column
+add support for legacy type
+add support for multiple query
+add support for multiple file
+add support for multiple file
+remove unused class
+add support for multiple query
+add support for multiple message
+add support for multiple column
+add support for multiple parameter
+add support for multiple file
+add new test for issue
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unused import
+make sure that the class be not a class
+add support for multiple query
+remove unused import
+add support for multiple query
+add new test for issue
+add support for hive table
+add support for multiple query
+move package to common
+add a test for the new session
+remove unused import
+add support for hive table
+add support for multiple parameter
+add support for hive table
+add support for hive table
+add support for multiple column
+remove unused import
+move to the package
+remove unused class
+add support for multiple query
+add support for multiple query
+add support for hive table
+add support for spring data
+remove unused import
+add support for multiple query
+add support for multiple column
+remove unused class
+add support for multiple file
+add support for hive table
+fix error message
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for multiple query
+add support for hive table
+add support for legacy type
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+move to the new package
+add support for legacy type
+add support for legacy annotation
+add support for hive table
+add support for multiple file
+remove unused import
+remove unused import
+add miss annotation to test
+add support for spring data
+remove unused import
+solve for issue with empty string
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple file
+remove unused import
+move some test to the new package
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for hive table
+add support for multiple file
+remove unused import
+add support for hive table
+add support for multiple column
+remove unnecessary null check
+add support for spring data
+add a test for the new session
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused private method
+add miss null check
+remove unused import
+remove unused import
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for hive table
+add support for spring data
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for legacy type
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple file
+add support for hive table
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for legacy type
+remove unused import
+add test for issue with java 8
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for hive table
+add a flag to the default value
+add support for multiple query
+remove unused import
+add support for multiple column
+remove unused import
+add support for file
+add support for multiple parameter
+add support for hive table
+add support for multiple query
+add support for hive table
+add support for legacy annotation
+add support for multiple column
+add support for legacy type
+add support for hive table
+remove unused import
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add support for multiple file
+remove unnecessary null check
+move to common package
+add support for spring data
+add support for multiple message
+add support for spring data
+remove unused import
+add support for multiple user to the same key
+add support for hive table
+remove unused import
+add support for legacy type
+add support for multiple column
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple column
+add support for multiple message
+remove unused class
+add support for multiple column
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+remove unnecessary null check
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for spring data
+remove unused file
+remove unused import
+fix error in the same thread
+remove unnecessary null check
+add support for spring data
+add support for hive table
+add support for spring data
+remove unused class
+remove unused import
+add new interface for interface
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple query
+add support for spring data
+add support for hive table
+add check for null value
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused private method
+add support for legacy annotation
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for hive table
+add miss annotation to test
+add support for multiple column
+add support for multiple parameter
+add support for multiple user to the same key
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for legacy type
+add test for issue with java 8 type
+remove unused import
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for spring data
+add support for multiple file
+add miss null check
+add support for multiple column
+add support for multiple query
+remove unused import
+add a test for the new session
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for spring data
+add test for issue with java 8 type
+move to common package
+add support for spring data
+add support for multiple query
+add support for hive table
+add support for multiple user to the same key
+remove unused private method
+remove unused import
+add support for legacy type
+remove unused import
+add support for multiple parameter
+add support for multiple column
+remove unused class
+add test for issue with java 8 type
+add support for multiple column
+remove unused class
+add support for spring data
+add support for multiple parameter
+add support for multiple file
+add support for multiple file
+add support for multiple query
+remove unused import
+fix error message
+make sure that the class public
+remove unused import
+fix error message
+add support for multiple file
+remove unused import
+add support for multiple query
+remove unused import
+add support for legacy annotation
+add support for spring data
+make sure that the class be not be call
+add support for multiple column
+add support for multiple parameter
+add support for legacy annotation
+add miss null check
+add support for multiple column
+make sure that the class public
+add check for null value
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple parameter
+add support for multiple column
+add test for issue with java 8
+add support for spring data
+add support for multiple query
+add support for legacy annotation
+remove unused import
+remove static modifier from test
+make sure that the class public
+add support for legacy annotation
+add support for multiple column
+remove unused import
+fix error in the same thread
+add check for null value
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for legacy type
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+make sure that the class public
+add support for hive table
+add support for multiple file
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+move package to the client package
+add support for multiple column
+fix error message
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for spring data
+add support for multiple file
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for spring data
+remove unused import
+add support for hive table
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for legacy annotation
+remove unused import
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple file
+fix error message
+add support for multiple file
+add support for multiple column
+add support for multiple query
+remove unused import
+add check for null
+remove unused class
+add support for legacy annotation
+remove unnecessary null check
+add support for multiple message
+add support for spring data
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for multiple query
+fix error message
+add test for issue with java 8 type
+remove unused import
+fix error message
+remove unused import
+add support for multiple column
+remove unused import
+add test for issue with java 8 type
+add support for hive table
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+fix error message
+add new interface for interface
+add support for spring data
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple user to the same key
+remove unnecessary null check
+add support for legacy annotation
+add support for spring data
+add support for multiple message
+remove unused import
+remove static method from interface
+remove unnecessary null check
+add support for multiple message
+add support for hive table
+add support for hive table
+add support for hive table
+add support for multiple view
+remove unused import
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+add support for legacy type
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add test for issue with java 8 type
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for spring data
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple user to the same source file
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple message
+add support for multiple file
+remove unused import
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+add support for spring data
+add support for file
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add test for issue with java 8 type
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add a test for the new feature
+add support for multiple column
+add support for multiple user property
+add a test for the new feature
+remove unnecessary null check
+add miss null check
+add support for multiple file
+add support for multiple column
+add support for multiple query
+add support for multiple parameter
+remove unused import
+add support for legacy type
+remove unused import
+add support for hive table
+remove unused import
+fix error message
+add support for spring data
+add miss null check
+remove unused import
+add miss null check
+add support for multiple query
+add test for issue with java 8 type
+add support for hive table
+remove unused import
+move package to the util package
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple file
+remove unused import
+remove unused import
+remove unused class
+remove unused import
+remove unused class
+remove unused import
+remove unused import
+fix error message
+add test for issue with java 8
+make sure that the class public
+add support for multiple query
+remove unused class
+add support for legacy annotation
+add support for multiple message
+remove unused import </s> class
+add support for multiple user to the same key
+add support for hive table
+add support for multiple query
+remove static method from interface
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for hive table
+add miss null check
+fix error message
+add support for multiple query
+add support for multiple user to the same key
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for legacy annotation
+add support for multiple query
+add support for spring data
+remove unused import
+add support for multiple parameter
+add support for spring data
+add support for multiple query
+remove unused import
+fix error message
+move to common package
+add support for multiple file
+add support for hive table
+remove unused private method
+add support for multiple column
+add check for null
+add support for legacy annotation
+add support for spring data
+remove unused class
+fix error message
+add support for hive table
+add support for spring data
+fix error message
+add test for issue with java 8 type
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple file
+add support for multiple column
+add test for issue with java 8 type
+remove unused import
+fix error message
+add support for multiple query
+remove unused import
+add support for legacy type
+remove unused private method
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add check for null value
+remove unused import
+add test for issue with java 8 type
+add support for multiple query
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for hive table
+add support for spring data
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+remove unused import
+add support for legacy type
+fix error in the same thread
+fix error message
+add support for legacy type
+add support for multiple column
+add support for multiple column
+make sure that the class public
+remove unused import
+add support for spring data
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple query
+add support for multiple column
+add support for multiple user to the same key
+add support for legacy annotation
+move package to the package
+add support for legacy annotation
+remove unused import
+remove unnecessary null check
+add support for multiple column
+remove unused import
+remove unused import
+move to common package
+add support for multiple message
+add support for multiple column
+add support for spring data
+add support for multiple file
+remove unused import
+add support for multiple column
+add new test for java source
+add support for multiple column
+remove unused class
+add support for spring data
+add support for multiple column
+add miss null check
+remove unused import
+add support for multiple column
+add support for hive table
+add check for null value
+add support for multiple parameter
+add support for hive table
+fix error in the same thread
+fix error message
+remove unused import
+add support for multiple file
+remove unused class
+make sure that the class public
+add support for hive table
+remove unused import
+add support for hive table
+fix error message
+add support for multiple column
+add support for spring data
+add a test for the new session property
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+add support for spring data
+add check for null
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused class
+add support for hive table
+add support for multiple message
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple user to the same key
+add support for file
+add support for multiple file
+add support for multiple query
+add test for issue with java 8
+add support for multiple user to the same key
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple query
+move package to the core package
+remove unused import
+add support for multiple query
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+add check for null
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple query
+remove unused class
+add support for multiple column
+add support for legacy annotation
+remove unused class
+make sure that the same class be always return
+add support for multiple parameter
+add support for spring data
+add support for multiple query
+add support for legacy annotation
+add support for multiple column
+add support for multiple query
+add test for issue with java 8 type
+remove unused class
+add support for hive table
+add support for multiple column
+add support for hive table
+remove unused import
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for multiple column
+remove unused import
+add miss null check
+add support for legacy type
+add miss null check
+move to the new package
+add support for multiple parameter
+add check for null value
+remove unused class
+add support for multiple query
+remove unused import
+add support for multiple column
+add miss file
+add support for legacy annotation
+add support for spring data
+address nullpointer exception in `
+remove unused import
+add support for legacy type
+add test for issue with java 8 type
+remove unused import
+add support for legacy annotation
+fix error message
+add support for multiple file
+remove unused import
+remove unused import
+add miss annotation to test
+add support for legacy annotation
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple query
+add new interface for interface
+add support for multiple file
+add support for hive table
+remove unused import
+add new interface for interface
+add support for multiple column
+add support for legacy type
+add support for legacy type
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused private method
+add support for multiple message
+remove unnecessary null check
+remove unnecessary null check
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple query
+remove unused class
+add support for multiple column
+add support for multiple user to the same key
+remove unused import
+add support for multiple user to the same key
+add support for hive table
+add support for multiple column
+add support for multiple message
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for hive table
+remove unused class
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for spring data
+remove unused import
+add support for legacy type
+add support for legacy type
+add support for legacy annotation
+remove unnecessary null check
+remove unused class
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add test for issue with java 8 type
+add support for hive table
+add a test for the new constructor
+remove unused import
+add support for multiple query
+add a flag to the default value
+fix error message
+remove unused import
+add support for spring data
+fix error message
+add support for multiple message
+add support for multiple file
+add support for multiple parameter
+remove unused import
+fix error message
+add support for legacy annotation
+add support for hive table
+add support for multiple user to the same key
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for legacy repository
+remove unused import
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple query
+remove unused private method
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+remove unused import
+add support for multiple column
+add support for legacy type
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for multiple user to the same key
+add support for multiple file
+add support for hive table
+add support for multiple column
+remove unused import
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple query
+add support for multiple column
+add a test for the new session
+add support for spring data
+add support for multiple column
+remove unused import
+remove unused private method
+do not use null value for empty string
+add support for multiple column
+add support for legacy type
+remove unnecessary null check
+remove unused class
+add support for multiple file
+add support for hive table
+add support for hive table
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for legacy type
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add test for issue with java 8 type
+add support for spring data
+add support for multiple query
+add support for multiple query
+add support for legacy type
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for legacy annotation
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple query
+remove unused import
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple file
+fix error in the same thread
+remove unused import
+add support for legacy annotation
+move package to common
+add support for legacy type
+add test for issue with java 8
+remove unused class
+add support for multiple file
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for multiple column
+add support for hive table
+add support for multiple column
+add test for issue with java 8 type
+add miss null check
+add miss import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for hive table
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple file
+fix error message
+remove static modifier from test
+remove unused import
+add support for spring data
+remove unused private method
+make sure that the class public
+add support for legacy class
+add support for multiple query
+add support for multiple column
+add a flag to the default value
+add support for multiple column
+add support for hive table
+add support for multiple parameter
+add support for multiple column
+add support for legacy annotation
+add support for multiple query
+remove unused import
+remove unused import
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+remove unnecessary null check
+add support for multiple message
+add support for multiple file
+remove unused import
+add support for multiple parameter
+remove unused import
+fix error in the java source
+add support for multiple file
+add support for multiple column
+add support for multiple column
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple file
+remove unnecessary null check
+remove unnecessary null check
+add support for hive table
+add support for multiple column
+add support for hive table
+add support for legacy type
+add support for multiple query
+remove unused import
+remove unused import
+remove unused file
+move to the package
+add support for spring data
+add support for multiple column
+add support for multiple file
+add support for multiple column
+add a test for the new feature
+remove unused import
+add support for spring data
+add support for spring data
+remove unnecessary null check
+add miss null check
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple file
+remove unused import
+move package to the core package
+add support for multiple column
+add support for multiple query
+add support for multiple file
+add test for issue with java 8 type
+add support for multiple user to the same source file
+remove unnecessary null check
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple parameter
+remove unused import
+remove unused import
+add check for null value
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple query
+add support for multiple column
+add support for multiple column
+fix error message
+add support for hive table
+add support for legacy type
+add test for issue with java 8 type
+remove unused class
+add support for hive table
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for hive table
+remove unused class
+fix error in the same thread
+add support for hive table
+add support for multiple parameter
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add a test for the new feature
+remove unused import
+remove unused class
+add support for multiple file
+add support for legacy type
+add support for multiple message
+remove public modifier from test class
+remove unused import
+add support for multiple column
+add support for multiple column
+add miss null check
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for hive table
+add support for hive table
+add test for issue with java 8 type
+make sure that the class public
+add support for multiple column
+add support for multiple file
+add support for multiple message
+add support for multiple query
+add support for multiple query
+add support for multiple user to the same source file
+remove unused import
+add support for multiple column
+move package to the package
+add support for multiple column
+fix error message
+remove unused import
+remove unused private method
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple query
+remove unused import
+move to common package
+add support for multiple column
+move the client package to the client
+add support for legacy type
+remove unused import
+add support for hive table
+add support for multiple message
+add support for hive table
+add miss annotation to test
+add support for multiple file
+add support for multiple file
+add support for multiple column
+add support for hive table
+add support for legacy annotation
+fix error in the same thread
+add support for multiple column
+add miss null check
+add support for multiple file
+add support for multiple message
+add miss null check
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add support for legacy annotation
+add support for multiple column
+add support for multiple file
+add support for spring data
+add support for multiple parameter
+add support for multiple query
+add support for legacy annotation
+remove static modifier from test
+add support for spring data
+add support for legacy type
+remove unused import
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple file
+add support for hive table
+add support for multiple query
+add support for multiple message
+remove unused import
+add support for spring data
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for multiple column
+add support for hive table
+add support for multiple query
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for hive table
+remove unused import
+add a test for the new session
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for spring data
+add miss file
+add support for multiple parameter
+add a test for the java source source
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more class </s> class </s> class
+add support for multiple query
+add support for multiple column
+add support for hive table
+add support for multiple user to the same key
+remove unused import
+add new interface
+remove unused class
+add support for hive table
+make sure that the class public
+remove unused class
+add support for multiple query
+add support for spring data
+remove unused import
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for spring data
+remove unused class
+add support for multiple column
+add miss null check
+add support for spring data
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for hive table
+add support for multiple query
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add miss null check
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused import
+add support for hive table
+remove unused import
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for spring data
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+add miss null check
+add miss file
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for multiple message
+add support for legacy type
+add support for multiple file
+add support for multiple query
+remove unused import
+add support for multiple message
+add a test for the new session
+add support for legacy type
+fix error in the java source
+add support for multiple column
+add support for multiple query
+add support for multiple message
+add support for multiple parameter
+remove unused file
+add miss null check
+add support for legacy annotation
+add support for multiple file
+add support for multiple column
+remove unused import
+add a test for the new feature
+remove unnecessary null check
+add support for multiple column
+add support for multiple file
+add miss null check
+remove unused import
+add support for multiple file
+add support for multiple column
+fix error message
+add support for legacy type
+add support for file
+add support for legacy annotation
+add support for hive table
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple file
+move to the package
+add support for spring data
+add support for multiple query
+remove unused import
+remove unused import
+add support for legacy annotation
+add support for spring data
+add support for spring data
+add miss null check
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple query
+remove unused class
+add support for multiple column
+add support for multiple file
+add miss null check
+add support for multiple column
+remove unnecessary null check
+add check for null value
+add support for multiple query
+remove unnecessary null check
+add support for multiple query
+add support for multiple message
+add support for multiple column
+add support for hive table
+add support for multiple column
+add new interface
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add support for multiple query
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+fix error in the same thread
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple column
+remove unused import
+add test for issue with java 8 type
+remove unused import
+remove unused import
+fix error message
+remove unused import
+remove unnecessary null check
+add support for spring data
+remove unused import
+remove unused import
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple file
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple user to the same key
+remove unused import
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple query
+remove unused import
+remove static modifier from test
+add support for multiple column
+add support for hive table
+add support for multiple query
+move package to common
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple user to the same key
+add a test for the java source file
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for spring data
+add support for multiple column
+move to common package
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple file
+add support for multiple message
+add support for multiple column
+add test for issue with java 8 type
+remove unused import
+add support for multiple column
+add support for hive table
+remove unused import
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple column
+add support for hive table
+add check for null
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple file
+remove unused class
+add support for hive table
+add support for multiple column
+add support for legacy annotation
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for multiple query
+add support for multiple file
+add support for multiple query
+add support for multiple message
+add test for issue with java 8 type
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for hive table
+add support for hive table
+add support for multiple column
+remove unused import
+add support for hive table
+add support for multiple column
+add support for spring data
+add support for legacy annotation
+add test for issue with java 8 type
+remove unused import
+add support for multiple query
+fix error in the same thread
+add support for spring data
+add check for null value
+remove unused import
+remove unused import
+add support for multiple file
+add support for multiple user to the same key
+add support for spring data
+add test for java 8
+move package to the package
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+fix error in the same thread
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for spring data
+add a test for the java source source file
+remove unused class
+add test for issue with java 8 type
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple file
+remove unused import
+add a test for the java source file
+add miss null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add new interface for interface
+add support for multiple column
+move to the package
+add support for file
+remove unused import
+remove unused import
+add support for multiple query
+add support for legacy type
+add support for multiple user to the same key
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple query
+add support for hive table
+remove unused import
+add support for legacy type
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused file
+add support for hive table
+fix error message
+remove unused import
+remove unused import
+add support for hive table
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple parameter
+remove unnecessary null check
+add miss null check
+add support for multiple query
+add support for multiple message
+add support for spring data
+add support for spring data
+add support for multiple column
+add support for spring data
+add support for multiple query
+add support for legacy type
+add support for legacy annotation
+remove unused import
+remove static method from interface
+add support for hive table
+add support for legacy type
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unused import
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more more more than </s> more than </s> more than </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class </s> class
+remove static method from interface
+add support for legacy type
+add support for multiple column
+add support for hive table
+add support for spring data
+move package to the util package
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple file
+move to common package
+remove unused import
+move some test to internal package
+add support for hive table
+add support for multiple column
+remove unused import
+add new test for issue
+add support for multiple query
+add support for legacy type
+remove unnecessary null check
+add support for multiple column
+move to the new package
+add support for hive table
+add support for multiple column
+add support for legacy type
+add support for multiple file
+remove unused class
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple parameter
+remove unused import
+remove static method from interface
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple file
+remove unused import
+remove unnecessary null check
+add support for multiple file
+fix error message
+add support for spring data
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+remove unused import
+add support for multiple message
+add support for multiple column
+remove unused import
+remove unused import
+add new test for issue
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for legacy annotation
+add a new test for the java api
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for legacy annotation
+add support for multiple parameter
+add support for spring data
+fix error in the java source
+add support for multiple column
+add a test for the new feature
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+fix error message
+add support for hive table
+remove unused import
+add support for multiple file
+add support for multiple user to the same key
+add support for file
+fix error message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+remove unused import
+remove unused private method
+add support for multiple column
+add support for spring data
+add test for issue with java 8 type
+add support for multiple query
+remove unused import
+add new interface for interface
+add support for multiple column
+add support for hive table
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+add support for spring data
+add support for multiple file
+add support for multiple column
+add support for hive table
+add support for hive table
+remove unused import
+add test for issue with java 8
+remove unused import
+add support for legacy annotation
+add support for spring data
+add support for spring data
+remove unnecessary null check
+remove unused import
+add support for hive table
+add support for spring data
+add support for multiple column
+move package to the util package
+move package to common
+add support for multiple column
+remove unused class
+remove unused import
+remove unused import
+add support for legacy type
+remove unused class
+add support for multiple column
+remove unused import
+add support for hive table
+add support for hive table
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+remove unused import
+remove unused import
+remove unused import
+add support for multiple query
+add support for hive table
+add support for spring data
+add test for issue with java 8 type
+add support for multiple column
+add test for issue with java 8 type
+add miss annotation to test
+add support for multiple message
+fix error in the java source
+remove unused import
+remove unused class
+make sure that the same class be always return
+add support for multiple column
+add check for null value
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple query
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+remove unnecessary null check
+add support for hive table
+solve npe in call
+remove unused class
+add support for multiple query
+do not use the same source if the same
+add support for multiple column
+add support for legacy type
+add support for multiple file
+add support for legacy type
+add support for multiple message
+add test for issue with java 8 type
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple column
+add support for legacy annotation
+add support for hive table
+add support for spring data
+add support for multiple column
+remove unused import
+add support for spring data
+add support for legacy type
+add a test for the new session
+add support for hive table
+fix error message
+remove unused import
+add support for multiple query
+add support for multiple column
+add new test for issue
+remove unused import
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for legacy type
+add support for multiple column
+remove unused class
+remove unused import
+add a test for the new session
+fix error message
+add support for multiple column
+add support for spring data
+remove unused import
+remove unused import
+add miss null check
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused class
+remove unused import
+add support for hive table
+make sure that the same class be not a the same class
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple query
+remove unused import
+add test for issue with java 8 type
+remove unnecessary null check
+add support for spring data
+remove unused class
+add support for multiple column
+remove unused import
+add support for legacy annotation
+remove unused import
+add support for multiple column
+add support for legacy annotation
+add support for multiple file
+add support for hive table
+add support for hive table
+add support for multiple column
+add support for multiple column
+add miss annotation to test
+remove unused import
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for spring data
+add check for null value
+remove unused import
+add support for multiple column
+add miss null check
+remove unused import
+add support for legacy type
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for file
+remove unnecessary null check
+add support for multiple column
+add a test for the java source source
+remove unused import
+add support for multiple parameter
+add support for multiple file
+add support for spring data
+add support for legacy annotation
+add support for hive table
+remove unused import
+add support for spring data
+add miss annotation to test
+add support for multiple column
+add test for issue with java 8 type
+add support for hive table
+add support for multiple column
+add support for multiple query
+add support for multiple file
+add support for multiple column
+remove unused import
+make sure that the class be not a class
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple message
+add support for multiple user to the same key
+add support for multiple user to the same class name
+add support for multiple file
+add support for multiple file
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+add support for legacy type
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused class
+make sure that the class public
+add support for hive table
+add support for multiple user to the same key
+add support for spring data
+move package to the util package
+remove unused import
+add support for multiple query
+add support for multiple column
+fix error message
+add support for spring data
+add support for hive table
+add support for multiple file
+remove unused import
+remove unused import
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+add support for multiple file
+add support for legacy annotation
+add support for multiple column
+add support for multiple file
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for legacy type
+add support for hive table
+add support for multiple column
+add support for hive table
+remove unused import
+add support for legacy annotation
+remove unused import
+add support for multiple message
+add support for hive table
+add support for hive table
+add support for legacy annotation
+add support for multiple query
+add support for multiple query
+add support for multiple file
+add support for multiple column
+add support for multiple column
+add support for hive table
+move some test to internal package
+add support for spring data
+add support for multiple column
+add support for multiple message
+add support for multiple query
+add support for multiple message
+add support for multiple file
+remove unused class
+add support for multiple file
+add check for null value
+add a test for the java source source
+add support for multiple column
+add support for multiple query
+fix error message
+add support for multiple file
+remove unnecessary null check
+add support for multiple column
+add support for spring data
+add support for multiple user property
+add support for hive table
+remove unused import
+remove unnecessary null check
+remove unnecessary null check
+add support for multiple message
+fix error message
+add support for hive table
+add support for multiple column
+move some test to the new package
+add support for multiple column
+add support for multiple column
+add support for multiple column
+move package to the util package
+remove unused class
+remove unused import
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple column
+do not use the same source if the source be not set
+remove unused import
+add a test for the java source source
+add support for multiple column
+add support for multiple column
+remove unused private method
+remove unused import
+add miss null check
+add support for multiple message
+remove unused import
+add support for hive table
+add support for legacy type
+remove unused class
+add support for multiple column
+add support for legacy type
+remove unused import
+add support for multiple column
+add support for multiple column
+add new test for issue
+add support for hive table
+add support for spring data
+remove unused class
+add support for multiple column
+add support for multiple file
+add new interface for interface
+remove unused class
+remove unused import
+add support for multiple query
+add support for legacy annotation
+add new test for java source
+add support for hive table
+add new test for issue
+add support for legacy type
+remove static method from interface
+remove unused import
+remove unused private method
+fix error message
+remove unnecessary null check
+add miss null check
+add support for multiple column
+add test for issue with java 8 type
+fix error message
+add miss import
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple message
+fix error message
+add support for multiple column
+fix error message
+remove unused import
+remove unused import
+add support for multiple query
+add new test for java source
+remove unused import
+add support for multiple query
+remove unused import
+add a test for the new session
+remove unused import
+add support for multiple file
+add support for multiple column
+fix error in the same thread
+add support for multiple query
+remove unused static method
+add support for multiple column
+remove unused class
+remove unused import
+add support for multiple user to the same key
+add support for multiple query
+remove unused import
+make sure that the class public
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+remove unused import
+add support for multiple query
+add support for multiple parameter
+remove unused import
+remove unused import
+add support for multiple column
+move package to the core package
+fix error message
+add support for hive table
+move package to the util package
+remove unnecessary null check
+add support for multiple column
+add support for multiple user to the same key
+add support for spring data
+remove unused import
+remove unused class
+remove unused class
+add support for spring data
+add support for multiple column
+remove unused import
+fix error message
+remove unused import
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add miss file
+add support for multiple column
+add support for hive table
+add a test for the new feature
+add support for multiple column
+add support for spring data
+add support for hive table
+remove unused import
+add support for multiple column
+add check for null value
+remove unused private method
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple file
+add support for multiple user to the same key
+add support for multiple column
+add support for legacy type
+add support for multiple column
+add support for legacy type
+add support for file
+add support for multiple file
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple message
+remove unused import
+add check for null
+add support for multiple user to the same key
+add support for multiple query
+add support for multiple message
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+remove unused import
+add miss null check
+add support for multiple query
+add support for hive table
+add support for multiple query
+add support for multiple column
+add support for multiple user to the same key
+add support for spring data
+fix error message
+remove unused import
+add support for hive table
+add support for multiple file
+add support for hive table
+add support for spring data
+add test for issue with java 8
+remove unused import
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add check for null value
+add support for legacy type
+add support for hive table
+add support for multiple column
+add check for null value
+add support for hive table
+add support for spring data
+remove unused import
+add a test for the new session
+remove unused import </s> class
+add support for multiple column
+add miss file
+add support for multiple column
+add support for multiple file
+add support for legacy type
+remove unnecessary null check
+add support for hive table
+remove unused import
+remove static modifier from test
+add support for hive table
+remove unused import
+remove unused class
+add support for multiple parameter </s> class
+remove unused class
+add support for multiple file
+add support for legacy type
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+add support for spring data
+add support for hive table
+remove unused import
+add support for multiple parameter
+remove unused import
+add check for null
+remove unused import
+move package to the client package
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for spring data
+remove unused import
+add test for issue with java 8 type
+add support for spring data
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add new test for issue
+add support for spring data
+remove unused import
+add check for null
+add support for hive table
+remove unnecessary null check
+remove unused import
+remove unnecessary null check
+add support for hive table
+add support for hive table
+add support for multiple column
+remove unused file
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for hive table
+add miss null check
+add support for multiple column
+add check for null
+add support for legacy annotation
+add support for spring data
+add check for null value
+add support for spring data
+remove unused import
+add support for multiple user to the same key
+add support for multiple column
+remove unused class
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for legacy annotation
+add support for multiple file
+remove unused private method
+add support for hive table
+add support for multiple user to the same key
+add support for multiple column
+remove unused import
+remove unused import
+add support for legacy type
+add support for multiple user to the same key
+add support for spring data
+remove unused import
+add support for multiple query
+add support for multiple file
+add support for multiple user to the same key
+remove unused import
+add support for multiple parameter
+add test for issue with java 8 type
+remove unused import
+add support for spring data
+add support for multiple column
+remove unused class
+add support for legacy type
+add support for multiple file
+add support for spring data
+add support for multiple column
+add support for spring data
+address nullpointer exception in `
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for multiple file
+add support for legacy type
+add support for spring data
+remove unused import
+add support for legacy annotation
+add support for legacy annotation
+add support for legacy annotation
+remove unused import
+add support for multiple parameter
+remove unused import
+remove unused import
+do not use the same source if the same
+remove unused class
+add support for multiple parameter
+add support for spring data
+remove unused import
+add support for multiple file
+address the c error of `` `` `` `` `` `` nullpointer exception ''
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for file
+add support for multiple parameter
+add support for multiple file
+add support for multiple column
+add test for issue with java 8
+add support for multiple query
+add miss file
+add support for multiple file
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for multiple query
+remove unused import
+add support for hive table
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple file
+add miss null check
+remove unused class
+add support for multiple column
+move package to the client package
+add support for multiple file
+add support for multiple query
+add support for spring data
+add support for multiple column
+add support for legacy type
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add miss null check
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple user property
+remove unused class
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add check for null value
+add support for hive table
+remove unused import
+remove unused private method
+add miss annotation to test
+remove unused import
+add support for hive table
+add support for multiple file
+add support for legacy type
+add support for multiple column
+add support for multiple column
+make private static method public
+remove unused class
+add support for multiple column
+add support for multiple file
+fix error in the same thread
+remove unused import
+fix error message
+add support for multiple file
+make sure that the same class public
+add support for multiple column
+add support for hive table
+add support for multiple query
+fix error in the same thread
+remove unnecessary null check
+move package to the client package
+remove unused class
+add support for multiple column
+move some test to the new package
+add support for multiple view
+add a test for the java source
+add support for multiple column
+add support for multiple message
+remove unused private method
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+fix error in the same thread
+add support for multiple query
+add support for spring data
+add support for multiple column
+move package to the package
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple query
+add support for multiple query
+add support for multiple parameter
+add miss annotation to test
+add support for multiple column
+add support for multiple file
+make sure that the class public
+add support for hive table
+fix error message
+add miss null check
+add support for multiple message
+add support for hive table
+add support for multiple column
+add support for multiple column
+add support for multiple message
+add support for hive table
+remove unused import
+add support for multiple file
+add support for multiple file
+add test for issue with java 8 type
+add support for legacy type
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple file
+remove unused class
+add support for multiple column
+add support for hive table
+add support for multiple file
+add support for legacy annotation
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple user to the same key
+move package to the util package
+add support for multiple parameter
+add support for multiple query
+remove unused import
+remove unused class
+remove unused import
+add support for multiple message
+add support for legacy type
+add support for multiple column
+add support for multiple message
+add support for hive table
+add check for null
+add support for multiple query
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add miss null check
+add new test for issue
+remove unused import
+add support for spring data
+add support for hive table
+add support for multiple column
+add support for legacy type
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for hive table
+remove unused import
+add support for hive table
+add support for spring data
+add support for multiple column
+add support for multiple message
+add miss file
+add support for multiple message
+fix error message
+add support for multiple query
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple column
+add support for hive table
+add support for multiple message
+add support for multiple column
+add support for spring data
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+remove unused import
+add test for issue with java 8
+add support for multiple column
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for spring data
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple file
+add test for issue with java 8 type
+remove unused class
+add support for multiple message
+remove unused import
+add support for multiple query
+add support for multiple query
+remove unused import
+add support for multiple column
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple user to the same source file
+add support for multiple query
+add miss null check
+add a test for the new session
+move package to the package
+add support for spring data
+remove unused class
+add support for multiple user to the same key
+add support for multiple query
+add support for multiple column
+add support for multiple column
+make sure that the class public
+add support for legacy annotation
+remove unused import
+remove unused import
+add support for multiple file
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add new test for issue
+add support for legacy annotation
+add support for multiple column
+remove unused import
+remove unused import
+add miss null check
+remove unnecessary null check
+add support for multiple message
+add support for hive table
+add support for multiple column
+add support for multiple message
+add support for multiple query
+add support for multiple query
+add support for hive table
+remove unused import
+add support for multiple query
+add support for multiple column
+make class static
+add support for hive table
+add support for multiple column
+add support for multiple file
+add support for multiple column
+move to the package
+add check for null
+add support for spring data
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for legacy annotation
+remove unnecessary null check
+remove unused import
+remove static modifier from test
+remove unused class
+add support for multiple column
+remove unused import
+remove unused class
+add support for legacy annotation
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple user to the same source
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for hive table
+add support for multiple file
+add test for issue with java 8 type
+add support for multiple query
+add support for spring data
+add support for legacy type
+add test for issue with java 8 type
+move package to the core package
+add support for multiple message
+add support for multiple column
+remove unnecessary null check
+add support for legacy type
+add support for hive table
+remove unused import
+add support for multiple query
+remove unused import
+remove unused import
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple column
+add a test for the new feature
+add support for multiple message
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple query
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for spring data
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple query
+remove unused import
+remove unused import
+remove unused class
+remove unused import
+add support for multiple parameter
+add support for legacy annotation
+add support for multiple column
+add support for legacy type
+add support for multiple query
+fix error in the same thread
+remove unused import
+fix error message
+remove unused import
+add support for legacy annotation
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for legacy type
+add support for spring data
+fix error message
+add miss annotation to test
+add support for multiple column
+remove unused package
+remove unused class
+add support for legacy annotation
+remove unused import
+add support for spring data
+remove unnecessary null check
+add support for multiple column
+add check for null
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unused class
+remove unused import
+add support for multiple column
+add support for multiple column
+solve npe in call
+add support for multiple column
+move the client package to the client
+add support for multiple parameter
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unused import
+move package to the util package
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple message
+remove unused class
+add support for multiple query
+remove unused import
+add support for multiple message
+add support for multiple column
+remove unused class
+remove unnecessary null check
+move the client to the client package
+add support for legacy annotation
+add support for multiple query
+add support for hive table
+remove unused class
+add support for multiple message
+remove unnecessary null check
+add support for multiple column
+add miss annotation to test
+remove unused class
+add support for multiple file
+add support for spring data
+add support for hive table
+add support for multiple parameter
+remove unused import
+move to the new package
+add support for legacy annotation
+remove unused import
+add support for multiple parameter
+add support for multiple file
+add miss null check
+add check for null
+remove unused import
+remove unused import
+remove unused import
+add support for legacy annotation
+remove unused import
+make sure that the same thread be always close
+remove unused class
+remove unused import
+add support for multiple column
+add support for hive table
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple file
+remove unnecessary null check
+add support for spring data
+fix error message
+remove unused import
+fix error message
+remove unused private method
+add support for legacy type
+add support for legacy type
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for spring data
+add test for issue with java 8 type
+add support for hive table
+add support for multiple user to the same key
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple file
+add support for multiple query
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple user to the same key
+add support for hive table
+add support for multiple file
+add support for multiple column
+remove static modifier from test </s> method </s> class
+remove unused import
+add support for legacy annotation
+remove unused import
+add support for legacy annotation
+remove unused import
+remove unused import
+add miss file
+add support for multiple column
+make sure that the class public
+move to common package
+add a test for the new session
+add miss import
+add support for legacy type
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple parameter
+add support for multiple column
+add a test for the java source source
+add support for multiple query
+remove unused import
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for spring data
+add support for hive table
+remove unused import
+add support for hive table
+add support for multiple column
+add support for hive table
+add check for null value
+remove unused import
+add support for multiple file
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple parameter
+remove unused import
+add support for multiple column
+add support for hive table
+remove unused import
+add support for multiple parameter
+add support for multiple query
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+make sure that the same class be not a the same
+add support for spring data
+remove unused import
+add support for multiple query
+add support for spring data
+add support for hive table
+add miss null check
+add support for multiple column
+add new test for issue
+add support for legacy type
+add support for legacy type
+add support for hive table
+add support for legacy annotation
+remove unnecessary null check
+add support for multiple file
+remove unused import
+fix error message
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+remove unnecessary null check
+remove unused class
+move to common package
+add support for multiple column
+remove unused import
+add support for hive table
+remove unused import
+move to common
+add support for multiple column
+add support for multiple file
+add check for null
+add support for multiple query
+add support for file
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple query
+add miss annotation to test
+move package to the util package
+add support for multiple column
+remove unused import
+add support for legacy type
+remove unused class
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple message
+add check for null
+remove unused class
+add support for multiple column
+add support for file
+add support for multiple column
+add support for hive table
+move to the new package
+add support for multiple file
+add support for legacy type
+add support for hive table
+add support for legacy annotation
+add support for multiple column
+fix error in the java source
+add support for spring data
+add miss file
+add a test for the new session
+add support for multiple column
+add support for multiple message
+make sure that the class be not a class
+remove unused import
+add support for multiple column
+remove unused import
+add support for hive table
+add support for multiple message
+add support for hive table
+add support for multiple file
+fix error message
+add miss null check
+add support for multiple message
+add support for multiple file
+add support for hive table
+add check for null value
+fix error message
+add support for multiple query
+add support for multiple user to the same key
+remove unused import
+add support for multiple message
+add a test for the java source file
+add support for legacy annotation
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for hive table
+add support for hive table
+remove unused import
+add a test for the new session
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused class
+add support for hive table
+add miss null check
+add support for multiple user to the same key
+remove unused import
+remove unused import
+add test for issue with java 8 type
+remove unused import
+add support for multiple query
+remove unused import
+add support for multiple query
+add support for spring data
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple file
+add support for hive table
+remove unused import
+add support for multiple column
+add support for hive table
+add support for legacy annotation
+add support for multiple column
+remove unused class
+add support for hive table
+remove unnecessary null check
+remove unused import
+remove unused private method
+add support for multiple column
+add support for legacy annotation
+remove unused import
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for legacy annotation
+add support for legacy annotation
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for multiple parameter
+move to the package
+remove unused class
+add support for multiple column
+add a test for the new session
+remove unused import
+add support for multiple column
+add support for multiple message
+remove unused class
+add support for legacy type
+add support for multiple column
+fix error message
+add support for multiple file
+remove unused import
+add support for multiple file
+add support for legacy annotation
+add support for spring data
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+add support for multiple message
+add support for hive table partition partition partition partition partition table
+add support for multiple column
+make sure that the class public
+add miss null check
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add support for spring data
+add support for multiple column
+fix error message
+remove unused class
+add support for legacy annotation
+remove unused import
+add support for multiple column
+move to common package </s> package
+add support for multiple column
+move package to the core package
+add support for multiple user to the same key
+add support for multiple column
+add support for hive table
+add support for multiple user to the same key
+add support for spring data
+add miss annotation to test
+add support for multiple column
+add support for multiple column
+add support for hive table
+add support for multiple file
+add support for multiple column
+add support for hive table
+add support for hive table
+add support for spring data
+add support for hive table
+remove unused import
+add support for multiple file
+remove unused private method
+add support for multiple message
+remove unused import
+add support for multiple parameter
+make sure that the class public
+add support for multiple query
+add support for multiple column
+add support for multiple column
+do not use the same source if the same
+remove unused method from interface
+add support for multiple column
+add support for multiple file
+add support for hive table
+remove unnecessary null check
+add test for issue with java 8 type
+remove unused import
+add support for multiple parameter
+add miss null check
+add miss import
+move some test to the package
+add support for spring data
+move package to the client package
+add new interface for interface
+add support for multiple column
+add support for multiple column
+add support for spring data
+add support for multiple file
+remove unused import
+add support for legacy annotation
+make sure that the class public
+remove unused import
+add support for multiple query
+add support for multiple query
+add support for multiple file
+remove unused import
+add support for spring data
+remove unused import
+add support for multiple query
+add support for multiple file
+remove unused import
+remove unused class
+remove unused import
+add support for hive table
+add support for multiple parameter
+fix error in the same thread
+add support for hive table
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+remove unused import
+add support for multiple file
+remove unused import
+add support for multiple query
+remove unnecessary null check
+add support for hive table
+remove unused class
+add support for spring data
+remove unused private method
+fix error message
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple query
+add support for spring data
+add support for multiple query
+add support for multiple column
+add support for spring data
+add support for hive table
+add support for multiple column
+remove unused import
+make sure that the same class name be not a the same name
+add support for multiple query
+add support for hive table
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add a test for the java source source
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+move to the package
+remove unused class
+add check for null value
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+remove unused class
+add support for multiple query
+make sure that the same class be not a the same class
+add support for multiple file
+add support for multiple column
+remove unnecessary null check
+add miss null check
+add test for issue with java 8 type
+add support for multiple message
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for legacy type
+add support for multiple file
+add support for multiple message
+add support for multiple column
+add support for spring data
+add support for multiple column
+remove unused class
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same source file
+add support for multiple file
+add support for hive table
+remove unused import
+remove unused import
+add support for legacy type
+add new interface for interface
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for spring data
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+move to the new package
+remove unused import
+add support for hive table
+add support for multiple query
+add support for multiple column
+move package to the client package
+add support for multiple user to the same source file
+add miss null check
+remove unused import
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+remove unused import
+add support for legacy type
+add support for legacy type
+add support for multiple column
+add support for multiple user to the same key
+add support for legacy type
+add support for hive table
+add support for multiple user to the same key
+add support for hive table
+remove unused import
+add support for multiple file
+add support for file
+remove unused import
+add support for multiple column
+remove unused import
+add support for legacy class
+remove unused import
+remove unused import
+add support for multiple query
+remove unused import
+make sure that the same class be not a the same class
+add support for legacy annotation
+add check for null value
+add support for multiple column
+move the client package to the client
+remove unused import
+add support for hive table
+remove unused import
+move to common package
+add a test for the java source source
+remove unused import
+remove unused import
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add test for issue with java 8 type
+add support for multiple query
+add support for multiple file
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+move to common package
+add support for multiple column
+remove unused import
+remove unused import
+add miss null check
+add support for multiple file
+add support for multiple column
+add support for spring data
+add support for multiple column
+add support for hive table
+add support for multiple query
+add support for multiple file
+add support for multiple file
+add support for multiple file
+add support for legacy type
+move package to the util package
+remove unused import
+add support for multiple query
+add support for spring data
+add test for issue with java 8 type
+add test for issue with java 8 type
+move to the api package
+add support for multiple column
+add support for multiple query
+remove unused import
+fix error message
+add support for multiple query
+add support for spring data
+add support for multiple message
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for legacy annotation
+add support for hive table
+remove unused import
+add support for multiple column
+add support for hive table partition partition partition partition table
+add support for multiple file
+add support for multiple message
+add support for hive table
+remove unused import
+add support for spring data
+add support for legacy annotation
+add support for legacy annotation
+add support for multiple message
+remove unnecessary null check
+fix error in the same thread
+remove unused class
+remove unused import
+remove unused import
+add miss null check
+remove unused import
+add support for multiple file
+remove unused import
+add support for spring data
+add support for multiple file
+add miss null check
+remove unused import
+add support for spring data
+remove unused import
+add support for multiple query
+add support for multiple user to the same key
+remove unused import
+move package to the util package
+add support for legacy type
+add support for hive table
+add a test for the new java api
+add check for null
+remove unused import
+remove unused import
+fix error message
+remove unused import
+add support for multiple file
+add support for hive table
+add support for hive table
+add support for multiple query
+add support for multiple parameter
+add support for multiple column
+add miss null check
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple column
+add support for multiple message
+add support for multiple column
+move package to the package
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add miss null check
+add support for multiple column
+fix error message
+add support for spring data
+add support for multiple column
+add test for issue with java 8 type
+add support for hive table
+add support for spring data
+add support for multiple query
+add support for multiple query
+remove unused class
+move to common
+add support for multiple column
+add support for multiple file
+add support for multiple file
+fix error message </s> interface
+remove unused import
+add support for multiple column
+add support for file
+add support for multiple file
+add support for multiple column
+remove unused import
+make sure that the same class be not a the same class
+add support for hive table
+remove unnecessary null check
+move to the package
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused class
+add miss null check
+move some test to internal package
+add support for multiple column
+add a test for the new feature
+remove unnecessary null check
+remove unused import
+add support for spring data
+add miss null check
+add support for multiple query
+remove unused import
+add support for multiple column
+add support for legacy type
+add support for multiple message
+fix error message
+add support for multiple column
+remove unused import
+add support for hive table
+add miss null check
+make sure that the class public
+add new test for issue
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for spring data
+remove unused import
+move some test to the new package
+add support for multiple message
+remove unused import
+add support for multiple file
+move to common
+add support for spring data
+remove unused import
+add new interface for interface
+add support for multiple column
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple query
+fix error message
+move package to the util package
+add support for hive table
+add support for multiple column
+add support for multiple query
+remove unused class
+add support for multiple message
+add support for multiple query
+add support for file
+add support for spring data
+remove unused import
+add support for multiple message
+add support for multiple query
+add support for multiple query
+remove unused import
+add support for hive table
+remove unused class
+remove unused import
+add support for multiple parameter
+remove unused import
+add support for multiple file
+add support for spring data
+add support for hive table
+add support for multiple message
+remove unused class
+add support for spring data
+remove unused import
+move package to the util package
+remove unused import
+fix error in the same thread
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+add support for multiple column
+add support for hive table
+add support for hive table
+remove unnecessary null check
+add support for multiple column
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+make sure that the same class name be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a public
+remove unnecessary null check
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple file
+add new test for issue
+remove unused import
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for hive table
+add test for issue with java 8 type
+fix error message
+add support for multiple column
+add support for multiple column
+add support for legacy annotation
+fix error message
+remove unused import
+add support for multiple query
+remove unused import
+add support for legacy type
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for hive table
+move package to the package
+make sure that the same class public
+add support for multiple user to the same key
+add miss null check
+remove unused import
+fix error message
+add support for multiple column
+add support for multiple column
+remove unused class
+add test for issue with java 8 type
+remove unused import
+add support for multiple file
+move package to the util package
+remove unused import
+remove unused class
+add check for null
+add support for multiple column
+add support for hive table
+remove unnecessary null check
+add support for multiple column
+move package to the core package
+add support for multiple parameter
+add support for multiple message
+add support for multiple file
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for file
+remove unused import
+move to the package
+add support for spring data
+remove unused import
+remove unused import
+add support for multiple query
+remove unused class
+remove unused import
+add support for spring data
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more than that that it that it that it that it that it that it that it that it that it be that it be not be not be that it be not have be more than
+add support for multiple column
+add support for spring data
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for multiple file
+add support for multiple parameter
+add support for multiple column
+add support for spring data
+remove unused class
+add support for multiple column
+add support for hive table
+remove unused import
+add support for multiple column
+add new interface
+add a test for the new session
+add support for hive table
+add a new test for the java source file
+add support for legacy type
+add support for hive table
+remove unused import
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused private method
+add support for multiple query
+add support for multiple query
+add miss null check
+add support for multiple parameter
+add support for spring data
+remove unused import
+add support for multiple column
+fix error in the same thread
+fix error message
+add support for hive table
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple query
+add support for spring data
+add support for multiple column
+add support for legacy type
+add support for multiple column
+add support for multiple message
+add support for multiple user property
+remove unused import
+add support for legacy annotation
+remove unused class
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for multiple file
+add test for issue with java 8 type
+add support for spring data
+remove unused import
+remove unused class
+add support for multiple file
+add support for multiple column
+remove unused import
+add support for legacy type
+add new interface for interface
+remove unused import
+add support for multiple column
+remove unused class
+remove unused import
+remove unused static method
+add support for multiple query
+add support for spring data
+add support for multiple message
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+remove unused import
+add support for multiple column
+address nullpointer exception in `
+add a test for the java source file
+add support for multiple query
+add support for multiple file
+add support for spring data
+add support for multiple query
+add support for multiple column </s> : </s>
+add miss null check
+remove static method from interface
+remove unused import
+add support for multiple column
+add support for multiple query
+remove unused import
+move package to the package
+add support for multiple column
+add support for multiple column
+add support for legacy type
+add support for multiple column
+add support for spring data
+add support for multiple file
+add support for multiple column
+add support for multiple message
+add support for multiple file
+add support for spring data
+remove unused import
+add support for multiple column
+add check for null
+add support for multiple query
+remove unused class
+add support for multiple message
+add support for hive table
+remove unused import
+add support for multiple column
+remove unused import
+add support for legacy type
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple user to the same key
+add support for hive table
+add support for multiple column
+remove unused import
+remove unused import
+add a new test for the java api
+add support for hive table
+add support for spring data
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple column
+add support for multiple message
+add support for multiple message
+add support for legacy type
+add support for multiple column
+add test for issue with java 8 type
+remove unused import
+add support for multiple column
+add support for multiple column
+add support for hive table
+add test for issue with java 8 type
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unused import
+add support for spring data
+add support for spring data
+add support for multiple user to the same key
+add support for hive table
+add support for multiple column
+add support for hive table
+remove unused private method
+add support for multiple column
+add support for multiple column
+add support for multiple user to the same key
+add support for multiple message
+add support for multiple column
+remove unused import
+add support for multiple message
+add test for issue with java 8
+add test for issue with java 8 type
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unused import
+remove unnecessary null check
+add miss null check
+add test for issue with java 8 type
+add test for issue with java 8
+add support for multiple column
+add support for spring data
+add support for spring data
+add support for spring data
+add support for multiple query
+add miss null check
+add support for multiple column
+add support for multiple file
+remove unused import
+add support for multiple column
+add support for multiple query
+add support for multiple column
+remove unused import
+remove unused import
+remove unused import
+add a test for the new session
+add support for multiple file
+add support for multiple query
+remove unused import
+add test for issue with java 8 type
+make sure that the class be not a class
+add check for null
+add support for multiple column
+add a new test for the java api
+add support for hive table
+add support for multiple parameter
+add support for multiple query
+add support for multiple column
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple message
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for multiple query
+add support for hive table
+add support for multiple column
+add support for multiple file
+add support for spring data
+remove unnecessary null check
+add support for hive table
+remove unused import
+add support for multiple parameter
+remove unused import
+add support for multiple column
+make sure that the class public
+add support for multiple parameter
+remove unused import
+add support for hive table
+remove unused import
+add new interface for interface
+add support for multiple column
+remove unused class
+remove unused class
+remove unused import
+remove unused import
+add support for spring data
+add support for multiple column
+add support for multiple column
+add support for multiple message
+remove unused import
+add miss null check
+add support for multiple user to the same key
+add support for legacy annotation
+add support for multiple column
+move some test to the new package
+remove unnecessary null check
+add support for multiple column
+fix error message
+add support for multiple file
+fix error in the same thread
+add support for multiple query
+remove unused class
+add support for hive table
+add support for legacy annotation
+make sure that the class be not a class
+make sure that the same class be not a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a string more more more more more than </s> more than </s> class </s> class </s> class </s> class
+remove unused import
+add support for legacy type
+add new interface for interface
+add support for legacy annotation
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple column
+move to common
+add support for multiple query
+remove unused import
+add new test for issue
+add support for spring data
+add support for legacy type
+add support for hive table
+remove unused private method
+add support for multiple parameter
+add support for hive table
+add support for hive table
+remove unnecessary null check
+remove unused import
+remove unused import
+add support for multiple message
+add support for multiple query
+remove unused import
+add support for multiple message
+remove unnecessary null check
+remove unused import
+add support for multiple query
+add support for multiple column
+add support for multiple file
+add support for multiple file
+add support for multiple parameter
+remove unused import
+add support for multiple user to the same key
+remove unused import
+move to common package
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused import
+add support for multiple column
+add support for multiple query
+add miss null check
+add support for multiple column
+add support for multiple parameter
+add support for multiple column
+add support for multiple column
+add a test for the new feature
+add support for multiple column
+add support for multiple column
+add support for multiple column
+add support for file file file file
+fix error message
+add support for legacy type
+remove unused class
+remove unused import
+add support for multiple column
+remove unused class
+add support for multiple query
+add support for multiple message
+move package to the util package
+add support for multiple user to the same key
+remove unused class
+add a test for the new feature
+add support for multiple parameter
+add support for multiple file
+remove unused import
+add support for hive table
+add support for multiple message
+add support for hive table
+add support for spring data
+add support for multiple file
+add support for multiple query
+add support for legacy type
+remove unused import
+remove unused import
+add support for multiple query
+remove unused import
+add miss null check
+add new test for issue
+add support for multiple column
+add support for multiple column
+remove unused import
+remove unused class
+remove unused import
+add support for hive table
+add support for multiple column
+add support for multiple query
+remove unused import
+add support for multiple parameter
+add support for multiple message
+add support for multiple column
+add support for hive table
+add support for hive table
+add a test for the new feature
+add support for multiple column
+remove unused import
+remove unused import
+remove unnecessary null check
+add support for multiple column
+add check for null value
+add support for legacy annotation
+move package to the util package
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for hive table
+remove unused import
+remove unused import
+add support for multiple column
+remove unused class
+add new test for issue
+fix error in the same thread
+add support for multiple query
+add support for multiple column
+add support for legacy type
+remove unused class
+add support for multiple column
+add support for multiple query
+add support for hive table
+remove unused private method
+add support for multiple column
+add new interface for interface
+add support for multiple column
+remove unused import
+move package to the core package
+remove unused import
+add support for spring data
+add support for hive table
+move to the new package
+remove unnecessary null check
+remove unused import
+add support for multiple column
+add support for hive table
+add support for multiple column
+add support for multiple column
+remove unused import
+add support for multiple parameter
