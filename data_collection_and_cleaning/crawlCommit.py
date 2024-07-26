@@ -237,7 +237,6 @@ def normalizeMsg1(msg):
     res_list = []
     for token in tokens:
         if not (token.startswith('[') or token.startswith('(')):
-            # 舍弃以[或(开头的token
             res_list.append(token)
 
     return ' '.join(res_list)
